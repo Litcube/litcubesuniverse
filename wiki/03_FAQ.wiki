@@ -27,32 +27,13 @@ It is a strategy game with very sophisticated opponents.
 ----
 === What is the pacing of this game, compared to vanilla? Is it faster/slower? ===
 
-_DrBullwinkle_:
-
-You can play either at whatever pace you enjoy. There is plenty of time to build before the heavy action.
-
-Unlike the vanilla game, it is possible to "lose" at LU. And you won't know whether you will win or lose for weeks or months. So there *_is_ some time pressure. It is just that you will not feel pressured most of the time.
-
-You can still Fight, Think, Build, and Trade your way to building an empire... as well as a fleet to defend it.
-
-
+Slightly slower.
 
 <br/>
 ----
 === How does LU compare to the X Rebalanced Mod, XRM? ===
 
-_DrBullwinkle_:
-
-XRM is pretty, has all of the TC and AP plots, and has some terrific classical enemies. It is a nice mod in many ways, but it has two issues which, for me, are show-stoppers:
-
-  # Too many beam and near-instant-hit weapons. The result is that piloting skill does you no good at all, especially early in the game. The ONLY way to defeat a superior enemy is to get a superior ship. While faster weapons are a good thing (they increase combat challenge), the weapons in XRM are _too fast_, which removes piloting challenge.
-  # Boarding operations are crippled in several ways. It is unfortunate because boarding is the single most fun activity that I have experienced in any game. Ever.
-
-Plus I have some smaller complaints... a couple of great ships and a great weapon are crippled in XRM.
-
-So, even with XRM's excellent enemies, it is not playable. Not for me, anyway.
-
-LU is not only playable, but it is a lot of fun and has a very unique (and challenging) enemy (the OCV).
+It's just different.  Personally, I think XRM is a fantastic mod, and Paul has been very successful implementing his vision of the game.
 
 <br/>
 ----
@@ -71,46 +52,32 @@ Yes. Winning takes some skill and planning, over a long period of time. Strategy
 ----
 ===  I am new-ish to the X-verse. Will I be able to handle LU? ===
 
-_DrBullwinkle_:
+Maybe.
 
-LU is more challenging than the vanilla game, but it is not impossible. If you have played some of the vanilla game, then you should be able to play at least the early game in LU. It seems to scale well enough with fight rank.
+Letting your game SETA overnight while your two UTs make money is unlikely a viable strategy now. 
 
-AFAIK, nobody has ever played the end game in LU, other than Litcube. So we shall see just how much of a challenge it is.
-
-But we already know, from Phanon Corporation, that Litcube is pretty good at building sophisticated AI. So it may just be the best challenge available in the X 'verse. 
-
-Time (and your reports) will tell. ;)
-
-_Litcube: Letting your game SETA overnight while your two UTs make money is unlikely a viable strategy now._ 
-
-_It's meant to be an epic campaign, so you're not going to lose in the span of a few days._
+It's meant to be an epic campaign, so you're not going to lose in the span of a few days.
 
 
 <br/>
 ----
 === What mods are recommended and what are completely optional? ===
 
-_DrBullwinkle:_
-
-Everything you really *need* is built into LU. The mods folder (under the download folder) has some things that I have found helpful in my current game. 
-
-The best strategy is to start with vanilla (or plain LU), then gradually add any scripts or mods that you want to improve your game. But do not add them all at once... just add one at a time, only when you need it.
+I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there.
 
 <br/>
 ----
 === Is race rep handled about the same as in vanilla? ===
-
-Rep is handled similarly.  There's an option in the game menu to turn off friendly fire, which essentially ignores shots from the player (can be a cheat)
 
 Station granted missions have lower rep rewards than vanilla.
 
 <br/>
 ----
 === How does Out Of Sector (OOS) combat compare to vanilla? ===
+
 OOS combat is the same as the latest patched vanilla.
 
 I find it to be a reasonable facsimile of IS combat.
-
 
 <br/>
 ----
@@ -183,8 +150,8 @@ _"Of course, we don't like it when scurvy pie-rats or other troublemakers attemp
 <br/>
 ----
 === It sounds like Universe Traders won't trade hardly anywhere at the beginning of the game. What do I have to do to get "assets"? Satellites? ===
-Yes. Satellites.
 
+Yes. Satellites.
 
 <br/>
 ----
@@ -212,142 +179,27 @@ Whether to turn it ON or OFF depends on circumstances. If I'm trying to concentr
 ----
 === I have several UT's, but I am chronically broke. I never have any cash on hand. What to do? ===
 
-_DrBullwinkle_:
-
-One reason that I never had any cash on hand is that there are a *lot* of used ships in the 'verse. Many more than vanilla. And I was keeping a lot of them. So, every time I had two credits to rub together, it seemed that there was some tempting second-hand ship to "invest" in. 
-
-The investments themselves are good, as long as you buy ships that have less than about 75% health. Keeping them (and equipping them) burns a lot of cash.
-
-Every once in a while, I find that I have to sell a couple just to have any cash. When I do, I pick up a couple of million credits.
-
-So there *is* cash in the game. It's just a tradeoff between building your fleet and managing your cash flow. Like real life that way.
-
+Be smarter.
 
 === What "hidden costs" should I watch for? ===
 
-_DrBullwinkle_:
-
-1) Keeping and equipping second-hand ships rather than selling them.
-
-For example, some M3s are worth more than 3 million credits if I sell them. If I keep them, then equip them, it costs me that much.
-
-*The difference between plus 3 mil and minus 3 mil... it adds up if you do it a few times.* :)
-
-2) Explorers laying a satellite network burn up a lot of cash quickly. Very quickly.
-
-3) Untrained marines are expensive to train. If you use Marine Repairs and Training, then Bootcamp costs can sneak up on you. If you hire ten new marines at one time, then Bootcamp will train them simultaneously up to 2 stars. The costs can be surprising if you do this early in your game.
-
-Tip: Hire one marine at a time. Let Bootcamp train him up to two stars. Then hire another marine. Repeat.
-
+Explorers laying a satellite network burn up a lot of cash quickly. Very quickly.
 
 <br/>
 ----
-=== What ships should I buy? ===
 
-_DrBullwinkle_:
-
-Second-hand ships are often bargains, especially if they have less than 75% hull. Early in the game, when credits are worth more than your time, you can use your repair laser to fix them up so that they sell for extra cash.
-
-I have only bought one new ship at a shipyard in my game: A TM, which I use to help with grabbing bailed ships in dangerous sectors.
-
-Everything else, I steal (or buy second-hand). Including TSs, which I especially like to steal from Phanon Corporation. It kills two birds with one stone.
-
-
-<br/>
-----
 === Is there any way that I can improve UT effectiveness? ===
 
-*Equip your UTs with Jump Drive Quantifiers.* Set their Autojump minimum range to 0.
+Equip your UTs with Jump Drive Quantifiers. Set their Autojump minimum range to 0.
 
 They will make about half of their trades in half the time. So like a 25% increase in credits-per-hour.
 
 <br/>
 ----
-=== Beyond UT's, are there other ways to earn credits early in the game? ===
 
-_DrBullwinkle_:
-
-Building finished products is always good. If you can afford to build a complex, then small, cheap, weapons and shields earn big profitssss.
-
-Even before you can afford a complex, a single factory will do. You can hire a TL in core sectors. Have him build an IRE or 1MJ shield factory. Cheap stuff, like China. 
-
-Buy energy and food from NPCs. They can make it cheaply, so your factory will still earn good profitssss. 
-
-Later, when you can afford it, you can build fancier (and more profitable) complexes.
-
-
-
-
-<br/>
-----
 == Factories, Complexes, and the Economy ==
 ----
-=== How can I maximize profits at my factories? ===
 
-_DrBullwinkle_:
-
-A) This is a question for the Universe forum, where people will give you a thousand and one suggestions and will debate the question possibly until the end of time.
-
-2) It is simple; no micromanagement required. Buy commodities that the NPC's can make cheaper than you (energy, bio, food). Sell finished goods (weapons and shields) (at average-1).
-
-Simples.
-
-*How it Works:*
-  * The economy is designed to mimic real life. Regarding suggestion (2), it does.
-  * Average-1 works most reliably for finished goods.
-  * Solar Power Plants (SPP's) are rarely profitable on their own. They make sense mostly for closed-loop complexes.
-
-*First Factory:* Make your first factory 1MJ shields or IRE's (or Fuel/Weed). Cheap goods sell to more customers. Be like China.
-
-*Mid-Game Complexes:* In mid-game, build open-loop complexes, again according to the formula above. Buy energy, which the NPC's can make cheaply. Build finished goods. Food and Bio: either buy or make depending on scale and availability (but do not bother trying to sell them -- it is too much trouble for too little profit).
-
-*Late-Game Mega-Complexes:* Closed-loop complexes make sense mostly late-game, when your needs and resources are large. They are expensive to set up, but have zero recurring costs (other than asteroids). Like Wal-Mart, you make the most profits when you dominate the market.
-
-*Conclusion*: It is possible to think about the economy until you feel new glial cells being born in your brain. Or grow old from trying. Some players do.
-
-In the end, my simple approximation (above) is not far off from what they eventually come to discover.
-
-<br/>
-----
-== Combat Tips ==
-----
-=== I am in an M4+ but missions spawn M6 enemies. Help! ===
-
-_DrBullwinkle_:
-
-1) Hint: Missiles are a two-way street; hint, hint, nudge, nudge, wink, wink, say-no-more. :)
-
-Invest a few credits into buying some of the tougher missiles (Banshees are good and they drop frequently). Save your heavy missiles for heavy targets. *It is amazing how much damage you can inflict on a superior target with a dozen heavy missiles. *
-
-2) Also, a stronger player ship helps quite a bit. There is an in-game version of "Car and Driver Magazine, Spaceship Edition". It is on the player menu and called "Ship Stats". Armed with knowledge about which ships to look for, you will be able to spot a good "deal" in a shipyard (or perhaps a shiny ship that you want to steal).
-
-Tip: Paranid M3 Advanced and M3+ ships are pretty nice...
-
-<br/>
-----
-=== My missiles never hit their target (*frown*) ===
-You may have to get close to the target before launching your missiles, in order to beat the target's missile defense turrets. Learn to use Match Speed and Strafe to control your movements when maneuvering close during combat. It'll make you a better pilot.
-
-
-<br/>
-----
-=== How can I get ships to bail. I shoot them, but they fight until death. ===
-
-_DrBullwinkle_:
-
-1) The targets must be afraid of you. If you are flying a skinny punk-ass M4, then they will not be afraid. Once I got my my heavy M3+, they were afraid. Very afraid. Bails began happening frequently.
-
-So step up your playership. It will help in several ways.
-
-
-2) Hit them harder. Your initial shots against the ship should be hard, to knock down their shields and bite into their hull quickly.
-
-Then switch to more gentle guns to continue to try to coax a bail.
-
-
-
-<br/>
-----
 == OCV (Revelations) Q&A ==
 
 _See Also: [Feature_Revelation]_
