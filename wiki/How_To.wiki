@@ -4,7 +4,6 @@
 <wiki:toc max_depth="3" />
 ----
 
-<br/>
 === How to Export (and Import) Your Game ===
 You know how you groan every time you hear the suggestion, "Start a new game"? It is a pain to lose all of your hard-won empire. Not anymore; with LU!
 
