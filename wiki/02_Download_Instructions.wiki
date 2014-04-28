@@ -1,0 +1,35 @@
+<wiki:comment>
+= Where to Download =
+[https://www.mediafire.com/folder/6rwhzymiq3jy2/ Litcube's Universe Download Site]
+</wiki:comment>
+
+= Installation Instructions =
+  # Start with a vanilla installation of X3AP. Best Practice is to copy from your Steam folder to somewhere else, such as C:\Games\X3LU. Use the no_Steam.exe (X3AP_n.exe) from the Bonus Downloads section of the EgoSoft forum.
+  # Delete all files in addon\scripts.  
+  # Go to the <wiki:comment>[https://www.mediafire.com/folder/6rwhzymiq3jy2/LU LU Download Site]</wiki:comment> Download Site. Download at least LU.zip and the latest patch.
+  # Copy contents of LU.zip to your X3LU folder.  
+  # Download the latest patch and do the same.
+
+= Other Files in the Download Folder =
+
+  * JobsEditor.zip = This is a spreadsheet for editing Jobs. Jobs in LU has a different format than in the vanilla game, so you *must* edit Jobs with this editor. X3Editor will not work for LU Jobs.
+
+  * LETE.zip = Litcube's Excel TShips Editor. This spreadsheet is for editiing ships and related files. It works with vanilla TC/AP as well as LU.
+
+  * Weapons Editor:  In the form of LETE, but for simultaneous Laser and Bullet editing
+
+  * Missile Editor:  In the form of LETE, but for missiles.
+
+  * Litcubes Universe Map.png = SPOILER ALERT: Map of the LU 'verse. 
+
+  * Music FigureN.N.xlsm. = I dunno. Something to do with modifying music tracks. Aiden and Litcube have been on that, but have not shared their knowledge in the group "open" channel.
+
+
+
+= Mods Folder =
+_DrBullwinkle:Mods for LU. Some, like the HUDs and MenuBackground/SplashScreen, are specially packaged for LU compatibility. Others are just things that I am using in my test game, for reference. Most have ReadMe files that give details about what is in the package. These mods should not be thought of as "preferred" by anyone other than myself. (Bullwinkle)
+
+
+
+----
+_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
