@@ -1,0 +1,26 @@
+#summary Quickshuttles are hotkey automated ships
+
+= Quickshuttles =
+
+Currently, there's two quickshuttles, both of which play an important role in your empire management.  They each have two hotkeys: one to activate and one to send them home.  It's advisable to have jump drives on your quickshuttles; they're not too quick without them.
+
+Quickshuttles require a homebase in order to enact their go code.  It's recommended that they be of TS class, as they require larger cargobays.
+
+To set your quick shuttle, use the player console.
+
+== Fuel Quickshuttle ==
+
+*Required ware:*  Transporter Device
+
+When you hit the go hotkey for this quickshuttle, your fuel quickshuttle will jump to your sector and fuel your ship.  If your current target is one of your ships, it will fuel said ship instead.  
+
+== Reap Quickshuttle ==
+
+*Required ware:*  Transporter Device<br>
+*Required ware:*  Special Command Software Mk1
+
+Reap the rewards of your battle with the reap quickshuttle.  With one hotkey press for the go command, the quickshuttle will jump into your current sector and collect all flying wares (loot).
+
+As the shuttle is equipped with a transporter device, it only needs to be within transporter range of the ware before it beams it into its cargobay.  If your quickshuttle minimum jumps is set to 0, it will assess the closest jump point to the next closest ware before flying; if jumping to a gate is quicker, it will jump.  The reap quickshuttle can clean a sector of wares in short order using this method.
+
+Once all wares within player property scan range have been collected, the reap quickshuttle will send you a report on what was collected, and promptly return to homebase.  Once docked at homebase, the reap quickshuttle will unload its cargo if the homebase can be loaded with that particular ware.
