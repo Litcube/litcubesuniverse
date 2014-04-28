@@ -22,13 +22,6 @@
 
   * Litcubes Universe Map.png = SPOILER ALERT: Map of the LU 'verse. 
 
-  * Music FigureN.N.xlsm. = I dunno. Something to do with modifying music tracks. Aiden and Litcube have been on that, but have not shared their knowledge in the group "open" channel.
-
-
-
-= Mods Folder =
-_DrBullwinkle:Mods for LU. Some, like the HUDs and MenuBackground/SplashScreen, are specially packaged for LU compatibility. Others are just things that I am using in my test game, for reference. Most have ReadMe files that give details about what is in the package. These mods should not be thought of as "preferred" by anyone other than myself. (Bullwinkle)
-
 
 
 ----
