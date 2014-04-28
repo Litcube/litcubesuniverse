@@ -4,8 +4,6 @@
 
 [Player_Log_Createse Createse]
 
-[Player_Log_JB JB]
-
 [Player_Log_temetvince Rocky]
 
 [Player_Log_SinnerMan SinnerMan]
