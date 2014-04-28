@@ -1,0 +1,296 @@
+#summary Change Log (History)
+
+= Change Log =
+
+
+== Version 0.5.7 ==
+=== XX, XX, 2014 ===
+
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.6.  It does not require an export/import*
+
+  * Removed custom haze from planets.
+  * OCV ship hulls fixed.  Don't know how that happened.
+  * Some missiles fixed.
+  * Some high end M6 ships can use boarding pods.
+  * Tempestine added to shipyard.
+  * Fixed bug in Lib.Gen.GetBestStation that should have rejected certain trade opportunities based on ware availability.
+  * Implemented ability to ignore UT stray ware warnings (see Player Console)
+
+----
+
+
+== Version 0.5.6 ==
+=== April, 25, 2014 ===
+
+*Delete these files:
+  * addon\scripts\HK.TransferStationCredits.xml
+
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.5.  It does not require an export/import*
+
+  * Fixed:  Dockware Manager Capacities page shows Headquarters for all sources.  Woopsie.
+  * Fixed:  Jumpdrive cores for some ship classes not specified.
+  * Fixed:  Critical bug in _Supply Ware_ command.
+  * Converted Supply Command Software's template outfit command to LU dynamic menu system.
+  * Removed depricated hotkey _transfer station credits_.  There's new commands implemented in controls, ships & stations
+  * Added to Player Console:  Set station transfer credits low-water mark.  For use with the station transfer credit system.
+  * Updated MLCC missile ROE menu for aesthetic reasons.
+  * Fixed: Pirate "Federal Argon Shipyards" were supposed to be PBG forges.  Woopsie.
+  * Fixed: Small graphical glitch on a closed monitor (that green line).
+
+----
+
+== Version 0.5.5 ==
+=== April, 19, 2014 ===
+
+*Delete these files:
+  * addon\scripts\al.plugin.LitQB.G19.Reg.xml
+  * addon\scripts\al.plugin.LitQB.PhanCorp.Registr.xml
+  * addon\scripts\al.plugin.LitQB.Revelation.Reg.xml
+
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.4.  It does not require an export/import*
+
+ * Fixed:  Player Console Menu: Market Averages fixed.
+ * Player Console Quickshuttle menu now LU dynamic
+ * Player Console Market menus, now colour rowed
+ * Added error codes for Quickshuttles
+ * Aggregated plugin registers
+ * Added plugin to see a dashboard (you have to install Samurize to use it).  Samurize config added to the Tools server folder.
+
+----
+
+== Version 0.5.4 ==
+=== April, 16th, 2014 ===
+
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.2.  It does not require an export/import*
+
+ * Fixed:  Dockware Manager add ware group function only adds wares if the ware is sold in the Universe.
+ * Fixed:  Ship renaming.  No longer stores ship names, so global naming should work again.
+
+----
+== Version 0.5.3 ==
+=== April, 14th, 2014 ===
+
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.2.  It does not require an export/import*
+
+
+ * Implemented jump energy check for tug
+ * Implemented jump energy error code
+ * Fixed, again, the mission icons for all UIs(I don't know how I missed those borders!)
+ * The GetStationBestPrice routine has been fixed to check for "docking allowed".  This will fix the bug for sending huge ships to refuel.
+
+----
+== Version 0.5.2 ==
+=== April, 13th, 2014 ===
+
+*Archive includes v0.5.1 and up*
+
+*Delete:  addon\3.01 Generic Missions.xml*
+
+*This patch requires an export/import*
+
+
+  * Fixed distance on HUD (bottom of screen)
+  * Fixed exporting of Credits & SETA ware
+  * Renamed Jump Drive Core to Jumpdrive Core
+  * Map sector renamed to Explore Universe
+  * Fixed: Deploy Satellite script was naming centre placed satellites incorrectly. Now named CU (Center Up).
+  * Fixed a few areas (volume, value) in missiles and lasers.
+  * Adjusted all weapon & missile factories to reflect product price
+  * Phanon now have access to the full compliment of shipyards from Commonwealth, ATF, Terran, Yaki, & Pirate races.  Rewrote the routie to provide far more variety.
+  * Fixed:  Generic patrol was in a debug state.  May have caused ReadText error.
+  * Dock Ware Manager now has ability to set ware sources as _Buy_.  The dock agent will purchase these wares (as per normal rules), when it has no selling to do.
+  * A _feature_ in vanilla sets all non-player carriers, regardless of settings, race, or scripts, to foes with the pirate race.  This _feature_ has been removed.
+  * Finally fixed mission icon graphical glitch (includes alternate UIs)
+  * Fixed used ship negative selling price bug (oh, egosoft).
+  * Fixed Asteroid Special Report null bug
+  * Fixed vanilla boarding bug when marine launching ship is destroyed before success.
+  * Implemented script command to strip colour codes off of strings
+  * Export now strips colour codes off of non LU coloured names.  Of course, you would have to use the Z.Export script found in the 0.5.2 archive in order to take advantage of this.
+
+----
+=== April, 9th, 2014 Version 0.5.1 ===
+
+===Archive *DOES NOT* include previous changes===
+
+  * Version 0.5.1 archive *DOES NOT* include all previous changes.  You must update to version 0.5.0 prior to installing 0.5.1 and above.
+
+
+
+  * Fixed graphical glitches only evident with anti-aliasing
+  * Fixed shield and hull display not depleting
+  * Fixed mosquito missile damage.  Don't look.  Adjusted rapier damage to 3,200.
+  * Added alternate UI files in this archive.  Peruse the Alternate UI\UI Screenshots pictures.  When you see the one you want, ensure you have the patch installed first, and then copy over the corresponding 10_xxx.cat/10_xx.dat over the 10.cat/10.dat in your X3\addon\ folder.
+
+----
+=== April, 8th, 2014 Version 0.5.0 ===
+
+  * Verion 0.5.0 archive includes all previous changes.
+  * You must export your game prior to updating to 0.5.0.  See "How-To" on exporting/importing.
+  * Special instructions prior to patching to version 0.5.0:  
+   * Delete:  addon\types
+   * Delete:  addon\director\3.05 Gamestart Missions
+   * Delete:  addon\director\start.xml
+
+  * Stock exchange icon bug fixed in sector context menu.
+  * Fixed: Autojump was preferring jumping to a gate instead of judging distance
+  * Fixed: Ignore Friendly Fire rendered OOS ships unable to fire
+  * Removed swaptask from turrets.  Never were used, save a few cycles
+  * New GUI
+  * Fixed: spam debug messages from encyclopedia
+  * Phanon starting conditions different, won't stall on M1.
+  * Revelation expansion slightly quicker
+  * Cleaned up starts
+  * Intro movie removed
+  * Fixed: Discoverer vanguard & hauler cockpit
+
+
+<br/>
+----
+=== v0.4.6 (2014-04-06) ===
+  * Fixed: M8s spawned from patrol missions have not been firing since vanilla. (!plugin.gz.missile.def.mk3.xml)
+
+<br/>
+----
+=== v0.4.5 (2014-04-03) ===
+  * Fixed Cmd.InstallMLCC
+
+<br/>
+----
+=== v0.4.4 (2014-04-03) ===
+  * Fixed move.jumptogate.nearest, which caused ships to always jump before docking.
+
+
+<br/>
+----
+=== v0.4.3 (2014-04-02) ===
+  * Fixed generic missions broken by 0.4.0
+
+<br/>
+----
+=== v0.4.2 (2014-04-02) ===
+  * Added HK.Save to beep on save 10.
+
+<br/>
+----
+=== v0.4.1 (2014-04-02) ===
+  * Updated Export/Import to fix number-of-turrets bug reported by JB.
+
+<br/>
+----
+=== 2014-04-1 Version 0.4.0a ===
+
+*Update to 0.3.5 and _export_ your game before updating to 0.4.2*
+
+  * Surplus Control menu now works with shield, weapon, missile factories.
+  * Removed unused script Lib.Gen.GetERDWareAmountRequired
+  * Global Commands menu arrows now work properly
+  * Emergency jump will now jump even without a home base set (nearest safe sector allowable docking station)
+  * Fixed bug in _add default wares_ routine, causing some ships not to be equipped with weapons.  Will fix idle mission ships.
+  * Encyclopedia now displays classes correctly.
+  * "Ware Resupply" in console menus renamed correctly to "Automatic Ware Resupply"
+  * Cockpit for Ranger ship set correctly
+  * 80813.mp3 duplicate track replaced
+  * Cycle saving hotkey: When save game 10 is used, a beep is heard.
+  * Cycle saving hotkey:  No longer overwrites autosaves, corrected slot #s.
+  * Station agent management function now works correctly.
+  * Commands set on multiple scripts that are unset by XScriptor.
+  * COMMAND_SELL_CARGO_FAC renamed to COMMAND_AUCTION_CARGO_STATIONS
+  * Added races Pirate & Yaki to the notoriey section of the player menu.
+  * SIGNAL_DOCK now fires on environment changes, solving drone issues, carrier command software and player computer docking.
+  * New intro screen
+  * Ringless gate & new warp hole texture
+  * Betty now speaks the new Terran weapons (was a packing issue)
+  * Ignore Friendly Fire doesn't ignore it if a ship is targeting the enemy (or the playership).
+  * Trade Run: Buy now supports an option for "standby" which enabled the ship to keep looking for the trade if no stations were found every _standy timer_ minutes.
+  * Command menu changes: most menus that would benefit from it, will remember their set options between menus.
+  * Added variance to the script command _add default tunings_
+  * Added Teladi, Split, Terran TPs from AP 3.0.  Stats have changed quite a bit.  Turrets are racialized, model changes on a few.
+  * Added script command:  _<var/RefObj> set default shields_ which wipes a stations shields, and resets them to default values
+  * Fixed universe shields on the galaxy map's 2071 stations because they were seriously fucked.
+  * Edited a few missiles.  Mostly reduced ranges, tweaked agility on a few.
+  * New keys for music volume up/down.
+  * Fixed components.txt.  The Lotan's turrets would not fire.
+  * Massive overhaul on TS combat ability.  4 guns in rear turrets for most, more guns for larger mor expensive TSs.  More energy/recharge.
+  * Added text to show the current cockpit (i.e. main, back, up, left, etc.) to the HUD (by weapons).
+  * Changed flak sounds
+  * Edited/fixed (small QA issues) scenese/models: Lotan, Cerberus, Mammoth, Heavy Centaur, Tyr, Sturgeon, Orca, Thresher, Ranger, Skiron, Aquilo, Snotra, Pirate Osprey, Tempestine, Cobra, Elephant, Nomad, Orinoco, Gannet, Naucell, Drake, Magnir, Bragi.
+  * Added hotkey: _Toggle hide sidebar_.  Sidebar still functions, it just isn't drawn.
+
+*0.4.0a* (DrBullwinkle)
+  * Added corrected 08.cat/.dat.
+  * Added new export/import scripts.
+  * Removed 8382-L044.xml.
+
+<br/>
+----
+----
+= _v0.4 is not save-game-compatible with v0.3. =
+== You must use the Export/Import process. [https://code.google.com/p/litcubes-universe/wiki/How_To&#How_to_Export_(and_Import)_Your_Game (click here for details)]._ ==
+----
+----
+
+<br/>
+----
+=== v0.3.5 (2014-04-01) ===
+  * Updated Export/Import to fix number-of-turrets bug reported by JB.
+
+
+<br/>
+----
+=== 2014-04-01 v0.3.4b ===
+  * Merged Patch 0.3.2 with 0.3.4a to make a complete patch from baseline 0.3.0. (bw)
+
+<br/>
+----
+=== 2014-04-01 Version 0.3.4a ===
+  * Added new export/import scripts, with version numbers.
+
+<br/>
+----
+=== 2014-03-26 Version 0.3.3 ===
+  * Import/Export:  Now supports Phanon and Revelation mod.
+  * Import/Export:  Now supports marines, Bullwinkle marine training variables
+  * Import/Export:  Now supports station pricing.
+
+<br/>
+----
+=== 2014-03-22 Version 0.3.2 ===
+  * Fixed a script issue (caused by fixing a script issue) causing the game to lock-up when a ship was set to "Return to Home Base"
+
+<br/>
+----
+=== 2014-03-17 Version 0.3.1 ===
+  * Ejectable wares (drones, mines, satellites, etc.) are now correctly added to the cargo bay of the receiving ship when docking or transporting to the dock bay.
+
+<br/>
+----
+=== 2014-03-16 Version 0.3 Setup.exe ===
+  * Createse added a Setup.exe and a couple of related .dat files for players who prefer an automated installation. It is version 1.3, which is the same as installing the 1.0 base plus the 1.3 patch.
+
+<br/>
+----
+=== 2014-03-15  Patch 0.3 ===
+  * Added Damyath Medium: Like Damyath Light with 4x Kestrels for Exploring.
+  * Added Damyath Ultralight: Starts with a Discoverer M5 and lunch money.
+  * Added Damyath Trader: Like Humble Trader, but a bit less humble. TS + M5.
+  * Added Damyath Taxi Service: Iguana Vanguard "Fightin' TP".
+  * Re-Added Bankrupt Assassin: M5 and Bounty Hunters.
+  * Revised Lost Lar: Damaged Iguana Vanguard in Xenon space. Better run.
+  * Removed a couple of stupid plots, such as Argon Peacekeeper and Suicidal Split (DiD).
+  * Added better descriptions to several plots, so that you can see what you are getting before doing the start.
+  * Re-Ordered the plots, putting the boring plots at the end.
+
+
+<br/>
+----
+_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
