@@ -30,5 +30,4 @@
     * [Player_Log_JB JB]
     * [Player_Log_temetvince Rocky]
     * [Player_Log_SinnerMan SinnerMan]
-  * [Wishlist Bugs/Wishlist]
     * [Change_Log Change Log]
