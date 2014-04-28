@@ -1,0 +1,5 @@
+#summary Carrier Command Software now enables teleport docking
+
+= Carrier Command Software Update =
+
+The carrier command software now enables a carrier to quick dock incoming fighters.  When an incoming fighter gets within a certain range (roughly 5k), the ship is teleported to the carrier with a jump effect.
