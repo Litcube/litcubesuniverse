@@ -2,8 +2,6 @@
 
 = Player Logs =
 
-[Player_Log_Bullwinkles_Adventures DrBullwinkle]
-
 [Player_Log_Createse Createse]
 
 [Player_Log_JB JB]
