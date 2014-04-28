@@ -5,7 +5,8 @@
 ----
 
 === How to Export (and Import) Your Game ===
-You know how you groan every time you hear the suggestion, "Start a new game"? It is a pain to lose all of your hard-won empire. Not anymore; with LU!
+
+Exporting your game allows you to dump your entire empire into a file, and then import it back into LU.  It's useful for save-game incompatible patches, or if you were an idiot and screwed up your game.
 
 *Before you Begin:*
   # Remove your cash from the Stock Market.
