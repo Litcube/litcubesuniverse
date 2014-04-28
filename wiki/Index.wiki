@@ -20,6 +20,4 @@ _Created by Litcube, and powered by player passion for the game._
 
 [Player_Logs Player Logs]
 
-[Wishlist Wishlist / Enhancement Requests]
-
 [Change_Log Change Log]
