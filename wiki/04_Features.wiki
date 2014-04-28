@@ -1,0 +1,195 @@
+#summary Major Features of Litcube's Universe (LU)
+
+= Major Features =
+
+
+----
+
+== New Models ==
+
+I put this first on the features page, not for boasting purposes, but so you can see it and read it.  I can't take any credit for the models themselves, aside from scene fixes and racial turrets.  But you should read the feature page anyway.
+
+See: [Feature_New_Models Feature: New Models]
+
+----
+
+=== Revelation and the Omicron Channel Virus (OCV) ===
+There's a new threat brewing in the Eastern Universe.  A new enemy that will eventually take over the Universe, and only you can stop them.
+
+See: [Feature_Revelation Feature: Revelation and the Omicron Channel Virus (OCV)]
+
+----
+
+=== Phanon Corporation ===
+
+"The Player's Competitor", Phanon Corporation creates a faction that fights and trades like you do.  Litcube's Universe's Phanon Corporation is heavily upgraded from the vanilla version.
+
+See: [Feature_The_Phanon_Corporation Feature: The Phanon Corporation]
+
+----
+
+=== Saturn Complex Hub (SCH) ===
+
+SCH is a solution for building huge complexes without the lag-generating chaos of multiple stations and tubes. Each SCH is a self-contained station; all of your factories are included within.
+
+See: [Feature_Saturn_Complex_Hub Feature: Saturn Complex Hub]
+
+----
+
+=== Bounce ===
+
+Bounce, the AI "fix" that reduces unintended collisions, is better than ever in LU. It works automatically, is on by default, and no longer requires wall files.
+
+See: [Feature_Bounce Feature: Bounce]
+
+
+----
+
+=== Encyclopedia Update ====
+
+The encyclopedia has a new, very useful category.
+
+See: [Feature_Encyclopedia_Update Feature: Encyclopedia Update]
+----
+
+=== High Performance ===
+
+I spent a considerable amount of effort in ensuring that the entire LU system was as fast as possible.
+
+See: [Feature_High_Performance Feature: High Performance]
+
+----
+
+=== Jumpgate Quantifier ===
+
+Jumping has changed.
+
+See: [Feature_Jumpgate_Quantifier]
+
+----
+
+=== GUI ===
+
+The GUI has changed.
+
+See: [Feature_GUI Feature: GUI]
+
+----
+
+=== Hotkeys ===
+
+Do more stuff quicker.
+
+See: [Feature_Hotkeys Feature: Hotkeys]
+
+----
+
+=== Litcube's Universe Dynamic Menu System ===
+
+Litcube script menus have been designed under the hood to generate faster, dynamic, clean looking menus that look like they're hardcoded.  This bypasses several limitations imposed by vanilla on X3 scripters.
+
+See: [Feature_LU_Dynamic_Menu_System Feature: Litcube's Universe Dynamic Menu System]
+
+----
+
+=== Vanilla AP Bug Fixes ===
+
+Many bugs fixed.
+
+See: [Feature_Vanilla_AP_Bug_Fixes Feature: Vanilla Bug Fixes]
+
+----
+
+=== Dock Ware Manager ===  
+
+Dockware Manager helps you orginize the wares at your dock, and lets your various types of traders know what you want to keep, what you need to sell, and what to stock at the dock.
+
+See: [Feature_Dockware_Manager Feature: Dockware Manager]
+
+----
+
+=== Template Manager ===
+
+Template Manager is a system allowing you to save templates of your ship for use with the many systems Litcube's Universe has to offer.
+
+see: [Feature_Template_Manager Feature: Template Manager]
+
+----
+
+=== Carrier Command Software Updated ===
+
+The Carrier Command Software enables an incoming ship to quick dock.
+
+See: [Feature_Carrier_Command_Software Feature: Command Software Update]
+
+----
+
+=== Supply Command Software Updated ===
+
+The Supply Command Software has a few changes.  It's easier to navigate the menus, and it will allow you to outfit your ships using templates.
+
+See: [Feature_Supply_Command_Software  Feature: Supply Command Software Update]
+
+----
+=== Military Logistics & Command Center (MLCC) ===
+
+Have 26 corvettes, 5 capital ships, 10 carriers all fitted with ships you tuned to perfection?  Want to automate their refuelling, resupply, and refitting?  Want to pre-design fleet strategies and enact the orders of hundreds of ships them with a single key press?
+
+See: [Feature_MLCC Feature: Military Logistics & Command Software]
+
+----
+
+=== Emergency Jump Now Works ==
+
+Didn't work too well in vanilla.
+
+see [Feature_ERD Feature: Emergency Jump Works Now]
+
+----
+
+=== Emergency Retreat Drive And Jump Cores ==
+
+An Emergency Retreat Drive installed on your ship will enable it to jump out faster in an emergency.
+
+see [Feature_ERD Feature: Emergency Retreat Drive]
+
+----
+
+=== GoD has changed a bit ===
+
+_(GoD is a German acronym for "Global Decision Engine")_
+
+Ships no longer spawn out of thin air.  They will spawn only in their respective race's shipyards.
+
+Stations are only being built from TL's in nearest owned sector
+and they have to travel to get there. All AI ships spawn in shipyards.  TLs will build station anywhere in the universe, but they do need to travel there, yes.
+
+No GoD spontaneous station spawns as well as no spontaneous ship spawn.
+
+----
+
+=== Quickshuttles ===
+
+Quickshuttles are hotkey activated ships that automate routine tasks.
+
+See [Feature_Quickshuttles Feature: Quickshuttles]
+
+----
+
+=== New Script Commands ===
+
+Litcube's Universe adds over 150 new script commands.
+
+See: [Feature_New_Script_Commands Feature: New Script Commands]
+
+----
+
+=== Pathfinding ===
+
+Path finding is now implemented into the script commands for the purposes of the automation of avoiding unsafe sectors.
+
+See: [Feature_Pathfinding Feature: Pathfinding]
+
+----
+
+_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
