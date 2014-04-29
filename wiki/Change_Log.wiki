@@ -17,6 +17,7 @@
   * Tempestine added to shipyard.
   * Fixed bug in Lib.Gen.GetBestStation that should have rejected certain trade opportunities based on ware availability.
   * Implemented ability to ignore UT stray ware warnings (see Player Console)
+  * Updated weapon variation
 
 ----
 
