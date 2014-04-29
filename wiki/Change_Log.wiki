@@ -2,7 +2,16 @@
 
 = Change Log =
 
+= Version 0.5.8 ==
+=== May, XX, 2014 ===
 
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.6.  It does not require an export/import*
+
+  * Rewrote laser descriptions.
+
+----
 == Version 0.5.7 ==
 === April, 29, 2014 ===
 
