@@ -4,7 +4,7 @@
 
 == Overview ==
 
-Litcube's Universe is a complete overhaul mod for X3:Albion Prelude.  It's my labour of love, 7 years in the making.  There is very little of the game that I haven't touched.  All scripts, code, and written modifications were written by myself (I modified all scenes, some models, but the credit for the models goes to the artist).  A lot of the ideas for changes from the original LU have come from various friends (TrixX, Jack08).  Some of the code was worked on while working with the XTL team, and Jack08 and I managed to wrap our heads around some pretty illusive stuff.  When we figured something out, or found a new way to do something, we'd share info, and we'd both implement it into our respective project in our own way (XTL for Jack, LU for myself).
+Litcube's Universe is a complete overhaul mod for X3:Albion Prelude.  It's my labour of love, 7 years in the making.  There is very little of the game that I haven't touched.  All scripts, code, and written modifications were written by myself (I modified all scenes, some models, but the credit for the models goes to the artist).  A lot of LU development occured when working with the XTL boys (TrixX, Jack08).  Some of the code was worked on while working with the XTL team, and Jack08 and I managed to wrap our heads around some pretty illusive stuff.  When we figured something out, or found a new way to do something, we'd share info, and we'd both implement it into our respective project in our own way (XTL for Jack, LU for myself).
 
 Most of my inspiration for LU came from this one question:  _What now?_  I have several capital ships, tons of resources, and credits flirting with the limits of a 32bit unsigned integer.  But what do I do with it all?  What's the point?
 
