@@ -20,6 +20,7 @@
   * Updated weapon variation
   * Re-balanced M7, M1, M2 weapon energy.
   * Fixed:  Killing Phanon droped rep with Races
+  * Removed argon stations from Heretic's End
 
 ----
 
