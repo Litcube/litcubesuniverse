@@ -19,6 +19,7 @@
   * Implemented ability to ignore UT stray ware warnings (see Player Console)
   * Updated weapon variation
   * Re-balanced M7, M1, M2 weapon energy.
+  * Fixed:  Killing Phanon droped rep with Races
 
 ----
 
