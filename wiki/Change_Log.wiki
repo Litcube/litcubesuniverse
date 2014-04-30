@@ -11,6 +11,7 @@
 
   * Rewrote laser descriptions.
   * Request implemented:  Time to spawn next generation of Phanon after destroying their headquarters is now scaled with their level.  Default is from 225 minutes at TandiTech, to 1080 minutes at the last level.
+  * Updated weapon effects for several weapons.
 
 ----
 == Version 0.5.7 ==
