@@ -19,7 +19,7 @@
 
 *Archive includes v0.5.1 and up*
 
-*This patch is savegame compatible with 0.5.6.  It does not require an export/import*
+*This patch is savegame compatible with 0.5.7.  It does not require an export/import*
 
   * Fixed: Woopsie in export.  This is critical to export/import.
 
