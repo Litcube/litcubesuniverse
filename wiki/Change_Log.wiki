@@ -2,7 +2,7 @@
 
 = Change Log =
 
-= Version 0.5.8 ==
+= Version 0.5.9 ==
 === May, XX, 2014 ===
 
 *Archive includes v0.5.1 and up*
@@ -12,6 +12,16 @@
   * Rewrote laser descriptions.
   * Request implemented:  Time to spawn next generation of Phanon after destroying their headquarters is now scaled with their level.  Default is from 225 minutes at TandiTech, to 1080 minutes at the last level.
   * Updated weapon effects for several weapons.
+
+----
+= Version 0.5.8 ==
+=== May, 2, 2014 ===
+
+*Archive includes v0.5.1 and up*
+
+*This patch is savegame compatible with 0.5.6.  It does not require an export/import*
+
+  * Fixed: Woopsie in export.  This is critical to export/import.
 
 ----
 == Version 0.5.7 ==
