@@ -7,7 +7,7 @@
 
 *Archive includes v0.5.1 and up*
 
-*This patch is savegame compatible with 0.5.6.  It does not require an export/import*
+*This patch is savegame compatible with 0.5.8.  It does not require an export/import*
 
   * Rewrote laser descriptions.
   * Request implemented:  Time to spawn next generation of Phanon after destroying their headquarters is now scaled with their level.  Default is from 225 minutes at TandiTech, to 1080 minutes at the last level.
