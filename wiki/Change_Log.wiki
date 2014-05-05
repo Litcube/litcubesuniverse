@@ -16,6 +16,8 @@
   * Removed debug line from marine combat training.
   * Sectors made pretty (so much work).
   * Adjusted OCV ships as per Paul's recommendations.
+  * Fixed: Pirate base in Kupier Belt had bad model.
+  * Replaced model for Torus with stock Terran dock.
 
 ----
 = Version 0.5.8 ==
