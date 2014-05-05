@@ -13,6 +13,8 @@
   * Request implemented:  Time to spawn next generation of Phanon after destroying their headquarters is now scaled with their level.  Default is from 225 minutes at TandiTech, to 1080 minutes at the last level.
   * Updated weapon effects for several weapons.
   * Updated marine combat training command description (I didn't remember what it did, I wrote it years ago!)
+  * Removed debug line from marine combat training.
+  * Sectors made pretty.
 
 ----
 = Version 0.5.8 ==
