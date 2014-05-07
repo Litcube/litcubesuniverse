@@ -11,9 +11,9 @@
 
   * Brigantine textures didn't have light spec.  Fixed.
   * Fixed three minor background glitches.
-  * Reduced texture sizes dramatically.  Less quality, *far* faster performance.  Unfortunately, making things look really good was too expensive performance wise.
+  * Reduced texture sizes dramatically.  Less quality, *far* faster performance.  Unfortunately, making things look really good was too expensive performance wise.  I think this patch does a good job at middle ground.
 
----
+----
 
 = Version 0.6.0 ==
 === May, 5, 2014 ===
@@ -25,7 +25,7 @@
   * Stuff.  I don't want to talk about it.
   * Changed three sector tracks.  Checkout Earth.
 
----
+----
 
 = Version 0.5.9 ==
 === May, 5, 2014 ===
