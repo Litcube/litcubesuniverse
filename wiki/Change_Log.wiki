@@ -6,7 +6,7 @@
 = Version 0.6.2 ==
 === May, 7, 2014 ===
 
-*This patch is savegame compatible with 0.6.0.  It does not require an export/import*
+*This patch is savegame compatible with 0.6.1.  It does not require an export/import*
 
 *You do not need to export/import to see universe changes for this patch*
 
