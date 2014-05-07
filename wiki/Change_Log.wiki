@@ -9,6 +9,8 @@
 
 *This patch is savegame compatible with 0.5.9.  It does not require an export/import*
 
+*You do not need to export/import to see universe changes for this patch*
+
   * Brigantine textures didn't have light spec.  Fixed.
   * Fixed three minor background glitches.
   * Reduced texture sizes dramatically.  Less quality, *far* faster performance.  Unfortunately, making things look really good was too expensive performance wise.  I think this patch does a good job at middle ground.
