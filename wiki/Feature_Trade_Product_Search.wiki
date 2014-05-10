@@ -1,0 +1,9 @@
+#summary Find stuff for sale.
+
+= Trade Product Search =
+
+This command, run on the player ship, lets you find stuff for sale so that you don't have to ask me where to find it.  It'll look for wares, ships, or stations for sale in the entire Universe.
+
+In order for the product to be searchable, you need to _know_ of the station's existence, but you don't need property in the sector.
+
+Wares required for the command to show up in the _Trade_ menu can be found in the encyclopedia under _Software and equipment commands_.
