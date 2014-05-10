@@ -83,6 +83,19 @@ I find it to be a reasonable facsimile of IS combat.
 
 <br/>
 ----
+=== What wares do I need installed to enable XYZ command? ===
+
+Check the encyclopedia under _Software and equipment commands_.
+
+<br/>
+----
+=== Where do I find XYZ ware?  IO've searched everywhere and I can't find it for sale ===
+
+[Feature_Trade_Product_Search]
+
+
+<br/>
+----
 === How is In-Sector (IS) combat compared to vanilla? ===
 
 You'll find the IS battles in LU to be "bigger".  The fights last longer, especially between larger ships, and there's usually more ships involved.
