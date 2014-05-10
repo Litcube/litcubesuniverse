@@ -10,7 +10,7 @@ Essentially, the stock exchange is now a relatively safe investment opportunity 
 
 So now, the stock exchange is random.  Stocks you buy may go up, they may go down.  They may go on a huge upswing, they may crash.  You'll never really know.  As you gain capital and start investing, you'll basically be buying high selling low, and you will make a profit.  The more you invest, the more you'll profit.  Probably.
 
-As the menu states, you'll pay 2% on purchases and sales of all stock.  This tarrif isn't reflected in the menu slider, but it's applied to the sale or purchase after the face.
+As the menu states, you'll pay 2% on purchases and sales of all stock.  This tarrif isn't reflected in the menu slider, but it's applied to the sale or purchase after confirmation.
 
 
 === The Menu ===
