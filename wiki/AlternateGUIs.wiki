@@ -1,6 +1,6 @@
 #summary There's a new GUI.
 
-==Alternate GUIs==
+=Alternate GUIs=
 
 ===Quartz, The Default===
 
