@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Automated tug ship brings captured ships home.
 
 = Tug =
 
