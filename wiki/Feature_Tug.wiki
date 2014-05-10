@@ -2,6 +2,8 @@
 
 = Tug =
 
+http://www.mediafire.com/convkey/d8c0/9e9p67x6aqg16ymfg.jpg
+
 The tug command is run on huge ships with a docking bay.  When run, the tug will stay docked at its homebase waiting for you to _flag_ a ship for it.  There's two ways to flag a ship.
 
   * Use the hotkey when the ship to be tugged is targeted (under interface)
