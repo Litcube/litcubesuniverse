@@ -154,11 +154,20 @@ An Emergency Retreat Drive installed on your ship will enable it to jump out fas
 see [Feature_ERD Feature: Emergency Retreat Drive]
 
 ----
+
 === Tug ===
 
 Automated tug ship brings captured ships home.
 
 see [Feature_Tug Feature: Tug]
+
+----
+
+=== Trade Product Search ===
+
+Find stuff for sale.
+
+See [Feature_Trade_Product_Search Feature: Trade Product Search]
 
 ----
 
