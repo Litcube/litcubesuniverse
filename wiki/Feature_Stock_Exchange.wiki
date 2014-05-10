@@ -13,7 +13,6 @@ So now, the stock exchange is random.  Stocks you buy may go up, they may go dow
 === The Menu ===
 
 http://www.mediafire.com/convkey/d599/l5vzb2u1uvxiumkfg.jpg
-See the image above for reference.
 
 *View stock exchange:*  Change the page.  Each page shows the stocks per the stock exchange you've unlocked.  Different races have different types of stock values, and stock quantities.  For example, Teladi are high risk/high gain, Boron are safest.
 
