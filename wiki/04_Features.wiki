@@ -154,6 +154,13 @@ An Emergency Retreat Drive installed on your ship will enable it to jump out fas
 see [Feature_ERD Feature: Emergency Retreat Drive]
 
 ----
+=== Tug ===
+
+Automated tug ship brings captured ships home.
+
+see [Feature_Tug Feature: Tug]
+
+----
 
 === GoD has changed a bit ===
 
