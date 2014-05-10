@@ -20,6 +20,8 @@
     * [Feature_MLCC Military Logistics & Command Software]
     * [Feature_ERD Emergency Jump Update]
     * [Feature_ERD Emergency Retreat Drive]
+    * [Feature_Tug]
+    * [Feature_Trade_Product_Search Feature]
     * [Feature_Quickshuttles Quickshuttles]
     * [Feature_New_Script_Commands New Script Commands]
     * [Feature_Pathfinding Pathfinding]
