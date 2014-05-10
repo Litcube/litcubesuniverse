@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+
+= Tug =
+
+The tug command is run on huge ships with a docking bay.  When run, the tug will stay docked at its homebase waiting for you to _flag_ a ship for it.  There's two ways to flag a ship.
+
+  * Use the hotkey when the ship to be tugged is targeted (under interface)
+  * Run it from the _ship_ command menu.
+
+Obviously, the ship needs to be owned by you.
+
+Once your tug sees a flagged ship, it'll jump to the destination, load all flagged ships in the sector, return to the home sector, unload all flagged ships to the tug's homebase, and then redock, again awaiting for flagged ships.
+
+This command makes capturing and recycling ships easy.  It's just a quick way to keep your shit together.
