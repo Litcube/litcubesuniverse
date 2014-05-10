@@ -2,8 +2,6 @@
 
 = Stock Exchange =
 
-http://www.mediafire.com/convkey/d599/l5vzb2u1uvxiumkfg.jpg
-
 The stock exchange in LU has changed, but you're still required to unlock the individual stock exchanges just as you would in vanilla.
 
 Once you've unlocked a stock exchange, the context menu item _view local stock exchange_ on the station itself will be enabled.  The exchange that you've unlocked will also become available in the stock exchange menu brought up with the stock exchange hotkey.  Both methods bring up the exact same menu.
@@ -14,9 +12,9 @@ So now, the stock exchange is random.  Stocks you buy may go up, they may go dow
 
 *View stock exchange:*  Change the page.  Each page shows the stocks per the stock exchange you've unlocked.  Different races have different types of stock values, and stock quantities.  For example, Teladi are high risk/high gain, Boron are safest.
 
-
 === The Menu ===
 
+http://www.mediafire.com/convkey/d599/l5vzb2u1uvxiumkfg.jpg
 See the image above for reference.
 
 *Sort now:* Sorts the stocks based on the sort order set below.
@@ -28,6 +26,4 @@ See the image above for reference.
 *Sort by:* Sort by any of the available columns.  "Sort now" is required to see changes.
 
 As you highlight a stock, a slider will appear below.  Depending on your _mode_ set above, use this slighter to change purchased or sold stock amounts.  Enter key, confirms your purchase or sale.
-
-
 
