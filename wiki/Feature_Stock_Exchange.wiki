@@ -10,6 +10,8 @@ Essentially, the stock exchange is now a relatively safe investment opportunity 
 
 So now, the stock exchange is random.  Stocks you buy may go up, they may go down.  They may go on a huge upswing, they may crash.  You'll never really know.  As you gain capital and start investing, you'll basically be buying low, selling high, and you will make a profit.  The more you invest, the more you'll profit.  Probably.  In time.  Maybe.
 
+The stock names, prices, capacities, quantities, variability, are all generated on a new game start.  They'll be different in every game.  Different races have different types of stock values, and stock quantities.  For example, Teladi are high risk/high gain, Boron are safest, you need to be fucking rich to trade in the Terran exchange.
+
 As the menu states, you'll pay 2% on purchases and sales of all stock.  This tariff isn't reflected in the menu slider, but it's applied to the sale or purchase after confirmation.
 
 
@@ -17,7 +19,7 @@ As the menu states, you'll pay 2% on purchases and sales of all stock.  This tar
 
 http://www.mediafire.com/convkey/d599/l5vzb2u1uvxiumkfg.jpg
 
-*View stock exchange:*  Change the page.  Each page shows the stocks per the stock exchange you've unlocked.  Different races have different types of stock values, and stock quantities.  For example, Teladi are high risk/high gain, Boron are safest.
+*View stock exchange:*  Change the page.  Each page shows the stocks per the stock exchange you've unlocked.
 
 *Sort now:* Sorts the stocks based on the sort order set below.
 
