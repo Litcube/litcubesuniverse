@@ -3,6 +3,7 @@
   * [03_FAQ FAQ (Q&A)]
   * [04_Features Major Features]
     * [Feature_New_Models New Models]
+    * [Feature_Balance Balance]
     * [Feature_Revelation Revelation (OCV)]
     * [Feature_The_Phanon_Corporation The Phanon Corporation]
     * [Feature_Saturn_Complex_Hub Saturn Complex Hub]
