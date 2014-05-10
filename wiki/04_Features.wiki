@@ -36,6 +36,14 @@ See: [Feature_Saturn_Complex_Hub Feature: Saturn Complex Hub]
 
 ----
 
+=== Stock Exchange ===
+
+The Stock Exchange has changed to something a little more simple.
+
+See: [Feature_Stock_Exchange Feature: Stock Exchange]
+
+----
+
 === Bounce ===
 
 Bounce, the AI "fix" that reduces unintended collisions, is better than ever in LU. It works automatically, is on by default, and no longer requires wall files.
