@@ -16,7 +16,7 @@ Ships in LU are spread out a bit in terms of capability.  The big ships, the cap
 
 If there was a class that I would flag as having changed most dramatically, it would be the M6.  They take more punishment, and are more capable and agile in general.
 
-All ship costs are a result of the following formula:
+Ships cost more.  A lot more.  All ship costs are a result of the following formula:
 
 =Formula.Balance.CombatAbility+Formula.Balance.Hauling+(1+Formula.Balance.Cargo/2)+Formula.Balance.Hull+Formula.Balance.Docking+Formula.Balance.SmallAddons
 
@@ -55,7 +55,5 @@ http://www.mediafire.com/convkey/b313/m4qz5z2vj5d5lq4fg.jpg
 == Balance Theory: Factory pricing ==
 
 All player owned factories are a function of their respective product's price.  To a small exponent, the more the product costs, the more the factory costs.
-
-
 
 
