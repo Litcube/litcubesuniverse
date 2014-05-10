@@ -2,7 +2,7 @@
 
 = Balance =
 
-First off, I hate the word _balance_.  To me, it implies like there's a perfect center somewhere; as if there exists a magical nirvana for every game play system to achieve, and if it comes short, it's broken.
+First off, I hate the word _balance_.  To me, it implies like there's a perfect center somewhere; as if there exists a magical nirvana for every game play system to achieve, and if it comes short, it's broken.  Also, it's not a feature, but whatever.
 
 Everything has changed in LU.  Every missile, weapon, and ship in the game is not the same as you're used to in vanilla.  Nearly every item in the game has been balanced based off of targets, pivots, and their resulting formulas.  Very little of it was subject to individual conjecture.
 
@@ -55,5 +55,3 @@ http://www.mediafire.com/convkey/b313/m4qz5z2vj5d5lq4fg.jpg
 == Balance Theory: Factory pricing ==
 
 All player owned factories are a function of their respective product's price.  To a small exponent, the more the product costs, the more the factory costs.
-
-
