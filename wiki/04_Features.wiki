@@ -58,12 +58,13 @@ There's dashboards, if you want them.
 
 see [Feature_Dashboards Feature: Dashboards]
 
+----
+
 === Bounce ===
 
 Bounce, the AI "fix" that reduces unintended collisions, is better than ever in LU. It works automatically, is on by default, and no longer requires wall files.
 
 See: [Feature_Bounce Feature: Bounce]
-
 
 ----
 
