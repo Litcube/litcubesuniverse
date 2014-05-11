@@ -8,6 +8,7 @@
     * [Feature_The_Phanon_Corporation The Phanon Corporation]
     * [Feature_Saturn_Complex_Hub Saturn Complex Hub]
     * [Feature_Stock_Exchange Stock Exchange]
+    * [Feature_Dashboards Dashboards]
     * [Feature_Bounce Bounce]
     * [Feature_Encyclopedia_Update Encyclopedia Update]
     * [Feature_High_Performance High Performance]
