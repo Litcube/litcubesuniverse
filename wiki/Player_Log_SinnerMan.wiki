@@ -2,22 +2,9 @@
 
 = SinnerMan's Log =
 
-Current Issues in 0.5.5
+NEW PLAYTHROUGH with v1.0!
 
-  * 
 
-ToDo
-
-  * Writeup "Move Freight" SCH->PHQ Logistics
-  * Writeup PHQ Ship Templates tutorial
-
-LU Wishlist
-
-  * New Interface: Current reticule compared old one is a bit bulky
-  * Extanded functionality of SCH/PHQ/Dock integration
-     -Additionally, have a toggle in the Dockware Manager to set a good to sell-able (NPCs) or not (So NPCs won't come purchase X)
-  * DCS2/Mining Integration in LU 
-  * Sector ownership? Taxes/NPC stations/Etc?
 
 --------------
 
