@@ -2,7 +2,7 @@
 
 = Dashboards =
 
-If you have a second monitor with Rainmeter installed, or if you have a G19 keyboard, you can make use of the two AL plugins that come packaged with LU.
+If you have a second monitor with Rainmeter installed, or if you have a G19 keyboard, you can make use of the two AL plugins that come packaged with LU.  Dashboards show you stuff while you're playing the game.
 
 
 == G19 ==
