@@ -67,6 +67,14 @@ See: [Feature_Bounce Feature: Bounce]
 
 ----
 
+=== FLC ===
+
+The higher your fight rank, the more ships drop stuff.
+
+See: [Feature_FLC Feature: FLC]
+
+---
+
 === Encyclopedia Update ====
 
 The encyclopedia has a new, very useful category.
