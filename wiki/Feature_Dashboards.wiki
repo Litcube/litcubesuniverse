@@ -8,6 +8,7 @@ If you have a second monitor with Rainmeter installed, or if you have a G19 keyb
 == G19 ==
 
 http://www.mediafire.com/convkey/5b5f/2k5jabop0j4px15fg.jpg
+
 The Display-G19 AL plugin requires LCD Host to function.
 
 http://www.linkdata.se/software/lcdhost/
