@@ -8,6 +8,13 @@ Download the installer here:
 ----
 
 
+= Patch = 
+---
+
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.0.1.exe Litcube's Universe V1.0.0]
+
+---
+
 = Installation Instructions =
 
 Read the shit when running the installer.  It's there for your protection.
