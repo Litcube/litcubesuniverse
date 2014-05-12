@@ -11,11 +11,11 @@ http://www.mediafire.com/convkey/5b5f/2k5jabop0j4px15fg.jpg
 
 The Display-G19 AL plugin requires LCD Host to function.
 
-http://www.linkdata.se/software/lcdhost/
+[http://www.linkdata.se/software/lcdhost/ LCD Host]
 
 The LCD Host plugin can be downloaded here: 
 
-http://www.mediafire.com/download/6jnm63t06edhxgm/LUg19.zip
+[http://www.mediafire.com/download/6jnm63t06edhxgm/LUg19.zip LU G19 LCD Host Plugin]
 
 You'll have to change the layout data connector to point to the 9003 log in your my documents\X3AP folder.
 
@@ -25,8 +25,8 @@ http://www.mediafire.com/convkey/35ae/2cdeuydjq2cq63qfg.jpg
 
 The the Display-Rainmeter Al plugin requires Rainmeter to run this:
 
-http://rainmeter.net/
+[http://rainmeter.net/ Rainmeter]
 
 Here's the rainmeter skin package:
 
-http://www.mediafire.com/download/57x9s7k6nys5bm8/LU_Display_1.0.0.rmskin
+[http://www.mediafire.com/download/57x9s7k6nys5bm8/LU_Display_1.0.0.rmskin LU Rainmeter Skin]
