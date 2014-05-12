@@ -15,11 +15,11 @@ Read the shit when running the installer.  It's there for your protection.
 
 = Other Tools =
 
-  * LUEditors:  Comprehensive editors for LU files.
+  * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
 
 [http://www.mediafire.com/download/0661op88bcrvy6a/LU_Editors_1.0.8.zip LU Editors]
 
-  * Litcubes Universe Map.png = Map of the LU Universe.
+  * Map of the Litcube's Universe.
 
 [http://www.mediafire.com/view/a5ac3qla1ry3kbp/Litcube&#39;s_Universe_Map.png Universe Map]
 
