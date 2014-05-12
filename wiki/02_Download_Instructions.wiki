@@ -3,7 +3,7 @@
 ----
 Download the installer here:
 
-linky
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.0.0.zip Litcube's Universe V1.0.0]
 
 ----
 
