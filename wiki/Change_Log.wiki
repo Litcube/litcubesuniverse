@@ -1,10 +1,15 @@
 #summary Change Log (History)
 
 = Change Log =
-
+----
+= Version 1.0.3 ==
+=== May, 12, 2014 ===
+   * Patch contains all previous changes from 1.0.1 up.
+   * Added docking music.
 ----
 = Version 1.0.2 ==
 === May, 12, 2014 ===
+   * Patch contains all previous changes from 1.0.1 up.
    * Fixed Tships test issue (Aamon super ship).
 ----
 = Version 1.0.1 ==
