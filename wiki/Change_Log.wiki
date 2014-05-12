@@ -2,6 +2,12 @@
 
 = Change Log =
 
+= Version 1.0.2 ==
+=== May, 12, 2014 ===
+
+   * Fixed Tships test issue (Aamon super ship).
+
+----
 = Version 1.0.1 ==
 === May, 12, 2014 ===
 
