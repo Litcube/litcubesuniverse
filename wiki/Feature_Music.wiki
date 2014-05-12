@@ -22,4 +22,6 @@ Where XX is the sector's two digit _x_ coordinate, and YY is the two digit _y_ c
 
 For combat tracks:
 
-010XX.mp3, where XX is a number from 01 to 42.
+*010XX.mp3*
+
+Where XX is a number from 01 to 42.
