@@ -20,6 +20,7 @@ Download the installer here:
 
 Read the shit when running the installer.  It's there for your protection.
 
+----
 
 = Other Tools =
 
