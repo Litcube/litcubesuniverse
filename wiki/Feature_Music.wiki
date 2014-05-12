@@ -14,14 +14,11 @@ The good news is that you can replace these combat tracks and sector tracks with
 
 In the soundtrack folder:
 
-File format for sectors: 
-*8XXYY.mp3*
+File format for sectors: *8XXYY.mp3*
 
 Where XX is the sector's two digit _x_ coordinate, and YY is the two digit _y_ coordinate.  Kingdom End: 80000.mp3
 
 
-For combat tracks:
-
-*010XX.mp3*
+For combat tracks: *010XX.mp3*
 
 Where XX is a number from 01 to 42.
