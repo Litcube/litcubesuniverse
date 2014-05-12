@@ -1,5 +1,5 @@
   * [01_What_is_Litcubes_Universe What is Litcube's Universe?]
-  * [02_Download_Instructions Download Instructions]
+  * [02_Download_Instructions Download]
   * [03_FAQ FAQ (Q&A)]
   * [04_Features Major Features]
     * [Feature_New_Models New Models]
