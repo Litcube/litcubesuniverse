@@ -89,9 +89,9 @@ Check the encyclopedia under _Software and equipment commands_.
 
 <br/>
 ----
-=== Where do I find XYZ ware?  IO've searched everywhere and I can't find it for sale ===
+=== Where do I find XYZ ware?  I've searched everywhere and I can't find it for sale ===
 
-[Feature_Trade_Product_Search]
+[Feature_Trade_Product_Search Trade Product Search]
 
 
 <br/>
