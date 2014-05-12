@@ -31,6 +31,14 @@ Slightly slower.
 
 <br/>
 ----
+=== Do we need to absolutely expand as fast as the game allows, or can we afford to make a few mistakes and expand at a slightly slower rate and still be able to fight the enemy factions? ===
+
+The latter.  It's not a huge panic race against time, but there is a slight sense of urgency.  You'll get messages time to time to let you know what's happening in the Universe.
+
+However, running SETA run over night to have your 1 UT gain you millions probably isn't a good idea.
+
+<br/>
+----
 === How does LU compare to the X Rebalanced Mod, XRM? ===
 
 It's just different.  Personally, I think XRM is a fantastic mod, and Paul has been very successful implementing his vision of the game.
