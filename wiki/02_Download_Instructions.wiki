@@ -27,13 +27,19 @@ Read the shit when running the installer.  It's there for your protection.
 
 [http://www.mediafire.com/download/0661op88bcrvy6a/LU_Editors_1.0.8.zip LU Editors]
 
+----
+
   * Map of the Litcube's Universe.
 
 [http://www.mediafire.com/view/a5ac3qla1ry3kbp/Litcube&#39;s_Universe_Map.png Universe Map]
 
+----
+
   * LU Rainmeter skin
 
 [http://www.mediafire.com/download/57x9s7k6nys5bm8/LU_Display_1.0.0.rmskin LU Rainmeter Skin]
+
+----
 
   * LU G19 LCD Host plugin
 
