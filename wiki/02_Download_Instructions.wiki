@@ -1,21 +1,30 @@
-<wiki:comment>
-= Where to Download =
+= Download =
+
+
 
 = Installation Instructions =
 
-  # Start with a vanilla installation of X3AP. Best Practice is to copy from your Steam folder to somewhere else, such as C:\Games\X3LU. Use the no_Steam.exe (X3AP_n.exe) from the Bonus Downloads section of the EgoSoft forum.
-  # Delete all files in addon\scripts.  
-  # Go to the <wiki:comment>[https://www.mediafire.com/folder/6rwhzymiq3jy2/LU LU Download Site]</wiki:comment> Download Site. Download at least LU.zip and the latest patch.
-  # Copy contents of LU.zip to your X3LU folder.  
-  # Download the latest patch and do the same.
+Read the shit when running the installer.  It's there for your protection.
 
-= Other Files in the Download Folder =
 
-  * JobsEditor.zip = This is a spreadsheet for editing Jobs. Jobs in LU has a different format than in the vanilla game, so you should edit Jobs with this editor. X3Editor will not work for LU Jobs.
+= Other Tools =
 
-  * LUEditors:  Editors for LU files.
+  * LUEditors:  Comprehensive editors for LU files.
 
-  * Litcubes Universe Map.png = Map of the LU Universe. 
+[http://www.mediafire.com/download/0661op88bcrvy6a/LU_Editors_1.0.8.zip LU Editors]
+
+  * Litcubes Universe Map.png = Map of the LU Universe.
+
+http://www.mediafire.com/view/a5ac3qla1ry3kbp/Litcube&#39;s_Universe_Map.png
+
+  * Rainmeter skin
+
+http://www.mediafire.com/download/57x9s7k6nys5bm8/LU_Display_1.0.0.rmskin
+
+  * G19 LCD Host plugin
+
+http://www.mediafire.com/download/6jnm63t06edhxgm/LUg19.zip
+ 
 
 
 
