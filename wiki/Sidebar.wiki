@@ -28,6 +28,7 @@
     * [Feature_Quickshuttles Quickshuttles]
     * [Feature_New_Script_Commands New Script Commands]
     * [Feature_Pathfinding Pathfinding]
+    * [Feature_Music Music]
   * [How_To How to Do Stuff]
   * [Player_Logs Player Logs]
     * [Player_Log_Createse Createse]
