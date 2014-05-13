@@ -20,6 +20,9 @@
   # Exit X3.
   # Copy the log file (Log08382.txt) to your X3\addon\t folder.
   # Rename the log file to 8382-L044.xml.
+  # Your addon\t folder should now look like this:
+
+PUT IMAGE HERE
 
 == Import ==
 
