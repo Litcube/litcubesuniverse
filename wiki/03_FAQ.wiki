@@ -23,6 +23,8 @@ Instead of a plot, there are two factions that grow over time; becoming more thr
 
 It is a strategy game with very sophisticated opponents.
 
+
+
 <br/>
 ----
 === What is the pacing of this game, compared to vanilla? Is it faster/slower? ===
@@ -123,6 +125,12 @@ One thing I found during the late game, is that I was going through billions of 
 My job became an empire manager.
 
 So, yes, you can rake in huge credits from the new stock exchange, but a) it requires serious investment, and b) you'll never run out of uses for those credits.
+
+<br/>
+----
+=== What is the best way to find abandoned ships in LU? I mean, do they randomly spawn? ===
+
+They don't randomly spawn.  If you place satellites in a sector, you'll have a better chance to spot them.  There's also a hotkey that can auto target abandoned ships but only if it's within scanner range of any of your property.
 
 
 <br/>
