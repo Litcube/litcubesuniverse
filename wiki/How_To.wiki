@@ -16,12 +16,18 @@ Exporting your game allows you to dump your entire empire into a file, and then 
   # Wait for all HQ queues (repair, recycle, production) to finish.
 
 *Do the Export/Import:*
+
+== Export ==
+
   # Export your game by selecting "Export empire" in the Player Console (hotkey found in "Interface" in controls menu). This will create a log file in documents\Egosoft\X3AP called "log08382.txt".  
   # This can take a few minutes.  You can watch your log file increase in size if you're looking at it in windows explorer.
   # When the export is finished, you'll see the message "Export Done!" on your screen.
   # Exit X3.
   # Copy the log file (Log08382.txt) to your LU\addon\t folder.
   # Rename the log file to 8382-L044.xml.
+
+== Import ==
+
   # Start a new game. Choose the _Damyath Import_ start. 
   # Enjoy a beverage of your choice as LU rebuilds your universe.
 
