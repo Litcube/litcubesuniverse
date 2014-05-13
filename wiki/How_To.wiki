@@ -14,27 +14,16 @@ Exporting your game allows you to dump your entire empire into a file, and then 
   # Be in a safe sector.
   # Complete or cancel any ongoing missions.
   # Wait for all HQ queues (repair, recycle, production) to finish.
-  # (Optional but Good Practice): Back up your entire LU folder.
 
 *Do the Export/Import:*
-  # First, *back up* your current game folder. Let's assume that your game is in C:\Games\LU. Copy the LU folder to "C:\Games\LU-OLD".
-  # You should now have two folders:
-    * LU       <== This will become your *new* folder.
-    * LU-OLD   <== This will become your *old* folder.
-  # Read the changelog for the patch
-  # Patch the "LU" folder to the new version.
-  # Copy the addon\scripts\Z.EmpireCopy.Export.xml from your *new* folder to your *old* folder addon\scripts\.  It will ask to overwrite.
-  # Double-click LU-OLD\X3AP_n.exe to start the *old* game.
-  # Load the saved game that you want to export.
-  # *Export your game* by selecting "Export empire" in the Player Console (hotkey found in "Interface" in controls menu). This will create a log file in documents\Egosoft\X3AP called Log08382.txt.  
+  # *Export your game* by selecting "Export empire" in the Player Console (hotkey found in "Interface" in controls menu). This will create a log file in documents\Egosoft\X3AP called "log08382.txt".  
   # This can take a few minutes.  You can watch your log file increase in size if you're looking at it in windows explorer.
+  # When the export is finished, you'll see the message "Export Done!" on your screen.
   # Exit X3.
-  # Copy the log file (Log08382.txt) to the *new* LU\addon\t folder.
+  # Copy the log file (Log08382.txt) to your LU\addon\t folder.
   # Rename the log file to 8382-L044.xml.
-  # Start a new game in your *new* folder  (Double-click LU\X3AP_n.exe). Choose the _Damyath Import_ start. 
+  # Start a new game. Choose the _Damyath Import_ start. 
   # Enjoy a beverage of your choice as LU rebuilds your universe.
-
-This will import your assets from your previous game into your new game start. Nice, huh? 
 
 _Note: You might have to re-start some commands on some ships, especially if you are using 3rd-party scripts that are not yet supported by Export/Import. So check your Property sheet (r) carefully._
 
