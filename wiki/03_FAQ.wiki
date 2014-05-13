@@ -23,7 +23,13 @@ Instead of a plot, there are two factions that grow over time; becoming more thr
 
 It is a strategy game with very sophisticated opponents.
 
+<br/>
+----
+=== How the fuck do you get the Rainmeter skin to work? ====
 
+Tahlmorra put together this awesome guide on how to get the skin working:
+
+[http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf Tahlmorra's LU Rainmeter Guide]
 
 <br/>
 ----
