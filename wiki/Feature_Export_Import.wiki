@@ -1,0 +1,11 @@
+#summary Export your game, then import it.
+
+= Export & Import =
+
+Litcube's Universe comes packaged with the ability to export your empire including statistics (kills, favourite ships), relations, property, loadouts, game time, play time, money, Phanon state, OCV state, stations, Saturn Complex Hubs, dockware manager info, UT/Dock Agent/Station agent levels and stats, etc., etc., etc.  Once you have exported, you can import your game into a fresh Universe.
+
+=== Why Would I Want To Do This? ===
+
+  * You installed a script, and it screwed up your game
+  * You removed a script, but want to remove all traces of it
+  * I released a patch and the patch said "export/import required"
