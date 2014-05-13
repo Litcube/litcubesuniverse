@@ -33,4 +33,4 @@ Here's the rainmeter skin package:
 
 Tahlmorra put together this awesome guide on how to get the skin working:
 
-http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf
+[http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf Tahlmorra's LU Rainmeter Guide]
