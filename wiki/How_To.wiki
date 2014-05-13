@@ -9,8 +9,8 @@
 Exporting your game allows you to dump your entire empire into a file, and then import it back into LU.  It's useful for save-game incompatible patches, or if you were an idiot and screwed up your game.
 
 *Before you Begin:*
-  # Remove your cash from the Stock Market.
-  # Make sure your marines are all on board ships.
+  # Remove your cash from the Stock Market.  In other words, sell your stocks.
+  # Make sure your marines are all on board ships.  Don't leave them on stations.
   # Be in a safe sector.
   # Complete or cancel any ongoing missions.
   # Wait for all HQ queues (repair, recycle, production) to finish.
