@@ -30,3 +30,7 @@ The the Display-Rainmeter Al plugin requires Rainmeter to run this:
 Here's the rainmeter skin package:
 
 [http://www.mediafire.com/download/57x9s7k6nys5bm8/LU_Display_1.0.0.rmskin LU Rainmeter Skin]
+
+Tahlmorra put together this awesome guide on how to get the skin working:
+
+http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf
