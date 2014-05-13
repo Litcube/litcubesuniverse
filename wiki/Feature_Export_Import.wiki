@@ -6,6 +6,12 @@ Litcube's Universe comes packaged with the ability to export your empire includi
 
 === Why Would I Want To Do This? ===
 
+Don't do it if you don't need to, but here's some reasons why you would:
+
   * You installed a script, and it screwed up your game
   * You removed a script, but want to remove all traces of it
   * I released a patch and the patch said "export/import required"
+
+== How Do I Export And Import ==
+
+[https://code.google.com/p/litcubesuniverse/wiki/How_To#How_to_Export_(and_Import)_Your_Game How To]
