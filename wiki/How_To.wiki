@@ -4,20 +4,17 @@
 <wiki:toc max_depth="3" />
 ----
 
-=== How to Export (and Import) Your Game ===
 
-Exporting your game allows you to dump your entire empire into a file, and then import it back into LU.  It's useful for save-game incompatible patches, or if you were an idiot and screwed up your game.
+*Do the Export/Import:*
 
-*Before you Begin:*
+== Export ==
+
+*Before you being an export:*
   # Remove your cash from the Stock Market.  In other words, sell your stocks.
   # Make sure your marines are all on board ships.  Don't leave them on stations.
   # Be in a safe sector.
   # Complete or cancel any ongoing missions.
   # Wait for all HQ queues (repair, recycle, production) to finish.
-
-*Do the Export/Import:*
-
-== Export ==
 
   # Export your game by selecting "Export empire" in the Player Console (hotkey found in "Interface" in controls menu). This will create a log file in documents\Egosoft\X3AP called "log08382.txt".  
   # This can take a few minutes.  You can watch your log file increase in size if you're looking at it in windows explorer.
