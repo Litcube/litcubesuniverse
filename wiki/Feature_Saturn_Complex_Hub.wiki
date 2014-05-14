@@ -21,7 +21,8 @@ Essentially, a Saturn Complex Hub is a single station, based on the Terran Cryst
 Benefits: 
   * Doesn't cheat. 
   * Produce the same amount of wares without the FPS bog of vanilla complexes 
-  * No more /!\ flashing stations; no resources required. 
+  * No more /!\ flashing stations; no resources required.
+  * Needed factories can be automatically purchased by your TL.
   * Easy to use. 
 
 The Saturn Complex Hub must be fitted with all of the stations as would a regular complex. Here's how: 
