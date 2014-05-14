@@ -2,10 +2,14 @@
 
 = Shit Litcube Needs to Check When He Gets Home =
 
+
+
 == Accepted == 
 
   * Check the collect wares command (non-quickshuttle version)
 
   * Two trading stations in Black Hole Sun?  Intentional?
+
+== Pending ==
 
 == Rejected == 
