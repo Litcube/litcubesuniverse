@@ -6,7 +6,7 @@ Litcube's Universe comes packaged with the ability to export your empire includi
 
 It will *not* export data that was implemented by third party scripts.  But if it came with LU, it's supported.
 
-=== Why Would I Want To Do This? ===
+== Why Would I Want To Do This? ==
 
 Don't do it if you don't need to, but here's some reasons why you would:
 
@@ -16,7 +16,7 @@ Don't do it if you don't need to, but here's some reasons why you would:
 
 == How Do I Export And Import? ==
 
-== How to Export ==
+=== How to Export ===
 
   # Remove your cash from the Stock Market.  In other words, sell your stocks.
   # Make sure your marines are all on board ships.  Don't leave them on stations.
@@ -33,7 +33,7 @@ Don't do it if you don't need to, but here's some reasons why you would:
 
 http://www.mediafire.com/convkey/9a2d/1jeaks7e9r1v53tfg.jpg
 
-== How to Import ==
+=== How to Import ===
 
   # Start a new game. Choose the _Damyath Import_ start. 
   # Enjoy a beverage of your choice as LU rebuilds your universe.
