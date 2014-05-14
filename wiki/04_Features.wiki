@@ -27,6 +27,8 @@ Export your game, then import it.
 
 See: [Feature_Export_Import Feature: Export/Import]
 
+---
+
 === Revelation and the Omicron Channel Virus (OCV) ===
 There's a new threat brewing in the Eastern Universe.  A new enemy that will eventually take over the Universe, and only you can stop them.
 
