@@ -66,11 +66,15 @@ Extraneous Station Info: More info on stations required/installed within this hu
 ----
 So as stated above, you're going to have to fill your TL up with the required stations. As you can see from our example, you'd need to go and purchase, 18 Cahoona Bakery M, 18 Cattle Ranch M, 8 Crystal Fab M, an Ore Mine L, 20 Shield Prod. Facility 1 MJ, a Silicon Mine L, and 8 Solar Power Plant Ms. Maker race is important here. 
 
-*Alternatively, you can have any owned TL do the shopping for your SCH automatically. Make sure the following software is installed in the TL:
+*Alternatively, you can have any owned TL do the shopping for your SCH automatically. Make sure the following conditions are met:
 
- (INSERT) 
+Enough credits on the Saturn Complex Hub you're shopping for
+TL Sized Ship
+Trade Command 1/2
+Trading System Extension
+(Jump Drive recommended)
 
-*Once the required components are installed in the TL, you can select the (COMMAND) from the Trade menu, then select the Saturn Complex Hub you would like to equip (assuring that the SCH has the required amount of money in it's account) and the TL will head off and quickly collect the required stations. Once the shopping is done, order the TL to dock at the SCH and you will be able to auto-fit the stations automatically from the SCH menu.
+*Once the required components are installed in the TL, you can select the "Shop for Saturn CH" from the Trade menu, then select the Saturn Complex Hub you would like to equip (assuring that the SCH has the required amount of money in it's account)and the TL will head off and quickly collect the required stations. Once the shopping is done, order the TL to dock at the SCH and you will be able to auto-fit the stations automatically from the SCH menu.
 
 Once you've picked these up, dock the TL at the Saturn Complex Hub. You can then select the blue colour items to install the stations from your TL into the hub. Next, install the asteroids (purple wares). 
 
