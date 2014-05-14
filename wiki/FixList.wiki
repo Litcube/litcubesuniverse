@@ -7,11 +7,15 @@
 == Accepted == 
 
   * Check the collect wares command (non-quickshuttle version)
+        (I had this exact problem with my playership in beta, 
+         but I thought it was fixed. Related bug, perhaps? -rocky)
 
   * Two trading stations in Black Hole Sun?  Intentional?
 
   * The goddamn version still says 1.0.0
 
 == Pending ==
+
+  * Add TL auto station shopping instructions to SCH wiki -rocky
 
 == Rejected == 
