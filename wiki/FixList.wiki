@@ -10,6 +10,8 @@
 
   * Two trading stations in Black Hole Sun?  Intentional?
 
+  * The goddamn version still says 1.0.0
+
 == Pending ==
 
 == Rejected == 
