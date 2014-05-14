@@ -214,10 +214,10 @@ Whether to turn it ON or OFF depends on circumstances. If I'm trying to concentr
 Be smarter.
 <br/>
 ----
+
 === What "hidden costs" should I watch for? ===
 
 Explorers laying a satellite network burn up a lot of cash quickly. Very quickly.
-
 <br/>
 ----
 
