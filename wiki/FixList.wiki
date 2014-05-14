@@ -18,4 +18,5 @@
 
   * Add TL auto station shopping instructions to SCH wiki -rocky
 
+  * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
 == Rejected == 
