@@ -68,11 +68,11 @@ So as stated above, you're going to have to fill your TL up with the required st
 
 *Alternatively, you can have any owned TL do the shopping for your SCH automatically. Make sure the following conditions are met:
 
-Enough credits on the Saturn Complex Hub you're shopping for
-TL Sized Ship
-Trade Command 1/2
-Trading System Extension
-(Jump Drive recommended)
+*Enough credits on the Saturn Complex Hub you're shopping for
+*TL Sized Ship
+*Trade Command 1/2
+*Trading System Extension
+*(Jump Drive recommended)
 
 *Once the required components are installed in the TL, you can select the "Shop for Saturn CH" from the Trade menu, then select the Saturn Complex Hub you would like to equip (assuring that the SCH has the required amount of money in it's account)and the TL will head off and quickly collect the required stations. Once the shopping is done, order the TL to dock at the SCH and you will be able to auto-fit the stations automatically from the SCH menu.
 
