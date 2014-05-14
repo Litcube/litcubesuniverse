@@ -20,6 +20,8 @@
 
   * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
 
-  * GoD is invisible (on the major features page, if you look to the left where you can quick select the categories, GoD is missing)
+  * Can't find GoD (on the major features page, if you look to the left where you can quick select the categories, GoD is missing)
+
+  * Clicking the TOP hyperlink at the bottom of any page on the wiki takes you to the top of the old wiki, not this one. It's quite jarring.
 
 == Rejected == 
