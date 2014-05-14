@@ -19,4 +19,7 @@
   * Add TL auto station shopping instructions to SCH wiki -rocky
 
   * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
+
+  * GoD is invisible (on the major features page, if you look to the left where you can quick select the categories, GoD is missing)
+
 == Rejected == 
