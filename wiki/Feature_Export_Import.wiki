@@ -16,6 +16,8 @@ Don't do it if you don't need to, but here's some reasons why you would:
 
 == How Do I Export And Import? ==
 
+Here's how:
+
 === How to Export ===
 
   # Remove your cash from the Stock Market.  In other words, sell your stocks.
