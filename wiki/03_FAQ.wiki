@@ -146,7 +146,7 @@ Another thing to note, trade can't happen for the player unless there's property
 
 A lot of the script commands have been implemented to reflect this.  I've added script flags of [respect PPP] which basically means, respect the Player Property Present rule when searching for objects or trades.
 
-If a UT finds an enemy where there is a lucrative trade deal, it will ignore it, but log it with the Complaint Department (Managed by Helen Wayte).  You can view trader complaints in the player menu (hotkey accessible).  It will let you know here the threat is, and why it's ignoring that sweat deal.  Not only UTs will do this, but also the Station Agents, Vend traders, Dock Agents, or any other trader you have for AI.  They all use the same system.
+If a UT finds an enemy where there is a lucrative trade deal, it will ignore it, but log it with the Complaint Department (Managed by Helen Wayte).  You can view trader complaints in the player menu ([Feature_Hotkeys hotkey] accessible).  It will let you know here the threat is, and why it's ignoring that sweat deal.  Not only UTs will do this, but also the Station Agents, Vend traders, Dock Agents, or any other trader you have for AI.  They all use the same system.
 
 For example, if you have no assets in Argon Prime, then none of your traders will search there for deals or treat it as a viable trading opportunity.
 
@@ -212,7 +212,8 @@ Whether to turn it ON or OFF depends on circumstances. If I'm trying to concentr
 === I have several UT's, but I am chronically broke. I never have any cash on hand. What to do? ===
 
 Be smarter.
-
+<br/>
+----
 === What "hidden costs" should I watch for? ===
 
 Explorers laying a satellite network burn up a lot of cash quickly. Very quickly.
