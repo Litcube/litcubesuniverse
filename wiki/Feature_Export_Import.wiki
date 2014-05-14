@@ -12,11 +12,9 @@ Don't do it if you don't need to, but here's some reasons why you would:
   * You removed a script, but want to remove all traces of it
   * I released a patch and the patch said "export/import required"
 
-== How Do I Export And Import ==
+== How Do I Export And Import? ==
 
-*Do the Export/Import:*
-
-== Export ==
+== How to Export ==
 
   # Remove your cash from the Stock Market.  In other words, sell your stocks.
   # Make sure your marines are all on board ships.  Don't leave them on stations.
@@ -33,7 +31,7 @@ Don't do it if you don't need to, but here's some reasons why you would:
 
 http://www.mediafire.com/convkey/9a2d/1jeaks7e9r1v53tfg.jpg
 
-== Import ==
+== How to Import ==
 
   # Start a new game. Choose the _Damyath Import_ start. 
   # Enjoy a beverage of your choice as LU rebuilds your universe.
