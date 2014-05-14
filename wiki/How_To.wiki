@@ -22,7 +22,7 @@
   # Rename the log file to 8382-L044.xml.
   # Your addon\t folder should now look like this:
 
-PUT IMAGE HERE
+http://www.mediafire.com/convkey/9a2d/1jeaks7e9r1v53tfg.jpg
 
 == Import ==
 
