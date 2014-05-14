@@ -5,31 +5,7 @@
 ----
 
 
-*Do the Export/Import:*
 
-== Export ==
-
-  # Remove your cash from the Stock Market.  In other words, sell your stocks.
-  # Make sure your marines are all on board ships.  Don't leave them on stations.
-  # Be in a safe sector.
-  # Complete or cancel any ongoing missions.
-  # Wait for all HQ queues (repair, recycle, production) to finish.
-  # Export your game by selecting "Export empire" in the Player Console (hotkey found in "Interface" in controls menu). This will create a log file in documents\Egosoft\X3AP called "log08382.txt".  
-  # This can take a few minutes.  You can watch your log file increase in size if you're looking at it in windows explorer.
-  # When the export is finished, you'll see the message "Export Done!" on your screen.
-  # Exit X3.
-  # Copy the log file (Log08382.txt) to your X3\addon\t folder.
-  # Rename the log file to 8382-L044.xml.
-  # Your addon\t folder should now look like this:
-
-http://www.mediafire.com/convkey/9a2d/1jeaks7e9r1v53tfg.jpg
-
-== Import ==
-
-  # Start a new game. Choose the _Damyath Import_ start. 
-  # Enjoy a beverage of your choice as LU rebuilds your universe.
-
-_Note: You might have to re-start some commands on some ships, especially if you are using 3rd-party scripts that are not yet supported by Export/Import. So check your Property sheet (r) carefully._
 
 
 <br/>
