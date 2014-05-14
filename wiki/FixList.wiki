@@ -16,7 +16,7 @@
 
 == Pending ==
 
-  * Add TL auto station shopping instructions to SCH wiki -rocky (DONE/Sinnerman)
+  * ~~Add TL auto station shopping instructions to SCH wiki~~ -rocky (DONE/Sinnerman)
 
   * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
 
