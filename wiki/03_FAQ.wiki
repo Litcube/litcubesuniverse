@@ -278,4 +278,3 @@ Each sector uses 4 M4 ships to ferry resources from the OCV homeworld sector to 
 
 <br/>
 ----
-_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
