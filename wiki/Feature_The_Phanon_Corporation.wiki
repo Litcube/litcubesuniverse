@@ -43,7 +43,3 @@ This plugin creates a new enemy faction, The Phanon Corporation, that is far mor
   * The Phanon have no enemies except for you.
   * Performance has been increased over the original non-LU version due to the streamlining of a few antiquated processes.
   * The Phanon Corporation are slightly more economically viable in this version.
-
-----
-_[https://code.google.com/p/litcubes-universe/wiki/04_Features Up]_ . 
-_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
