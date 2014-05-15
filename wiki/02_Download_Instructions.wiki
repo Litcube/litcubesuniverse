@@ -44,10 +44,4 @@ Read the shit when running the installer.  It's there for your protection.
 
   * LU G19 LCD Host plugin
 
-[http://www.mediafire.com/download/6jnm63t06edhxgm/LUg19.zip LU G19 LCD Host Plugin]
- 
-
-
-
-----
-_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
+[http://www.mediafire.com/download/6jnm63t06edhxgm/LUg19.zip LU G19 LCD Host Plugin] 
