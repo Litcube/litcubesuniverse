@@ -29,6 +29,8 @@ The Saturn Complex Hub must be fitted with all of the stations as would a regula
 
 = How do I set up my Saturn Complex Hub? =
 
+_Keep in mind, there's a hotkey for a SCH Calculator that you can set. From here you can play around with all sizes of SCHs and see what the expected cost to setup your SCH will be (All without actually purchasing a SCH)_
+
 Fly a TL to Saturn 3. Dock at the shipyard in that sector. You'll see a whole load of Saturn Complex Hubs for sale. The number after the sale item is the "production" of the module itself. As a reference, M sized factories would be the equivalent of a Saturn Complex Hub 002, and an L sized factory would be the equivalent of a Saturn Complex Hub 005. They go all the way up to 400. Once deployed from your TL's cargo hold as you would a regular factory in a sector of your choosing (preferably with a lot of scanned asteroids, and I recommend an asteroid moving/combining script), select the command "Saturn Hub Console" under the command console of the station. A new, un-configured Saturn CH console looks like this: 
 
 http://www.mediafire.com/convkey/8fb8/98nbeyn998hntc8fg.jpg
