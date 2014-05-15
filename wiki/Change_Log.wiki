@@ -1,6 +1,12 @@
 #summary Change Log (History)
 
 = Change Log =
+
+----
+= Version 1.0.4 ==
+=== May, 15, 2014 ===
+   * Patch contains all previous changes from 1.0.1 up.
+   * Changed version display.
 ----
 = Version 1.0.3 ==
 === May, 12, 2014 ===
