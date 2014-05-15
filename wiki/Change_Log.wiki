@@ -20,7 +20,3 @@
 === May, 11, 2014 ===
   * Release
 ----
-
-<br/>
-----
-_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_
