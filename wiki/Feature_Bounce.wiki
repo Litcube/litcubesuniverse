@@ -19,8 +19,3 @@ Bounce in LU is simpler for you, the player.  It's on by default in the game opt
   * Bounce now works on AI ships as well as player ships.
   * The thing where the old bounce would make your ships invincible when there were no enemies in sight, that thing doesn't happen anymore.  There's no invincible bullshit anymore.
   * Bounce is faster.  You can turn it off if you're a dipshit, but essentially, there's negligible performance impact.
-
-
-----
-_[https://code.google.com/p/litcubes-universe/wiki/04_Features Up]_  . 
-_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
