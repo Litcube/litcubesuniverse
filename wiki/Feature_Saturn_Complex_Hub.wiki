@@ -85,7 +85,3 @@ Trading System Extension
 Once you've picked these up, dock the TL at the Saturn Complex Hub. You can then select the blue colour items to install the stations from your TL into the hub. Next, install the asteroids (purple wares). 
 
 If everything in this pane is green, and you see the "Engage", you're ready to produce. Hit engage, and the Saturn Complex Hub will start pumping out wares. 
-
-----
-_[https://code.google.com/p/litcubes-universe/wiki/04_Features Up]_ . 
-_[https://code.google.com/p/litcubes-universe/wiki/Index Top]_ 
