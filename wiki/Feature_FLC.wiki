@@ -2,7 +2,7 @@
 
 = FLC =
 
-F.L.C. stands for Fightrank Loot Chance.  It's shows as a percentage, which is the chance that an item on a ship will be dropped in a container as opposed to being destroyed with the ship.
+F.L.C. stands for Fightrank Loot Chance.  It's demonstrated as a percentage, which is the chance that an item on a ship will be dropped in a container as opposed to being destroyed with the ship.
 
 This chance is checked per component on the ship.  So if you just popped a pirate M5 that had 6 IREs, and your FLC is 1.2%, there's a 1.2% chance for _each_ IRE that it'll be dropped as loot.
 
