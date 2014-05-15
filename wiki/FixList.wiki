@@ -12,16 +12,12 @@
 
   * Two trading stations in Black Hole Sun?  Intentional?
 
-  * The goddamn version still says 1.0.0
+  * Place station mission briefing is broken.
 
 == Pending ==
-
-  * ~~Add TL auto station shopping instructions to SCH wiki~~ -rocky (DONE/Sinnerman)
 
   * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
 
   * Can't find GoD (on the major features page, if you look to the left where you can quick select the categories, GoD is missing)
-
-  * Clicking the TOP hyperlink at the bottom of any page on the wiki takes you to the top of the old wiki, not this one. It's quite jarring.
 
 == Rejected == 
