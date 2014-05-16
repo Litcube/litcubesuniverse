@@ -15,7 +15,6 @@
   * Two trading stations in Black Hole Sun?  Intentional?
 
   * Place station mission briefing is broken.
-            Couldn't replicate issue -Rocky
 
 == Pending ==
 
