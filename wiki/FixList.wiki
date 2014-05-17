@@ -16,6 +16,8 @@
 
   * Place station mission briefing is broken.
 
+  * Some weird behaviour with missions.
+
 == Pending ==
 
   * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
