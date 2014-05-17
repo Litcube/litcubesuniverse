@@ -4,7 +4,7 @@
 
 The MLCC is a system providing you a whole suit of features that enable you to automate outfitting, fuelling, and carrying out predefined attack strategies.
 
-To use the MLCC, you require a dock owned by you.  You install the MLCC suite through commands menu on the dock itself.  After that you're able to bring up the MLCC setup menu which is hotkey initiated.
+To use the MLCC, you require a dock owned by you (There are two uniquely named shipyards for sale, one for smaller MLCC ships and one to dock larger ships).  You install the MLCC suite through commands menu on the dock itself.  After that you're able to bring up the MLCC setup menu which is hotkey initiated.
 
 Once you have an MLCC station, you will be able to set various rules for how your fleets are auto managed.  There's 4 parts:
   * Sorties
