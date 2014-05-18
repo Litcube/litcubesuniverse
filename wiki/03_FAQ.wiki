@@ -42,7 +42,7 @@ Tahlmorra put together this awesome guide on how to get the skin working:
 Also, see: [Feature_Dashboards].  
 <br/>
 ----
-=== I think I found a game-breaking bug (crash, lockup, or property loss). How do I report it? ===
+=== I think I found a game-breaking bug. How do I report it? ===
   # Find or create a saved game that demonstrates the bug. Rename it to include your initials or name.
   # Post is to the special Saved Games folder: [https://www.mediafire.com/folder/ew1zdee11cgd2/Saved_Games_For_Debug Saved Games for Debug]
   # Check your game folder for x3crash.log. If it exists, change the name to include your initials or name and uploaded it to the same Saved Games for Debug folder.
