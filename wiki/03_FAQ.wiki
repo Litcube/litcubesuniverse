@@ -234,11 +234,6 @@ They will make about half of their trades in half the time. So like a 25% increa
 They don't randomly spawn.  If you place satellites in a sector, you'll have a better chance to spot them.  There's also a [Feature_Hotkeys  hotkey] that can auto target abandoned ships but only if it's within scanner range of any of your property.
 
 
-<br/>
-----
-== Factories, Complexes, and the Economy ==
-----
-
 == OCV (Revelations) Q&A ==
 
 _See Also: [Feature_Revelation]_
