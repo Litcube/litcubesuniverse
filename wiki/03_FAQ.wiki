@@ -236,7 +236,6 @@ They don't randomly spawn.  If you place satellites in a sector, you'll have a b
 
 <br/>
 ----
-
 == Factories, Complexes, and the Economy ==
 ----
 
