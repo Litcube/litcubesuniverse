@@ -18,6 +18,8 @@
 
   * Some weird behaviour with missions.
 
+  * Spelling mistakes in 8383
+
 == Pending ==
 
   * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
