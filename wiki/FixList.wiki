@@ -22,8 +22,6 @@
 
 == Pending ==
 
-  * [03_FAQ#Factories,_Complexes,_and_the_Economy Factories Complexes, and the Economy] is an orphan
-
   * Can't find GoD (on the major features page, if you look to the left where you can quick select the categories, GoD is missing)
 
 == Rejected == 
