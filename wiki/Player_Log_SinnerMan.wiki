@@ -7,3 +7,5 @@ NEW PLAYTHROUGH with v1.0!
 
 
 --------------
+
+SCH Advanced Parameters - Import/Export Threshold explanations
