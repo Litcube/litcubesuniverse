@@ -70,7 +70,7 @@ So as stated above, you're going to have to fill your TL up with the required st
 
 *Alternatively, you can have any owned TL do the shopping for your SCH automatically. Make sure the following conditions are met:
 
-Enough credits at your PHQ for the Complex you're shopping for (or player account if you don't have a HQ)
+Enough credits at your TL's home port (Or your player account if the TL doesn't have a homebase set)
 
 TL Sized Ship
 
