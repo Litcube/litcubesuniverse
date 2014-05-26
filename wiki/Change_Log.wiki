@@ -5,6 +5,8 @@
 ----
 = Version 1.0.5 ==
 === May, XX, 2014 ===
+  * Patch contains all previous changes from 1.0.1 and up
+
   * Fixed: some spelling errors
   * Fixed: non-transporter device collect wares in sector only collecting 1 ware, then idling
   * Fixed: build station briefing
@@ -16,22 +18,22 @@
 ----
 = Version 1.0.4 ==
 === May, 15, 2014 ===
-   * Patch contains all previous changes from 1.0.1 up.
-   * Changed version display.
+   * Patch contains all previous changes from 1.0.1 and up
+   * Changed version display
 ----
 = Version 1.0.3 ==
 === May, 12, 2014 ===
-   * Patch contains all previous changes from 1.0.1 up.
+   * Patch contains all previous changes from 1.0.1 and up
    * Added docking music.
 ----
 = Version 1.0.2 ==
 === May, 12, 2014 ===
-   * Patch contains all previous changes from 1.0.1 up.
-   * Fixed Tships test issue (Aamon super ship).
+   * Patch contains all previous changes from 1.0.1 and up
+   * Fixed: Tships test issue (Aamon super ship).
 ----
 = Version 1.0.1 ==
 === May, 12, 2014 ===
-   * Fixed read text error for lasers.
+   * Fixed: read text error for lasers.
 ----
 = Version 1.0.0 ==
 === May, 11, 2014 ===
