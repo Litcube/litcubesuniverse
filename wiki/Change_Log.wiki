@@ -8,6 +8,7 @@
   * Fixed some spelling errors.
   * Fixed non-transporter device collect wares in sector only collecting 1 ware, then idling.
   * Build station briefing fixed.
+  * Mandalay description fixed.
 
 ----
 = Version 1.0.4 ==
