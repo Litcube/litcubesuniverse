@@ -5,11 +5,12 @@
 ----
 = Version 1.0.5 ==
 === May, XX, 2014 ===
-  * Fixed some spelling errors.
-  * Fixed non-transporter device collect wares in sector only collecting 1 ware, then idling.
-  * Build station briefing fixed.
-  * Mandalay description fixed.
-  * Jumping with carried ships forcing ship to fly through gates fixed
+  * Fixed: some spelling errors
+  * Fixed: non-transporter device collect wares in sector only collecting 1 ware, then idling
+  * Fixed: build station briefing
+  * Fixed: mandalay description
+  * Fixed: jumping with carried ships forcing ship to fly through gates
+  * Fixed: Carrier Command Software was allowing too many ships to dock
 
 ----
 = Version 1.0.4 ==
