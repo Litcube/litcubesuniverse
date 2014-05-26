@@ -4,6 +4,10 @@
 
 ----
 = Version 1.0.4 ==
+=== May, XX, 2014 ===
+  * Fixed some spelling errors.
+----
+= Version 1.0.4 ==
 === May, 15, 2014 ===
    * Patch contains all previous changes from 1.0.1 up.
    * Changed version display.
