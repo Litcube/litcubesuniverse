@@ -14,8 +14,6 @@
 
   * Some weird behaviour with missions.
 
-  * Spelling mistakes in 8383
-
 == Pending ==
 
 == Rejected == 
