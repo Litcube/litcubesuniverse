@@ -11,6 +11,7 @@
   * Fixed: mandalay description
   * Fixed: jumping with carried ships forcing ship to fly through gates
   * Fixed: Carrier Command Software was allowing too many ships to dock
+  * Fixed: 'wait past station chan' debug log removed
 
 ----
 = Version 1.0.4 ==
