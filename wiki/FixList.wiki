@@ -6,10 +6,6 @@
 
 == Accepted == 
 
-  * Check the collect wares command (non-quickshuttle version)
-        (I had this exact problem with my playership in beta, 
-         but I thought it was fixed. Related bug, perhaps? -rocky)
-
   * When using the special command software to auto collect an astronaut, my ship either slows to 7 mps or 1. It can take over an hour if you are more than 4k from target.
 
   * Two trading stations in Black Hole Sun?  Intentional?
