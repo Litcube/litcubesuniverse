@@ -22,6 +22,4 @@
 
 == Pending ==
 
-  * Can't find GoD (on the major features page, if you look to the left where you can quick select the categories, GoD is missing)
-
 == Rejected == 
