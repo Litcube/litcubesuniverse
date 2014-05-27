@@ -17,6 +17,7 @@
   * Fixed: After considering a specific bug, big TS ships back to XL cargo classes.  TLs need a place
   * Fixed: Argon Mammoth sold at Family Pride shipyard removed
   * Fixed: Vulture Prototype rear turret only mounted repair laser
+  * Fixed: Dock Agents now play nice together.  Dock agents won't buy the same ware at the same time, and won't overstock (unless flagged to)
 ----
 = Version 1.0.4 ==
 === May, 15, 2014 ===
