@@ -9,7 +9,7 @@
   * Fixed: some spelling errors
   * Fixed: non-transporter device collect wares in sector only collecting 1 ware, then idling
   * Fixed: build station briefing
-  * Fixed: mandalay description
+  * Fixed: Mandalay description
   * Fixed: jumping with carried ships forcing ship to fly through gates
   * Fixed: Carrier Command Software was allowing too many ships to dock
   * Fixed: "wait past station chan" debug log removed
