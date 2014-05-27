@@ -14,6 +14,7 @@
   * Fixed: Carrier Command Software was allowing too many ships to dock
   * Fixed: "wait past station chan" debug log removed
   * Fixed: Reap shuttle wasn't set correctly, giving you an error tone.  Reset your reap shuttle in player console.
+  * Fixed: After considering a specific bug, big TS ships back to XL cargo classes.  TLs need a place.
 ----
 = Version 1.0.4 ==
 === May, 15, 2014 ===
