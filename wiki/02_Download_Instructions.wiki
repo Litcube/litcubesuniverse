@@ -11,7 +11,7 @@ Download the installer here:
 = Patch = 
 ----
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.0.4.exe Patch: Litcube's Universe V1.0.4]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.0.5.exe Patch: Litcube's Universe V1.0.5]
 
 [Change_Log Change log]
 ----
