@@ -2,8 +2,8 @@
 
 = Change Log =
 ----
-= Version 1.0.7 : Not Yet Released =
-=== May, XX, 2014 ===
+= Version 1.0.7 =
+=== May, 28, 2014 ===
   * _*This patch required an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_
   * _Patch contains all previous changes from 1.0.1 and up_
   * Fixed: logbook number spam
