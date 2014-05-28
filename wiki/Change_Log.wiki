@@ -3,7 +3,7 @@
 = Change Log =
 
 = Version 1.0.6 : Not Yet Released=
-=== May, 27, 2014 ===
+=== May, xx, 2014 ===
   * _Patch contains all previous changes from 1.0.1 and up_
   * Fixed: Station Agent not resetting properly when new script version detected (resets to manage, always).
 ----
