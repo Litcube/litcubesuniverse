@@ -1,10 +1,17 @@
 #summary Change Log (History)
 
 = Change Log =
+
+----
+= Version 1.1.0 =
+=== May, 28, 2014 ===
+  * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_
+  * _Patch contains all previous changes from 1.0.1 and up_
+  * _Really_ sorry I had to do this, but this patch is necessary to maintain future compatibility with 3rd party export/import shit.
 ----
 = Version 1.0.7 =
 === May, 28, 2014 ===
-  * _*This patch required an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_
+  * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_
   * _Patch contains all previous changes from 1.0.1 and up_
   * Fixed: logbook number spam
   * Fixed: serious issue with UT signals; bug is very rare, but problematic
