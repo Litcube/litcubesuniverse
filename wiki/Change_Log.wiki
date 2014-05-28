@@ -4,7 +4,7 @@
 ----
 = Version 1.1.0 : Not Yet Released =
 === May, XX, 2014 ===
-  * _*This patch required an import/export to fix known issues*_
+  * _*This patch required an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_
   * _Patch contains all previous changes from 1.0.1 and up_
   * Fixed: Logbook number spam
 ----
