@@ -7,10 +7,11 @@
   * _*This patch required an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_
   * _Patch contains all previous changes from 1.0.1 and up_
   * Fixed: logbook number spam
-  * Fixed: serious issue with UT signals.  Bug is very rare, but problematic.
-  * Fixed: dock agent, station agent, UT attacked scripts now stop when they've been re-purposed.
-  * Fixed: deploy satellite center config shouldn't re-place center sats anymore.
-  * Fixed: station agent may switch to _manage_ after being attacked.
+  * Fixed: serious issue with UT signals; bug is very rare, but problematic
+  * Fixed: dock agent, station agent, UT attacked scripts now stop when they've been re-purposed
+  * Fixed: deploy satellite center config shouldn't re-place center sats anymore
+  * Fixed: station agent may switch to _manage_ after being attacked
+  * Fixed: deploy satellite menu debug spam removed
 ----
 = Version 1.0.6 =
 === May, 27, 2014 ===
