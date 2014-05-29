@@ -163,6 +163,14 @@ See: [Feature_Carrier_Command_Software Feature: Command Software Update]
 
 ----
 
+=== Marine Combat Training ===
+
+You can train marines for combat
+
+See: [Feature_Marine_Combat_Training Feature: Marine Combat Training]
+
+----
+
 === Supply Command Software Updated ===
 
 The Supply Command Software has a few changes.  It's easier to navigate the menus, and it will allow you to outfit your ships using templates.
