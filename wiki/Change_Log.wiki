@@ -2,6 +2,17 @@
 
 = Change Log =
 
+=== Legend ===
+  * 1 = Very minor
+  * 2 = Minor
+  * 3 = Average
+  * 4 = Critical
+  * 5 = Seriously Fucking Critical
+----
+= Version 1.1.1 =
+=== May, 28, 2014 ===
+  * _Patch contains all previous changes from 1.0.1 and up_
+  * (1) Fixed: Revelation message was displaying as null
 ----
 = Version 1.1.0 =
 === May, 28, 2014 ===
