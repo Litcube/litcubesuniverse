@@ -44,7 +44,7 @@ Weapon cost was redone, and rounded to the nearest denomination of ware relval. 
 
 Missiles in LU are faster, hit harder, and some are more durable against defence.  They will likely frustrate the hell out of you early game.  This is intentional.  In the early game, you have no backup.  You suck.  You're in a single ship, and you want to take on the world.  Until you get back up, maybe get an M7 to protect you (it'll fire mosquitos at incoming missiles).
 
-Rational: Missile cost money.  So why would you use them if they did the same damage as your laser weapon?
+Rational: Missiles cost money.  So why would you use them if they did the same damage as your laser weapon?
 
 You'll notice colours.  The icon colour matches the trail colour.  Colour represents their damage output.
 
