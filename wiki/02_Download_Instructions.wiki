@@ -12,7 +12,7 @@ Download the installer here:
 ----
 Read the [Change_Log Changelog] before you patch.  If you run into problems and didn't read it, fuck you.
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.1.0.exe Patch: Litcube's Universe V1.1.0]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.1.1.exe Patch: Litcube's Universe V1.1.1]
 
 [Change_Log Change log]
 ----
