@@ -12,7 +12,9 @@ My goal in creating this plugin was to create some life in the Universe that car
 
 This AL Plugin can represent a challenge, especially in later levels, as The Phanon Coporation will steal trade opportunities, and actively hunt and destroy your ships and factories with M6 / M7 led fleets. As they gain more money, they will purchase capital ships to guard their HQ. Especially in later generations, the HQ can be difficult to destroy, as the sector will be well fortified. 
 
-If you want quick action, this script isn't for you; it was intended to be started at the same time as a player as a means to incite the player to get moving on creating his empire. Because if you don't, The Phanon Corporation will. And eventually, they will take over; but at a non-cheating pace. It can take just as much time for The Phanon Corporation's subsidiaries to build an empire as a player in the early generations. However, disturb them (kill their corvettes, cap their traders), and this progress will obviously slow. 
+If you want quick action, this script isn't for you; it was intended to be started at the same time as a player as a means to incite the player to get moving on creating his empire. Because if you don't, The Phanon Corporation will. And eventually, they will take over; but at a non-cheating pace. It can take just as much time for The Phanon Corporation's subsidiaries to build an empire as a player in the early generations. However, disturb them (kill their corvettes, cap their traders), and this progress will obviously slow.
+
+It's been mentioned that the Phanon Corporation start out with a cash injection that is larger than the player's.  This is true.  If the Phanon started with a single M5 and 3,000 credits, it'd be a pretty anti-climactic game-play element.  Until I can implement multiple corporations, the Phanon Corporation will have to start out with an advantage.
 
 == What's The Phanon Corporation Like in LU? ==
 
