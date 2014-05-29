@@ -15,6 +15,7 @@
   * (1) Fixed: Revelation message was displaying sector as null
   * (1) Fixed: Fighter was listed twice in ERD description
   * (2) Fixed: Description incorrect for Marine Combat Training command; was erroneously stated training outpost required when it's actually a military outpost
+  * Changed:  Marine Training command and description and moved text to t file.
 ----
 = Version 1.1.0 =
 === May, 28, 2014 ===
