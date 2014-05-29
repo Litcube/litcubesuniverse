@@ -52,6 +52,6 @@ http://www.mediafire.com/convkey/b313/m4qz5z2vj5d5lq4fg.jpg
 
 
 
-== Balance Theory: Factory pricing ==
+== Balance Theory: Factory Pricing ==
 
 All player owned factories are a function of their respective product's price.  To a small exponent, the more the product costs, the more the factory costs.
