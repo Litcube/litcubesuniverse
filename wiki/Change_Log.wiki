@@ -9,8 +9,8 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 ----
-= Version 1.1.1 =
-=== May, 28, 2014 ===
+= Version 1.1.1 : Not Yet Released =
+=== XXX, XX, 2014 ===
   * _Patch contains all previous changes from 1.0.1 and up_
   * (1) Fixed: Revelation message was displaying as null
 ----
