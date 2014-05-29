@@ -1,0 +1,9 @@
+#summary You can train marines for combat.
+
+= Marine Combat Training =
+
+With marines aboard a TL, M7, M1, or M2 class vessel, this command will enable the training of on-board marine's combat ability provided the ship is docked at a military outpost facility.  Once the command starts, eligible marines will attend a class that takes roughly 5 hours.  After this time, details of the training will be reported.
+
+The training can make use of either Disintegrator Rifles, Low-yield Sidearms, or Terran EMP Rifles in the cargo bay of the ship.  The weapons, through heavy use, are often broken and discarded.  The more variety between the three weapons, the faster the marines will train.  Training can be take place without the marine weapons, but at a much slower pace.
+
+The host military outpost requires payment for the use of its facilities; payment varies with the combat experience of the marine, which will automatically be withdrawn from the ship's account.  Payment for highly skilled marines can reach up to 1 million credits per class.
