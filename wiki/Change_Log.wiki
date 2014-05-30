@@ -8,14 +8,19 @@
   * 3 = Average
   * 4 = Critical
   * 5 = Seriously Fucking Critical
+
+----
+= Version 1.1.2 =
+=== May, 29, 2014 ===
+  * _Patch contains all previous changes from 1.0.1 and up_
+  * (4) Fixed: Trade Run: Sell could crash when selling energy cells
 ----
 = Version 1.1.1 =
-=== May, 28, 2014 ===
+=== May, 29, 2014 ===
   * _Patch contains all previous changes from 1.0.1 and up_
   * (1) Fixed: Revelation message was displaying sector as null
   * (1) Fixed: Fighter was listed twice in ERD description
   * (-) Upgraded:  Marine Training command overhauled
-
 ----
 = Version 1.1.0 =
 === May, 28, 2014 ===
