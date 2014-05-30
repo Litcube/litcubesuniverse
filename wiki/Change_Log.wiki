@@ -16,6 +16,8 @@
   * _Patch contains all previous changes from 1.0.1 and up_
   * (2) Fixed: Pirate penatron description text added.
   * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
+  * (1) Fixed: Quickshuttle typo in hotkeys.  Won't change until an import/export, but very minor.
+
 ----
 = Version 1.1.2 =
 === May, 29, 2014 ===
