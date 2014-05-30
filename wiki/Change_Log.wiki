@@ -9,6 +9,12 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+
+----
+= Version 1.1.4 : Not Yet Released =
+=== X, X, 2014 ===
+  * _Patch contains all previous changes from 1.0.1 and up_
+  * (2) Fixed: Pirate penatron description text added.
 ----
 = Version 1.1.2 =
 === May, 29, 2014 ===
