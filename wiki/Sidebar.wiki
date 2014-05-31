@@ -14,6 +14,7 @@
     * [Feature_Encyclopedia_Update Encyclopedia Update]
     * [Feature_Export_Import Export/Import]
     * [Feature_FLC FLC]
+    * [Feature_GoD_Changes GoD Changes]
     * [Feature_GUI GUI]
     * [Feature_Hotkeys Hotkeys]
     * [Feature_Jumpgate_Quantifier Jumpgate Quantifier]
