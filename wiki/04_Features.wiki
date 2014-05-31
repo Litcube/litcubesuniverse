@@ -92,8 +92,11 @@ See: [Feature_FLC Feature: FLC]
 
 ----
 
-=== GoD has changed a bit ===
+=== GoD Changes ===
 
+GoD has changed a bit.
+
+See: [Feature_God_Changes Feature: GoD Changes]
 
 ----
 
