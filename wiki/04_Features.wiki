@@ -94,14 +94,6 @@ See: [Feature_FLC Feature: FLC]
 
 === GoD has changed a bit ===
 
-_(GoD is a German acronym for "Global Decision Engine")_
-
-Ships no longer spawn out of thin air.  They will spawn only in their respective race's shipyards.
-
-Stations are only being built from TL's in nearest owned sector
-and they have to travel to get there. All AI ships spawn in shipyards.  TLs will build station anywhere in the universe, but they do need to travel there, yes.
-
-No GoD spontaneous station spawns as well as no spontaneous ship spawn.
 
 ----
 
