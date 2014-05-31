@@ -14,7 +14,7 @@ See: [Feature_Balance Feature: Balance]
 
 === Bounce ===
 
-Bounce, the AI "fix" that reduces unintended collisions, is better than ever in LU. It works automatically, is on by default, and no longer requires wall files.
+Bounce mitigates ships running into stuff.
 
 See: [Feature_Bounce Feature: Bounce]
 
