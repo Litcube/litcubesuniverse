@@ -14,13 +14,15 @@
 = Version 1.1.3 : Not Yet Released =
 === X, X, 2014 ===
   * _Patch contains all previous changes from 1.0.1 and up_
-  * (2) Fixed: Pirate penatron description text added.
-  * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
-  * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
+  * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
+  * (2) Fixed: Pirate penatron description text added.
+  * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
+  * (1) Fixed: Constaculating the influxuation of depesthetic congluancies no longer runs until an import is finished
   * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
   * (-) Upgraded: Supply Command Software now able to provide equipment wares
   * (-) Upgraded: Export/Import now saves Phanon Corporation's current sector
+ 
  
 
 ----
