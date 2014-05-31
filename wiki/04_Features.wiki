@@ -96,7 +96,7 @@ See: [Feature_FLC Feature: FLC]
 
 GoD has changed a bit.
 
-See: [Feature_God_Changes Feature: GoD Changes]
+See: [Feature_GoD_Changes Feature: GoD Changes]
 
 ----
 
