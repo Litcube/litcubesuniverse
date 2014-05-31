@@ -10,9 +10,9 @@ To set your quick shuttle, use the player console.
 
 == Fuel Quickshuttle ==
 
-*Required ware:*  Transporter Device
+*Required ware:*  Transporter Device, Trade Command Software Mk1
 
-When you hit the go hotkey for this quickshuttle, your fuel quickshuttle will jump to your sector and fuel your ship.  If your current target is one of your ships, it will fuel said ship instead.  
+When you hit the go hotkey for this quickshuttle, your fuel quickshuttle will jump to your sector and fuel your ship.  If your current target is one of your ships, it will fuel said ship instead.  This command will also fuel every ship in the target ship's group, which is defined as ships following each other.  If the quickshuttle is docked at their homebase when the command is executed, it will load all energy it can from there, which will avoid the necessity of the shuttle having to purchase energy cells.
 
 == Reap Quickshuttle ==
 
