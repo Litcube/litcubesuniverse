@@ -16,7 +16,9 @@
   * _Patch contains all previous changes from 1.0.1 and up_
   * (2) Fixed: Pirate penatron description text added.
   * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
-  * (1) Fixed: Quickshuttle typo in hotkeys.  Won't change until an import/export, but very minor.
+  * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
+  * (3) Fixed: Trading would sometimes return no station found for equipment wares
+  * (-) Upgrades: Quickshuttle Fuel rewritten; wiki updated
 
 ----
 = Version 1.1.2 =
