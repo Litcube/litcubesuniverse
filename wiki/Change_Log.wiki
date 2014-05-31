@@ -18,7 +18,8 @@
   * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
   * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
-  * (-) Upgrades: Quickshuttle Fuel rewritten; wiki updated
+  * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
+  * (-) Upgraded: Supply Command Software now able to provide equipment wares
 
 ----
 = Version 1.1.2 =
