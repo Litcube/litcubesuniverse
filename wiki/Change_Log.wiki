@@ -20,6 +20,8 @@
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
   * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
   * (-) Upgraded: Supply Command Software now able to provide equipment wares
+  * (-) Upgraded: Export/Import now saves Phanon Corporation's current sector
+ 
 
 ----
 = Version 1.1.2 =
