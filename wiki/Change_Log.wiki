@@ -22,8 +22,9 @@
   * (2) Fixed: Export/Import starts sector traders properly
   * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
   * (1) Fixed: Constaculating the influxuation of depesthetic congluancies no longer runs until an import is finished
-  * (1) Changed: station allow NPC trading flag name to "Station is open for trading" to better reflect its purpose in LU
-  * (1) Changed: Station Agent class changed to freighter
+  * (-) Changed: station allow NPC trading flag name to "Station is open for trading" to better reflect its purpose in LU
+  * (-) Changed: Station Agent class changed to freighter
+  * (-) Changed: fuel quickshuttle now requires supply command software
   * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
   * (-) Upgraded: Supply Command Software now able to provide equipment wares
   * (-) Upgraded: Export/Import speed slightly optimized
