@@ -1,4 +1,4 @@
-#summary GoD has changes a bit.
+#summary GoD has changed a bit.
 
 = GoD Changes =
 
