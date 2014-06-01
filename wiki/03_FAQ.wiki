@@ -33,10 +33,10 @@ Also, see: [Feature_Dashboards].
  
 === I think I found a game-breaking bug. How do I report it? ===
 
-  # Find or create a saved game that demonstrates the bug. Rename it to include your initials or name.
-  # Post is to the special Saved Games folder: [https://www.mediafire.com/folder/ew1zdee11cgd2/Saved_Games_For_Debug Saved Games for Debug]
-  # Check your game folder for x3crash.log. If it exists, change the name to include your initials or name and uploaded it to the same Saved Games for Debug folder.
-  # Report the conditions in the LU Testing channel or your Player Log.
+    # Find or create a saved game that demonstrates the bug. Rename it to include your initials or name.
+    # Post is to the special Saved Games folder: [https://www.mediafire.com/folder/ew1zdee11cgd2/Saved_Games_For_Debug Saved Games for Debug]
+    # Check your game folder for x3crash.log. If it exists, change the name to include your initials or name and uploaded it to the same Saved Games for Debug folder.
+    # Report the conditions in the LU Testing channel or your Player Log.
 
 ----
 == Comparisons ==
