@@ -2,7 +2,7 @@
 
 = Stock Exchange =
 
-The stock exchange in LU has changed, but you're still required to unlock the individual stock exchanges just as you would in vanilla.
+The stock exchange in LU has changed, but you're still required to unlock the individual stock exchanges just as you would in vanilla.  The more stock exchanges you unlock, the more stocks you'll have access to.  Each stock exchange has its own stock listings.
 
 Once you've unlocked a stock exchange, the context menu item _view local stock exchange_ on the station itself will be enabled.  The exchange that you've unlocked will also become available in the stock exchange menu brought up with the stock exchange hotkey.  Both methods bring up the exact same menu.
 
@@ -13,7 +13,6 @@ So now, the stock exchange is random.  Stocks you buy may go up, they may go dow
 The stock names, prices, capacities, quantities, variability, are all generated on a new game start.  They'll be different in every game.  Different races have different types of stock values, and stock quantities.  For example, Teladi are high risk/high gain, Boron are safest, you need to be fucking rich to trade in the Terran exchange.
 
 As the menu states, you'll pay 2% on purchases and sales of all stock.  This tariff isn't reflected in the menu slider, but it's applied to the sale or purchase after confirmation.
-
 
 === The Menu ===
 
