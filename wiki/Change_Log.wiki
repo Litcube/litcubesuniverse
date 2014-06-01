@@ -25,7 +25,9 @@
   * (1) Changed: station allow NPC trading flag name to "Station is open for trading" to better reflect its purpose in LU
   * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
   * (-) Upgraded: Supply Command Software now able to provide equipment wares
+  * (-) Upgraded: Export/Import speed slightly optimized
   * (-) Upgraded: Export/Import now saves Phanon Corporation's current sector
+  * (-) Upgraded: Export/Import now imports mineral mine stations properly
  
  
 
