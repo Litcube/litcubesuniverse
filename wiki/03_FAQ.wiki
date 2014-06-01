@@ -7,7 +7,7 @@
 == Common ==
 ----
 
-=== Is XYZ mod compatible with LU? ===
+==== Is XYZ mod compatible with LU? ====
 
   I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there.(I mean, really, how the fuck am I supposed to know?  Install it, play it for a time, and report back to you?)"
 
