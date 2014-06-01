@@ -11,6 +11,8 @@ To use the MLCC, you require a dock owned by you (There are two uniquely named s
 The MLCC will handle your Dockware management from here on out.  The only wares that will be added to the Dockware Manager are wares your ships use.  Obviously ships have to be homebased to the MLCC dock in order for them to be managed (as with every other MLCC feature).  You still have the option for using sources within the Dockware Manager so that you can assign Freighters to ensure your MLCC dock is stocked for the dock's fleet.  See: [Feature_Dockware_Manager Dockware Manager]
 
 
+== Functionality ==
+
 Once you have an MLCC station, you will be able to set various rules for how your fleets are auto managed.  There's 4 parts:
   * Sorties
   * Ship Rules of Engagement
