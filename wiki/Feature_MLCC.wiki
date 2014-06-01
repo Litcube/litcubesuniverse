@@ -6,13 +6,18 @@ The MLCC is a system providing you a whole suit of features that enable you to a
 
 To use the MLCC, you require a dock owned by you (There are two uniquely named shipyards for sale, one for smaller MLCC ships and one to dock larger ships).  You install the MLCC suite through commands menu on the dock itself.  After that you're able to bring up the MLCC setup menu which is hotkey initiated.
 
+== Dockware Manager Integration ==
+
+The MLCC will handle your Dockware management from here on out.  The only wares that will be added to the Dockware Manager are wares your ships use.  Obviously ships have to be homebased to the MLCC dock in order for them to be managed (as with every other MLCC feature).  You still have the option for using sources within the Dockware Manager so that you can assign Freighters to ensure your MLCC dock is stocked for the dock's fleet.  See: [Feature_Dockware_Manager Dockware Manager]
+
+
 Once you have an MLCC station, you will be able to set various rules for how your fleets are auto managed.  There's 4 parts:
   * Sorties
   * Ship Rules of Engagement
   * Hangars
   * Missile Rule of Engagement
 
-==Sortie==
+== Sortie ==
 
   A *Sortie* is a single command through the MLCC menu.
 
@@ -20,7 +25,7 @@ Once you have an MLCC station, you will be able to set various rules for how you
 
   They will be smart.  There's math involved to ensure they stand a very good chance of winning the combat they choose.  They will smart jump; if the enemy is headed toward a gate, they'll jump to the enemy's targeted gate to intercept.
 
-==Configuration Menu==
+== Configuration Menu ==
 
 The main configuration window is as follows:
 
@@ -29,7 +34,7 @@ http://www.mediafire.com/convkey/c70b/iywkp8vgwuhok72fg.jpg
 It fields the configuration of ship rules of engagement and  missile rules of engagement.  You can also view your hangar settings from here.
 
 
-==Ship Rules of Engagement==
+== Ship Rules of Engagement ==
 
 http://www.mediafire.com/convkey/d519/9s0za0dsbr8nlc0fg.jpg
 
@@ -62,7 +67,7 @@ http://www.mediafire.com/convkey/93c7/ir8jyvrcncwv5awfg.jpg
 
   If the carrier in this example loses 30% of its starting fighters as set in the _casualty tolerance_, the carrier will call all remaining fighters and retreat.
 
-==Hangars:==
+== Hangars ==
 
   In our scenario above, you also had an Emeus, a nimble Teladi carrier ship with a hangar will of 22 Asps that each were equipped with IREs, 5MJ shields, and Wildfire missiles.  As you can see from the configuration image above, that Emeus had its hangar settings set to Air To Air Asp (a template made by you) and Otas McCallum Shipyard (your dock).  Your template looks like this in the _Template Manager_:
 
