@@ -1,11 +1,13 @@
 #summary Frequently Asked Questions (FAQ)
 
+
+----
 = Frequently Asked Question (FAQ) =
 
 <wiki:toc max_depth="3" />
 
-<br/>
 ----
+
 === Is XYZ mod compatible with LU? ===
 
 I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there.
@@ -233,7 +235,7 @@ They will make about half of their trades in half the time. So like a 25% increa
 
 They don't randomly spawn.  If you place satellites in a sector, you'll have a better chance to spot them.  There's also a [Feature_Hotkeys  hotkey] that can auto target abandoned ships but only if it's within scanner range of any of your property.
 
----
+----
 
 == OCV (Revelations) Q&A ==
 
