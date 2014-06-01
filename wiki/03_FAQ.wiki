@@ -12,9 +12,9 @@
  I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there.(I mean, really, how the fuck am I supposed to know?  Install it, play it for a time, and report back to you?)"
 
 === Can you make XYZ feature available as a standalone? ===
-
+{{{
 Fuck off.
-
+}}}
 === What wares do I need installed to enable XYZ command? ===
 
 Check the encyclopedia under [Feature_Encyclopedia_Update Software and equipment commands].
