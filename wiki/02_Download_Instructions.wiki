@@ -50,5 +50,6 @@ Read the shit when running the installer.  It's there for your protection.
 ----
 
   * X-Studio I custom syntax.  Just throw this in your X-Studio folder and it will read the syntax.
+  * _Updated June 1, 2014_
 
 [http://www.mediafire.com/download/pmyefy6xcmeveq2/XStudioCustom.Syntax.zip X-Studio Custom Syntax]
