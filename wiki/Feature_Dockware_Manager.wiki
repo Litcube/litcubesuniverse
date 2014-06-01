@@ -10,7 +10,7 @@ The command can be access through the context menu on the dock itself.  Either t
 
 The Dockware Manager allows the management of this system.  Through the three pages listed above, you'll be able to assign wares to the dock that you want to keep.
 
-==Page: Capacities==
+== Page: Capacities ==
 
 http://www.mediafire.com/convkey/7e5f/5oo205yvo35csz9fg.jpg
 
@@ -22,7 +22,7 @@ Highlighting an added ware and using arrow keys left and right, you're able to s
 
 If you want to set the capacity of an entire group of wares, first select the desired _ware group_.  Highlight the _set group capacity_ option.  Now use the arrows or keypad to set the desired capacity for the group (like the vanilla trade menu).  Hit enter, and the entire group of wares is added to your dockware manager at the chosen capacity.
 
-==Page: Sources==
+== Page: Sources ==
 
 http://www.mediafire.com/convkey/2f37/3ift757ud2477ihfg.jpg
 
@@ -30,7 +30,7 @@ The _sources_ page allows you to set optional sources for your added wares.  You
 
 You can also set a source to _buy_.  This will tell your Dock Agent that these wares should be purchased.  The Dock Agent will respect the prices in your dock's _adjust station parameters_ menu.  Make sure your dock has the required funds for these purchases.
 
-==Page: Thresholds==
+== Page: Thresholds ==
 
 http://www.mediafire.com/convkey/3d97/fgdrfyrgrm0185tfg.jpg
 
@@ -40,13 +40,13 @@ The _thresholds_ page allows you to set the minimum amount in stock at a source 
 
 The top portion of the menu has other options that are helpful for outfitting your ships using all these ware you're stocking.
 
-==Function: Order Licensing==
+== Function: Order Licensing ==
 
 http://www.mediafire.com/convkey/bec8/4o285ppo0m7p1j2fg.jpg
 
 From this menu, you can order equipment, software, and tunings.  Once purchased (gren), you'll be able to equip ships with these upgrades through the _upgrade ship_ menu.  In the example image above, you can see that this dock has purchased Best Buys Locator, Cargo Bay Extension, Fight Command Software MK1, among others.  Docked ships can now have these wares installed from here.  Licenses are purchased on a per dock basis.
 
-==Function: Template Outfit==
+== Function: Template Outfit ==
 
 http://www.mediafire.com/convkey/6891/428j75ei66t6os0fg.jpg
 
@@ -69,10 +69,15 @@ You'll see a list of ships here.  To equip a ship with the selected template, yo
 
 Provided they are licensed by your dock, all upgrades such as software and tunings are purchased using dock funds at the time of equipping through this menu.
 
-==Function: Upgrade Ship==
+== Function: Upgrade Ship ==
 
 http://www.mediafire.com/convkey/d4c3/yfiyzweiyybai1rfg.jpg
 
 As you've seen, through the _order licensing_ function, you're able to purchase licenses for this dock.  Using the _upgrade ship_ menu will allow you to install those wares onto your docked ships.  In the example image above, you'll see there's two ships docked.  The Nova is selected, and the menu shows that Remote System Control Software was just installed onto the ship.
+
+
+== Dockware Manager & the MLCC ==
+
+Note that a dock with the MLCC installed renders you unable to manipulate some functionality of the Dockware Manager.  This is very intentional.  The MLCC will automatically handle all wares through the Dockware Manager, though you do have the ability to assign sources to the automatically added wares.  See: [Feature_MLCC MLCC]
 
 
