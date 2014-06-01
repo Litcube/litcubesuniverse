@@ -16,6 +16,7 @@
   * _Patch contains all previous changes from 1.0.1 and up_
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
   * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
+  * (3) Fixed: 4 Terran weapon forges were not sold in Uranus as they should have been; map fix only on new start.
   * (2) Fixed: Pirate penatron description text added.
   * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
   * (1) Fixed: Constaculating the influxuation of depesthetic congluancies no longer runs until an import is finished
