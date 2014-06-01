@@ -31,6 +31,8 @@
   * (-) Upgraded: Export/Import speed slightly optimized
   * (-) Upgraded: Export/Import now saves Phanon Corporation's current sector
   * (-) Upgraded: Export/Import now imports mineral mine stations properly
+  * (-) Upgraded: Rearm rewritten
+  * (-) Upgraded: Refuel rewritten
  
  
 
