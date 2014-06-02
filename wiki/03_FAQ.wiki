@@ -19,9 +19,9 @@
 
   Check the encyclopedia under [Feature_Encyclopedia_Update Software and equipment commands].
 
-=== Where do I find XYZ ware?  Searched everywhere and I can't find it for sale ===
+=== Where do I find XYZ ware?  Searched everywhere. ===
 
-  [Feature_Trade_Product_Search Trade Product Search]
+  Sure you did.  [Feature_Trade_Product_Search Trade Product Search]
 
 === How the fuck do you get the Rainmeter skin to work? ====
 
