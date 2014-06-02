@@ -4,7 +4,7 @@
 
 The stock exchange in LU has changed, but you're still required to unlock the individual stock exchanges just as you would in vanilla.  The more stock exchanges you unlock, the more stocks you'll have access to.  Each stock exchange has its own stock listings.
 
-Once you've unlocked a stock exchange, the context menu item _view local stock exchange_ on the station itself will be enabled.  The exchange that you've unlocked will also become available in the stock exchange menu brought up with the stock exchange hotkey.  Both methods bring up the exact same menu.
+Once you've unlocked a stock exchange, the context menu item _view local stock exchange_ on the station itself will be enabled.  The exchange that you've unlocked will also become available in the stock exchange menu brought up with the stock exchange hotkey.  Both methods bring up the exact same menu.  However, if you're not in the same sector as the stock exchange, you're required to have player property present in the sector in order to access that particular stock exchange.
 
 Essentially, the stock exchange is now a relatively safe investment opportunity that isn't linked to any particular variable in the Universe.  In other words, you can no longer exploit it.  I just felt that, as a video game, the Universe isn't big enough, nor are there enough variables, to make exploitation of the exchange to be anything close to a fair game play advantage.  I mean, if the universe was filled with thousands of sectors with billions of wares, and you managed to exploit it, I would have kept the vanilla version.  But when you can buy all stock of a ware in _the entire known Universe_ and move from one sector to another, and call that exploiting the market... 
 
