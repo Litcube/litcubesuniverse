@@ -20,6 +20,7 @@
   * (2) Fixed: Pirate penatron description text added.
   * (2) Fixed: Export/Import no longer starts UT when it wasn't running the command
   * (2) Fixed: Export/Import starts sector traders properly
+  * (2) Fixed: Dockware Manager would show null% storage when capacity was set to 0
   * (1) Fixed: Quickshuttle typo in hotkeys; won't change until an import/export, but very minor
   * (1) Fixed: Constaculating the influxuation of depesthetic congluancies no longer runs until an import is finished
   * (1) Fixed: typo in SCH calculator
