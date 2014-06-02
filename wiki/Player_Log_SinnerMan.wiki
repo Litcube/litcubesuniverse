@@ -7,7 +7,3 @@ NEW PLAYTHROUGH with v1.0!
 
 
 --------------
-
-SCH Advanced Parameters - Import/Export Threshold explanations
-
-*BUG* QuickShuttles don't seem to be working....TS equiped with Transporter Device/Special MK1 and my PHQ as Homebase.....get no-go tone when using the hotkeys....
