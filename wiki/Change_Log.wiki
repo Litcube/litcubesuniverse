@@ -16,7 +16,8 @@
   * _Patch contains all previous changes from 1.0.1 and up_
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
   * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
-  * (3) Fixed: 4 Terran weapon forges were not sold in Uranus as they should have been; map fix only on new start.
+  * (3) Fixed: 4 Terran weapon forges were not sold in Uranus as they should have been; map fix only on new start
+  * (3) Fixed: Dockware Manager would not add wares with _set group_ in some circumstances
   * (2) Fixed: Pirate penatron description text added.
   * (2) Fixed: Export/Import no longer starts UT when it wasn't running the command
   * (2) Fixed: Export/Import starts sector traders properly
