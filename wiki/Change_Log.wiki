@@ -38,6 +38,7 @@
   * (-) Upgraded: Export/Import now saves turret command configurations
   * (-) Upgraded: Rearm rewritten
   * (-) Upgraded: Refuel rewritten
+  * (-) Upgraded: Stock exchange slider now maxes out at what you can afford
  
  
 
