@@ -30,6 +30,7 @@
   * (-) Changed: station allow NPC trading flag name to "Station is open for trading" to better reflect its purpose in LU
   * (-) Changed: Station Agent class changed to freighter
   * (-) Changed: fuel quickshuttle now requires supply command software
+  * (-) Changed: Carrier Command Software can now only be used by huge ships
   * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
   * (-) Upgraded: Supply Command Software now able to provide equipment wares
   * (-) Upgraded: Export/Import speed slightly optimized
