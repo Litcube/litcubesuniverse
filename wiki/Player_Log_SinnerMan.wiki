@@ -15,7 +15,7 @@ Currently, my PHQ is setup in Unknown Sector Epsilon. This is due to it's centra
 The PHQ will be my central storage location for all ship-building components, missiles, weapons, shields and resources of that nature. Ideally, it will be supplied by my own factories, with limited "Buy" items listed in the Dockware Manager.
 
 ==Current Employees==
-2x Dock Agents 
+2x Dock Agents (Dock Agent command)
 
 4x Freighters (Move Freight command)
 
