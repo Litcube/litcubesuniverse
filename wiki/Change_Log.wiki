@@ -49,6 +49,7 @@
   * (-) Upgraded: Stock exchange slider now maxes out at what you can afford
   * (-) Upgraded: Missile descriptions rewritten
   * (-) Upgraded: Tug now has ship stripping options
+  * (-) Upgraded: Add LU descriptions for lasers AKE, BKE, GKE, PBC, RL
  
  
 
