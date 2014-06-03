@@ -23,7 +23,7 @@ The PHQ will be my central storage location for all ship-building components, mi
 
 1x Tug (Tug command)
 
-1x Mobile-Mining Ship _"Fortune"_ (Drone Mine & Trade command)
+1x Mobile-Mining Ship _"Fortune"_ (Drone Mine & Trade command: Ore only)
 
 1x CLS (External Logistics command: Transports surplus ore from MMS _"Fortune"_ both while it is mining, as well as while it is selling) 
 
