@@ -4,7 +4,7 @@
 
 NEW PLAYTHROUGH with v1.0!
 
-
+_almost exclusively Terran playthrough_
 
 --------------
 
@@ -24,5 +24,9 @@ The PHQ will be my central storage location for all ship-building components, mi
 1x Tug
 
 1x Drone Miner (ORE)
+
+1x CLS 
+
+The Dock agents currently are only selling excess non-Terran equipment that my Reap shuttle brings in as well as Pie-rat ships that are stripped at the PHQ before being recycled.
 
 ==Saturn Complex Hubs==
