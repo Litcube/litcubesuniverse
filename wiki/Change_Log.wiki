@@ -30,8 +30,9 @@
   * (1) Fixed: Constaculating the influxuation of depesthetic congluancies no longer runs until an import is finished
   * (1) Fixed: typo in SCH calculator
   * (1) Fixed: spelling errors in several messages from Phanon and Revelation.
-  * (1) Fixed: spelling errors in Omicron Channel sector descriptions; you should read them.
-  * (1) Fixed: a few lasers still had _Betty_ descriptions
+  * (1) Fixed: spelling errors in Omicron Channel sector descriptions; you should read them
+  * (1) Fixed: a few lasers and ships still had _Betty_ descriptions; all are now stripped
+  * (1) Fixed: Nova Prototype description was missing
   * (-) Changed: station allow NPC trading flag name to "Station is open for trading" to better reflect its purpose in LU
   * (-) Changed: Station Agent class changed to freighter
   * (-) Changed: Fuel Quickshuttle now requires supply command software
