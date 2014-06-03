@@ -36,6 +36,7 @@
   * (-) Changed: Fuel Quickshuttle now requires supply command software
   * (-) Changed: Carrier Command Software can now only be used by huge ships
   * (-) Changed: Explorer Command Software added to two more docks
+  * (-) Changed: Completely removed repair laser from all turrets
   * (-) Upgraded: Quickshuttle Fuel rewritten; wiki updated
   * (-) Upgraded: Supply Command Software now able to provide equipment wares
   * (-) Upgraded: Export/Import speed slightly optimized
