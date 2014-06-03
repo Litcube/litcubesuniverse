@@ -10,7 +10,7 @@ _almost exclusively Terran playthrough_
 
 =Economy Setup=
 
-Currently, my PHQ is setup in Unknown Sector Epsilon. This is due to it's central location in the universe, as well as the abundance of natural mineral resources. Most of the large mineral formations have been miniaturized by a Hornet Missile equiped TS, leaving a wealth of Ore, Silicon and even some Nvidium available for 
+Currently, my PHQ is setup in Unknown Sector Epsilon. This is due to it's central location in the universe, as well as the abundance of natural mineral resources. Most of the large mineral formations have been miniaturized by a Hornet Missile equiped TS, leaving a wealth of Ore, Silicon and even some Nvidium available for collection.
 
 The PHQ will be my central storage location for all ship-building components, missiles, weapons, shields and resources of that nature. Ideally, it will be supplied by my own factories, with limited "Buy" items listed in the Dockware Manager.
 
