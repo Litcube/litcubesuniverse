@@ -28,6 +28,8 @@ The PHQ will be my central storage location for all ship-building components, mi
 1x CLS (Transports un-sold ore from MMS _"Fortune"_) 
 
 
-The Dock agents currently are only selling excess non-Terran equipment that my Reap shuttle brings in as well as Pie-rat ships that are stripped at the PHQ before being recycled.
+-The Dock agents currently are only selling excess non-Terran equipment that my Reap shuttle brings in as well as Pie-rat ships that are stripped at the PHQ before being recycled.
+
+-The mining operation is starting to get up to speed. The Drone miners mine minerals at an efficient rate, so the 4,000,000 sized cargo hold of MMS _"Fortune"_ gets filled up from empty in a few hours. All while the drones are mining, the CLS is running back and forth from MMS _"Fortune"_
 
 ==Saturn Complex Hubs==
