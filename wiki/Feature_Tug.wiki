@@ -10,7 +10,7 @@ The tug command is run on huge ships with a docking bay.  When run, the tug will
 
 The menu that displays prior to operation allows you to configure strip functionality.  Stripping is a command run on a ship that removes all of its wares and onto the ship/station where it's docked.  Often, a tug is used to collect derelict ships which are stripped anyway.
 
-Strip functionality:
+*Strip functionality*
 
   * None:  No stripping performed
   * At homebase: Upon the tugged ships landing at the homebase, they are stripped.
