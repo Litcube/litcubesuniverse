@@ -17,7 +17,7 @@ http://www.mediafire.com/convkey/ad17/4dfxbvlejvt43jbfg.jpg
 Calling for assistance is likely one of the first orders you'll issue your MLCC ships.  The command essentially calls your MLCC ships to assist you in battle and execute their orders.  The menu above shows a few options.  The first two items are rally options depicting the behaviour of how the MLCC ships will get to you.  The rest are sliders you can use to include or exclude the shiptypes from the assist call, which you'll need to set prior to hitting a rally option.
 
   * Rally: standard:  Ships will use normal autojump settings to get to you, jumping to the nearest available point
-  * Rally: jump beacon:  If your ship has a jump beacon on board, the ships will use it.  The jump beacon doesn't need to be deployed.  The resulting jumpin creates a giant wall formation in front of your ship, evenly spaced out, and all facing your direction, ready and waiting for your go code.
+ * Rally: jump beacon: If your ship has a jump beacon on board, the MLCC ships will use it. The jump beacon doesn't need to be deployed. The resulting jumpin creates a giant wall formation in front of your ship, evenly spaced out, and all facing the same direction as you are, ready and waiting for your go code.
 
 
 == Functionality & Orders ==
@@ -126,5 +126,3 @@ http://www.mediafire.com/convkey/3a02/51yh7x324b44dtkfg.jpg
   You can add as many target RoEs, per as many missiles, per as many ship types as you want.
 
   I found Discoverers loaded with fireflies attacking an M2 to be devastating.  Expensive as hell, but devastating.
-
-
