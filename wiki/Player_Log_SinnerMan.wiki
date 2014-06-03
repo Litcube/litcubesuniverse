@@ -23,9 +23,9 @@ The PHQ will be my central storage location for all ship-building components, mi
 
 1x Tug
 
-1x Mobile-Mining Ship _"Fortune"_
+1x Mobile-Mining Ship _"Fortune"_ (Running Drone Mine & Trade)
 
-1x CLS 
+1x CLS (Transports unsold Ore from MMS _"Fortune"_) 
 
 
 The Dock agents currently are only selling excess non-Terran equipment that my Reap shuttle brings in as well as Pie-rat ships that are stripped at the PHQ before being recycled.
