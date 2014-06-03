@@ -10,7 +10,7 @@ _almost exclusively Terran playthrough_
 
 =Economy Setup=
 
-Currently, my PHQ is setup in Unknown Sector Epsilon. This is due to it's central location in the universe, as well as the abundance of natural mineral resources. 
+Currently, my PHQ is setup in Unknown Sector Epsilon. This is due to it's central location in the universe, as well as the abundance of natural mineral resources. Most of the large mineral formations have been miniaturized by a Hornet Missile equiped TS, leaving a wealth of Ore, Silicon and even some Nvidium available for 
 
 The PHQ will be my central storage location for all ship-building components, missiles, weapons, shields and resources of that nature. Ideally, it will be supplied by my own factories, with limited "Buy" commands issued to the Dock Agents.
 
@@ -23,9 +23,10 @@ The PHQ will be my central storage location for all ship-building components, mi
 
 1x Tug
 
-1x Drone Miner (ORE)
+1x Mobile-Mining Ship _"Fortune"_
 
 1x CLS 
+
 
 The Dock agents currently are only selling excess non-Terran equipment that my Reap shuttle brings in as well as Pie-rat ships that are stripped at the PHQ before being recycled.
 
