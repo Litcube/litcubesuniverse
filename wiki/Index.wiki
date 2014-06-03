@@ -14,6 +14,8 @@ Welcome to Litcube's Universe Testing (a mod for X3:Albion Prelude)
 
 [04_Features Major Features]
 
+[Contact_Me Contact me]
+
 [Acknowledgements]
 
 [Player_Logs Player Logs]
