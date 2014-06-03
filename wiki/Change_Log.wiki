@@ -14,6 +14,7 @@
 = Version 1.1.3 : Not Yet Released =
 === X, X, 2014 ===
   * _Patch contains all previous changes from 1.0.1 and up_
+  * (4) Fixed: Dockware Manager could sometimes incorrectly remove deprecated wares from the trade menu when removing them from the DWM rendering the trade menu to show Impulse Ray Emitters
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
   * (3) Fixed: Station Agent wasn't pausing on manage when station set to standby
   * (3) Fixed: 4 Terran weapon forges were not sold in Uranus as they should have been; map fix only on new start
