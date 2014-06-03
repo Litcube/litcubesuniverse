@@ -25,7 +25,7 @@ The PHQ will be my central storage location for all ship-building components, mi
 
 1x Mobile-Mining Ship _"Fortune"_ (Drone Mine & Trade command)
 
-1x CLS (External Logistics Command: Transports un-sold ore from MMS _"Fortune"_) 
+1x CLS (External Logistics command: Transports un-sold ore from MMS _"Fortune"_) 
 
 
 -The Dock agents currently are only selling excess non-Terran equipment that my Reap shuttle brings in as well as Pie-rat ships that are stripped at the PHQ before being recycled.
