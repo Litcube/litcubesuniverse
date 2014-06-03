@@ -15,4 +15,4 @@ The above image shows the encyclopedia with a few commands expanded.  It shows y
 
 http://www.mediafire.com/convkey/8f37/1trmmx6of8kvq9mfg.jpg
 
-Some commands have special conditions that have to be met before the command is available.  For example, in the image above, you can see that the "Stip" command (which completely sheds the ship of all removable wares) is only available when the ship is docked at a dock owned by you.
+Some commands have special conditions that have to be met before the command is available.  For example, in the image above, you can see that the "Strip" command (which completely sheds the ship of all removable wares) is only available when the ship is docked at a dock owned by you.
