@@ -56,7 +56,7 @@ See: [Feature_LU_Dynamic_Menu_System Feature: Litcube's Universe Dynamic Menu Sy
 
 Didn't work too well in vanilla.
 
-see [Feature_ERD Feature: Emergency Jump Works Now]
+See: [Feature_ERD Feature: Emergency Jump Works Now]
 
 ----
 
@@ -64,7 +64,7 @@ see [Feature_ERD Feature: Emergency Jump Works Now]
 
 An Emergency Retreat Drive installed on your ship will enable it to jump out faster in an emergency.
 
-see [Feature_ERD Feature: Emergency Retreat Drive]
+See: [Feature_ERD Feature: Emergency Retreat Drive]
 
 ----
 
@@ -88,7 +88,7 @@ See: [Feature_Export_Import Feature: Export/Import]
 
 The freighter moves around wares for your Dockware Manager
 
-See [Feature_Freighter Feature: Freighter]
+See: [Feature_Freighter Feature: Freighter]
 
 ----
 
@@ -160,7 +160,7 @@ See: [Feature_New_Models Feature: New Models]
 
 Music has changed
 
-See [Feature_Music Feature: Music]
+See: [Feature_Music Feature: Music]
 
 ----
 
