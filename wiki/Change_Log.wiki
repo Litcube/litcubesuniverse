@@ -33,6 +33,7 @@
   * (1) Fixed: spelling errors in Omicron Channel sector descriptions; you should read them
   * (1) Fixed: a few lasers and ships still had _Betty_ descriptions; all are now stripped
   * (1) Fixed: Nova Prototype description was missing
+  * (1) Fixed: OCV ships, O, deca.fade, PX, R, G, V, T, descriptions rewritten for LU
   * (-) Changed: station allow NPC trading flag name to "Station is open for trading" to better reflect its purpose in LU
   * (-) Changed: Station Agent class changed to freighter
   * (-) Changed: Fuel Quickshuttle now requires supply command software
