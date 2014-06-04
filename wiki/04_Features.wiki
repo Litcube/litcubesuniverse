@@ -84,6 +84,14 @@ See: [Feature_Export_Import Feature: Export/Import]
 
 ----
 
+=== Freighter ===
+
+The freighter moves around wares for your Dockware Manager
+
+See [Feature_Freighter Feature: Freighter]
+
+---
+
 === FLC ===
 
 The higher your fight rank, the more ships drop stuff.
