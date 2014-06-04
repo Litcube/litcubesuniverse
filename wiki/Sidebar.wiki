@@ -14,6 +14,7 @@
     * [Feature_ERD Emergency Retreat Drive & Jump Cores]
     * [Feature_Encyclopedia_Update Encyclopedia Update]
     * [Feature_Export_Import Export/Import]
+    * [Feature_Freighter Freighter]
     * [Feature_FLC FLC]
     * [Feature_GoD_Changes GoD Changes]
     * [Feature_GUI GUI]
