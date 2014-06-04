@@ -15,8 +15,9 @@
 
   * (2) Fixed: Dockware manager was adding ammunition when adding HQ ware group
   * (-) Changed: Reduced the time the tug would wait to restart ships getting stuck docking.
-  * (-) Changed: Stock exchange available stocks now shows.. what's available.. (total - owned)
-  * (-) Changed: Stock exchange menu title now cleaner
+  * (-) Changed: stock exchange available stocks now shows.. what's available.. (total - owned)
+  * (-) Changed: stock exchange menu title now cleaner
+  * (-) Changed: Move Freight command renamed to Freighter
 
 ----
 = Version 1.1.3 =
