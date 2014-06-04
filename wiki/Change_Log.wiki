@@ -48,7 +48,7 @@
   * (-) Upgraded: Export/Import now saves wings
   * (-) Upgraded: Rearm rewritten
   * (-) Upgraded: Refuel rewritten
-  * (-) Upgraded: Stock exchange slider now maxes out at what you can afford
+  * (-) Upgraded: Stock exchange slider now maxes out at what you can afford, and also takes into account tariff costs
   * (-) Upgraded: Missile descriptions rewritten, _Betty_ descriptions completely stripped
   * (-) Upgraded: Tug now has ship stripping options
   * (-) Upgraded: Added LU descriptions for lasers AKE, BKE, GKE, PBC, RL
