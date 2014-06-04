@@ -19,6 +19,7 @@
   * (-) Changed: stock exchange menu title now cleaner
   * (-) Changed: Move Freight command renamed to Freighter
   * (-) Changed: Get Fuel command description
+  * (-) Changed: Sector trader ranges tweaked very slightly
 
 ----
 = Version 1.1.3 =
