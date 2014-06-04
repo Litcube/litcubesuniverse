@@ -1,0 +1,27 @@
+#summary Reviews
+
+= Reviews =
+
+Some reviews written by others.  If I've put your review here, and you don't want it here, let me know.  Everything is as originally posted.
+
+
+= Joubarbe =
+
+When I first read DrBullwinkle saying that XRM was not a good start for a beginner, because of the fast pace and the overhaul balance,I was sceptic. I mean, there are a lot of cool stuff and great features in XRM, and I didn't see, considering all problems of the vanilla game, how this was not a good starter mod. 
+
+Then comes Litcube and his "mod". Well, "mod" is not the right word, it's more like a big patch, improving the vanilla game at a new vanilla state, like an AP 4.0.
+
+A novice would probably not see any differences in the first minutes of playing (except for the new UI). Why ? Because it's very well thought, and above all, it has the original spirit of the game. But this spirit has been used to build a lot less frustrated game, balanced and very rewarding. The pace is very slow : switching from an M4 to an M3 is a noticable step in your space adventure, and that's good! Combats are here to remind you that you are a noob ; all weapons can be deadly if you know how to aim, but recharge rates (shields and lasers) have been decreased, leading to very tactic dogfights. You think you can beat those 3 M5 with your M4 ? Well, think twice, even those can destroy a M3 in no time. In fact, as soon as you are two against one, it can be difficult, because you can't fire all your weapons all the time without being worried by the cool down of your weapons and the slow recharge rate of your shields. Straffing is no more a life saver and using weapon groups is very important. Furthermore, Litcube has modified the fire rate of weapons (DPS), which force you to aim properly, and that nuances the advantage of human vs AI. In short, combats are smart ! 
+
+Early games are no more boring and hopeless ; you have used ships that you can repair and resell, the perfect amount of pirates to loot some wares (yes, there is loot!), some very rewarding transport missions that justify the purchase of a TP, and more peaceful asteroids scan missions. It's just enough to start an empire. After that, you will have so many things to do that missions will be of no interest to you. Because, as you suspect, LU is not about early games, but managing a giant empire against two major threat : a greedy corporation and a strong relentless invader. Personally, I think pirates are also a real threat that you should eradicate ASAP (note that 
+destroying shipyards have now a real effect on ships spawning). 
+
+So like in the vanilla game, building a strong satellite network and train Universal Traders are still priorities. But now you have automatic explorers, who can buy and deploy satellites on their own. Most importantly, traders and every "automatic ships" respond to a new system that will save you from rage, violence against your pets and cancer. In a nutshell, every ships, especially UTs, won't go where they don't see. That generally means that if you have no satellites, then you have no view on stations, so you can't trade with them. Besides, if they have a visual, but if they detect hostile ships, they don't go either. They will trade somewhere else, and be kind enough to report what they saw, in case you have some security ships ready to intervene and destroy the threat (it is called the "Military Logistics & Command Software", a tool to organize some Rapid Response Fighters of your own). Many tools exist to ease the empire management, like quickshuttles (refuel and loot with one hotkey and a preconfigured ship) and Saturn Complexes, which can contain several factories to produce a single product. In other word, a smart complex. These tools can sometimes be hard to manipulate or understand, but 
+that's because they are powerful and only make sense when you have many assets. 
+
+Technically, it's very impressive. No lag in big combats, faster loading, and all of that with a default SETA at 1000% and an integrated Bounce, which removes this very high frustration of seeing your ships exploding in a collision with other ships. A lot of minor things, details, has been changed or added, like the SETA not being stopped automatically when your ship is too close to an object, the ability to always see the ship type of your target (otherwise, it was impossible to see when it was not mentioned into the ship's name) or the in-game menu that let you compare every ships of the universe. 
+
+So everything is good in this best of all possible worlds ? Well, some X3 limits are still there (and that would take a new game to bypass them), and a better, increased documentation (an in-game one maybe) would be appreciable, especially for new players (even average ones). Also, some things could be polished even more, like aliased new menu icons. 
+
+But this is a must-have, undoubtedly. Before LU, I was playing with about 30 scripts and librairies. Today I have 4 (and they're really not essential), and I enjoy the game a lot more. 
+It's the real rebirth.
