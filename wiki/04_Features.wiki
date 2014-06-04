@@ -32,7 +32,7 @@ See: [Feature_Carrier_Command_Software Feature: Command Software Update]
 
 There's dashboards, if you want them.
 
-see [Feature_Dashboards Feature: Dashboards]
+See: [Feature_Dashboards Feature: Dashboards]
 
 ----
 
