@@ -13,6 +13,8 @@
 = Version 1.1.4 =
 === Not Yet Released ===
   * (-) Changed: Reduced the time the tug would wait to restart ships getting stuck docking.
+  * (-) Changed: Stock exchange available stocks now shows.. what's available.. (total - owned)
+  * (-) Changed: Stock exchange menu title now cleaner
 
 ----
 = Version 1.1.3 =
