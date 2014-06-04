@@ -1,0 +1,6 @@
+#summary The freighter moves around wares for your Dockware Manager
+= Introduction =
+
+= Freighter =
+
+A simple command.  Freighters should be homebased to a dock. Once the command is run, they'll use your Dockware Manager's _source_ information to figure out where to get wares required for the dock.  See: [Feature_Dockware_Manager Dockware Manager].
