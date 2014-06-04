@@ -9,6 +9,10 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+----
+= Version 1.1.4 =
+=== Not Yet Released ===
+  * (-) Changed: Reduced the time the tug would wait to restart ships getting stuck docking.
 
 ----
 = Version 1.1.3 =
