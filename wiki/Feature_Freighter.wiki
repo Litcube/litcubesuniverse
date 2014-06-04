@@ -1,5 +1,4 @@
 #summary The freighter moves around wares for your Dockware Manager
-= Introduction =
 
 = Freighter =
 
