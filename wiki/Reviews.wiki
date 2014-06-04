@@ -4,8 +4,8 @@
 
 Some reviews written by others.  If I've put your review here, and you don't want it here, let me know.  Everything is as originally posted.
 
-
-= Joubarbe =
+----
+=== Joubarbe ===
 
 When I first read DrBullwinkle saying that XRM was not a good start for a beginner, because of the fast pace and the overhaul balance,I was sceptic. I mean, there are a lot of cool stuff and great features in XRM, and I didn't see, considering all problems of the vanilla game, how this was not a good starter mod. 
 
