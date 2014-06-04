@@ -36,7 +36,7 @@ http://www.mediafire.com/convkey/3d97/fgdrfyrgrm0185tfg.jpg
 
 The _thresholds_ page allows you to set the minimum amount in stock at a source before the Freighter will bother going to grab stock.  In the image above, you'll see that High Energy Plasma Throwers are set to 10%.  The Freighter will only go for a freight run when the source station (which happens to be another Saturn Complex Hub 20x) is at 10% capacity or higher.  This function was introduced to ensure slow producing stations don't make for unnecessary trade runs by your Freighters.
 
----
+----
 
 The top portion of the menu has other options that are helpful for outfitting your ships using all these ware you're stocking.
 
@@ -79,5 +79,3 @@ As you've seen, through the _order licensing_ function, you're able to purchase 
 == Dockware Manager & the MLCC ==
 
 Note that a dock with the MLCC installed renders you unable to manipulate some functionality of the Dockware Manager.  This is very intentional.  The MLCC will automatically handle all wares through the Dockware Manager, though you do have the ability to assign sources to the automatically added wares.  See: [Feature_MLCC MLCC]
-
-
