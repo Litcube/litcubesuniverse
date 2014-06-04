@@ -13,7 +13,7 @@
 = Version 1.1.4 =
 === Not Yet Released ===
 
-  * (1) Fixed: Dockware manager was adding ammunition when adding HQ ware group
+  * (2) Fixed: Dockware manager was adding ammunition when adding HQ ware group
   * (-) Changed: Reduced the time the tug would wait to restart ships getting stuck docking.
   * (-) Changed: Stock exchange available stocks now shows.. what's available.. (total - owned)
   * (-) Changed: Stock exchange menu title now cleaner
