@@ -11,8 +11,8 @@
 
 
 ----
-= Version 1.1.3 : Not Yet Released =
-=== X, X, 2014 ===
+= Version 1.1.3 =
+=== June, 3, 2014 ===
   * _Patch contains all previous changes from 1.0.1 and up_
   * (4) Fixed: Dockware Manager could sometimes incorrectly removing deprecated wares; showed Impulse Ray Emitters in trade menu
   * (3) Fixed: Trading would sometimes return no station found for equipment wares
