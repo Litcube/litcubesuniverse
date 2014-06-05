@@ -33,3 +33,11 @@ The PHQ will be my central storage location for all ship-building components, mi
 -I'm quite happy with the mining setup currently. The Freight Drones (x100) mine minerals at an efficient rate, so the 4,000,000 sized cargo hold of MMS _"Fortune"_ gets filled up from empty in a few hours. All while the drones are mining, the CLS is running back and forth from MMS _"Fortune"_ to the PHQ depositing ore for use in future shipbuilding. With the current setup, MMS _"Fortune"_ still fills up and heads off to sell excess ore on it's own after a few hours. This provides a surplus of credits, as well as keeping my PHQ stocked with ore (currently no limit set in the Dockware Manager). Plans are in the works to replicate this setup for silicon mining ASAP.
 
 ==Saturn Complex Hubs==
+
+=Military Operations=
+
+==CODEA==
+
+==MLCC==
+
+-6/4/14: Just setup my first baby-steps in a MLCC operation. Have a Terran M7 stationed at a MLCC Dock in Y Gamma, and am experimenting with how I can use this feature to keep my Sector Security Complaints that are logged by my UT/Dock Agent/Freighter fleets in check. Initially I ran the "Intercept" command from the MLCC menu, and the M7 jumped into a low-threat sector, cleaned it up, and went home. However on the 3rd command of "Intercept" it jumped into a huge gaggle of Pie-Rats and was quickly destroyed. This makes me question the logic, as MLCC is supposed to assess if there's a chance it can complete it's mission before committing suicide.
