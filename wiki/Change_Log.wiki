@@ -22,7 +22,7 @@
   * (-) Changed: Sector trader ranges tweaked very slightly
   * (-) Changed: Panther description
   * (-) Changed: Sector trader ship names now automated and standardized
-  * (-) Changed: Station agent tags make more sense
+  * (-) Changed: Station agent command tags make more sense
   * (-) Upgraded: overhauled template manager menu, more accessible display
 
 
