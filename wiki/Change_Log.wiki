@@ -21,6 +21,7 @@
   * (-) Changed: Get Fuel command description
   * (-) Changed: Sector trader ranges tweaked very slightly
   * (-) Changed: Panther description
+  * (-) Upgraded: overhauled template manager menu, more accessible display
 
 ----
 = Version 1.1.3 =
