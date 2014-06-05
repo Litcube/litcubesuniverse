@@ -18,6 +18,7 @@ Secondly, there's a few not-so-obvious changes:
   * Saturn Complex Hub Added:  There's a context menu addition for the Saturn Complex Hub.
   * Trading Credit Display:  It's now easier to understand what the fuck the credit display means in the trade menu.  The first line is your account after the trade has been made, and the second (negative number) is the amount deducted (i.e. the total cost).
   * Script list in the first MSCI menu is now sorted.
+  * Main weapon HUD shows current cockpit view
 
 ==Alternate GUIs==
 
