@@ -21,6 +21,7 @@
   * (-) Changed: Get Fuel command description
   * (-) Changed: Sector trader ranges tweaked very slightly
   * (-) Changed: Panther description
+  * (-) Changed: Sector trader ship names now automated and standardized
   * (-) Upgraded: overhauled template manager menu, more accessible display
 
 ----
