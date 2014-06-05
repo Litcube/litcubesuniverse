@@ -12,7 +12,7 @@
 ----
 = Version 1.1.4 =
 === Not Yet Released ===
-
+  * _Patch contains all previous changes from 1.1.3 and up_<br><br>
   * (4) Fixed: Export would be bugged if you owned a navigational satellite
   * (2) Fixed: Dockware manager was adding ammunition when adding HQ ware group
   * (-) Changed: Reduced the time the tug would wait to restart ships getting stuck docking.
