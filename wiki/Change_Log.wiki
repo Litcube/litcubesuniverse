@@ -15,6 +15,7 @@
   * _Patch contains all previous changes from 1.1.3 and up_<br><br>
   * (4) Fixed: Export would be bugged if you owned a navigational satellite
   * (2) Fixed: Dockware manager was adding ammunition when adding HQ ware group
+  * (1) Fixed: Dock Agent & Station Agent over 100% XP bug
   * (-) Changed: Reduced the time the tug would wait to restart ships getting stuck docking.
   * (-) Changed: stock exchange available stocks now shows.. what's available.. (total - owned)
   * (-) Changed: stock exchange menu title now cleaner
@@ -22,9 +23,11 @@
   * (-) Changed: Get Fuel command description
   * (-) Changed: Sector trader ranges tweaked very slightly
   * (-) Changed: Panther description
-  * (-) Changed: Sector trader ship names now automated and standardized
-  * (-) Changed: Station agent command tags make more sense
+  * (-) Changed: removed Dock Agent & Station Agent log entries for level up
+  * (-) Changed: Sector Trader ship names now automated and standardized
   * (-) Upgraded: overhauled template manager menu, more accessible display
+  * (-) Upgraded: Dock Agent & Station Agent more informative
+
 
 
 ----
