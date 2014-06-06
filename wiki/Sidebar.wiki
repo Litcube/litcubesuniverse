@@ -43,4 +43,4 @@
     * [Player_Log_SinnerMan SinnerMan]
   * [Reviews]
   * [Change_Log Change Log]
-  * [LitcubesList Litcube's List]
+  * [FixList Litcube's List]
