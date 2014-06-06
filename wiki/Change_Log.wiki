@@ -9,11 +9,21 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+
+----
+= Version 1.1.6 =
+=== June 5, 2014 ===
+  * _Patch contains all previous changes from 1.1.3 and up_<br><br>
+  * (-) Changed: TM weapon energy, recharge rate augmented
+  * (-) Changed: Dumbfire missiles removed from capital ships
+
+
+
 ----
 = Version 1.1.5 =
 === June 5, 2014 ===
   * _Patch contains all previous changes from 1.1.3 and up_<br><br>
-  * (4) Fixed: "FLC, Motherfucker!" debug text removed. 
+  * (4) Fixed: "FLC, Motherfucker!" debug text removed.
 ----
 = Version 1.1.4 =
 === June 5, 2014 ===
@@ -34,9 +44,6 @@
   * (-) Upgraded: overhauled template manager menu, more accessible display
   * (-) Upgraded: Dock Agent & Station Agent more informative task tags, no more station not found messages
   * (-) Upgraded: Missile Only turret command run on missiles boats now runs a special mosquito missile defence
-
-
-
 ----
 = Version 1.1.3 =
 === June, 3, 2014 ===
