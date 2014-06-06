@@ -26,7 +26,7 @@
 == Rejected ==
 {Suggestion} Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
-{Suggestion} Autoclaim all ships on sector function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
+{Suggestion} Autoclaim all ships in sector/nearest ship function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
 
 {Suggestion} Incorporate Marine Repairs ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 Response])
 
