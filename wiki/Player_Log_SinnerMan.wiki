@@ -40,7 +40,7 @@ The PHQ will be my central storage location for all ship-building components, mi
 
 ==MLCC==
 
--6/5/14: Follow on MLCC testing continues. Jumped my carrier to the center of a hostile sector that was harassing my traders, and set a course towards the small sized fighter/corevette Pierat fleet camping the North jump gate. 1/4 of the way there, I sent an order to my MLCC Kariudo to "Assist" (Rally was set to Standard). Shortly thereafter, the Kariudo jumped to the center of the sector (closest point) and started cruising towards me. As it arrived a few km to my stern, my carrier was engaged with the majority of the enemy fighters. The Kariudo stopped 3.69km behind my carrier, and did nothing. It's current order is "None". Did I kill the target it was going after and it never chose another one? It's orders are set to Fighters/Capships/Protect me in the MLCC configuration.
+-6/5/14: (EDIT: May have been forgetting the GO CODE....will retest)......Follow on MLCC testing continues. Jumped my carrier to the center of a hostile sector that was harassing my traders, and set a course towards the small sized fighter/corevette Pierat fleet camping the North jump gate. 1/4 of the way there, I sent an order to my MLCC Kariudo to "Assist" (Rally was set to Standard). Shortly thereafter, the Kariudo jumped to the center of the sector (closest point) and started cruising towards me. As it arrived a few km to my stern, my carrier was engaged with the majority of the enemy fighters. The Kariudo stopped 3.69km behind my carrier, and did nothing. It's current order is "None". Did I kill the target it was going after and it never chose another one? It's orders are set to Fighters/Capships/Protect me in the MLCC configuration.
 
 -Does MLCC set turret commands?
 
