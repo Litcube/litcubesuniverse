@@ -4,7 +4,9 @@
 
 
 
-== Accepted == 
+== Accepted ==
+
+
 
 == Pending ==
 {Bug} Station defense mission results message text error ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
@@ -13,15 +15,17 @@
 
 {Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
-{Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
-
-{Suggestion} Increase TM laser energy ([http://forum.egosoft.com/viewtopic.php?p=4393006#4393006 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
-
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP])
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
 {Suggestion} Improve boarding ([http://forum.egosoft.com/viewtopic.php?p=4393225#4393225 OP])
+
+== Implemented ==
+
+1.1.6: {Suggestion} Increase TM laser energy ([http://forum.egosoft.com/viewtopic.php?p=4393006#4393006 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
+
+1.1.6: {Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
 == Rejected ==
 {Suggestion} Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
