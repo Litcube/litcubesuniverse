@@ -13,7 +13,7 @@
 = Version 1.1.5 =
 === June 5, 2014 ===
   * _Patch contains all previous changes from 1.1.3 and up_<br><br>
-  * (4) Fixed: "FLC Motherfucker!" debug text removed. 
+  * (4) Fixed: "FLC, Motherfucker!" debug text removed. 
 ----
 = Version 1.1.4 =
 === June 5, 2014 ===
