@@ -25,6 +25,7 @@
   * (-) Changed: Panther description
   * (-) Changed: removed Dock Agent & Station Agent log entries for level up
   * (-) Changed: Sector Trader ship names now automated and standardized
+  * (-) Changed: Mosquito missile
   * (-) Upgraded: overhauled template manager menu, more accessible display
   * (-) Upgraded: Dock Agent & Station Agent more informative
   * (-) Upgraded: Missile Only turret command run on missiles boats now runs a special mosquito missile defence
