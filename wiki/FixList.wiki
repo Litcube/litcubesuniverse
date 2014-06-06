@@ -25,8 +25,6 @@
 
 1.1.6: {Suggestion} Increase TM laser energy ([http://forum.egosoft.com/viewtopic.php?p=4393006#4393006 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
-1.1.6: {Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
-
 == Rejected ==
 {Suggestion} Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
@@ -35,3 +33,5 @@
 {Suggestion} Incorporate Marine Repairs ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 Response])
 
 {Suggestion} Increase weapon rate of fire ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 Response])
+
+{Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
