@@ -13,13 +13,23 @@
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
+{Bug} Two Goner temples in Elysium of Light ([http://forum.egosoft.com/viewtopic.php?p=4393362#4393362 OP])
+
+{Bug} Teladi police license earning kill rewards in pirate sector Spaceweed Grove ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
+
+{Bug} MLCC options missing ([http://forum.egosoft.com/viewtopic.php?p=4393729#4393729 OP])
+
+{Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
+
 {Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
-{Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP])
+{Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
 {Suggestion} Improve boarding ([http://forum.egosoft.com/viewtopic.php?p=4393225#4393225 OP])
+
+{Suggestion} Reduce earnings multiplier from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
 
 == Implemented ==
 
@@ -34,4 +44,4 @@
 
 {Suggestion} Increase weapon rate of fire ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 Response])
 
-{Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
+{Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
