@@ -23,7 +23,7 @@
 
 {Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
 
-{Bug} One gun per turret when turret command using X3AP vanilla weapon swapping enabled ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+{Bug} One gun per turret when a turret command utilizing X3AP vanilla weapon swapping is enabled ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
 {Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
