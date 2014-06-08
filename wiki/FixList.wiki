@@ -9,6 +9,8 @@
 
 
 == Pending ==
+{Exploit} Docking ships to stations instantly repairs shields, particularly cheesy against OCV and especially problematic when mixed with jump beacons ([http://forum.egosoft.com/viewtopic.php?p=4394056#4394056 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394058#4394058 Response])
+
 {Bug} Station defense mission results message text error ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
@@ -21,6 +23,16 @@
 
 {Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
 
+{Bug} One gun per turret when turret command using X3AP vanilla weapon swapping enabled ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+
+{Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+
+{Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+
+{Bug} Station agent sells very small amounts of mosquito missiles even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+
+{Bug} Fenrir lose shields during EI ([http://forum.egosoft.com/viewtopic.php?p=4394105#4394105 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394114#4394114 Response] | [http://www.mediafire.com/download/m2615z0rq5fov1o/CausticFlipper_NoShieldFenrir.7z Save])
+
 {Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
@@ -29,7 +41,7 @@
 
 {Suggestion} Improve boarding ([http://forum.egosoft.com/viewtopic.php?p=4393225#4393225 OP])
 
-{Suggestion} Reduce earnings multiplier from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
+{Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
 
 == Implemented ==
 
