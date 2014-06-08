@@ -31,7 +31,13 @@
 
 {Bug} Station agent sells very small amounts of mosquito missiles even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
-{Bug} Fenrir lose shields during EI ([http://forum.egosoft.com/viewtopic.php?p=4394105#4394105 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394114#4394114 Response] | [http://www.mediafire.com/download/m2615z0rq5fov1o/CausticFlipper_NoShieldFenrir.7z Save])
+{Bug} Fenrirs lose shields during EI ([http://forum.egosoft.com/viewtopic.php?p=4394105#4394105 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394114#4394114 Response] | [http://www.mediafire.com/download/m2615z0rq5fov1o/CausticFlipper_NoShieldFenrir.7z Save])
+
+{Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
+
+{Bug} Dockware manager upgrade ship function allows purchase of software even in the targeted ship already has that software installed ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP])
+
+{Bug} Tug stuck while collecting ships ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP])
 
 {Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
