@@ -45,9 +45,10 @@
 
 {Suggestion} Allow purchase of OWP near gates similar to Ring of Fire ([http://forum.egosoft.com/viewtopic.php?p=4394565#4394565 OP])
 
+{Suggestion} Add performance monitoring function to UTs similar to station agent reports ([http://forum.egosoft.com/viewtopic.php?p=4394589#4394589 OP])
+
 == Implemented ==
 
-1.1.6: {Suggestion} Increase TM laser energy ([http://forum.egosoft.com/viewtopic.php?p=4393006#4393006 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
 == Rejected ==
 
