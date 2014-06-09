@@ -49,7 +49,6 @@
 
 {Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
-{Bug} Teladi police license earning kill rewards in pirate sector Spaceweed Grove ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
 {Suggestion} Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
 {Suggestion} Autoclaim all ships in sector/nearest ship function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
@@ -61,3 +60,5 @@
 {Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
 
 {Bug} Two Goner temples in Elysium of Light ([http://forum.egosoft.com/viewtopic.php?p=4393362#4393362 OP])
+
+{Bug} Teladi police license earning kill rewards in pirate sector Spaceweed Grove ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
