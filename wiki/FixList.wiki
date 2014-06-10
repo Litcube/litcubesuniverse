@@ -14,7 +14,7 @@
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
-{Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+{Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394921#4394921 Screenshot])
 
 {Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
@@ -33,9 +33,19 @@
 
 {Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
 
-{Bug} One gun per turret when a turret command utilizing X3AP vanilla weapon swapping is enabled ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+{Bug} One gun per turret equipped in AI ships([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 AddInfo])
 
 {Bug} M/AM Launcher requires less relations with terran than Gamma Ray Cannon ([http://forum.egosoft.com/viewtopic.php?p=4394479#4394479 OP])
+
+{Bug} Available stocks sometimes drop to zero when index reaches 100 ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP])
+
+{Bug} UT trading doesn't increase rank with Terran/ATF ([http://forum.egosoft.com/viewtopic.php?p=4394675#4394675 OP])
+
+{Bug} Message log debug spam possible related to Ship Template Outfit command ([http://forum.egosoft.com/viewtopic.php?p=4394788#4394788 OP])
+
+{Bug} 'Blood stained note' after trying to jump at a station after a product search ([http://forum.egosoft.com/viewtopic.php?p=4394788#4394788 OP])
+
+{Bug} Dock agent goes to 'none' if cannot find a ware (even though the ware is available nearby) (http://forum.egosoft.com/viewtopic.php?p=4394765#4394765 OP])
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
