@@ -33,7 +33,7 @@
 
 {Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
 
-{Bug} One gun per turret equipped in AI ships([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 AddInfo])
+{Bug} One gun per turret equipped in AI ships ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 AddInfo])
 
 {Bug} M/AM Launcher requires less relations with terran than Gamma Ray Cannon ([http://forum.egosoft.com/viewtopic.php?p=4394479#4394479 OP])
 
@@ -45,7 +45,7 @@
 
 {Bug} 'Blood stained note' after trying to jump at a station after a product search ([http://forum.egosoft.com/viewtopic.php?p=4394788#4394788 OP])
 
-{Bug} Dock agent goes to 'none' if cannot find a ware (even though the ware is available nearby) (http://forum.egosoft.com/viewtopic.php?p=4394765#4394765 OP])
+{Bug} Dock agent goes to 'none' if cannot find a ware (even though the ware is available nearby) ([http://forum.egosoft.com/viewtopic.php?p=4394765#4394765 OP])
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
