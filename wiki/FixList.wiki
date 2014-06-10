@@ -29,6 +29,16 @@
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
 == Pending ==
 
+{Bug} Boarding pods cannot be moved from a ship to a dock. If you land a ship carrying boarding pods, and go to "Adjust Station Parameters", boarding pods do not show up in the list of wares. If you strip the ship carrying boarding pods, all the wares disappear from the dock.
+
+{Bug} Game always hangs if you kill a specific Phanon Corp fighter. To replicate, go to Senator's Badlands and kill the Valshire Corp. Discovery ([https://filetea.me/t1sgJhtMuVQTCxBtCPexIp3Xg Save])
+
+{Bug} Not all wares that show up in a ship's freight menu will show up in the freight exchange menu.
+
+{Bug} Some ships "eat" salvage insurance and licenses. To replicate with included savegame: If you check your player profile when you load the game, you have an Argon LE license and 108 Salvage Insurance. If you switch to the Tiger following you, you have almost all of the licenses, but no salvage insurance displayed, though you can save in space. If you then switch back to the Auster, you have no salvage insurance and no licenses. Switching to other ships from the Auster does not cause this problem.
+If you buy more salvage insurance/licenses while in the Auster, they disappear when you switch back to the Tiger. The same thing happens when you replace the Auster in this example with many other ships. The only other ship behaving like the Tiger is the Tempestine, which also seems to have its own set of licenses, doesn't need salvage insurance.
+The Tiger and Tempestine are both ships I've had for a very long time, and pretty much every other ship I currently own was obtained after my most recent import/export. ([https://filetea.me/t1sHxgMVdOIR7yRxz2o6fn1hg Save])
+
 {Bug} MLCC options missing ([http://forum.egosoft.com/viewtopic.php?p=4393729#4393729 OP])
 
 {Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
