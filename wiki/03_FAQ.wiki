@@ -6,6 +6,9 @@
 ----
 == Common ==
 ----
+=== My game crashes when I eject? ===
+
+  Set your texture settings to high.
 
 === Is XYZ mod compatible with LU? ===
 
