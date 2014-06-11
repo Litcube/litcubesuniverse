@@ -27,7 +27,8 @@
 {Bug} Station agent sells very small amounts of mosquito missiles even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
-== Pending ==
+
+{Suggestion} Add performance monitoring function to UTs similar to station agent reports ([http://forum.egosoft.com/viewtopic.php?p=4394589#4394589 OP])
 
 {Bug} Boarding pods cannot be moved from a ship to a dock. If you land a ship carrying boarding pods, and go to "Adjust Station Parameters", boarding pods do not show up in the list of wares. If you strip the ship carrying boarding pods, all the wares disappear from the dock.
 
@@ -71,18 +72,20 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
-{Suggestion} Improve boarding ([http://forum.egosoft.com/viewtopic.php?p=4393225#4393225 OP])
-
 {Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
 
-{Suggestion} Allow purchase of OWP near gates similar to Ring of Fire ([http://forum.egosoft.com/viewtopic.php?p=4394565#4394565 OP])
 
-{Suggestion} Add performance monitoring function to UTs similar to station agent reports ([http://forum.egosoft.com/viewtopic.php?p=4394589#4394589 OP])
+== Pending ==
+
 
 == Implemented ==
 
 
 == Rejected ==
+
+{Suggestion} Allow purchase of OWP near gates similar to Ring of Fire ([http://forum.egosoft.com/viewtopic.php?p=4394565#4394565 OP])
+
+{Suggestion} Improve boarding ([http://forum.egosoft.com/viewtopic.php?p=4393225#4393225 OP])
 
 {Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
 
