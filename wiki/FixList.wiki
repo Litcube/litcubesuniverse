@@ -80,7 +80,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Tug can get stuck if attempting to collect TS with TS already docked ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
-{Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all.
+{Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all. {[http://i.imgur.com/HlxBYf1.png Screenshot]}
 
 == Implemented ==
 
