@@ -6,6 +6,11 @@ NEW PLAYTHROUGH with v1.0!
 
 _almost exclusively Terran playthrough_
 
+Wishlist:
+Separate Buyers/Sellers regarding Dock Managers
+
+Sector or Player Station blacklisting for UTs
+
 --------------
 
 =Economy Setup=
