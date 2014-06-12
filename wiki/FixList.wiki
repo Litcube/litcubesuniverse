@@ -42,8 +42,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} MLCC options missing ([http://forum.egosoft.com/viewtopic.php?p=4393729#4393729 OP])
 
-{Bug} Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
-
 {Bug} One gun per turret equipped in AI ships ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 AddInfo])
 
 {Bug} M/AM Launcher requires less relations with terran than Gamma Ray Cannon ([http://forum.egosoft.com/viewtopic.php?p=4394479#4394479 OP])
@@ -76,7 +74,11 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 
 == Pending ==
+{Bug} Missing drop station command on TLs, and drop factory cant drop MLCC shipyards ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
 
+{Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
+
+{Bug} Tug can get stuck if attempting to collect TS with TS already docked ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 == Implemented ==
 
@@ -102,3 +104,5 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 {Bug} Two Goner temples in Elysium of Light ([http://forum.egosoft.com/viewtopic.php?p=4393362#4393362 OP])
 
 {Bug} Teladi police license earning kill rewards in pirate sector Spaceweed Grove ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
+
+{Bug} -Fixed by Reinstall- Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
