@@ -67,7 +67,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
-{Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
+{Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 AddInfo])
 
 {Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
 
