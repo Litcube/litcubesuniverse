@@ -80,7 +80,17 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Tug can get stuck if attempting to collect TS with TS already docked ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
-{Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all. (They also seem unable to acquire a target OOS (Unconfirmed)) {[http://i.imgur.com/HlxBYf1.png Screenshot] | [http://i.imgur.com/1tirkxy.png Screenshot(After Entering Setcor)]}
+{Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all. (They also seem unable to acquire a target OOS (Unconfirmed)) {[http://i.imgur.com/HlxBYf1.png Screenshot] | [http://i.imgur.com/1tirkxy.png Screenshot(After Entering Sector)]}
+
+{Bug} Albion pride wont teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
+
+{Bug} Terran build station missions can ask for SCH ([http://forum.egosoft.com/viewtopic.php?p=4396228#4396228 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4396241#4396241 Response])
+
+{Bug} M6 e-jump not working ([http://forum.egosoft.com/viewtopic.php?p=4396007#4396007 OP])
+
+{Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
+
+{Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
 
 == Implemented ==
 
