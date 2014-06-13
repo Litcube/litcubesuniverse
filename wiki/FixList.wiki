@@ -16,6 +16,8 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} MLCC options missing ([http://forum.egosoft.com/viewtopic.php?p=4393729#4393729 OP])
 
+{Bug} Missing drop station command on TLs, and drop factory cant drop MLCC shipyards ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
+
 == Accepted ==
 
 {Bug} Dockware manager upgrade ship function allows purchase of software even if the targeted ship already has that software installed ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP])
@@ -67,14 +69,11 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
 
+{Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
 
 == Pending ==
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
-
-{Bug} Missing drop station command on TLs, and drop factory cant drop MLCC shipyards ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
-
-{Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
 
 {Bug} Tug can get stuck if attempting to collect TS with TS already docked ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
