@@ -30,7 +30,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
 
-{Bug} Station agent sells very small amounts of mosquito missiles even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
+{Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Report2] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
 
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
 
@@ -80,13 +80,23 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all. (They also seem unable to acquire a target OOS (Unconfirmed)) {[http://i.imgur.com/HlxBYf1.png Screenshot] | [http://i.imgur.com/1tirkxy.png Screenshot(After Entering Sector)]}
 
-{Bug} Albion pride wont teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
+{Bug} Albion pride wont teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
 
 {Bug} Terran build station missions can ask for SCH ([http://forum.egosoft.com/viewtopic.php?p=4396228#4396228 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4396241#4396241 Response])
+
+{Bug} You can flag ship classes for tug that cannot dock with any possible tug ship. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/JpyXI8I Screenshot])
+
+{Bug} TL 'Buy for SCH' message weirdness when no valid SCH available. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/TYsEjmz Screenshot])
+
+{Bug} Text issue with Xenon Z 'type' listing ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/9AM4Tnd Screenshot])
+
+{Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/F3lR7Bm Screenshot])
 
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
+
+{Suggestion} Add TL 'Buy for SCH' completion messages to logbook ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP])
 
 == Pending - Requires Additional Information ==
 
