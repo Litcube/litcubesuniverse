@@ -24,8 +24,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Station defense mission results message text error ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
-{Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
-
 {Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [https://onedrive.live.com/redir?resid=5CF8D1D17D5AD0BB!140&authkey=!ADa5pjO78wE1HIg&v=3&ithint=photo%2c.jpg Screenshot])
 
 {Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
@@ -71,6 +69,9 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 
 == Pending ==
+
+{Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
+
 {Bug} Missing drop station command on TLs, and drop factory cant drop MLCC shipyards ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
 
 {Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
