@@ -14,6 +14,8 @@
 If you buy more salvage insurance/licenses while in the Auster, they disappear when you switch back to the Tiger. The same thing happens when you replace the Auster in this example with many other ships. The only other ship behaving like the Tiger is the Tempestine, which also seems to have its own set of licenses, doesn't need salvage insurance.
 The Tiger and Tempestine are both ships I've had for a very long time, and pretty much every other ship I currently own was obtained after my most recent import/export. ([https://filetea.me/t1sHxgMVdOIR7yRxz2o6fn1hg Save])
 
+{Bug} MLCC options missing ([http://forum.egosoft.com/viewtopic.php?p=4393729#4393729 OP])
+
 == Accepted ==
 
 {Bug} Dockware manager upgrade ship function allows purchase of software even if the targeted ship already has that software installed ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP])
@@ -39,9 +41,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 {Bug} Boarding pods cannot be moved from a ship to a dock. If you land a ship carrying boarding pods, and go to "Adjust Station Parameters", boarding pods do not show up in the list of wares. If you strip the ship carrying boarding pods, all the wares disappear from the dock.
 
 {Bug} Not all wares that show up in a ship's freight menu will show up in the freight exchange menu.
-
-
-{Bug} MLCC options missing ([http://forum.egosoft.com/viewtopic.php?p=4393729#4393729 OP])
 
 {Bug} M/AM Launcher requires less relations with terran than Gamma Ray Cannon ([http://forum.egosoft.com/viewtopic.php?p=4394479#4394479 OP])
 
