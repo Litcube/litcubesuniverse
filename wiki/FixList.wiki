@@ -87,7 +87,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
 
-== Pending Additional Information ==
+== Pending - Requires Additional Information ==
 
 {Bug} M6 e-jump not working ([http://forum.egosoft.com/viewtopic.php?p=4396007#4396007 OP])
 
