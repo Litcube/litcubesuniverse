@@ -30,8 +30,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [https://onedrive.live.com/redir?resid=5CF8D1D17D5AD0BB!140&authkey=!ADa5pjO78wE1HIg&v=3&ithint=photo%2c.jpg Screenshot])
 
-{Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
-
 {Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
 
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
@@ -139,3 +137,5 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 {Bug} Teladi police license earning kill rewards in pirate sector Spaceweed Grove ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
 
 {Bug} -Fixed by Reinstall- Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
+
+{Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
