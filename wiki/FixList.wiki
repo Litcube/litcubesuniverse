@@ -89,15 +89,19 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Text issue with Xenon Z 'type' listing ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/9AM4Tnd Screenshot])
 
-{Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/F3lR7Bm Screenshot])
+{Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
 {Bug} Ships capable of using boarding pods and with some aboard dont use them when given the board command -report at bottom of OP- ([http://forum.egosoft.com/viewtopic.php?p=4396713#4396713 OP])
+
+{Bug} SA reports not reporting dock agent purchases properly ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP] | [http://imgur.com/pINfIbY Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X03%20%282%29.sav Save])
 
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
 
 {Suggestion} Add TL 'Buy for SCH' completion messages to logbook ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP])
+
+{Suggestion} Add wares purchased for station agents themselves to SA reports ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP])
 
 {Bug} Drop factory will allow mines to be dropped, but isnt taking into account asteroid yield.
 
