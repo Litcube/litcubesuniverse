@@ -97,7 +97,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Suggestion} Add TL 'Buy for SCH' completion messages to logbook ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP])
 
-{Bug} Drop factory will allow mines to be dropped, which it shouldnt
+{Bug} Drop factory will allow mines to be dropped, but isnt taking into account asteroid yield.
 
 == Pending - Requires Additional Information ==
 
