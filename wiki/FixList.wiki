@@ -18,6 +18,8 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Missing drop station command on TLs, and drop factory cant drop MLCC shipyards ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP])
 
+{Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Report2] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
+
 == Accepted ==
 
 {Bug} Dockware manager upgrade ship function allows purchase of software even if the targeted ship already has that software installed ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP])
@@ -31,8 +33,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 {Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
 {Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
-
-{Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Report2] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
 
 {Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
 
