@@ -91,6 +91,8 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/F3lR7Bm Screenshot])
 
+{Bug} Ships capable of using boarding pods and with some aboard dont use them when given the board command -report at bottom of OP- ([http://forum.egosoft.com/viewtopic.php?p=4396713#4396713 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
