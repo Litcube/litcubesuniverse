@@ -93,6 +93,8 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} SA reports not reporting dock agent purchases properly ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP] | [http://imgur.com/pINfIbY Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X03%20%282%29.sav Save])
 
+{Bug} -Possible vanilla issue- Pirate anarchy port has name and wares of paranid trading dock ([http://forum.egosoft.com/viewtopic.php?p=4396845&sid=de93bffad52a267cecad96d7d4fa0f1a#4396845 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
