@@ -16,6 +16,7 @@
   * (3) Fixed: build station mission was offering SCH 
   * (3) Fixed: Fenrirs not EI shields properly was symptom of larger EI problem
   * (-) Changed:  Terran used ships now offered
+  * (-) Changed:  a label in Tug, hope it helps from getting ships stuck
 
 
 
