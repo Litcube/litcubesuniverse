@@ -22,7 +22,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
 
-{Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
+{Suggestion} Incorporate Missile Safety ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response] | [http://forum.egosoft.com/viewtopic.php?t=238860 ModThread])
 
 {Suggestion} Add performance monitoring function to UTs similar to station agent reports ([http://forum.egosoft.com/viewtopic.php?p=4394589#4394589 OP])
 
@@ -66,7 +66,7 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all. (They also seem unable to acquire a target OOS (Unconfirmed)) {[http://i.imgur.com/HlxBYf1.png Screenshot] | [http://i.imgur.com/1tirkxy.png Screenshot(After Entering Sector)]}
 
-{Bug} Albion pride wont teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
+{Bug} Albion pride won't teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
 
 {Bug} You can flag ship classes for tug that cannot dock with any possible tug ship. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/JpyXI8I Screenshot])
 
@@ -80,7 +80,15 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} SA reports not reporting dock agent purchases properly ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP] | [http://imgur.com/pINfIbY Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X03%20%282%29.sav Save])
 
-{Bug} -Possible vanilla issue- Pirate anarchy port has name and wares of paranid trading dock ([http://forum.egosoft.com/viewtopic.php?p=4396845&sid=de93bffad52a267cecad96d7d4fa0f1a#4396845 OP])
+{Bug}Pirate anarchy port has name and wares of paranid trading dock ([http://forum.egosoft.com/viewtopic.php?p=4396845&sid=de93bffad52a267cecad96d7d4fa0f1a#4396845 OP] | [http://forum.egosoft.com/viewtopic.php?p=4397037#4397037 Addinfo])
+
+{Bug} LU UI buttons issue ([http://forum.egosoft.com/viewtopic.php?p=4397194#4397194 OP])
+
+{Bug} OCV stuck in bluish snout ([http://forum.egosoft.com/viewtopic.php?p=4397263#4397263 OP])
+
+{Bug} Pirate Bayamon has very small cargo and no possible upgrades ([http://forum.egosoft.com/viewtopic.php?p=4397191#4397191 OP])
+
+{Bug} SCH setting for boron power plant XL uses M sized factories instead ([http://forum.egosoft.com/viewtopic.php?p=4397280#4397280 OP])
 
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
@@ -89,6 +97,16 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 {Suggestion} Add TL 'Buy for SCH' completion messages to logbook ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP])
 
 {Suggestion} Add wares purchased for station agents themselves to SA reports ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP])
+
+{Suggestion} Add a turret for M7Ms to assist with OOS Combat ([http://forum.egosoft.com/viewtopic.php?p=4397151#4397151 OP])
+
+{Suggestion} Add boarding pods to pirate ships ([http://forum.egosoft.com/viewtopic.php?p=4397151#4397151 OP])
+
+{Suggestion} Remove ST cargo compatibility from capital ships unable to fit any stations ([http://forum.egosoft.com/viewtopic.php?p=4397191#4397191 OP])
+
+{Suggestion} Integrate turret on/off hotkey ([http://forum.egosoft.com/viewtopic.php?p=4397289#4397289 OP] | [http://forum.egosoft.com/viewtopic.php?t=224456 ModThread])
+
+{Suggestion} Prohibit UTs from trading with pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4397496#4397496 OP])
 
 {Bug} Drop factory will allow mines to be dropped, but isnt taking into account asteroid yield.
 
