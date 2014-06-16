@@ -4,8 +4,6 @@
 
 == Accepted - Higher Priority (Savegame Available) ==
 
-{Bug} Tug stuck while collecting ships ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP] | [https://dl.dropboxusercontent.com/u/18285480/X03.sav Save])
-
 {Bug} Game always hangs if you kill a specific Phanon Corp fighter. To replicate, go to Senator's Badlands and kill the Valshire Corp. Discovery ([https://filetea.me/t1sgJhtMuVQTCxBtCPexIp3Xg Save])
 
 {Bug} Some ships "eat" salvage insurance and licenses. To replicate with included savegame: If you check your player profile when you load the game, you have an Argon LE license and 108 Salvage Insurance. If you switch to the Tiger following you, you have almost all of the licenses, but no salvage insurance displayed, though you can save in space. If you then switch back to the Auster, you have no salvage insurance and no licenses. Switching to other ships from the Auster does not cause this problem.
