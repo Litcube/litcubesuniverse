@@ -25,8 +25,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Not all wares that show up in a ship's freight menu will show up in the freight exchange menu.
 
-{Bug} M/AM Launcher requires less relations with terran than Gamma Ray Cannon ([http://forum.egosoft.com/viewtopic.php?p=4394479#4394479 OP])
-
 {Bug} Available stocks sometimes drop to zero when index reaches 100, possibly as player wealth increases ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP] | [http://forum.egosoft.com/viewtopic.php?p=4395839#4395839 AddInfo])
 
 {Bug} UT trading doesn't increase rank with Terran/ATF ([http://forum.egosoft.com/viewtopic.php?p=4394675#4394675 OP])
