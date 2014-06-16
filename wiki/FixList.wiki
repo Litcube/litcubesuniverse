@@ -14,8 +14,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 == Accepted ==
 
-{Exploit} Docking ships to stations instantly repairs shields, particularly cheesy against OCV and especially problematic when mixed with jump beacons ([http://forum.egosoft.com/viewtopic.php?p=4394056#4394056 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394058#4394058 Response])
-
 {Bug} Station defense mission results message text error ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
 {Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [https://onedrive.live.com/redir?resid=5CF8D1D17D5AD0BB!140&authkey=!ADa5pjO78wE1HIg&v=3&ithint=photo%2c.jpg Screenshot])
