@@ -21,7 +21,7 @@
   * (-) Changed:  Terran used ships now offered
   * (-) Changed:  a label in Tug, hope it helps from getting ships stuck
   * (-) Changed:  docking no longer sets shields to 100% (this was far more work than you may think)
-
+  * (-) Changed: Orbital Weapon Platforms weapon load-outs adjusted.
 
 
 
