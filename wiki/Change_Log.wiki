@@ -18,6 +18,7 @@
   * (3) Fixed: Dockware manager was allowing more than what should have been allowed to be purchased
   * (-) Changed:  Terran used ships now offered
   * (-) Changed:  a label in Tug, hope it helps from getting ships stuck
+  * (-) Changed:  docking no longer sets shields to 100% (this was far more work than you may think)
 
 
 
