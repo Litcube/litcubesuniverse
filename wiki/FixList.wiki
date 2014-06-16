@@ -14,8 +14,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 == Accepted ==
 
-{Bug} Dockware manager upgrade ship function allows purchase of software even if the targeted ship already has that software installed ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP])
-
 {Exploit} Docking ships to stations instantly repairs shields, particularly cheesy against OCV and especially problematic when mixed with jump beacons ([http://forum.egosoft.com/viewtopic.php?p=4394056#4394056 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394058#4394058 Response])
 
 {Bug} Station defense mission results message text error ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
