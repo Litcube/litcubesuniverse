@@ -1,4 +1,5 @@
 #summary Change Log (History)
+#labels u
 
 = Change Log =
 
@@ -19,10 +20,12 @@
   * (3) Fixed: Fenrirs not EI shields properly was symptom of larger EI problem
   * (3) Fixed: Dockware manager was allowing more than what should have been allowed to be purchased
   * (2) Fixed: defend station mission no longer sends odd reward message
+  * (2) Fixed: Some laser energy requirements fixed
   * (-) Changed:  Terran used ships now offered
   * (-) Changed:  a label in Tug, hope it helps from getting ships stuck
   * (-) Changed:  docking no longer sets shields to 100% (this was far more work than you may think)
   * (-) Changed: Orbital Weapon Platforms weapon load-outs adjusted.
+  * (-) Changed: Gamma Ray Cannon notoriety required
 
 
 
