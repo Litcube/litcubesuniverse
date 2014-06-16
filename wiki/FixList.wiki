@@ -4,8 +4,6 @@
 
 == Accepted - Higher Priority (Savegame Available) ==
 
-{Bug} Fenrirs lose shields during EI ([http://forum.egosoft.com/viewtopic.php?p=4394105#4394105 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394114#4394114 Response] | [http://www.mediafire.com/download/m2615z0rq5fov1o/CausticFlipper_NoShieldFenrir.7z Save])
-
 {Bug} Tug stuck while collecting ships ([http://forum.egosoft.com/viewtopic.php?p=4394194#4394194 OP] | [https://dl.dropboxusercontent.com/u/18285480/X03.sav Save])
 
 {Bug} Game always hangs if you kill a specific Phanon Corp fighter. To replicate, go to Senator's Badlands and kill the Valshire Corp. Discovery ([https://filetea.me/t1sgJhtMuVQTCxBtCPexIp3Xg Save])
