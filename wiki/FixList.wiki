@@ -14,7 +14,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 == Accepted ==
 
-{Bug} Boron weapons platforms use fighter weapons only ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [https://onedrive.live.com/redir?resid=5CF8D1D17D5AD0BB!140&authkey=!ADa5pjO78wE1HIg&v=3&ithint=photo%2c.jpg Screenshot])
 
 {Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
 
