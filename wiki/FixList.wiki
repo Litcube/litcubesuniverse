@@ -62,7 +62,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} Shipyard spawning in OCV conquered sectors ([http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
 
-
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
 {Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 AddInfo])
@@ -78,8 +77,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 {Bug} Pirate ships are building up in sectors such as Elena's Fortune stuck camping gates while the player is OOS - the direct result of !job.pirate.plunderships calling !move.idle.timeout - which in turns calls "[THIS]->move around x ms", move around OOS does not seem to move the ships around at all. (They also seem unable to acquire a target OOS (Unconfirmed)) {[http://i.imgur.com/HlxBYf1.png Screenshot] | [http://i.imgur.com/1tirkxy.png Screenshot(After Entering Sector)]}
 
 {Bug} Albion pride wont teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
-
-{Bug} Terran build station missions can ask for SCH ([http://forum.egosoft.com/viewtopic.php?p=4396228#4396228 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4396241#4396241 Response])
 
 {Bug} You can flag ship classes for tug that cannot dock with any possible tug ship. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/JpyXI8I Screenshot])
 
