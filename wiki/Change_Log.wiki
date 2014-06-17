@@ -17,7 +17,7 @@
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
   * (5) Fixed: a bug in Station Agent that would cause a hang
   * (3) Fixed: build station mission was requesting an SCH build
-  * (3) Fixed: EI bug - Fenrirs / shields issue was symptom of larger EI problem
+  * (3) Fixed: EI bug - Fenrirs / shields: import now adds tunings first (fenrirs didn't have cargo space)
   * (3) Fixed: Dockware manager was allowing more than what should have been allowed to be purchased
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: Some laser energy requirements fixed
