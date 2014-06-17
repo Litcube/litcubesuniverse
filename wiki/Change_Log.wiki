@@ -28,11 +28,13 @@
   * (-) Changed: Orbital Weapon Platforms weapon load-outs adjusted.
   * (-) Changed: Gamma Ray Cannon notoriety required
   * (-) Changed: flagship entourage augmented
+  * (-) Changed: Some M2 transport classes
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: (Var/Array), icon= (Var/Number)
   * (-) Upgraded: new script command: (RetVar) = format number: number=(Var/Number) , billions=(Var/Number), format wrapper=(Var/String)
   * (-) Upgraded: new script command: (RetVar) = sum billion arrays: first=(Var/Array) , second=(Var/Array)
   * (-) Upgraded: new script command: (RetVar) = add to billion array: array=(Var/Array) , number=(Var/Number)
+  * (-) Upgraded: new script command: (RetVar) = multiply billion array: array=(Var/Array) , number=(Var/Number)
 
 
 
