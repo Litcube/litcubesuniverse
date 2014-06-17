@@ -26,6 +26,8 @@
   * (-) Changed:  docking no longer sets shields to 100% (this was far more work than you may think)
   * (-) Changed: Orbital Weapon Platforms weapon load-outs adjusted.
   * (-) Changed: Gamma Ray Cannon notoriety required
+  * (-) Upgraded: missile safety implemented (with distance check, not time)
+  * (-) Upgraded: new script command: set custom menu option: icon
 
 
 
