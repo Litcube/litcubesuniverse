@@ -34,8 +34,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} 'Collect ware...' on docked ship causes it to instantly collect all wares in sector ([http://forum.egosoft.com/viewtopic.php?p=4395098#4395098 OP])
 
-{Bug} Mission completed text bug in sender name ([http://forum.egosoft.com/viewtopic.php?p=4395202#4395202 OP] | [https://www.flickr.com/photos/97718370@N07/14367908466/ Screenshot])
-
 {Bug} UT jumping to sector with no player assets. Possible install issue ([http://forum.egosoft.com/viewtopic.php?p=4395165#4395165 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 Report2] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
 
 {Bug} Shipyard spawning in OCV conquered sectors ([http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
