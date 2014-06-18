@@ -85,3 +85,8 @@ Trading System Extension
 Once you've picked these up, dock the TL at the Saturn Complex Hub. You can then select the blue colour items to install the stations from your TL into the hub. Next, install the asteroids (purple wares). 
 
 If everything in this pane is green, and you see the "Engage", you're ready to produce. Hit engage, and the Saturn Complex Hub will start pumping out wares. 
+
+= Move Logistics =
+
+There's a handy station command called _move logistics_ that enables you to move all your station agents, trade report, and station settings to another station.  This is useful for when you're upgrading your SCH to a larger size.  When you have your new one setup, run the move logistics command on the old SCH, and move logistics to the new one.  All your station agents will start using the new station, station settings will be moved, and so will the trade report.  Dockware manager sources will also be moved to the new station.
+
