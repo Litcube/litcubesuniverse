@@ -80,7 +80,7 @@
 
 {Suggestion} Remove ST cargo compatibility from capital ships unable to fit any stations ([http://forum.egosoft.com/viewtopic.php?p=4397191#4397191 OP])
 
-{Suggestion} Integrate turret on/off hotkey ([http://forum.egosoft.com/viewtopic.php?p=4397289#4397289 OP] | [http://forum.egosoft.com/viewtopic.php?t=224456 ModThread])
+{Suggestion} Integrate turret on/off hotkey ([http://forum.egosoft.com/viewtopic.php?p=4397289#4397289 OP] | [http://forum.egosoft.com/viewtopic.php?t=224456 Mod Thread])
 
 {Suggestion} Prohibit UTs from trading with pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4397496#4397496 OP])
 
