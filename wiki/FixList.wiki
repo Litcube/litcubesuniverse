@@ -64,6 +64,8 @@
 
 {Bug} Ocelot clips PHQ when docking and explodes upon undocking ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP])
 
+{Bug} Missing station explosion effect ([http://forum.egosoft.com/viewtopic.php?p=4398274#4398274 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
@@ -88,7 +90,7 @@
 
 {Suggestion} Allow ships docked with player owned stations to siphon shields from them ([http://forum.egosoft.com/viewtopic.php?p=4397996#4397996 OP])
 
-{Suggestion} Remove protrusions from ship models and move camera dummies closer to the ship model to assist in ai flying/aiming ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP])
+{Suggestion} Remove protrusions from ship models and move camera dummies closer to the ship model to assist in ai flying/aiming ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398277#4398277 Partial List])
 
 {Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
