@@ -36,6 +36,7 @@
   * (-) Upgraded: new script command: (RetVar) = sum billion arrays: first=(Var/Array) , second=(Var/Array)
   * (-) Upgraded: new script command: (RetVar) = add to billion array: array=(Var/Array) , number=(Var/Number)
   * (-) Upgraded: new script command: (RetVar) = multiply billion array: array=(Var/Array) , number=(Var/Number)
+  * (-) Upgraded: Every ship and station now has a trade report
 
 
 
