@@ -18,6 +18,7 @@
   * (3) Fixed: build station mission was requesting an SCH build
   * (3) Fixed: EI bug - Fenrirs / shields: import now adds tunings first (fenrirs didn't have cargo space)
   * (3) Fixed: Dockware manager was allowing more than what should have been allowed to be purchased
+  * (3) Fixed: Tug docking rewritten; tested, and no stuck ships
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: Some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
@@ -37,6 +38,8 @@
   * (-) Upgraded: new script command: (RetVar) = add to billion array: array=(Var/Array) , number=(Var/Number)
   * (-) Upgraded: new script command: (RetVar) = multiply billion array: array=(Var/Array) , number=(Var/Number)
   * (-) Upgraded: Every ship and station now has a trade report
+  * (-) Upgraded: trade report now handles quadrillions
+
 
 
 
