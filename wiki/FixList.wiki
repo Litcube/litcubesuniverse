@@ -74,6 +74,16 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Bug} SCH setting for boron power plant XL uses M sized factories instead ([http://forum.egosoft.com/viewtopic.php?p=4397280#4397280 OP])
 
+{Bug} Volunteer NPC forces against OCV will fight each other based on canon rivalries ([http://forum.egosoft.com/viewtopic.php?p=4397817#4397817 OP])
+
+{Bug} Aran wonky stats ([http://forum.egosoft.com/viewtopic.php?p=4397903#4397903 OP])
+
+{Bug} Collect wares in sector gets stuck if the ship can't hold the size ware it is trying to pick up ([http://forum.egosoft.com/viewtopic.php?p=4398000#4398000 OP])
+
+{Bug} Another report of SA's selling too small amounts ([http://forum.egosoft.com/viewtopic.php?p=4398023#4398023 OP] | [http://1drv.ms/1lwp7r2  Save])
+
+{Bug} Ocelot clips PHQ when docking and explodes upon undocking ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
@@ -92,7 +102,15 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 {Suggestion} Prohibit UTs from trading with pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4397496#4397496 OP])
 
-{Bug} Drop factory will allow mines to be dropped, but isnt taking into account asteroid yield.
+{Suggestion} Improve dreadnought agility to assist ai pilots ([http://forum.egosoft.com/viewtopic.php?p=4397837#4397837 OP])
+
+{Suggestion} Allow template editing ([http://forum.egosoft.com/viewtopic.php?p=4397916#4397916 OP])
+
+{Suggestion} Allow ships docked with player owned stations to siphon shields from them ([http://forum.egosoft.com/viewtopic.php?p=4397996#4397996 OP])
+
+{Suggestion} Remove protrusions from ship models and move camera dummies closer to the ship model to assist in ai flying/aiming ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP])
+
+{Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
 == Pending - Requires Additional Information ==
 
@@ -104,6 +122,8 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 == Rejected ==
 
 {Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Report2] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
+
+{Bug} Issue with manually added notoriety values ([http://forum.egosoft.com/viewtopic.php?p=4397830#4397830 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398044#4398044 Retraction])
 
 {Bug} One gun per turret equipped in AI ships ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 AddInfo])
 
