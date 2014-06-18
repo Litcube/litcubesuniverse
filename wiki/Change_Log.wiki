@@ -31,6 +31,7 @@
   * (-) Changed: flagship entourage augmented
   * (-) Changed: Some M2 transport classes
   * (-) Changed: Pirate plunderers range expanded
+  * (-) Changed: renamed "Allow station transfer" to "Include in credit transfer"
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: (Var/Array), icon= (Var/Number)
   * (-) Upgraded: new script command: (RetVar) = format number: number=(Var/Number) , billions=(Var/Number), format wrapper=(Var/String)
