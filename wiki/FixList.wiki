@@ -14,8 +14,6 @@ The Tiger and Tempestine are both ships I've had for a very long time, and prett
 
 == Accepted ==
 
-{Suggestion} Add performance monitoring function to UTs similar to station agent reports ([http://forum.egosoft.com/viewtopic.php?p=4394589#4394589 OP])
-
 {Bug} Boarding pods cannot be moved from a ship to a dock. If you land a ship carrying boarding pods, and go to "Adjust Station Parameters", boarding pods do not show up in the list of wares. If you strip the ship carrying boarding pods, all the wares disappear from the dock.
 
 {Bug} Not all wares that show up in a ship's freight menu will show up in the freight exchange menu.
