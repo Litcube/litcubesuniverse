@@ -39,6 +39,7 @@
   * (-) Upgraded: new script command: (RetVar) = multiply billion array: array=(Var/Array) , number=(Var/Number)
   * (-) Upgraded: Every ship and station now has a trade report
   * (-) Upgraded: trade report now handles quadrillions
+  * (-) Upgraded: Move Logistics command modernized
 
 
 
