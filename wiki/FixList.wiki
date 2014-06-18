@@ -8,8 +8,6 @@
 
 {Bug} Available stocks sometimes drop to zero when index reaches 100, possibly as player wealth increases ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP] | [http://forum.egosoft.com/viewtopic.php?p=4395839#4395839 AddInfo])
 
-{Bug} UT trading doesn't increase rank with Terran/ATF ([http://forum.egosoft.com/viewtopic.php?p=4394675#4394675 OP])
-
 {Bug} Message log debug spam possible related to Ship Template Outfit command ([http://forum.egosoft.com/viewtopic.php?p=4394788#4394788 OP])
 
 {Bug} 'Blood stained note' after trying to jump at a station after a product search ([http://forum.egosoft.com/viewtopic.php?p=4394788#4394788 OP])
@@ -140,3 +138,5 @@
 {Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
 
 {Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
+
+{Bug} UT trading doesn't increase rank with Terran/ATF ([http://forum.egosoft.com/viewtopic.php?p=4394675#4394675 OP])
