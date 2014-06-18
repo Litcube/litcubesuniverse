@@ -14,13 +14,13 @@
 
 {Bug} 'Collect ware...' on docked ship causes it to instantly collect all wares in sector ([http://forum.egosoft.com/viewtopic.php?p=4395098#4395098 OP])
 
-{Bug} UT jumping to sector with no player assets. Possible install issue ([http://forum.egosoft.com/viewtopic.php?p=4395165#4395165 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 Report2] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
+{Bug} UT jumping to sector with no player assets. Possible install issue ([http://forum.egosoft.com/viewtopic.php?p=4395165#4395165 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 Second Report] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
 
 {Bug} Shipyard spawning in OCV conquered sectors ([http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 
-{Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 AddInfo])
+{Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 Add. Info])
 
 {Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
 
@@ -44,7 +44,7 @@
 
 {Bug} SA reports not reporting dock agent purchases properly ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP] | [http://imgur.com/pINfIbY Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X03%20%282%29.sav Save])
 
-{Bug}Pirate anarchy port has name and wares of paranid trading dock ([http://forum.egosoft.com/viewtopic.php?p=4396845&sid=de93bffad52a267cecad96d7d4fa0f1a#4396845 OP] | [http://forum.egosoft.com/viewtopic.php?p=4397037#4397037 Addinfo])
+{Bug}Pirate anarchy port has name and wares of paranid trading dock ([http://forum.egosoft.com/viewtopic.php?p=4396845&sid=de93bffad52a267cecad96d7d4fa0f1a#4396845 OP] | [http://forum.egosoft.com/viewtopic.php?p=4397037#4397037 Add. info])
 
 {Bug} LU UI buttons issue ([http://forum.egosoft.com/viewtopic.php?p=4397194#4397194 OP])
 
@@ -103,11 +103,11 @@
 
 == Rejected ==
 
-{Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Report2] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
+{Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Second Report] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
 
 {Bug} Issue with manually added notoriety values ([http://forum.egosoft.com/viewtopic.php?p=4397830#4397830 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398044#4398044 Retraction])
 
-{Bug} One gun per turret equipped in AI ships ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 AddInfo])
+{Bug} One gun per turret equipped in AI ships ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 Add. Info])
 
 {Bug} Ships without maxed shields ([http://forum.egosoft.com/viewtopic.php?p=4395322#4395322 OP])
 
@@ -139,4 +139,4 @@
 
 {Bug} UT trading doesn't increase rank with Terran/ATF ([http://forum.egosoft.com/viewtopic.php?p=4394675#4394675 OP])
 
-{Bug} Available stocks sometimes drop to zero when index reaches 100, possibly as player wealth increases ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP] | [http://forum.egosoft.com/viewtopic.php?p=4395839#4395839 AddInfo])
+{Bug} Available stocks sometimes drop to zero when index reaches 100, possibly as player wealth increases ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP] | [http://forum.egosoft.com/viewtopic.php?p=4395839#4395839 Add. Info])
