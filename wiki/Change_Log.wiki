@@ -44,6 +44,8 @@
   * (-) Upgraded: trade report now handles quadrillions
   * (-) Upgraded: Move Logistics command modernized and added to SCH wiki
   * (-) Upgraded: new script command: (RetVar/If) (RefObj) get shipyards sells ware: ware=(Ship/Station type), jumps=(Var/Number), flags=(Var/Number), exclude=(Value)
+  * (-) Upgraded: Supply Ware Command easier menu
+  * (-) Upgraded: Trade Product Search easier menu, moved to dynamic
 
 
 
