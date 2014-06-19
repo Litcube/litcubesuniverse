@@ -266,6 +266,8 @@ Everything has trade reports
 
 see: [Feature_Trade_Reports Feature: Trade Reports]
 
+----
+
 === Vanilla AP Bug Fixes ===
 
 Many bugs fixed.
