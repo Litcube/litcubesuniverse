@@ -23,7 +23,7 @@
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: Some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
-  * (2) Fixed: Type fixed in ship info menu
+  * (2) Fixed: type fixed in ship info menu
   * (2) Fixed: debug spam in ship outfit template
   * (-) Changed: Terran used ships now offered
   * (-) Changed: a label in Tug, hope it helps from getting ships stuck
@@ -43,7 +43,7 @@
   * (-) Upgraded: new script command: (RetVar) = sum billion arrays: first=(Var/Array) , second=(Var/Array)
   * (-) Upgraded: new script command: (RetVar) = add to billion array: array=(Var/Array) , number=(Var/Number)
   * (-) Upgraded: new script command: (RetVar) = multiply billion array: array=(Var/Array) , number=(Var/Number)
-  * (-) Upgraded: Every ship and station now has a trade report
+  * (-) Upgraded: every ship and station now has a trade report
   * (-) Upgraded: trade report now handles quadrillions
   * (-) Upgraded: Move Logistics command modernized and added to SCH wiki
   * (-) Upgraded: new script command: (RetVar/If) (RefObj) get shipyards sells ware: ware=(Ship/Station type), jumps=(Var/Number), flags=(Var/Number), exclude=(Value)
