@@ -192,7 +192,7 @@ See: [Feature_The_Phanon_Corporation Feature: The Phanon Corporation]
 
 Quickshuttles are hotkey activated ships that automate routine tasks.
 
-See [Feature_Quickshuttles Feature: Quickshuttles]
+See: [Feature_Quickshuttles Feature: Quickshuttles]
 
 ----
 
@@ -240,7 +240,7 @@ See: [Feature_Supply_Command_Software  Feature: Supply Command Software Update]
 
 Template Manager is a system allowing you to save templates of your ship for use with the many systems Litcube's Universe has to offer.
 
-see: [Feature_Template_Manager Feature: Template Manager]
+See: [Feature_Template_Manager Feature: Template Manager]
 
 ----
 
@@ -248,7 +248,7 @@ see: [Feature_Template_Manager Feature: Template Manager]
 
 Automated tug ship brings captured ships home.
 
-see: [Feature_Tug Feature: Tug]
+See: [Feature_Tug Feature: Tug]
 
 ----
 
@@ -256,7 +256,7 @@ see: [Feature_Tug Feature: Tug]
 
 Find stuff for sale.
 
-see: [Feature_Trade_Product_Search Feature: Trade Product Search]
+See: [Feature_Trade_Product_Search Feature: Trade Product Search]
 
 ----
 
@@ -264,7 +264,7 @@ see: [Feature_Trade_Product_Search Feature: Trade Product Search]
 
 Everything has trade reports
 
-see: [Feature_Trade_Reports Feature: Trade Reports]
+See: [Feature_Trade_Reports Feature: Trade Reports]
 
 ----
 
