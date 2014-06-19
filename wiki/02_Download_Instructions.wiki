@@ -10,7 +10,7 @@ Download the installer here:
 
 = Patch = 
 ----
-Read the [Change_Log Changelog] before you patch.  If you run into problems and didn't read it, fuck you.
+Read the [Change_Log Changelog] before you patch.  If you run into problems and didn't read it, bunnies will die.  And I can't help that.
 
 If you don't use the installer, and do a manual copy paste, your game will be broken.
 
