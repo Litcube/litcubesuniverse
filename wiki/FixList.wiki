@@ -6,8 +6,6 @@
 
 == Accepted ==
 
-{Bug} 'Blood stained note' after trying to jump at a station after a product search ([http://forum.egosoft.com/viewtopic.php?p=4394788#4394788 OP])
-
 {Bug} Dock agent goes to 'none' if cannot find a ware (even though the ware is available nearby) ([http://forum.egosoft.com/viewtopic.php?p=4394765#4394765 OP])
 
 {Bug} 'Collect ware...' command ignores range to ware ([http://forum.egosoft.com/viewtopic.php?p=4395073#4395073 OP])
