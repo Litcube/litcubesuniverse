@@ -39,6 +39,7 @@
   * (-) Changed: removed a planet to make Argon Prime socks fit in window (stock amounts are based on planet count)
   * (-) Changed: renamed "Drop Factory" to "Remote Drop Factory" and disabled use IS
   * (-) Changed: rewrote Drop Factory description
+  * (-) Changed: removed flight times and set global homebase
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: (Var/Array), icon= (Var/Number)
   * (-) Upgraded: new script command: (RetVar) = format number: number=(Var/Number) , billions=(Var/Number), format wrapper=(Var/String)
