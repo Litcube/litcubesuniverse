@@ -50,6 +50,7 @@
   * (-) Upgraded: new script command: (RetVar/If) (RefObj) get shipyards sells ware: ware=(Ship/Station type), jumps=(Var/Number), flags=(Var/Number), exclude=(Value)
   * (-) Upgraded: Supply Ware Command easier menu
   * (-) Upgraded: Trade Product Search easier menu, moved to dynamic
+  * (-) Upgraded: Tractor Asteroid menu modernized
 
 
 
