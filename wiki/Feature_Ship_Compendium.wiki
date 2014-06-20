@@ -8,4 +8,4 @@ Accessed through the player console, you can see ship statistics from all the sh
 
 Selecting a single ship brings up more detailed information.
 
-http://www.mediafire.com/convkey/c40d/n6xizd3tan5xirbfg.jpg
+http://www.mediafire.com/convkey/8859/n6xizd3tan5xirbfg.jpg
