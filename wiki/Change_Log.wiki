@@ -53,7 +53,8 @@
   * (-) Upgraded: Supply Ware Command easier menu
   * (-) Upgraded: Trade Product Search easier menu, moved to dynamic
   * (-) Upgraded: Tractor Asteroid menu modernized
-  * (-) Upgraded: modernized Global ship renaming tool in player console.  It's pretty slick now.
+  * (-) Upgraded: modernized Global ship renaming tool in player console.  It's pretty slick now. 
+  * (-) Upgraded: Ship Info menu renamed Ship Compendium, loads substantially faster, now must know shipyard to see ship
 
 
 
