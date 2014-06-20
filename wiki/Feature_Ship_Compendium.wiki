@@ -1,0 +1,3 @@
+#summary See ship stats in game.
+
+= Ship Compendium =
