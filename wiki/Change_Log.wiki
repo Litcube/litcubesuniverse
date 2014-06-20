@@ -20,6 +20,7 @@
   * (3) Fixed: Dockware manager was allowing more than what should have been allowed to be purchased
   * (3) Fixed: Tug docking rewritten; tested, and no stuck ships
   * (3) Fixed: player traders only selling 250 of ware when more viable trade ops exist
+  * (3) Fixed: Dockware Manager - Upgrade Ships was allowing transport class restricted wares to be bought for ships
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: Some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
