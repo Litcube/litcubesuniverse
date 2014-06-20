@@ -220,6 +220,12 @@ See: [Feature_New_Script_Commands Feature: New Script Commands]
 
 ----
 
+=== Ship Compendium ===
+
+See ship stats in game.
+
+See: [Feature_Ship_Compendium Feature: Ship Compendium]
+
 === Stock Exchange ===
 
 The Stock Exchange has changed to something a little more simple.
