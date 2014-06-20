@@ -22,6 +22,8 @@
 
 == Pending ==
 
+{Suggestion} Add "Deploy Sat" sector security checks ([http://forum.egosoft.com/viewtopic.php?p=4398732#4398732 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398733#4398733 Response])
+
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
 {Bug} Tug can get stuck if attempting to collect TS with TS already docked ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
@@ -62,6 +64,16 @@
 
 {Bug} Missing station explosion effect ([http://forum.egosoft.com/viewtopic.php?p=4398274#4398274 OP])
 
+{Bug} Switching to a newly purchased ship in Mars can sometimes cause lag ([http://forum.egosoft.com/viewtopic.php?p=4398589#4398589 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398611#4398611 Add. Info] | [http://forum.egosoft.com/viewtopic.php?p=4398630#4398630 Report 2])
+
+{Bug} Move to position doesn't work across sectors ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
+
+{Bug} IGP encyclopedia entry starts with a period ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
+
+{Bug} Captured ships don't reset Friend/Foe settings ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
+
+{Bug} Crash in early game -waiting for crash report- ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
@@ -88,11 +100,19 @@
 
 {Suggestion} Remove protrusions from ship models and move camera dummies closer to the ship model to assist in ai flying/aiming ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398277#4398277 Partial List])
 
+{Suggestion} Let multiple dock agents buy the same ware if more than their combined cargo space is required ([http://forum.egosoft.com/viewtopic.php?p=4398682#4398682 OP])
+
+{Suggestion} Add weapon ready indicator ([http://forum.egosoft.com/viewtopic.php?p=4398695#4398695 OP])
+
+{Suggestion} Add missile targeting hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4398695#4398695 OP])
+
+{Suggestion} Add station Friendly Fire forgiveness ([http://forum.egosoft.com/viewtopic.php?p=4398745#4398745 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398748#4398748 Response])
+
 {Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
 == Pending - Requires Additional Information ==
 
-{Bug} M6 e-jump not working ([http://forum.egosoft.com/viewtopic.php?p=4396007#4396007 OP])
+{Bug} M6 e-jump not working, may have to do with wings overwriting commands ([http://forum.egosoft.com/viewtopic.php?p=4396007#4396007 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398682#4398682 Add. Info])
 
 == Implemented ==
 
