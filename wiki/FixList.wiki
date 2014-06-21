@@ -32,10 +32,6 @@
 
 {Bug} Albion pride won't teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
 
-{Bug} You can flag ship classes for tug that cannot dock with any possible tug ship. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/JpyXI8I Screenshot])
-
-{Bug} TL 'Buy for SCH' message weirdness when no valid SCH available. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/TYsEjmz Screenshot])
-
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
 {Bug} Ships capable of using boarding pods and with some aboard dont use them when given the board command -report at bottom of OP- ([http://forum.egosoft.com/viewtopic.php?p=4396713#4396713 OP])
@@ -118,6 +114,8 @@
 
 
 == Rejected ==
+
+{Bug} You can flag ship classes for tug that cannot dock with any possible tug ship. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/JpyXI8I Screenshot])
 
 {Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Second Report] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
 
