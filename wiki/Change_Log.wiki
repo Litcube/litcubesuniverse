@@ -27,6 +27,7 @@
   * (2) Fixed: type fixed in ship info menu
   * (2) Fixed: debug spam in ship outfit template
   * (1) Fixed: UTs now use the LU Refuel.Pre routine, eliminating breaking the sector rules for refuelling UTs
+  * (1) Fixed: Saturn SCH Shop weirdness with no SCH selected
   * (-) Changed: Terran used ships now offered
   * (-) Changed: a label in Tug, hope it helps from getting ships stuck
   * (-) Changed: docking no longer sets shields to 100% (this was far more work than you may think)
