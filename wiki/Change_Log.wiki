@@ -44,15 +44,15 @@
   * (-) Changed: removed marine search command
   * (-) Changed: removed transport ships command
   * (-) Upgraded: missile safety implemented (with distance check, not time)
-  * (-) Upgraded: new script command: set menu option: (Var/Array), icon= (Var/Number)
-  * (-) Upgraded: new script command: (RetVar) = format number: number=(Var/Number) , billions=(Var/Number), format wrapper=(Var/String)
-  * (-) Upgraded: new script command: (RetVar) = sum billion arrays: first=(Var/Array) , second=(Var/Array)
-  * (-) Upgraded: new script command: (RetVar) = add to billion array: array=(Var/Array) , number=(Var/Number)
-  * (-) Upgraded: new script command: (RetVar) = multiply billion array: array=(Var/Array) , number=(Var/Number)
+  * (-) Upgraded: new script command: set menu option: , icon= 
+  * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
+  * (-) Upgraded: new script command: = sum billion arrays: first= , second=
+  * (-) Upgraded: new script command: = add to billion array: array= , number=
+  * (-) Upgraded: new script command: = multiply billion array: array= , number=
   * (-) Upgraded: every ship and station now has a trade report
   * (-) Upgraded: trade report now handles quadrillions
   * (-) Upgraded: Move Logistics command modernized and added to SCH wiki
-  * (-) Upgraded: new script command: (RetVar/If) (RefObj) get shipyards sells ware: ware=(Ship/Station type), jumps=(Var/Number), flags=(Var/Number), exclude=(Value)
+  * (-) Upgraded: new script command: get shipyards sells ware: ware=, jumps=, flags=, exclude=
   * (-) Upgraded: Supply Ware Command easier menu
   * (-) Upgraded: Trade Product Search easier menu, moved to dynamic
   * (-) Upgraded: Tractor Asteroid menu modernized
