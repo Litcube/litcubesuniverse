@@ -22,6 +22,8 @@
 
 == Pending ==
 
+{Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
+
 {Suggestion} Add "Deploy Sat" sector security checks ([http://forum.egosoft.com/viewtopic.php?p=4398732#4398732 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398733#4398733 Response])
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
@@ -60,7 +62,7 @@
 
 {Bug} Missing station explosion effect ([http://forum.egosoft.com/viewtopic.php?p=4398274#4398274 OP])
 
-{Bug} Switching to a newly purchased ship in Mars can sometimes cause lag ([http://forum.egosoft.com/viewtopic.php?p=4398589#4398589 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398611#4398611 Add. Info] | [http://forum.egosoft.com/viewtopic.php?p=4398630#4398630 Report 2])
+{Bug} Switching to a newly purchased ship in Mars can sometimes cause lag ([http://forum.egosoft.com/viewtopic.php?p=4398589#4398589 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398611#4398611 Add. Info] | [http://forum.egosoft.com/viewtopic.php?p=4398630#4398630 Report 2] | [http://www.huillam.net/X04.sav Save])
 
 {Bug} Move to position doesn't work across sectors ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
 
@@ -69,6 +71,8 @@
 {Bug} Captured ships don't reset Friend/Foe settings ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
 
 {Bug} Crash in early game -waiting for crash report- ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
+
+{Bug} AI M7s tend to collide when fighting each other (http://forum.egosoft.com/viewtopic.php?p=4398987#4398987 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398989#4398989 Response])
 
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
@@ -103,6 +107,14 @@
 {Suggestion} Add missile targeting hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4398695#4398695 OP])
 
 {Suggestion} Add station Friendly Fire forgiveness ([http://forum.egosoft.com/viewtopic.php?p=4398745#4398745 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398748#4398748 Response])
+
+{Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
+
+{Suggestion} Incoming ships appear 1-2km from gate for atime after player use ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP])
+
+{Suggestion} Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
+
+{Suggestion} Add a modulo check on the SCH build menu (to prevent player from selecting the wrong module) ([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
 {Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
