@@ -74,6 +74,8 @@
 
 {Bug} AI M7s tend to collide when fighting each other (http://forum.egosoft.com/viewtopic.php?p=4398987#4398987 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398989#4398989 Response])
 
+{Bug} Large ships newly built at PHQ can't undock if player is in sector ([http://forum.egosoft.com/viewtopic.php?p=4399213#4399213 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
