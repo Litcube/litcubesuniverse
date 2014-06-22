@@ -58,7 +58,7 @@
   * (-) Upgraded: Tractor Asteroid menu modernized
   * (-) Upgraded: modernized Global ship renaming tool in player console.  It's pretty slick now. 
   * (-) Upgraded: Ship Info menu renamed Ship Compendium, loads substantially faster, now must know shipyard to see ship
-  * (-) Upgraded: SCH now LU dynamic menu.  Also supports quadrillion credit displays.
+  * (-) Upgraded: SCH & SCH calculator now LU dynamic menu.  Also supports quadrillion credit displays.
   * (-) Upgraded: SCH EI now fully supported.  Partially build SCH, engaged SCH, etc. all EI appropriately.
 
 
