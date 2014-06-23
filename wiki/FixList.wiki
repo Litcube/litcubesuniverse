@@ -76,6 +76,8 @@
 
 {Bug} Large ships newly built at PHQ can't undock if player is in sector ([http://forum.egosoft.com/viewtopic.php?p=4399213#4399213 OP])
 
+{Bug} Very few combat missions in terran space ([http://forum.egosoft.com/viewtopic.php?p=4399446#4399446 OP])
+
 {Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
 {Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
@@ -117,6 +119,10 @@
 {Suggestion} Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
 {Suggestion} Add a modulo check on the SCH build menu (to prevent player from selecting the wrong module) ([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
+
+{Suggestion} Make trade product search only return stations with amount greater than zero ([http://forum.egosoft.com/viewtopic.php?p=4399519#4399519 OP])
+
+{Suggestion} Make trade product search ignore player stations ([http://forum.egosoft.com/viewtopic.php?p=4399584#4399584 OP])
 
 {Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
