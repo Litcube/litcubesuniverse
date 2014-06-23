@@ -43,6 +43,7 @@
   * (-) Changed: removed flight times and set global homebase
   * (-) Changed: removed marine search command
   * (-) Changed: removed transport ships command
+  * (-) Changed: ship accelerations tweaked
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: , icon= 
   * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
@@ -61,6 +62,7 @@
   * (-) Upgraded: SCH & SCH calculator now LU dynamic menu.  Also supports quadrillion credit displays.
   * (-) Upgraded: SCH EI now fully supported.  Partially build SCH, engaged SCH, etc. all EI appropriately.
   * (-) Upgraded: ship and station info menus now show all dock port capabilities depending on class
+
 
 
 
