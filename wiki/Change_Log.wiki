@@ -45,6 +45,8 @@
   * (-) Changed: removed marine search command
   * (-) Changed: removed transport ships command
   * (-) Changed: ship accelerations tweaked
+  * (-) Changed: Bounce removed for Terran stations and astronaunts
+  * (-) Changed: Bounce added for capital ships
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: , icon= 
   * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
