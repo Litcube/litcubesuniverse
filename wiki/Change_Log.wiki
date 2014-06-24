@@ -70,6 +70,7 @@
   * (-) Upgraded: ship and station info menus now show all dock port capabilities depending on class
   * (-) Upgraded: buy/sell signal added to shipyard
   * (-) Upgraded: non-script safe undocking implemented
+  * (-) Upgraded: FLC display added to player menu
 
 
 
