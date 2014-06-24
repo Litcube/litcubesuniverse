@@ -47,6 +47,7 @@
   * (-) Changed: ship accelerations tweaked
   * (-) Changed: Bounce removed for Terran stations and astronaunts
   * (-) Changed: Bounce added for capital ships
+  * (-) Changed: HUD missile readout position changed by a few pixels
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: , icon= 
   * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
