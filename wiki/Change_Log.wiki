@@ -69,6 +69,7 @@
   * (-) Upgraded: SCH EI now fully supported.  Partially build SCH, engaged SCH, etc. all EI appropriately.
   * (-) Upgraded: ship and station info menus now show all dock port capabilities depending on class
   * (-) Upgraded: buy/sell signal added to shipyard
+  * (-) Upgraded: non-script safe undocking implemented
 
 
 
