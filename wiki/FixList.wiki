@@ -32,77 +32,23 @@
 
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
-{Bug} SA reports not reporting dock agent purchases properly ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP] | [http://imgur.com/pINfIbY Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X03%20%282%29.sav Save])
-
-{Bug} Pirate anarchy port has name and wares of paranid trading dock ([http://forum.egosoft.com/viewtopic.php?p=4396845&sid=de93bffad52a267cecad96d7d4fa0f1a#4396845 OP] | [http://forum.egosoft.com/viewtopic.php?p=4397037#4397037 Add. info])
-
-{Bug} LU UI buttons issue ([http://forum.egosoft.com/viewtopic.php?p=4397194#4397194 OP])
-
 {Bug} OCV stuck in bluish snout ([http://forum.egosoft.com/viewtopic.php?p=4397263#4397263 OP])
-
-{Bug} Pirate Bayamon has very small cargo and no possible upgrades ([http://forum.egosoft.com/viewtopic.php?p=4397191#4397191 OP])
-
-{Bug} SCH setting for boron power plant XL uses M sized factories instead ([http://forum.egosoft.com/viewtopic.php?p=4397280#4397280 OP])
-
-{Bug} Volunteer NPC forces against OCV will fight each other based on canon rivalries ([http://forum.egosoft.com/viewtopic.php?p=4397817#4397817 OP])
-
-{Bug} Aran wonky stats ([http://forum.egosoft.com/viewtopic.php?p=4397903#4397903 OP])
 
 {Bug} Collect wares in sector gets stuck if the ship can't hold the size ware it is trying to pick up ([http://forum.egosoft.com/viewtopic.php?p=4398000#4398000 OP])
 
-{Bug} Another report of SA's selling too small amounts ([http://forum.egosoft.com/viewtopic.php?p=4398023#4398023 OP] | [http://1drv.ms/1lwp7r2  Save])
-
-{Bug} Ocelot clips PHQ when docking and explodes upon undocking ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP])
-
-{Bug} Missing station explosion effect ([http://forum.egosoft.com/viewtopic.php?p=4398274#4398274 OP])
-
-{Bug} Switching to a newly purchased ship in Mars can sometimes cause lag ([http://forum.egosoft.com/viewtopic.php?p=4398589#4398589 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398611#4398611 Add. Info] | [http://forum.egosoft.com/viewtopic.php?p=4398630#4398630 Report 2] | [http://www.huillam.net/X04.sav Save])
-
 {Bug} Move to position doesn't work across sectors ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
 
-{Bug} IGP encyclopedia entry starts with a period ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
 
-{Bug} Captured ships don't reset Friend/Foe settings ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
+
+
 
 {Bug} Large ships newly built at PHQ can't undock if player is in sector ([http://forum.egosoft.com/viewtopic.php?p=4399213#4399213 OP])
 
-{Bug} Very few combat missions in terran space ([http://forum.egosoft.com/viewtopic.php?p=4399446#4399446 OP])
 
-{Suggestion} Add a way to 'unflag' ships for tug ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
 
-{Suggestion} Add wingman hotkey commands ([http://forum.egosoft.com/viewtopic.php?p=4395824#4395824 OP])
 
-{Suggestion} Add TL 'Buy for SCH' completion messages to logbook ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP])
 
-{Suggestion} Add wares purchased for station agents themselves to SA reports ([http://forum.egosoft.com/viewtopic.php?p=4396754#4396754 OP])
 
-{Suggestion} Add a turret for M7Ms to assist with OOS Combat ([http://forum.egosoft.com/viewtopic.php?p=4397151#4397151 OP])
-
-{Suggestion} Add boarding pods to pirate ships ([http://forum.egosoft.com/viewtopic.php?p=4397151#4397151 OP])
-
-{Suggestion} Remove ST cargo compatibility from capital ships unable to fit any stations ([http://forum.egosoft.com/viewtopic.php?p=4397191#4397191 OP])
-
-{Suggestion} Integrate turret on/off hotkey ([http://forum.egosoft.com/viewtopic.php?p=4397289#4397289 OP] | [http://forum.egosoft.com/viewtopic.php?t=224456 Mod Thread])
-
-{Suggestion} Prohibit UTs from trading with pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4397496#4397496 OP])
-
-{Suggestion} Improve dreadnought agility to assist ai pilots ([http://forum.egosoft.com/viewtopic.php?p=4397837#4397837 OP])
-
-{Suggestion} Allow template editing ([http://forum.egosoft.com/viewtopic.php?p=4397916#4397916 OP])
-
-{Suggestion} Allow ships docked with player owned stations to siphon shields from them ([http://forum.egosoft.com/viewtopic.php?p=4397996#4397996 OP])
-
-{Suggestion} Remove protrusions from ship models and move camera dummies closer to the ship model to assist in ai flying/aiming ([http://forum.egosoft.com/viewtopic.php?p=4398035#4398035 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398277#4398277 Partial List])
-
-{Suggestion} Let multiple dock agents buy the same ware if more than their combined cargo space is required ([http://forum.egosoft.com/viewtopic.php?p=4398682#4398682 OP])
-
-{Suggestion} Add weapon ready indicator ([http://forum.egosoft.com/viewtopic.php?p=4398695#4398695 OP])
-
-{Suggestion} Add missile targeting hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4398695#4398695 OP])
-
-{Suggestion} Add station Friendly Fire forgiveness ([http://forum.egosoft.com/viewtopic.php?p=4398745#4398745 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398748#4398748 Response])
-
-{Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
 
 {Suggestion} Incoming ships appear 1-2km from gate for atime after player use ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP])
 
@@ -166,3 +112,7 @@
 {Bug} Available stocks sometimes drop to zero when index reaches 100, possibly as player wealth increases ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP] | [http://forum.egosoft.com/viewtopic.php?p=4395839#4395839 Add. Info])
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
+
+{Bug} Aran wonky stats ([http://forum.egosoft.com/viewtopic.php?p=4397903#4397903 OP])
+
+{Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
