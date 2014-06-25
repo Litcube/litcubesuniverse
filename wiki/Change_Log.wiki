@@ -52,7 +52,8 @@
   * (-) Changed: Bounce removed for Terran stations and astronaunts
   * (-) Changed: Bounce added for capital ships
   * (-) Changed: HUD missile readout position changed by a few pixels
-  * (-) Changed: Pirate and Yaki trading same as Teladi now in terms of notoriety req. to buy ships, certain wares, etc.
+  * (-) Changed: Pirate and Yaki trading same as Teladi now in terms of notoriety req. to buy ships, certain wares, etc
+  * (-) Changed: trade product search now ignores player stations and empty buy stations
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: , icon= 
   * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
@@ -66,10 +67,10 @@
   * (-) Upgraded: Supply Ware Command easier menu
   * (-) Upgraded: Trade Product Search easier menu, moved to dynamic
   * (-) Upgraded: Tractor Asteroid menu modernized
-  * (-) Upgraded: modernized Global ship renaming tool in player console.  It's pretty slick now. 
+  * (-) Upgraded: modernized Global ship renaming tool in player console; it's pretty slick now. 
   * (-) Upgraded: Ship Info menu renamed Ship Compendium, loads substantially faster, now must know shipyard to see ship
-  * (-) Upgraded: SCH & SCH calculator now LU dynamic menu.  Also supports quadrillion credit displays.
-  * (-) Upgraded: SCH EI now fully supported.  Partially build SCH, engaged SCH, etc. all EI appropriately.
+  * (-) Upgraded: SCH & SCH calculator now LU dynamic menu; also supports quadrillion credit displays
+  * (-) Upgraded: SCH EI now fully supported.  Partially build SCH, engaged SCH, etc. all EI appropriately
   * (-) Upgraded: ship and station info menus now show all dock port capabilities depending on class
   * (-) Upgraded: buy/sell signal added to shipyard
   * (-) Upgraded: non-script safe undocking implemented
