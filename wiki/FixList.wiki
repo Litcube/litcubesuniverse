@@ -38,29 +38,15 @@
 
 {Bug} Move to position doesn't work across sectors ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
 
-
-
-
-
 {Bug} Large ships newly built at PHQ can't undock if player is in sector ([http://forum.egosoft.com/viewtopic.php?p=4399213#4399213 OP])
-
-
-
-
-
-
 
 {Suggestion} Incoming ships appear 1-2km from gate for atime after player use ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP])
 
 {Suggestion} Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
-{Suggestion} Add a modulo check on the SCH build menu (to prevent player from selecting the wrong module) ([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
-
-{Suggestion} Make trade product search only return stations with amount greater than zero ([http://forum.egosoft.com/viewtopic.php?p=4399519#4399519 OP])
-
-{Suggestion} Make trade product search ignore player stations ([http://forum.egosoft.com/viewtopic.php?p=4399584#4399584 OP])
-
 {Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
+
+
 
 == Pending - Requires Additional Information ==
 
