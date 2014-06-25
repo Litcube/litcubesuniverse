@@ -32,6 +32,7 @@
   * (1) Fixed: mouse now works on custom menu value sliders
   * (1) Fixed: Pirate bayamon cargo fixed
   * (1) Fixed: ship claiming set to vanilla default routine when using remote system command software
+  * (1) Fixed: IPG descriptions
   * (-) Changed: Terran used ships now offered
   * (-) Changed: a label in Tug, hope it helps from getting ships stuck
   * (-) Changed: docking no longer sets shields to 100% (this was far more work than you may think)
