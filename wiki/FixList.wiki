@@ -24,7 +24,7 @@
 
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
 
-{Suggestion} Add "Deploy Sat" sector security checks ([http://forum.egosoft.com/viewtopic.php?p=4398732#4398732 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398733#4398733 Response])
+
 
 {Bug} Albion pride won't teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
 
@@ -97,6 +97,7 @@
 
 {Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
+{Suggestion} Add "Deploy Sat" sector security checks ([http://forum.egosoft.com/viewtopic.php?p=4398732#4398732 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398733#4398733 Response])
 {Bug} Aran wonky stats ([http://forum.egosoft.com/viewtopic.php?p=4397903#4397903 OP])
 
 {Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
