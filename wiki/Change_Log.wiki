@@ -76,7 +76,7 @@
   * (-) Upgraded: buy/sell signal added to shipyard
   * (-) Upgraded: non-script safe undocking implemented
   * (-) Upgraded: FLC display added to player menu
-  * (-) Upgraded: flag for tug is not a toggle; can unflag a ship
+  * (-) Upgraded: flag for tug is now a toggle; can unflag a ship
   * (-) Upgraded: station friendly fire implemented
 
 
