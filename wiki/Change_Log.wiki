@@ -87,6 +87,7 @@
   * (-) Upgraded: station friendly fire implemented
   * (-) Upgraded: collect astronauts can now use transporter device
   * (-) Upgraded: relation/trade rank change subtitle now shows race or rank type
+  * (-) Upgraded: EI from 1.1.7 on no longer requires moving/renaming the export file.
 
 
 
