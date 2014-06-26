@@ -33,15 +33,13 @@
 
 {Bug} OCV stuck in Getsu Fune ([http://forum.egosoft.com/viewtopic.php?p=4400633#4400633 OP])
 
-{Suggestion} Incoming ships appear 1-2km from gate for a time after player use ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP])
-
 {Suggestion} Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
 {Suggestion} Sort wares in Sources/Thresholds of the dockware manager alphabetically ([http://forum.egosoft.com/viewtopic.php?p=4399887#4399887 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
 
 {Suggestion} Add CLS and jumpdrives as built in components on M7 and above ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
 
-{Suggestion} Increase triplex scanner range and limit it to capital ships ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
+
 
 {Suggestion} Make ships save homebase when player enters them ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
 
@@ -104,3 +102,5 @@
 {Bug} Aran wonky stats ([http://forum.egosoft.com/viewtopic.php?p=4397903#4397903 OP])
 
 {Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
+
+{Suggestion} Increase triplex scanner range and limit it to capital ships ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
