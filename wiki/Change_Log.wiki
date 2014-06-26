@@ -56,6 +56,7 @@
   * (-) Changed: HUD missile readout position changed by a few pixels
   * (-) Changed: Pirate and Yaki trading same as Teladi now in terms of notoriety req. to buy ships, certain wares, etc
   * (-) Changed: trade product search now ignores player stations and empty buy stations
+  * (-) Changed: Remote drop factory no longer supports dropping mines
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: , icon= 
   * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
