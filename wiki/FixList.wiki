@@ -14,7 +14,6 @@
 
 == Pending ==
 
-{Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
 
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
