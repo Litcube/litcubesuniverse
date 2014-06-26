@@ -39,6 +39,7 @@
   * (1) Fixed: Pirate bayamon cargo fixed
   * (1) Fixed: ship claiming set to vanilla default routine when using remote system command software
   * (1) Fixed: IPG descriptions
+  * (1) Fixed: Docks/Shipyards no longer spawn in player, xenon, khaak or khaak owned sectors
   * (-) Changed: Terran used ships now offered
   * (-) Changed: a label in Tug, hope it helps from getting ships stuck
   * (-) Changed: docking no longer sets shields to 100% (this was far more work than you may think)
