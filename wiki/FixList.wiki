@@ -8,16 +8,14 @@
 
 {Bug} Shipyard spawning in OCV conquered sectors ([http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
 
-{Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
-
 {Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 Add. Info])
 
 {Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
 
 == Pending ==
 
+{Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
-
 
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
@@ -39,8 +37,6 @@
 
 {Suggestion} Add CLS and jumpdrives as built in components on M7 and above ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
 
-
-
 {Suggestion} Make ships save homebase when player enters them ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
 
 {Suggestion} Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
@@ -48,8 +44,6 @@
 {Suggestion} Allow all stations to be selected for the 'Assign home and send' function ([http://forum.egosoft.com/viewtopic.php?p=4400283#4400283 OP] | [http://forum.egosoft.com/viewtopic.php?p=4400320#4400320 Response])
 
 {Suggestion} Add escort options to MLCC ([http://forum.egosoft.com/viewtopic.php?p=4400581#4400581 OP])
-
-{Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
 == Rejected ==
 
