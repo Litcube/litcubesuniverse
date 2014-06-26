@@ -31,8 +31,6 @@
 
 {Bug} Stripping ships destroys marines ([http://forum.egosoft.com/viewtopic.php?p=4399815#4399815 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
 
-{Bug} Patrols give no credit ([http://forum.egosoft.com/viewtopic.php?p=4400624#4400624 OP])
-
 {Bug} OCV stuck in Getsu Fune ([http://forum.egosoft.com/viewtopic.php?p=4400633#4400633 OP])
 
 {Suggestion} Incoming ships appear 1-2km from gate for a time after player use ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP])
