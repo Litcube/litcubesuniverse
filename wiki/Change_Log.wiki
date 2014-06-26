@@ -83,6 +83,7 @@
   * (-) Upgraded: FLC display added to player menu
   * (-) Upgraded: flag for tug is now a toggle; can unflag a ship
   * (-) Upgraded: station friendly fire implemented
+  * (-) Upgraded: collect astronauts can now use transporter device
 
 
 
