@@ -23,6 +23,7 @@
   * (3) Fixed: Dockware Manager - Upgrade Ships was allowing transport class restricted wares to be bought for ships
   * (3) Fixed: by Jack08, uncool race ship blueprints being sold
   * (3) Fixed: some stock exchange sotck set a max 0 trades, as a result, max trading per transaction a time is limited to 500,000,000 credits
+  * (3) Fixed: Astronauts were disappearing when using collect astronaut command
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: Some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
@@ -30,6 +31,7 @@
   * (2) Fixed: debug spam in ship outfit template
   * (2) Fixed: player ship couldn't be teleported with the carrier command software
   * (2) Fixed: collect ware instantly teleporting ware despite range
+  * (2) Fixed: Collect wares would get stuck on transport class error
   * (1) Fixed: UTs now use the LU Refuel.Pre routine, eliminating breaking the sector rules for refuelling UTs
   * (1) Fixed: Saturn SCH Shop weirdness with no SCH selected
   * (1) Fixed: mouse now works on custom menu value sliders
