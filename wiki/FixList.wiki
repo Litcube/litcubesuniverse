@@ -26,8 +26,6 @@
 
 {Suggestion} Add "Deploy Sat" sector security checks ([http://forum.egosoft.com/viewtopic.php?p=4398732#4398732 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398733#4398733 Response])
 
-{Bug} Tug can get stuck if attempting to collect TS with TS already docked ([http://forum.egosoft.com/viewtopic.php?p=4395797#4395797 OP])
-
 {Bug} Albion pride won't teleport dock to griffon with player on board, may have to do with griffon's external docks ([http://forum.egosoft.com/viewtopic.php?p=4395700#4395700 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396163#4396163 Response])
 
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
