@@ -6,10 +6,6 @@
 
 == Accepted ==
 
-{Bug} 'Collect ware...' command ignores range to ware ([http://forum.egosoft.com/viewtopic.php?p=4395073#4395073 OP])
-
-{Bug} 'Collect ware...' on docked ship causes it to instantly collect all wares in sector ([http://forum.egosoft.com/viewtopic.php?p=4395098#4395098 OP])
-
 {Bug} Shipyard spawning in OCV conquered sectors ([http://forum.egosoft.com/viewtopic.php?p=4395211#4395211 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395251#4395251 Response])
 
 {Suggestion} Make collect marine command use transporter device ([http://forum.egosoft.com/viewtopic.php?p=4393207#4393207 OP])
