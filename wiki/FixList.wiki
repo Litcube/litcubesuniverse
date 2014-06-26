@@ -49,8 +49,6 @@
 
 {Suggestion} Add escort options to MLCC ([http://forum.egosoft.com/viewtopic.php?p=4400581#4400581 OP])
 
-{Suggestion} 'Tug and Tow'([http://forum.egosoft.com/viewtopic.php?p=4400754#4400754 OP])
-
 {Bug} Drop factory will allow mines to be dropped, but isn't taking into account asteroid yield.
 
 == Rejected ==
