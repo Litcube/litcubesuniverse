@@ -25,6 +25,7 @@
   * (3) Fixed: by Jack08, uncool race ship blueprints being sold
   * (3) Fixed: some stock exchange sotck set a max 0 trades, as a result, max trading per transaction a time is limited to 500,000,000 credits
   * (3) Fixed: Astronauts were disappearing when using collect astronaut command
+  * (3) Fixed: HQ now docks produced ships properly; if there's a docking port available it will create the ship properly
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: Some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
