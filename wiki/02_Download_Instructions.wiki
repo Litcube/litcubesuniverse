@@ -39,7 +39,7 @@ Read the shit when running the installer.  It's there for your protection.
 
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
 
-[http://www.mediafire.com/download/0661op88bcrvy6a/LU_Editors_1.0.8.zip LU Editors]
+[http://www.mediafire.com/download/d44av1ee2w6r6lg/LUEditorsV1.0.9.zip LU Editors V1.0.9]
 
 ----
 
