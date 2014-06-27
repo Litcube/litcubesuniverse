@@ -8,8 +8,8 @@
 ----
 === Known compatibility issues ===
  
-  Plugin Manager not compatible.
-  Lucike's script library overwrites a few key LU references.
+  Plugin Manager not compatible.<br>
+  Lucike's script library overwrites a few key LU references.<br>
 
 === My game crashes when I eject ===
 
