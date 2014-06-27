@@ -15,7 +15,7 @@
 === Not Yet Released ===
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch does not require an import/export*_<br><br>
-  * (5): forgot a dot at the end of the Damyath Light description
+  * (5) Fixed: forgot a dot at the end of the Damyath Light description
 
 = Version 1.1.8 =
 === June 27, 2014 ===
