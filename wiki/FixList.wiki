@@ -6,9 +6,21 @@
 
 == Accepted ==
 
+=== Pre 1.1.7 Reports ===
+
 {Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 Add. Info])
 
 == Pending ==
+
+=== Post-1.1.7 Reports ===
+
+{Bug} Rainmeter skin doesn't show rank numbers ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://images.huillam.net/rainmeter.png Screenshot])
+
+{Bug} Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
+
+{Bug} MLCC dock only accepts e-cells as ware ([http://forum.egosoft.com/viewtopic.php?p=4401524#4401524 OP])
+
+=== Pre-1.1.7 Reports ===
 
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
 
@@ -31,6 +43,8 @@
 {Suggestion} Add escort options to MLCC ([http://forum.egosoft.com/viewtopic.php?p=4400581#4400581 OP])
 
 == Rejected ==
+
+=== Pre-1.1.7 Reports ===
 
 {Suggestion} Add CLS and jumpdrives as built in components on M7 and above ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
 
