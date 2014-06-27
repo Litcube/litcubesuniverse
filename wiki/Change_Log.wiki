@@ -9,6 +9,12 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+= Version 1.1.8 =
+=== Not yet released ===
+
+  * (4) Fixed: SCH not adding secondary resources (disengage, reengage after patch)
+  * (1) Fixed: SCH debug spam.
+
 ----
 = Version 1.1.7 =
 === June 26, 2014 ===
