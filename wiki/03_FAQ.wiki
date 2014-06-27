@@ -6,6 +6,11 @@
 ----
 == Common ==
 ----
+=== Known compatibility issues ===
+ 
+  Plugin Manager not compatible.
+  Lucike's script library overwrites a few key LU references.
+
 === My game crashes when I eject ===
 
   Set your texture settings to high.
