@@ -18,7 +18,7 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 
 Exporting from a 1.1.6 game to a 1.1.7 game?  You'll need to export using this before you patch:
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseExportV1.1.6.exe Export Scripts V1.1.6 to V1.1.7]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseExportV1.1.6.1.exe Export Scripts V1.1.6 to V1.1.7]
 
 ----
 
