@@ -24,11 +24,11 @@
   * (3) Fixed: Dockware Manager - Upgrade Ships was allowing transport class restricted wares to be bought for ships
   * (3) Fixed: by Jack08, uncool race ship blueprints being sold
   * (3) Fixed: some stock exchange sotck set a max 0 trades, as a result, max trading per transaction a time is limited to 500,000,000 credits
-  * (3) Fixed: Astronauts were disappearing when using collect astronaut command
+  * (3) Fixed: astronauts were disappearing when using collect astronaut command
   * (3) Fixed: HQ now docks produced ships properly; if there's a docking port available it will create the ship properly
   * (2) Fixed: defend station mission no longer sends odd reward message
   * (2) Fixed: move to position now works properly
-  * (2) Fixed: Some laser energy requirements fixed
+  * (2) Fixed: some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
   * (2) Fixed: type fixed in ship info menu
   * (2) Fixed: debug spam in ship outfit template
@@ -41,14 +41,14 @@
   * (1) Fixed: Pirate bayamon cargo fixed
   * (1) Fixed: ship claiming set to vanilla default routine when using remote system command software
   * (1) Fixed: IPG descriptions
-  * (1) Fixed: Docks/Shipyards no longer spawn in player, xenon, khaak or khaak owned sectors
+  * (1) Fixed: docks/shipyards no longer spawn in player, xenon, khaak or khaak owned sectors
   * (-) Changed: Terran used ships now offered
   * (-) Changed: a label in Tug, hope it helps from getting ships stuck
   * (-) Changed: docking no longer sets shields to 100% (this was far more work than you may think)
-  * (-) Changed: Orbital Weapon Platforms weapon load-outs adjusted.
+  * (-) Changed: orbital weapon platforms weapon load-outs adjusted.
   * (-) Changed: Gamma Ray Cannon notoriety required
   * (-) Changed: flagship entourage augmented
-  * (-) Changed: Some M2 transport classes
+  * (-) Changed: some M2 transport classes
   * (-) Changed: Pirate plunderers range expanded
   * (-) Changed: renamed "Allow station transfer" to "Include in credit transfer"
   * (-) Changed: removed a planet to make Argon Prime socks fit in window (stock amounts are based on planet count)
@@ -63,7 +63,7 @@
   * (-) Changed: HUD missile readout position changed by a few pixels
   * (-) Changed: Pirate and Yaki trading same as Teladi now in terms of notoriety req. to buy ships, certain wares, etc
   * (-) Changed: trade product search now ignores player stations and empty buy stations
-  * (-) Changed: Remote drop factory no longer supports dropping mines
+  * (-) Changed: Remote Drop Factory no longer supports dropping mines
   * (-) Upgraded: missile safety implemented (with distance check, not time)
   * (-) Upgraded: new script command: set menu option: , icon= 
   * (-) Upgraded: new script command: = format number: number= , billions= , format wrapper=
