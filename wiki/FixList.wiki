@@ -18,8 +18,6 @@
 
 {Bug} Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
 
-{Bug} MLCC dock only accepts e-cells as ware ([http://forum.egosoft.com/viewtopic.php?p=4401524#4401524 OP])
-
 === Pre-1.1.7 Reports ===
 
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
