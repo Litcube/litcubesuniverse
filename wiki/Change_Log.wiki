@@ -27,6 +27,7 @@
   * (3) Fixed: Astronauts were disappearing when using collect astronaut command
   * (3) Fixed: HQ now docks produced ships properly; if there's a docking port available it will create the ship properly
   * (2) Fixed: defend station mission no longer sends odd reward message
+  * (2) Fixed: move to position now works properly
   * (2) Fixed: Some laser energy requirements fixed
   * (2) Fixed: Xenon invasion mission no longer sends odd reward message
   * (2) Fixed: type fixed in ship info menu
