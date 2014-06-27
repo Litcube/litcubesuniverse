@@ -18,6 +18,8 @@
 
 {Bug} Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
 
+{Litcube} Quuick shuttle selection still has old arrow style.
+
 === Pre-1.1.7 Reports ===
 
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
