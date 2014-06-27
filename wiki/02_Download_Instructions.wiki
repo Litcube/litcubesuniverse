@@ -49,7 +49,7 @@ Read the shit when running the installer.  It's there for your protection.
 
 ----
 
-  * LU Rainmeter skin
+  * LU Rainmeter skin V1.1.0
 
 [http://www.mediafire.com/download/6hqm3xdph5y3rc7/LU_display_V1.1.rmskin LU Rainmeter Skin]
 
