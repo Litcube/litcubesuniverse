@@ -8,8 +8,6 @@
 
 {Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 Add. Info])
 
-{Bug} Issue with MLCC ships jumping into guarded gates piecmeal rather then forming then attacking ([http://forum.egosoft.com/viewtopic.php?p=4395768#4395768 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4395770#4395770 Response])
-
 == Pending ==
 
 {Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
@@ -17,14 +15,6 @@
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
 {Bug} OCV stuck in bluish snout ([http://forum.egosoft.com/viewtopic.php?p=4397263#4397263 OP])
-
-{Bug} Collect wares in sector gets stuck if the ship can't hold the size ware it is trying to pick up ([http://forum.egosoft.com/viewtopic.php?p=4398000#4398000 OP])
-
-{Bug} Move to position doesn't work across sectors ([http://forum.egosoft.com/viewtopic.php?p=4398686#4398686 OP])
-
-{Bug} Large ships newly built at PHQ can't undock if player is in sector ([http://forum.egosoft.com/viewtopic.php?p=4399213#4399213 OP])
-
-{Bug} Stripping ships destroys marines ([http://forum.egosoft.com/viewtopic.php?p=4399815#4399815 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
 
 {Bug} OCV stuck in Getsu Fune ([http://forum.egosoft.com/viewtopic.php?p=4400633#4400633 OP])
 
