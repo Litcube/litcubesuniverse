@@ -38,13 +38,31 @@
   [http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf Tahlmorra's LU Rainmeter Guide]
 
 Also, see: [Feature_Dashboards]. 
+
+=== Where can I find a non-exe download? ===
  
+  There is no non-exe download for LU due to the fact that the installer modifies vanilla files during installation. Installing to another location and manually copying files over will result in a broken install. A more detailed explanation can be found [http://forum.egosoft.com/viewtopic.php?p=4393065#4393065 here].
+
 === I think I found a game-breaking bug. How do I report it? ===
 
-    # Find or create a saved game that demonstrates the bug. Rename it to include your initials or name.
-    # Post is to the special Saved Games folder: [https://www.mediafire.com/folder/ew1zdee11cgd2/Saved_Games_For_Debug Saved Games for Debug]
-    # Check your game folder for x3crash.log. If it exists, change the name to include your initials or name and uploaded it to the same Saved Games for Debug folder.
-    # Report the conditions in the LU Testing channel or your Player Log.
+  The more information you can provide, the easier it will be to isolate and fix the issue. As such, please consider including the following in your reports:
+     # Screenshots of the bug occurring
+     # A savegame of the bug occurring or with detailed instructions on how to reproduce the bug
+     # A detailed description of the circumstances where you encountered the bug, including
+       * Sector
+       * Ships/Stations involved
+       * Commands running on said ships/stations
+       * Any actions you took leading up to the issue
+       * Anything else that may be relevant
+  Post reports to [http://forum.egosoft.com/viewtopic.php?t=365706&postdays=0&postorder=asc&start=0 this] thread.
+
+=== I think I have an awesome suggestion on how to make LU even better. Anything I should consider before posting? ===
+
+  Before posting a suggestion [http://forum.egosoft.com/viewtopic.php?t=365706&postdays=0&postorder=asc&start=0 in the thread], please ask yourself the following:
+     # Does my suggestion fit within the design philosophy of the mod?
+       * LU was designed around several core principles. The most important of these are [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 improved performance], [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 benefits carry associated costs], and [http://forum.egosoft.com/viewtopic.php?p=4396335#4396335specialization heterogeneity in ship capabilities].
+     # Has my suggestion been made before?
+       * Check [https://code.google.com/p/litcubesuniverse/wiki/FixList Litcube's List] to see if your suggestion has been made before and whether it has been Accepted/Rejected.
 
 ----
 == Comparisons ==
