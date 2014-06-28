@@ -24,11 +24,23 @@
 
 {Bug} Crash when performing trade product search for Advanced Satellites ([http://forum.egosoft.com/viewtopic.php?p=4401618#4401618 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4401682#4401682 Unofficial Patch])
 
+{Bug} Dockware manager sells free software if station account is empty as long as player account has enough credits ([http://forum.egosoft.com/viewtopic.php?p=4401697#4401697 OP])
+
+{Bug} Huge slowdown when launching fighter wing from pteranodon that stops when final fighter is launched ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+
+{Bug} Collecting a shield ware from space instantly resets a ship's shields ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+
+{Bug} Gonar stations affected by friendly fire ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+
+{Bug} Tug is stuck collecting ships ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+
+{Bug} Missions spawning ships of a different race than that in the description ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+
+{Bug} Remote drop factory menu allows you to go the a sector selection but drops the factory in the current sector, not the selected one ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+
 {Litcube} Quuick shuttle selection still has old arrow style.
 
 {Suggestion} Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
-
-{Suggestion} Add setting to allow dockware manager to draw from player account ([http://forum.egosoft.com/viewtopic.php?p=4401589#4401589 OP])
 
 === Pre-1.1.7 Reports ===
 
