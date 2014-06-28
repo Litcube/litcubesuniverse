@@ -27,6 +27,8 @@ Patch:
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.1.8.exe Patch: Litcube's Universe V1.1.8]
 
 [Change_Log Change log]
+
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.1.3.exe Patch: Litcubes' Universe v1.1.3] (if patching from a version prior to 1.1.6, please install this patch first! otherwise ignore this)
 ----
 
 = Installation Instructions =
