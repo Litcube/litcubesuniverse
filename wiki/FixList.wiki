@@ -18,7 +18,17 @@
 
 {Bug} Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
 
+{Bug} Valhalla can't turn ([http://forum.egosoft.com/viewtopic.php?p=4401530#4401530 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401541#4401541 Response])
+
+{Bug} Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI ([http://forum.egosoft.com/viewtopic.php?p=4401579#44015790 OP])
+
+{Bug} Crash when performing trade product search for Advanced Satellites ([http://forum.egosoft.com/viewtopic.php?p=4401618#4401618 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4401682#4401682 Unofficial Patch])
+
 {Litcube} Quuick shuttle selection still has old arrow style.
+
+{Suggestion} Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
+
+{Suggestion} Add setting to allow dockware manager to draw from player account ([http://forum.egosoft.com/viewtopic.php?p=4401589#4401589 OP])
 
 === Pre-1.1.7 Reports ===
 
@@ -46,24 +56,6 @@
 
 === Pre-1.1.7 Reports ===
 
-{Suggestion} Add CLS and jumpdrives as built in components on M7 and above ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
-
-{Bug} You can flag ship classes for tug that cannot dock with any possible tug ship. ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] |  [http://imgur.com/JpyXI8I Screenshot])
-
-{Bug} Station agent sells very small amounts of mosquito missiles/crystals even when demand at a single station is high ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 Second Report] | [https://dl.dropboxusercontent.com/u/18285480/X04.sav Save])
-
-{Bug} Issue with manually added notoriety values ([http://forum.egosoft.com/viewtopic.php?p=4397830#4397830 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398044#4398044 Retraction])
-
-{Bug} One gun per turret equipped in AI ships ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP] | [http://forum.egosoft.com/viewtopic.php?p=4394644#4394644 Add. Info])
-
-{Bug} Ships without maxed shields ([http://forum.egosoft.com/viewtopic.php?p=4395322#4395322 OP])
-
-{Suggestion} Allow purchase of OWP near gates similar to Ring of Fire ([http://forum.egosoft.com/viewtopic.php?p=4394565#4394565 OP])
-
-{Suggestion} Improve boarding ([http://forum.egosoft.com/viewtopic.php?p=4393225#4393225 OP])
-
-{Suggestion} Special class subtypes need differentiation ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP])
-
 {Suggestion} Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
 {Suggestion} Autoclaim all ships in sector/nearest ship function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
@@ -72,28 +64,4 @@
 
 {Suggestion} Increase weapon rate of fire ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 Response])
 
-{Suggestion} Remove dumbfire missiles ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393553#4393553 Response])
-
-{Bug} Two Goner temples in Elysium of Light ([http://forum.egosoft.com/viewtopic.php?p=4393362#4393362 OP])
-
-{Bug} Teladi police license earning kill rewards in pirate sector Spaceweed Grove ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP])
-
-{Bug} -Fixed by Reinstall- Boarding pod sale location changed after patch ([http://forum.egosoft.com/viewtopic.php?p=4393749#4393749 OP])
-
-{Bug} Building ships at PHQ requires same amount of credits as buying them ([http://forum.egosoft.com/viewtopic.php?p=4393968#4393968 OP])
-
-{Bug} Station agents exceeding set station jump range ([http://forum.egosoft.com/viewtopic.php?p=4394193#4394193 OP])
-
-{Bug} UT trading doesn't increase rank with Terran/ATF ([http://forum.egosoft.com/viewtopic.php?p=4394675#4394675 OP])
-
-{Bug} Available stocks sometimes drop to zero when index reaches 100, possibly as player wealth increases ([http://forum.egosoft.com/viewtopic.php?p=4394590#4394590 OP] | [http://forum.egosoft.com/viewtopic.php?p=4395839#4395839 Add. Info])
-
-{Bug} Saving during capital ship destruction animation breaks animation ([http://forum.egosoft.com/viewtopic.php?p=4392899#4392899 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
-
-{Suggestion} Add "Deploy Sat" sector security checks ([http://forum.egosoft.com/viewtopic.php?p=4398732#4398732 OP] | [http://forum.egosoft.com/viewtopic.php?p=4398733#4398733 Response])
-
-{Bug} Aran wonky stats ([http://forum.egosoft.com/viewtopic.php?p=4397903#4397903 OP])
-
 {Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
-
-{Suggestion} Increase triplex scanner range and limit it to capital ships ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
