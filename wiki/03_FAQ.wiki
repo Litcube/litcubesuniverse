@@ -60,7 +60,7 @@ Also, see: [Feature_Dashboards].
 
   Before posting a suggestion [http://forum.egosoft.com/viewtopic.php?t=365706&postdays=0&postorder=asc&start=0 in the thread], please ask yourself the following:
      # Does my suggestion fit within the design philosophy of the mod?
-       * LU was designed around several core principles. The most important of these are [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 improved performance], [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 benefits carry associated costs], and [http://forum.egosoft.com/viewtopic.php?p=4396335#4396335specialization heterogeneity in ship capabilities].
+       * LU was designed around several core principles. The most important of these are [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 improved performance], [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 benefits carry associated costs], and [http://forum.egosoft.com/viewtopic.php?p=4396335#4396335 specialization heterogeneity in ship capabilities].
      # Has my suggestion been made before?
        * Check [https://code.google.com/p/litcubesuniverse/wiki/FixList Litcube's List] to see if your suggestion has been made before and whether it has been Accepted/Rejected.
 
