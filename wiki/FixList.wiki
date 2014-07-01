@@ -38,9 +38,27 @@
 
 {Bug} Remote drop factory menu allows you to go the a sector selection but drops the factory in the current sector, not the selected one ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
+{Bug} MLCC carrier wing targeting/docking issues ([http://forum.egosoft.com/viewtopic.php?p=4402026#4402026 OP])
+
+{Bug} Collect astronaut on player ship breaks after first pickup ([http://forum.egosoft.com/viewtopic.php?p=4402096#4402096 OP])
+
+{Bug} Hammerhead missile factory not available in SCH menu ([http://forum.egosoft.com/viewtopic.php?p=4402110#4402110 OP])
+
+{Bug} Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtopic.php?p=4402123#4402123 OP])
+
+{Bug} Penetron is superior to Penetron Advanced ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
+
+{Bug} OTAS ships missing from encyclopedia ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
+
+{Bug} Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
+
+{Bug} Hired TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
+
 {Litcube} Quuick shuttle selection still has old arrow style.
 
 {Suggestion} Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
+
+{Suggestion} MLCC improvement ideas ([http://forum.egosoft.com/viewtopic.php?p=4402128#4402128 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402151#4402151 Add. Info])
 
 === Pre-1.1.7 Reports ===
 
