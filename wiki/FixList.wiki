@@ -52,7 +52,19 @@
 
 {Bug} Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
 
-{Bug} Hired TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
+{Bug} Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
+
+{Bug} Pirate buster cannot fire ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
+
+{Bug} Station defense mission reward message text bug ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
+
+{Bug} Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP])
+
+{Bug} Lag in Kingdom's End ([http://forum.egosoft.com/viewtopic.php?p=4402840#4402840 OP])
+
+{Bug} Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
+
+{Bug} Trade search doesn't return nearest factory, may not return anything at all ([http://forum.egosoft.com/viewtopic.php?p=4402849#4402849 OP])
 
 {Litcube} Quuick shuttle selection still has old arrow style.
 
