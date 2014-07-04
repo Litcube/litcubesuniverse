@@ -24,7 +24,7 @@
 
 {Bug} Crash when performing trade product search for Advanced Satellites ([http://forum.egosoft.com/viewtopic.php?p=4401618#4401618 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4401682#4401682 Unofficial Patch])
 
-{Bug} Dockware manager sells free software if station account is empty as long as player account has enough credits ([http://forum.egosoft.com/viewtopic.php?p=4401697#4401697 OP])
+{Bug} Dockware manager sells free software if station account is empty as long as player account has enough credits ([http://forum.egosoft.com/viewtopic.php?p=4401697#4401697 OP] | [http://forum.egosoft.com/viewtopic.php?p=4403053#4403053 Second Report] | [http://forum.egosoft.com/viewtopic.php?p=4403337#4403337 Unofficial Patch])
 
 {Bug} Huge slowdown when launching fighter wing from pteranodon that stops when final fighter is launched ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
@@ -58,13 +58,17 @@
 
 {Bug} Station defense mission reward message text bug ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
 
-{Bug} Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP])
+{Bug} Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402893#4402893 Add. Info])
 
-{Bug} Lag in Kingdom's End ([http://forum.egosoft.com/viewtopic.php?p=4402840#4402840 OP])
+{Bug} Lag in Kingdom's End ([http://forum.egosoft.com/viewtopic.php?p=4402840#4402840 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402969#4402969 Add. Info])
 
 {Bug} Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
 
 {Bug} Trade search doesn't return nearest factory, may not return anything at all ([http://forum.egosoft.com/viewtopic.php?p=4402849#4402849 OP])
+
+{Bug} SCH Calculator not working, TL SCH shopping buys nothing, and manually bought stations disappear on install ([http://forum.egosoft.com/viewtopic.php?p=4403029#4403029 OP])
+
+{Bug} Station agents on manage do nothing on vanilla style missile complex ([http://forum.egosoft.com/viewtopic.php?p=4402955#4402955 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4403070#4403070 Add. Info 1] |  [http://forum.egosoft.com/viewtopic.php?p=4403288#4403288 Add. Info 2] |  [http://forum.egosoft.com/viewtopic.php?p=4403434#4403434 Add. Info 3] |  [http://www.4shared.com/file/sZUjSm_bce/X02.html Save])
 
 {Litcube} Quuick shuttle selection still has old arrow style.
 
