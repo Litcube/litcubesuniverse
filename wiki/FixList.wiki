@@ -18,8 +18,6 @@ Dock agents not achecking if other agents already selling wares over limit ([htt
 
 Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
 
-Station defense mission reward message text bug ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
-
 Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
 
 Station agents on manage do nothing on vanilla style missile complex ([http://forum.egosoft.com/viewtopic.php?p=4402955#4402955 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4403070#4403070 Add. Info 1] |  [http://forum.egosoft.com/viewtopic.php?p=4403288#4403288 Add. Info 2] |  [http://forum.egosoft.com/viewtopic.php?p=4403434#4403434 Add. Info 3] |  [http://www.4shared.com/file/sZUjSm_bce/X02.html Save])
@@ -28,13 +26,9 @@ SMs on vanilla style complexes buy resources that the complex itself produces ([
 
 Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
 
-MLCC improvement ideas ([http://forum.egosoft.com/viewtopic.php?p=4402128#4402128 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402151#4402151 Add. Info])
-
 Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
 
 Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
-
-Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
 Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
 
