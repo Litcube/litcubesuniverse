@@ -33,6 +33,7 @@
   * (4) Fixed: SCH not adding secondary resources (disengage, reengage after patch)
   * (4) Fixed: FINALLY fixed the damn nav sat export bug; typo.
   * (3) Fixed: Rainmeter skin FLC display, added to download page
+  * (2) Fixed: pirate penatron advanced augmented
   * (1) Fixed: SCH debug spam.
 ----
 = Version 1.1.7 =
