@@ -53,6 +53,7 @@ Also, see: [Feature_Dashboards].
        * Ships/Stations involved
        * Commands running on said ships/stations
        * Any actions you took leading up to the issue
+       * Any additional scripts/mods you have installed
        * Anything else that may be relevant
   Post reports to [http://forum.egosoft.com/viewtopic.php?t=365706&postdays=0&postorder=asc&start=0 this] thread.
 
