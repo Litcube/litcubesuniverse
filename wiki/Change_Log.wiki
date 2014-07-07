@@ -23,6 +23,7 @@
   * (3) Fixed: Pirate Buster cannot fire
   * (2) Fixed: escaping the remote drop factory command brought up the galaxy menu
   * (1) Fixed: removed a debug message from collect astronaut
+  * (1) Changed: Quickshuttle selection menu uses new selection display
 
 
 ----
