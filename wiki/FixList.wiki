@@ -18,8 +18,6 @@ MLCC carrier wing targeting/docking issues ([http://forum.egosoft.com/viewtopic.
 
 Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtopic.php?p=4402123#4402123 OP])
 
-Penetron is superior to Penetron Advanced ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
-
 Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
 
 Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
