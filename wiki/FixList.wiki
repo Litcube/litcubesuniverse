@@ -32,8 +32,6 @@ Missiles sometimes lose their hit-boxes, may be related to Missile Safety if lau
 
 Trade search doesn't return nearest factory, may not return anything at all ([http://forum.egosoft.com/viewtopic.php?p=4402849#4402849 OP])
 
-SCH Calculator not working, TL SCH shopping buys nothing, and manually bought stations disappear on install ([http://forum.egosoft.com/viewtopic.php?p=4403029#4403029 OP])
-
 Station agents on manage do nothing on vanilla style missile complex ([http://forum.egosoft.com/viewtopic.php?p=4402955#4402955 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4403070#4403070 Add. Info 1] |  [http://forum.egosoft.com/viewtopic.php?p=4403288#4403288 Add. Info 2] |  [http://forum.egosoft.com/viewtopic.php?p=4403434#4403434 Add. Info 3] |  [http://www.4shared.com/file/sZUjSm_bce/X02.html Save])
 
 ATF has too many Valhallas and they don't respect the borders of Terran space ([http://forum.egosoft.com/viewtopic.php?p=4403746#4403746 OP])
