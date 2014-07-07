@@ -12,9 +12,6 @@ Collecting a shield ware from space instantly resets a ship's shields ([http://f
 
 Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
 
-
-SMs on vanilla style complexes buy resources that the complex itself produces ([http://forum.egosoft.com/viewtopic.php?p=4404426#4404426 OP])
-
 Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
 
 Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
