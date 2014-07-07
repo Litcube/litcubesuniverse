@@ -34,8 +34,6 @@ Station defense mission reward message text bug ([http://forum.egosoft.com/viewt
 
 Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402893#4402893 Add. Info])
 
-Lag in Kingdom's End ([http://forum.egosoft.com/viewtopic.php?p=4402840#4402840 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402969#4402969 Add. Info])
-
 Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
 
 Trade search doesn't return nearest factory, may not return anything at all ([http://forum.egosoft.com/viewtopic.php?p=4402849#4402849 OP])
