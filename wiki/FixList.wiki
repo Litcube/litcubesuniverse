@@ -40,8 +40,6 @@
 
 {Bug} Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
 
-{Bug} Pirate buster cannot fire ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
-
 {Bug} Station defense mission reward message text bug ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
 
 {Bug} Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402893#4402893 Add. Info])
