@@ -14,8 +14,6 @@ Collecting a shield ware from space instantly resets a ship's shields ([http://f
 
 Missions spawning ships of a different race than that in the description ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
-Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtopic.php?p=4402123#4402123 OP])
-
 Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
 
 Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
