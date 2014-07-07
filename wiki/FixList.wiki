@@ -74,21 +74,13 @@
 
 {Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
-{Bug} OCV stuck in bluish snout ([http://forum.egosoft.com/viewtopic.php?p=4397263#4397263 OP])
-
-{Bug} OCV stuck in Getsu Fune ([http://forum.egosoft.com/viewtopic.php?p=4400633#4400633 OP])
-
 {Suggestion} Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
 {Suggestion} Sort wares in Sources/Thresholds of the dockware manager alphabetically ([http://forum.egosoft.com/viewtopic.php?p=4399887#4399887 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
 
-{Suggestion} Make ships save homebase when player enters them ([http://forum.egosoft.com/viewtopic.php?p=4399919#4399919 OP])
-
 {Suggestion} Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
 
 {Suggestion} Allow all stations to be selected for the 'Assign home and send' function ([http://forum.egosoft.com/viewtopic.php?p=4400283#4400283 OP] | [http://forum.egosoft.com/viewtopic.php?p=4400320#4400320 Response])
-
-{Suggestion} Add escort options to MLCC ([http://forum.egosoft.com/viewtopic.php?p=4400581#4400581 OP])
 
 == Rejected ==
 
