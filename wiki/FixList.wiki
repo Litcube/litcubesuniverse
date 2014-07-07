@@ -34,8 +34,6 @@ Unable to dock capital ships to the military base in Rhonkar's Fire ([http://for
 
 SMs on vanilla style complexes buy resources that the complex itself produces ([http://forum.egosoft.com/viewtopic.php?p=4404426#4404426 OP])
 
-When MLCC ships dock at their home base they resupply their energy cells past what their resupply settings ([http://forum.egosoft.com/viewtopic.php?p=4404505#4404505 OP])
-
 Quuick shuttle selection still has old arrow style.
 
 Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
