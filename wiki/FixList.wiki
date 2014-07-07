@@ -28,8 +28,6 @@ Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=44
 
 Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
 
-Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
-
 Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
 
 Allow all stations to be selected for the 'Assign home and send' function ([http://forum.egosoft.com/viewtopic.php?p=4400283#4400283 OP] | [http://forum.egosoft.com/viewtopic.php?p=4400320#4400320 Response])
