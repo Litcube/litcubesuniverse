@@ -22,8 +22,6 @@ Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtop
 
 Penetron is superior to Penetron Advanced ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
 
-OTAS ships missing from encyclopedia ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
-
 Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
 
 Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
