@@ -12,7 +12,6 @@ Collecting a shield ware from space instantly resets a ship's shields ([http://f
 
 Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
 
-Station agents on manage do nothing on vanilla style missile complex ([http://forum.egosoft.com/viewtopic.php?p=4402955#4402955 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4403070#4403070 Add. Info 1] |  [http://forum.egosoft.com/viewtopic.php?p=4403288#4403288 Add. Info 2] |  [http://forum.egosoft.com/viewtopic.php?p=4403434#4403434 Add. Info 3] |  [http://www.4shared.com/file/sZUjSm_bce/X02.html Save])
 
 SMs on vanilla style complexes buy resources that the complex itself produces ([http://forum.egosoft.com/viewtopic.php?p=4404426#4404426 OP])
 
