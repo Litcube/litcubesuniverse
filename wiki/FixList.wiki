@@ -16,8 +16,6 @@ Missions spawning ships of a different race than that in the description ([http:
 
 MLCC carrier wing targeting/docking issues ([http://forum.egosoft.com/viewtopic.php?p=4402026#4402026 OP])
 
-Hammerhead missile factory not available in SCH menu ([http://forum.egosoft.com/viewtopic.php?p=4402110#4402110 OP])
-
 Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtopic.php?p=4402123#4402123 OP])
 
 Penetron is superior to Penetron Advanced ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
