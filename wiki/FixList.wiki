@@ -12,8 +12,6 @@ Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI 
 
 Collecting a shield ware from space instantly resets a ship's shields ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
-Missions spawning ships of a different race than that in the description ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
-
 Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
 
 Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
