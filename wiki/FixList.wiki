@@ -4,94 +4,86 @@
 
 == Accepted - Higher Priority (Savegame Available) ==
 
-== Accepted ==
-
 === Pre 1.1.7 Reports ===
 
-{Suggestion} Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 Add. Info])
-
-== Pending ==
+Reduce earnings multiplier cheese from kills due to running multiple combat mission simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4393372#4393372 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4393826#4393826 Add. Info])
 
 === Post-1.1.7 Reports ===
 
-{Bug} Rainmeter skin doesn't show rank numbers ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://images.huillam.net/rainmeter.png Screenshot])
+Rainmeter skin doesn't show rank numbers ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://images.huillam.net/rainmeter.png Screenshot])
 
-{Bug} Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
+Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
 
-{Bug} Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI ([http://forum.egosoft.com/viewtopic.php?p=4401579#44015790 OP])
+Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI ([http://forum.egosoft.com/viewtopic.php?p=4401579#44015790 OP])
 
-{Bug} Collecting a shield ware from space instantly resets a ship's shields ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+Collecting a shield ware from space instantly resets a ship's shields ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
-{Bug} Missions spawning ships of a different race than that in the description ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
+Missions spawning ships of a different race than that in the description ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
-{Bug} MLCC carrier wing targeting/docking issues ([http://forum.egosoft.com/viewtopic.php?p=4402026#4402026 OP])
+MLCC carrier wing targeting/docking issues ([http://forum.egosoft.com/viewtopic.php?p=4402026#4402026 OP])
 
-{Bug} Collect astronaut on player ship breaks after first pickup ([http://forum.egosoft.com/viewtopic.php?p=4402096#4402096 OP])
+Collect astronaut on player ship breaks after first pickup ([http://forum.egosoft.com/viewtopic.php?p=4402096#4402096 OP])
 
-{Bug} Hammerhead missile factory not available in SCH menu ([http://forum.egosoft.com/viewtopic.php?p=4402110#4402110 OP])
+Hammerhead missile factory not available in SCH menu ([http://forum.egosoft.com/viewtopic.php?p=4402110#4402110 OP])
 
-{Bug} Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtopic.php?p=4402123#4402123 OP])
+Station agent e-cell source issue after patch ([http://forum.egosoft.com/viewtopic.php?p=4402123#4402123 OP])
 
-{Bug} Penetron is superior to Penetron Advanced ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
+Penetron is superior to Penetron Advanced ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
 
-{Bug} OTAS ships missing from encyclopedia ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
+OTAS ships missing from encyclopedia ([http://forum.egosoft.com/viewtopic.php?p=4402296#4402296 OP])
 
-{Bug} Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
+Dock agents not achecking if other agents already selling wares over limit ([http://forum.egosoft.com/viewtopic.php?p=4402333#4402333 OP])
 
-{Bug} Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
+Hired civilian TLs exploding when traveling though gates ([http://forum.egosoft.com/viewtopic.php?p=4402462#4402462 OP])
 
-{Bug} Station defense mission reward message text bug ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
+Station defense mission reward message text bug ([http://forum.egosoft.com/viewtopic.php?p=4402825#4402825 OP])
 
-{Bug} Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402893#4402893 Add. Info])
+Starburst lag when first flown after purchase ([http://forum.egosoft.com/viewtopic.php?p=4402835#4402835 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402893#4402893 Add. Info])
 
-{Bug} Lag in Kingdom's End ([http://forum.egosoft.com/viewtopic.php?p=4402840#4402840 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402969#4402969 Add. Info])
+Lag in Kingdom's End ([http://forum.egosoft.com/viewtopic.php?p=4402840#4402840 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402969#4402969 Add. Info])
 
-{Bug} Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
+Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
 
-{Bug} Trade search doesn't return nearest factory, may not return anything at all ([http://forum.egosoft.com/viewtopic.php?p=4402849#4402849 OP])
+Trade search doesn't return nearest factory, may not return anything at all ([http://forum.egosoft.com/viewtopic.php?p=4402849#4402849 OP])
 
-{Bug} SCH Calculator not working, TL SCH shopping buys nothing, and manually bought stations disappear on install ([http://forum.egosoft.com/viewtopic.php?p=4403029#4403029 OP])
+SCH Calculator not working, TL SCH shopping buys nothing, and manually bought stations disappear on install ([http://forum.egosoft.com/viewtopic.php?p=4403029#4403029 OP])
 
-{Bug} Station agents on manage do nothing on vanilla style missile complex ([http://forum.egosoft.com/viewtopic.php?p=4402955#4402955 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4403070#4403070 Add. Info 1] |  [http://forum.egosoft.com/viewtopic.php?p=4403288#4403288 Add. Info 2] |  [http://forum.egosoft.com/viewtopic.php?p=4403434#4403434 Add. Info 3] |  [http://www.4shared.com/file/sZUjSm_bce/X02.html Save])
+Station agents on manage do nothing on vanilla style missile complex ([http://forum.egosoft.com/viewtopic.php?p=4402955#4402955 OP] |  [http://forum.egosoft.com/viewtopic.php?p=4403070#4403070 Add. Info 1] |  [http://forum.egosoft.com/viewtopic.php?p=4403288#4403288 Add. Info 2] |  [http://forum.egosoft.com/viewtopic.php?p=4403434#4403434 Add. Info 3] |  [http://www.4shared.com/file/sZUjSm_bce/X02.html Save])
 
-{Bug} ATF has too many Valhallas and they don't respect the borders of Terran space ([http://forum.egosoft.com/viewtopic.php?p=4403746#4403746 OP])
+ATF has too many Valhallas and they don't respect the borders of Terran space ([http://forum.egosoft.com/viewtopic.php?p=4403746#4403746 OP])
 
-{Bug} Unable to dock capital ships to the military base in Rhonkar's Fire ([http://forum.egosoft.com/viewtopic.php?p=4404239#4404239 OP])
+Unable to dock capital ships to the military base in Rhonkar's Fire ([http://forum.egosoft.com/viewtopic.php?p=4404239#4404239 OP])
 
-{Bug} SMs on vanilla style complexes buy resources that the complex itself produces ([http://forum.egosoft.com/viewtopic.php?p=4404426#4404426 OP])
+SMs on vanilla style complexes buy resources that the complex itself produces ([http://forum.egosoft.com/viewtopic.php?p=4404426#4404426 OP])
 
-{Bug} When MLCC ships dock at their home base they resupply their energy cells past what their resupply settings ([http://forum.egosoft.com/viewtopic.php?p=4404505#4404505 OP])
+When MLCC ships dock at their home base they resupply their energy cells past what their resupply settings ([http://forum.egosoft.com/viewtopic.php?p=4404505#4404505 OP])
 
-{Litcube} Quuick shuttle selection still has old arrow style.
+Quuick shuttle selection still has old arrow style.
 
-{Suggestion} Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
+Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
 
-{Suggestion} MLCC improvement ideas ([http://forum.egosoft.com/viewtopic.php?p=4402128#4402128 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402151#4402151 Add. Info])
+MLCC improvement ideas ([http://forum.egosoft.com/viewtopic.php?p=4402128#4402128 OP] | [http://forum.egosoft.com/viewtopic.php?p=4402151#4402151 Add. Info])
 
-=== Pre-1.1.7 Reports ===
+Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
 
-{Exploit} Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
+Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
 
-{Bug} Some credit listings in mission log don't use comma separators while others do ([http://forum.egosoft.com/viewtopic.php?p=4396344#4396344 OP] | [http://imgur.com/F3lR7Bm Screenshot])
+Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
-{Suggestion} Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
+Sort wares in Sources/Thresholds of the dockware manager alphabetically ([http://forum.egosoft.com/viewtopic.php?p=4399887#4399887 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
 
-{Suggestion} Sort wares in Sources/Thresholds of the dockware manager alphabetically ([http://forum.egosoft.com/viewtopic.php?p=4399887#4399887 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
+Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
 
-{Suggestion} Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
-
-{Suggestion} Allow all stations to be selected for the 'Assign home and send' function ([http://forum.egosoft.com/viewtopic.php?p=4400283#4400283 OP] | [http://forum.egosoft.com/viewtopic.php?p=4400320#4400320 Response])
+Allow all stations to be selected for the 'Assign home and send' function ([http://forum.egosoft.com/viewtopic.php?p=4400283#4400283 OP] | [http://forum.egosoft.com/viewtopic.php?p=4400320#4400320 Response])
 
 == Rejected ==
 
-=== Pre-1.1.7 Reports ===
+Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
-{Suggestion} Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
+Autoclaim all ships in sector/nearest ship function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
 
-{Suggestion} Autoclaim all ships in sector/nearest ship function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
+Incorporate Marine Repairs ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 Response])
 
-{Suggestion} Incorporate Marine Repairs ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 Response])
+Increase weapon rate of fire ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 Response])
 
-{Suggestion} Increase weapon rate of fire ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 Response])
-
-{Suggestion} Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
+Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
