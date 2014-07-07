@@ -24,8 +24,8 @@
   * (3) Fixed: shouldn't be more than one valhalla in the universe
   * (2) Fixed: escaping the remote drop factory command brought up the galaxy menu
   * (1) Fixed: removed a debug message from collect astronaut
-  * (1) Changed: Quickshuttle selection menu uses new selection display
-
+  * (-) Changed: Quickshuttle selection menu uses new selection display
+  * (-) Upgraded: Dockware Manager sources now sorted
 
 ----
 = Version 1.1.8 =
