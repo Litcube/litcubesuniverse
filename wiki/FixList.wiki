@@ -38,8 +38,6 @@ Some credit listings in mission log don't use comma separators while others do (
 
 Add capital letters on sectors (second word)([http://forum.egosoft.com/viewtopic.php?p=4399051#4399051 OP])
 
-Sort wares in Sources/Thresholds of the dockware manager alphabetically ([http://forum.egosoft.com/viewtopic.php?p=4399887#4399887 OP] | [http://forum.egosoft.com/viewtopic.php?p=4399912#4399912 Response])
-
 Add marines to commonwealth ships ([http://forum.egosoft.com/viewtopic.php?p=4400092#4400092 OP])
 
 Allow all stations to be selected for the 'Assign home and send' function ([http://forum.egosoft.com/viewtopic.php?p=4400283#4400283 OP] | [http://forum.egosoft.com/viewtopic.php?p=4400320#4400320 Response])
