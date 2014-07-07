@@ -25,7 +25,7 @@
   * (2) Fixed: escaping the remote drop factory command brought up the galaxy menu
   * (1) Fixed: removed a debug message from collect astronaut
   * (-) Changed: Quickshuttle selection menu uses new selection display
-  * (-) Upgraded: Dockware Manager sources now sorted
+  * (-) Upgraded: Dockware Manager sources and thresholds now sorted
 
 ----
 = Version 1.1.8 =
