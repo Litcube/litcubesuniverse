@@ -17,7 +17,9 @@
   * _*This patch does not require an import/export*_<br><br>
   * (5) Fixed: forgot a dot at the end of the Damyath Light description
   * (5) Fixed: implemented Jack08's fix for some money issues, rendering no credits withdrawn
+  * (5) Fixed: implemented Jack08's search lockup fix
   * (3) Fixed: Valhalla can't turn (among other dreadnoughts)
+
 
 ----
 = Version 1.1.8 =
