@@ -4,8 +4,6 @@
 
 Rainmeter skin doesn't show rank numbers ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://images.huillam.net/rainmeter.png Screenshot])
 
-Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
-
 Collecting a shield ware from space instantly resets a ship's shields ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
 Missiles sometimes lose their hit-boxes, may be related to Missile Safety if launching ship destroyed before safety distance reached ([http://forum.egosoft.com/viewtopic.php?p=4402844#4402844 OP])
