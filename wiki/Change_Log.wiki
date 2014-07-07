@@ -14,9 +14,11 @@
 === Not Yet Release ===
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
+  * (3) Fixed: Carriers (including MLCC carriers) were loading more than they should when docking
   * (2) Fixed: Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously
   * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
+ 
 ----
 = Version 1.1.9 =
 === July 7, 2014 ===
