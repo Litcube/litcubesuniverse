@@ -14,7 +14,8 @@
 === Not Yet Release ===
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
-  * (2) Fixed: Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously 
+  * (2) Fixed: Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously
+  * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
 ----
 = Version 1.1.9 =
 === July 7, 2014 ===
