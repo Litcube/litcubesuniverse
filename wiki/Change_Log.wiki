@@ -19,6 +19,7 @@
   * (5) Fixed: implemented Jack08's fix for some money issues, rendering no credits withdrawn
   * (5) Fixed: implemented Jack08's search lockup fix
   * (3) Fixed: Valhalla can't turn (among other dreadnoughts)
+  * (3) Fixed: Pirate Buster cannot fire
   * (2) Fixed: escaping the remote drop factory command brought up the galaxy menu
 
 
