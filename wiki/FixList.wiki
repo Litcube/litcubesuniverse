@@ -20,21 +20,9 @@
 
 {Bug} Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI ([http://forum.egosoft.com/viewtopic.php?p=4401579#44015790 OP])
 
-{Bug} Crash when performing trade product search for Advanced Satellites ([http://forum.egosoft.com/viewtopic.php?p=4401618#4401618 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4401682#4401682 Unofficial Patch])
-
-{Bug} Dockware manager sells free software if station account is empty as long as player account has enough credits ([http://forum.egosoft.com/viewtopic.php?p=4401697#4401697 OP] | [http://forum.egosoft.com/viewtopic.php?p=4403053#4403053 Second Report] | [http://forum.egosoft.com/viewtopic.php?p=4403337#4403337 Unofficial Patch])
-
-{Bug} Huge slowdown when launching fighter wing from pteranodon that stops when final fighter is launched ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
-
 {Bug} Collecting a shield ware from space instantly resets a ship's shields ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
-{Bug} Gonar stations affected by friendly fire ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
-
-{Bug} Tug is stuck collecting ships ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
-
 {Bug} Missions spawning ships of a different race than that in the description ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
-
-{Bug} Remote drop factory menu allows you to go the a sector selection but drops the factory in the current sector, not the selected one ([http://forum.egosoft.com/viewtopic.php?p=4401892#4401892 OP])
 
 {Bug} MLCC carrier wing targeting/docking issues ([http://forum.egosoft.com/viewtopic.php?p=4402026#4402026 OP])
 
