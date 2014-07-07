@@ -18,8 +18,6 @@
 
 {Bug} Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://i.imgur.com/OTlr7W7.png Screenshot])
 
-{Bug} Valhalla can't turn ([http://forum.egosoft.com/viewtopic.php?p=4401530#4401530 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401541#4401541 Response])
-
 {Bug} Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI ([http://forum.egosoft.com/viewtopic.php?p=4401579#44015790 OP])
 
 {Bug} Crash when performing trade product search for Advanced Satellites ([http://forum.egosoft.com/viewtopic.php?p=4401618#4401618 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4401682#4401682 Unofficial Patch])
