@@ -23,6 +23,7 @@
   * (3) Fixed: Pirate Buster cannot fire
   * (3) Fixed: shouldn't be more than one valhalla in the universe
   * (2) Fixed: escaping the remote drop factory command brought up the galaxy menu
+  * (2) Fixed: Dock agents don't sell the same ware at the same time anymore
   * (1) Fixed: removed a debug message from collect astronaut
   * (-) Changed: Quickshuttle selection menu uses new selection display
   * (-) Upgraded: Dockware Manager sources and thresholds now sorted
