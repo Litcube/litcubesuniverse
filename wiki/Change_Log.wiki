@@ -22,6 +22,7 @@
   * (2) Fixed: PX shields wrong
   * (2) Fixed: PX left turret config was set to front
   * (1) Fixed: typos on EBC, HEPT descriptions
+  * (-) Changed: M6, TM, TS, TP do not wait for gate jumps anymore (wasn't TC this way??)
   * (-) Upgraded: MLCC task descriptions fixed
   * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
   * (-) Upgraded: MLCC new task added: escort
