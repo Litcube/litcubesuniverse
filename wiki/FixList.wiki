@@ -2,8 +2,6 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
-Rainmeter skin doesn't show rank numbers ([http://forum.egosoft.com/viewtopic.php?p=4401322#4401322 OP] |  [http://images.huillam.net/rainmeter.png Screenshot])
-
 Re-add set global homebase command ([http://forum.egosoft.com/viewtopic.php?p=4401560#4401560 OP] | [http://forum.egosoft.com/viewtopic.php?p=4401561#4401561 Response])
 
 Jumping instantly restores laser energy ([http://forum.egosoft.com/viewtopic.php?p=4398999#4398999 OP])
