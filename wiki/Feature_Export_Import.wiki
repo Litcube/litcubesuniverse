@@ -4,7 +4,7 @@ Download the latest Export files from the download page and export prior to patc
 
 = Export & Import POST 1.1.8 =
 
- === How to Export ===
+=== How to Export ===
 
   # Remove your cash from the Stock Market.  In other words, sell your stocks.
   # Make sure your marines are all on board ships.  Don't leave them on stations.
