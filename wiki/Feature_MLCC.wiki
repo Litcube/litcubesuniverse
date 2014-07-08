@@ -52,7 +52,7 @@ It fields the configuration of ship rules of engagement and  missile rules of en
 
 http://www.mediafire.com/convkey/d519/9s0za0dsbr8nlc0fg.jpg
 
-  Any ship *type* that has a homebase set to an MLCC enabled dock will show up in this menu. Here, you can configure 4 stages of orders.  The stages are just the order in which they act on those order.  Each stage can be assigned an order of:  Assault, Carrier, Retreat, Missile Assault.
+  Any ship *type* that has a homebase set to an MLCC enabled dock will show up in this menu. Here, you can configure 4 stages of orders.  The stages are just the order in which they act on those order.  Each stage can be assigned an order of:  Assault, Carrier, Retreat, Bomber, Escort.
 
   Each of those orders has config options.  For example assault: only engage fighters, or only engage capital ships.  Or for the carrier order, how many per wing to attack, and what to attack, how many losses can this ship type incur before retreating.
 
@@ -75,11 +75,17 @@ http://www.mediafire.com/convkey/93c7/ir8jyvrcncwv5awfg.jpg
 
   For example, your 16 Heavy Centaur Prototypes set in the example above will immediately start searching for Capital ships (order 1).  When none are left, they will attack fighters (order 2).  Then they will attack capitals again (order 3), in case any stragglers show up in scanner range.  They then will fly to you, and protect your ship (order 4).
 
-  On MLCC Go Code, your Emeus ships as configured above will immediately launch all carried fighters.  Once all are launched, the fighters will go into a follow pattern, following their mothership until given further orders.  The carrier, meanwhile, is looking for _fighters_ as configured.  It will b-line for the nearest enemy fighter.  Once within _intercept range_, the fighters will divide into groups of size _task for size M4_ (because our boarded Asps are M4s).  They'll intercept any fighters this way as long as there's an enemy within _intercept range_.
+  On MLCC Go Code, your Emeus ships as configured above will immediately launch all carried fighters.  Once all are launched, the fighters will go into a follow pattern, following their mothership until given further orders.  The carrier, meanwhile, is looking for _fighters_ as configured.  The carrier will b-line for the nearest enemy fighter.  Once within _intercept range_, the carrier will send wings of the task force size to intercept any fighters this way as long as there's an enemy within _intercept range_.
 
   If an enemy comes within _proximity protection range_ of the carrier, all fighters abandon orders and attack the close object.  This can be turned off with _proximity protection_ set to _no_.
 
   If the carrier in this example loses 30% of its starting fighters as set in the _casualty tolerance_, the carrier will call all remaining fighters and retreat.
+
+  A few other notes on tasks:
+
+  The _bomber task_ is essentially a turret configuration.  The bomber task is only valid for missile boat ships.  Set the turrets here, and when the ship jumps in, those turrets will be set.  It can be beneficial to set one turret as missiles only, as that turret command will protect your entire fleet from enemy missile attacks.  The monitor target and monitor range essentially tells the bomber to fly to the nearest target of that class at a distance of the range to play "keep away".
+
+  The _escort_ task will tell ships of this type that have jumped in to escort a random _escort class_ ship in the fleet.  Multiple escorts of the same type will spread out evenly between leaders.  For example, if you have 2 M7s in the fleet, and you set 13 Centaurs to escort M7s, when the go code is launched, your Centaurs will each find an M7, and the result will be 6 Centaurs escorting one of the M7s, and 7 escorting the other.
 
 == Hangars ==
 
