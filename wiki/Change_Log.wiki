@@ -21,6 +21,7 @@
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
   * (2) Fixed: PX shields wrong
   * (2) Fixed: PX left turret config was set to front
+  * (2) Fixed: Rainmeter skin now shows ranks (you'll have to download the new LU for Rainmeter update)
   * (1) Fixed: typos on EBC, HEPT descriptions
   * (-) Changed: M6, TM, TS, TP do not wait for gate jumps anymore (wasn't TC this way??)
   * (-) Upgraded: MLCC task descriptions fixed
