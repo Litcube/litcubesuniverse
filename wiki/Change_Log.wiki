@@ -15,12 +15,16 @@
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
   * (3) Fixed: Carriers (including MLCC carriers) were loading more than they should when docking
+  * (3) Fixed: capital ships with main guns now use default attack routine
   * (2) Fixed: Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously
   * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
   * (2) Fixed: PX shields wrong
   * (2) Fixed: PX left turret config was set to front
   * (1) Fixed: typos on EBC, HEPT descriptions
+  * (-) Upgraded: MLCC task descriptions fixed
+  * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
+  * (-) Upgraded: MLCC new task added: escort
  
 ----
 = Version 1.1.9 =
@@ -32,8 +36,7 @@
   * (5) Fixed: implemented Jack08's search lockup fix
   * (3) Fixed: Valhalla can't turn (among other dreadnoughts)
   * (3) Fixed: Hammerhead missile factory not available in SCH menu was caused by it not actually being sold (galaxy map fix)
-  * (3) Fixed: capital ships with main guns now use default attack routine
-  * (3) Fixed: Pirate Buster cannot fire
+   * (3) Fixed: Pirate Buster cannot fire
   * (3) Fixed: Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI
   * (3) Fixed: shouldn't be more than one valhalla in the universe
   * (2) Fixed: escaping the remote drop factory command brought up the galaxy menu
@@ -42,9 +45,6 @@
   * (-) Changed: Quickshuttle selection menu uses new selection display
   * (-) Changed: DWM template outfit allows all stations to be set to homebase
   * (-) Upgraded: Dockware Manager sources and thresholds now sorted
-  * (-) Upgraded: MLCC task descriptions fixed
-  * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
-  * (-) Upgraded: MLCC new task added: escort
 
 ----
 = Version 1.1.8 =
