@@ -19,6 +19,7 @@
   * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
   * (2) Fixed: PX shields wrong
+  * (1) Fixed: typos on EBC, HEPT descriptions
  
 ----
 = Version 1.1.9 =
