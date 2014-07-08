@@ -11,7 +11,7 @@
 
 ----
 = Version 1.2.0 =
-=== Not Yet Release ===
+=== Not Yet Released ===
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
   * (3) Fixed: Carriers (including MLCC carriers) were loading more than they should when docking
