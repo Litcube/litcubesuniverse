@@ -32,6 +32,7 @@
   * (5) Fixed: implemented Jack08's search lockup fix
   * (3) Fixed: Valhalla can't turn (among other dreadnoughts)
   * (3) Fixed: Hammerhead missile factory not available in SCH menu was caused by it not actually being sold (galaxy map fix)
+  * (3) Fixed: capital ships with main guns now use default attack routine
   * (3) Fixed: Pirate Buster cannot fire
   * (3) Fixed: Phanon Corp sets up in Kingdom end if their HQ was destroyed when performing EI
   * (3) Fixed: shouldn't be more than one valhalla in the universe
@@ -41,6 +42,9 @@
   * (-) Changed: Quickshuttle selection menu uses new selection display
   * (-) Changed: DWM template outfit allows all stations to be set to homebase
   * (-) Upgraded: Dockware Manager sources and thresholds now sorted
+  * (-) Upgraded: MLCC task descriptions fixed
+  * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
+  * (-) Upgraded: MLCC new task added: escort
 
 ----
 = Version 1.1.8 =
