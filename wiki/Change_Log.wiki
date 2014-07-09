@@ -33,6 +33,7 @@
   * (-) Upgraded: MLCC new task added: escort
   * (-) Upgraded: Added modernized version of set global homebase /w search string
   * (-) Upgraded: Added TrixX's LU weapon/missile icons
+  * (-) Upgraded: weapon effects; all weapons now have light for impact and launch, cleaned up a few, organized effects.txt
  
 ----
 = Version 1.1.9 =
