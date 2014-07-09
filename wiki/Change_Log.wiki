@@ -27,6 +27,7 @@
   * (-) Changed: M6, TM, TS, TP do not wait for gate jumps anymore (wasn't TC this way??)
   * (-) Changed: added marines to commonwealth ships
   * (-) Changed: jumping no longer restores laser energy
+  * (-) Changed: sector greek letters capitalized
   * (-) Upgraded: MLCC task descriptions fixed
   * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
   * (-) Upgraded: MLCC new task added: escort
