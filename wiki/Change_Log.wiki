@@ -32,6 +32,7 @@
   * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
   * (-) Upgraded: MLCC new task added: escort
   * (-) Upgraded: Added modernized version of set global homebase /w search string
+  * (-) Upgraded: Added TrixX's LU weapon/missile icons
  
 ----
 = Version 1.1.9 =
