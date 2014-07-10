@@ -18,6 +18,7 @@
   * (3) Fixed: Carriers (including MLCC carriers) were loading more than they should when docking
   * (3) Fixed: capital ships with main guns now use default attack routine
   * (3) Fixed: dreadnoughts were supposed to have boarding defences built in
+  * (3) Fixed: UT: prefuel errors weren't reporting properly, possible causing UTs to fly without jumping
   * (2) Fixed: Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously
   * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
