@@ -30,6 +30,7 @@
   * (-) Changed: added marines to commonwealth ships
   * (-) Changed: jumping no longer restores laser energy
   * (-) Changed: sector greek letters capitalized
+  * (-) Changed: player stat "Ships captured" changed to "Ships bailed"
   * (-) Upgraded: MLCC task descriptions fixed
   * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
   * (-) Upgraded: MLCC new task added: escort
