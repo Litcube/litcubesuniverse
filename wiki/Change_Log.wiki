@@ -14,7 +14,7 @@
 === Not Yet Released ===
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
-  * (5) Fixed: *finally* tracked down this Phanon Corp negative laser bug (causes a crash when the ship is destroyed, rare).
+  * (5) Fixed: *finally* tracked down this Phanon Corp negative laser bug (causes a crash when the ship is destroyed, rare)
   * (3) Fixed: Carriers (including MLCC carriers) were loading more than they should when docking
   * (3) Fixed: capital ships with main guns now use default attack routine
   * (3) Fixed: dreadnoughts were supposed to have boarding defences built in
@@ -22,6 +22,7 @@
   * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
   * (2) Fixed: PX shields wrong
+  * (2) Fixed: collecting credits with the collect ware command caused credits to be installed into the ship
   * (2) Fixed: PX left turret config was set to front
   * (2) Fixed: Rainmeter skin now shows ranks (you'll have to download the new LU for Rainmeter update)
   * (1) Fixed: typos on EBC, HEPT descriptions
