@@ -14,6 +14,7 @@
 === Not Yet Released ===
   * _Patch contains all previous changes from 1.1.3 and up_<br>
   * _*This patch requires an import/export to fix known issues.  See: [Feature_Export_Import Export/Import]*_<br><br>
+  * (5) Fixed: *finally* tracked down this Phanon Corp negative laser bug (causes a crash when the ship is destroyed, rare).
   * (3) Fixed: Carriers (including MLCC carriers) were loading more than they should when docking
   * (3) Fixed: capital ships with main guns now use default attack routine
   * (3) Fixed: dreadnoughts were supposed to have boarding defences built in
@@ -34,6 +35,10 @@
   * (-) Upgraded: Added modernized version of set global homebase /w search string
   * (-) Upgraded: Added TrixX's LU weapon/missile icons
   * (-) Upgraded: weapon effects; all weapons now have light for impact and launch, cleaned up a few, organized effects.txt
+  * (-) Upgraded: added script command _add marines_
+  * (-) Upgraded: added script command _add default equipment_
+  * (-) Upgraded: added script command _bail ship_
+
  
 ----
 = Version 1.1.9 =
