@@ -18,7 +18,7 @@ Don't do it if you don't need to, but here's some reasons why you would:
   # Make sure your marines are all on board ships.  Don't leave them on stations.
   # Be in a safe sector.
   # Wait for all HQ queues (repair, recycle, production) to finish.
-  # Export your game by selecting "Export empire" in the Player Console
+  # Export your game by selecting "Export empire" in the Player Console (hotkey found in "Interface" in controls menu)
   # This can take a few minutes.  You can watch your log file increase in size if you're looking at it in windows explorer (addon\t).
   # When the export is finished, you'll see the message "Export Done!" on your screen.
 
