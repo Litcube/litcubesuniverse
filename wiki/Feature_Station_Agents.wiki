@@ -20,7 +20,7 @@ Required software:
   * Trade Command Software Mk II
   * Trading System Extension
 
-Optional software for the Trade Product Search:
+Optional software for the Trade Product Search (player-only tool):
   * Best selling price Locator
   * Best Buys Locator
 
