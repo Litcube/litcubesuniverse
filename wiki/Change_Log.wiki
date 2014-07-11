@@ -35,6 +35,7 @@
   * (-) Changed: jumping no longer restores laser energy
   * (-) Changed: sector greek letters capitalized
   * (-) Changed: player stat "Ships captured" changed to "Ships bailed"
+  * (-) Changed: no stations within 12 KM of each other, no stations within 8 KM of gate lanes, required sector size changes and station rearrangements
   * (-) Upgraded: MLCC task descriptions fixed
   * (-) Upgraded: MLCC bomber task reworked, now a turret setting and monitor routine
   * (-) Upgraded: MLCC new task added: escort
