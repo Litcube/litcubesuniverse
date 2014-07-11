@@ -21,6 +21,7 @@
   * (3) Fixed: UT: prefuel errors weren't reporting properly, possible causing UTs to fly without jumping
   * (3) Fixed: retreating MLCC ships would sometimes retreat one at a time
   * (3) Fixed: after 4 years, fixed Phanon Corporation morale issue for ships
+  * (3) Fixed: UTs should no longer jump to enemy sectors when attacked
   * (2) Fixed: Trade report shows incorrect price for items purchased when upgrading multiple ships at shipyard simultaneously
   * (2) Fixed: Missile safety issue with ships destroyed before missile safety turns off
   * (2) Fixed: vanilla exploit: collecting a shield ware from space instantly resets a ship's shields
