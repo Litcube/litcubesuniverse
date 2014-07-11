@@ -30,6 +30,7 @@
   * (2) Fixed: PX left turret config was set to front
   * (2) Fixed: Rainmeter skin now shows ranks (you'll have to download the new LU for Rainmeter update)
   * (2) Fixed: implemented Laserzwölf und 1's changes for station agent picking manage wares
+  * (2) Fixed: station transfer credit set low water mark menu wasnt remembering, minimum was 1000
   * (1) Fixed: typos on EBC, HEPT descriptions
   * (1) Fixed: did a thing in tug command, and added a version checker
   * (-) Changed: M6, TM, TS, TP do not wait for gate jumps anymore (wasn't TC this way??)
