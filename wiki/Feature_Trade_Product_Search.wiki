@@ -6,6 +6,6 @@ http://www.mediafire.com/convkey/2977/3httih83u9eb7b4fg.jpg
 
 This command, run on the player ship, lets you find stuff for sale so that you don't have to ask me where to find it.  It'll look for wares, ships, or stations for sale in the entire Universe.
 
-In order for the product to be searchable, you need to _know_ of the station's existence, but you don't need property in the sector.
+In order for the product to be searchable, you need to _know_ of the station's existence, and have PPP.
 
 Wares required for the command to show up in the _Trade_ menu can be found in the [Feature_Encyclopedia_Update encyclopedia] under _Software and equipment commands_.
