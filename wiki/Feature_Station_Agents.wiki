@@ -4,7 +4,7 @@
 
 _"Station Agent Software provides utilities and integration to a ship's homebase allowing it to manage and sell wares for a station or a complex."_
 
-This software allows a freighter to handle the trading of the wares of their homebased station. The ship can do one of two things: manage goods or sell goods. Manage allows the pilot to purchase goods for the station when it runs low, or less than 10 percent.
+This software allows a freighter to handle the trading of the wares of their homebased station. The ship can do one of two things: "manage" goods or sell goods. Manage allows the pilot to purchase goods for the station when it runs low, or less than 10 percent.
 
 
 The alternative is selecting a ware, which will allow the pilot to sell the specified good. Purchasing or selling is always done at the best found price, wherever your property is available to log into the local trade network.
@@ -23,10 +23,6 @@ Required software:
 Optional for enabling a player-only tool (Trade Product Search):
   * Best selling price Locator
   * Best Buys Locator
-
-Freighter settings:
-  * "Manage" instructs the freighter to buy required wares.
-  * Other options instruct the freighter to sell wares.
 
 Other notes:
   * Does not work on the player ship.
