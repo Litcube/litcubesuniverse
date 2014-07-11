@@ -9,7 +9,7 @@ Each freighter wishing to operate as a Station Agent requires the software, whic
 
 = Details =
 
-Requires software:
+Required software:
   * Station Agent Software
   * Trade Command Software Mk I
   * Trade Command Software Mk II
