@@ -28,6 +28,6 @@ Freighter settings:
   * "Manage" instructs the freighter to buy required wares.
   * Other options instruct the freighter to sell wares.
 
+Other notes:
   * Does not work on the player ship.
-
   * Multiple equipped freighters can work for the same factory.
