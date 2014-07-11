@@ -2,7 +2,7 @@
 
 = Station Agents =
 
-*Station Agent Software provides utilities and integration to a ship's homebase allowing it to manage and sell wares for a station or a complex.*
+_Station Agent Software provides utilities and integration to a ship's homebase allowing it to manage and sell wares for a station or a complex._
 
 Each freighter wishing to operate as a Station Agent requires the software, which is available from Equipment Docks. Multiple such freighters can work for the same homebase, which must be a factory.
 
