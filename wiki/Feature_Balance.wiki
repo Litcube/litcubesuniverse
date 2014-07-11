@@ -42,7 +42,7 @@ Weapon cost was redone, and rounded to the nearest denomination of ware relval. 
 
 == Balance Theory: Missiles ==
 
-Missiles in LU are faster, hit harder, and some are more durable against point defence weapons.  They will likely frustrate the hell out of you in early game.  This is intentional.  In the early game, you have no backup.  You suck.  You're in a single ship, and you want to take on the world.  Until you get backup, maybe get an M7 to protect you (it'll fire mosquito's at incoming missiles).
+Missiles in LU are faster, hit harder, and some are more durable against point defence weapons.  They will likely frustrate the hell out of you in early game.  This is intentional.  In the early game, you have no backup.  You suck.  You're in a single ship, and you want to take on the world.  Until you get backup, maybe get an M7 to protect you (it'll fire mosquitos at incoming missiles).
 
 Rational: Missiles cost money.  So why would you use them if they did the same damage as your laser weapon?
 
