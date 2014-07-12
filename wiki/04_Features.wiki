@@ -228,6 +228,10 @@ See: [Feature_Ship_Compendium Feature: Ship Compendium]
 
 ----
 
+Station Agents help freighters support your factories.
+
+See: [Feature_Station_Agent Station Agent]
+
 === Stock Exchange ===
 
 The Stock Exchange has changed to something a little more simple.
