@@ -11,7 +11,7 @@
 
 ----
 = Version 1.2.1 =
-=== Not Yet Released ===
+=== July 12, 2014 ===
   * _Patch contains all previous changes from 1.2.0 and up_<br>
   * _*This patch does not require an import/export*_<br><br>
   * (3) Fixed: rainmeter script
