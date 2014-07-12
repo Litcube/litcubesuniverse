@@ -1,6 +1,6 @@
 #summary Station Agents help freighters to support your factories.
 
-= Station Agents =
+= Station Agent =
 
 _"Station Agent Software provides utilities and integration to a ship's homebase allowing it to manage and sell wares for a station or a complex."_
 
