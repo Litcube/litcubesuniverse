@@ -1,4 +1,4 @@
-#summary Explorer Command Software.
+#summary Adds automatic exploration to your toolbox.
 
 = Adds automatic exploration to your toolbox  =
 
