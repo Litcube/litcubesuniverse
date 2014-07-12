@@ -4,7 +4,7 @@
 
 The MLCC is a system providing you a whole suit of features that enable you to automate outfitting, fuelling, and carrying out predefined attack strategies.
 
-To use the MLCC, you require a dock owned by you (There are two uniquely named shipyards for sale, one for smaller MLCC ships and one to dock larger ships).  You install the MLCC suite through commands menu on the dock itself.  After that you're able to bring up the MLCC setup menu which is hotkey initiated.
+To use the MLCC, you require a dock owned by you (There are two uniquely named shipyards for sale, one for smaller MLCC ships and one to dock larger ships).  You install the MLCC suite through the commands menu on the dock itself.  After that you're able to bring up the MLCC set up menu which is hotkey initiated.
 
 == Dockware Manager Integration ==
 
@@ -17,7 +17,7 @@ http://www.mediafire.com/convkey/ad17/4dfxbvlejvt43jbfg.jpg
 Calling for assistance is likely one of the first orders you'll issue your MLCC ships.  The command essentially calls your MLCC ships to assist you in battle and execute their orders.  The menu above shows a few options.  The first two items are rally options depicting the behaviour of how the MLCC ships will get to you.  The rest are sliders you can use to include or exclude the shiptypes from the assist call, which you'll need to set prior to hitting a rally option.
 
   * Rally: standard:  Ships will use normal autojump settings to get to you, jumping to the nearest available point
- * Rally: jump beacon: If your ship has a jump beacon on board, the MLCC ships will use it. The jump beacon doesn't need to be deployed. The resulting jumpin creates a giant wall formation in front of your ship, evenly spaced out, and all facing the same direction as you are, ready and waiting for your go code.
+ * Rally: jump beacon: If your ship has a jump beacon on board, the MLCC ships will use it. The jump beacon doesn't need to be deployed. The resulting jump in creates a giant wall formation in front of your ship, evenly spaced out, and all facing the same direction as you are, ready and waiting for your go code.
 
 
 == Functionality & Orders ==
@@ -27,7 +27,7 @@ Once you have an MLCC station, you will be able to set various rules for how you
   * Sorties
   * Ship Rules of Engagement
   * Hangars
-  * Missile Rule of Engagement
+  * Missile Rules of Engagement
 
 In order for the MLCC to have any functionality at all, you'll need to have ships assigned to the MLCC.  The assigned ships are intended to be of class M6 or larger.  Fighter capability is intended to be in the form of carrier wings, which should be homebased to a carrier, and the carrier, in turn, homebased to the MLCC.
 
@@ -58,7 +58,7 @@ http://www.mediafire.com/convkey/d519/9s0za0dsbr8nlc0fg.jpg
 
   For example (as per image above):
   * *Heavy Centaur Prototype:*
-  * Order 1: Assault, Capital
+  * Order 1: Assault, Capitals
   * Order 2: Assault Fighters
   * Order 3: Assault, Capitals
   * Order 4: Protect Me
@@ -77,9 +77,9 @@ http://www.mediafire.com/convkey/93c7/ir8jyvrcncwv5awfg.jpg
 
   On MLCC Go Code, your Emeus ships as configured above will immediately launch all carried fighters.  Once all are launched, the fighters will go into a follow pattern, following their mothership until given further orders.  The carrier, meanwhile, is looking for _fighters_ as configured.  The carrier will b-line for the nearest enemy fighter.  Once within _intercept range_, the carrier will send wings of the task force size to intercept any fighters this way as long as there's an enemy within _intercept range_.
 
-  If an enemy comes within _proximity protection range_ of the carrier, all fighters abandon orders and attack the close object.  This can be turned off with _proximity protection_ set to _no_.
+  If an enemy comes within _proximity protection range_ of the carrier, all fighters abandon orders and attack the closest object.  This can be turned off with _proximity protection_ set to _no_.
 
-  If the carrier in this example loses 30% of its starting fighters as set in the _casualty tolerance_, the carrier will call all remaining fighters and retreat.
+  If the carrier in this example loses 30% of its starting fighters as set in the _casualty tolerance_, the carrier will recall all remaining fighters and retreat.
 
   A few other notes on tasks:
 
