@@ -25,7 +25,7 @@ http://www.mediafire.com/convkey/35ae/2cdeuydjq2cq63qfg.jpg
 
 The the Display-Rainmeter Al plugin requires Rainmeter to run this:
 
-[Downloads Rainmeter]
+[http://rainmeter.net/  Rainmeter]
 
 Here's the rainmeter skin package:
 
