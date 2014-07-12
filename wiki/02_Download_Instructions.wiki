@@ -20,6 +20,8 @@ Patch:
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.1.exe Patch: Litcube's Universe V1.2.1]
 
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.0.exe Patch: Litcube's Universe V1.2.0]
+
 [Change_Log Change log]
 
 ----
