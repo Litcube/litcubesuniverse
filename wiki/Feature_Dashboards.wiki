@@ -23,7 +23,7 @@ You'll have to change the layout data connector to point to the 9003 log in your
 
 http://www.mediafire.com/convkey/35ae/2cdeuydjq2cq63qfg.jpg
 
-The the Display-Rainmeter Al plugin requires Rainmeter to run this:
+The Display-Rainmeter Al plugin requires Rainmeter to run this:
 
 [http://rainmeter.net/  Rainmeter]
 
