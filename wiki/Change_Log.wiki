@@ -14,7 +14,7 @@
 === Not Yet Released ===
   * _Patch contains all previous changes from 1.2.0 and up_<br>
   * _*This patch does not require an import/export*_<br><br>
-  * (3) Fixed: rainmeter
+  * (3) Fixed: rainmeter plugin
   * (2) Fixed: Qlaser set rapid fire exploit
 
 
