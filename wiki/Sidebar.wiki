@@ -33,7 +33,7 @@
     * [Feature_Saturn_Complex_Hub Saturn Complex Hub]
     * [Feature_New_Script_Commands Script Commands]
     * [Feature_Ship_Compendium Ship Compendium]
-    * [Feature_Station_Agents Station Agents]
+    * [Feature_Station_Agent Station Agent]
     * [Feature_Stock_Exchange Stock Exchange]
     * [Feature_Supply_Command_Software Supply Software Update]
     * [Feature_Template_Manager Template Manager]
