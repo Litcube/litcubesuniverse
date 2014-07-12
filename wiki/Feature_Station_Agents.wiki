@@ -6,7 +6,6 @@ _"Station Agent Software provides utilities and integration to a ship's homebase
 
 This software allows a freighter to handle the trading of the wares of their homebased station. The ship can do one of two things: manage goods or sell goods. Manage allows the pilot to purchase goods for the station when it runs low, or less than 10 percent.
 
-
 The alternative is selecting a ware, which will allow the pilot to sell the specified good. Purchasing or selling is always done at the best found price, wherever your property is available to log into the local trade network.
 
 Pilots increase in Agent ranks, which lowers the amount of time searching for product prices. "Best found prices" are determined through a combination of price and volume of wares available within sectors containing your property.
