@@ -13,6 +13,7 @@
     * [Feature_ERD Emergency Jump Update]
     * [Feature_ERD Emergency Retreat Drive & Jump Cores]
     * [Feature_Encyclopedia_Update Encyclopedia Update]
+    * [Feature_Explorer_Command_Software Explorer Command Software] 
     * [Feature_Export_Import Export/Import]
     * [Feature_Freighter Freighter]
     * [Feature_FLC FLC]
