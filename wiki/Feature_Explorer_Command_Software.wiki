@@ -31,4 +31,4 @@ Required upgrades:
 Recommended upgrades:
   * Triplex Scanner
   * Maximum engine upgrades
-  * Mineral Scanner (enabling re-tasking to asteroid scanning)
+  * Mineral Scanner (enables Scan Asteroids feature)
