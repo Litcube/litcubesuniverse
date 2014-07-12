@@ -18,6 +18,7 @@
   * (3) Fixed: UT purchasing amount now respects fuel resupply like agents do
   * (2) Fixed: Qlaser set rapid fire exploit
   * (1) Fixed: command help descriptions
+  * (-) Upgraded: more Curlsworth loadscreens
 
 
 ----
