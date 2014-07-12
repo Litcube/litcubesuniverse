@@ -51,6 +51,7 @@
   * (-) Upgraded: added script command _eject ware_
   * (-) Upgraded: Phanon Corporation loadouts change per generation
   * (-) Upgraded: Phanon Corporation traders now eject wares, jump away
+  * (-) Upgraded: new Curlsworth load screens
 
 
 
