@@ -12,6 +12,14 @@ Commands the ship to survey the current sector to map all stations, asteroids an
 
 The ship will place a configurable array of satellites within known sectors. When the definable number of stored satellites are used up, it will purchase fresh satellites and recommence placement.
 
+*Scan Asteroids*
+
+When you absolutely, positively need to know every roids' minerals in a sector.
+
+*Fly Through Gate*
+
+Does what it says on the tin.
+
 Ships following these commands employs aim to follow safe routes where possible (e.g. when explorers move to sectors bordering un-mapped sectors). However, if there are no safe routes, they will take an unsafe route.
 
 
