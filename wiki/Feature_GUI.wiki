@@ -4,7 +4,7 @@
 
 http://www.mediafire.com/convkey/0eee/dvh54i9aysinnoofg.jpg
 
-A few things have changed in the GUI for LU.  Most obvious is the graphical part of that.  The GUI was done my myself, with the exception of the weapon icons.  If anyone knows who the artist is, please drop me a line so I can credit them.  For those who prefer a little more colour, included with the Litcube's Universe package are alternate cat files you can use to swap out the GUI.  Currently, this cat is 10.cat/10.dat, and only contains the GUI elements that are swappable.  See below for alternate GUIs.
+A few things have changed in the GUI for LU.  Most obvious is the graphical part of that.  The GUI was done by myself, with the exception of the weapon icons.  If anyone knows who the artist is, please drop me a line so I can credit them.  For those who prefer a little more colour, included with in Litcube's Universe package are alternate cat files you can use to swap out the GUI.  Currently, this cat is 10.cat/10.dat, and only contains the GUI elements that are swappable.  See below for alternate GUIs.
 
 Secondly, there's a few not-so-obvious changes:
 
