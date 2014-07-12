@@ -1,4 +1,4 @@
-#summary Explorer Command Software xxx.
+#summary Explorer Command Software.
 
 = Explorer Command Software =
 
