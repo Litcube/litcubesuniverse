@@ -12,7 +12,6 @@
 ----
 = Version 1.2.1 =
 === July 12, 2014 ===
-  * _Patch contains all previous changes from 1.2.0 and up_<br>
   * _*This patch does not require an import/export*_<br><br>
   * (3) Fixed: rainmeter script
   * (3) Fixed: UT purchasing amount now respects fuel resupply like agents do
