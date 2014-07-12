@@ -10,11 +10,11 @@ Firstly, the ship *will* jump if its shields get below the threshold you've set 
 
 ==Emergency Retreat Drive==
 
-Emergency Retreat Drive is an expensive piece of equipment that will enable your ships to emergency jump within seconds.  The emergency jump itself, when used in this manner, requires a fuel in the form of Jumpdrive cores.  These wares can be bought in various parts of the galaxy (and can be made by factories you can setup).
+The Emergency Retreat Drive is an expensive piece of equipment that will enable your ships to emergency jump within seconds.  The emergency jump itself, when used in this manner, requires fuel in the form of Jumpdrive cores.  These wares can be bought in various parts of the galaxy (and can be made by specific player owned factories).
 
 Without Jumpdrive Cores, a jump drive wouldn't be able to jump out nearly instantly, but it will still jump.
 
-Different classes of ships require different amounts of jump cores.  Lukily, there's a new ware resupply system implemented in LU that will allow you to automatically resupply cores which works in the same way as the built in functionality of resupply missiles, or energy.
+Different classes of ships require different amounts of jump cores.  Luckily, there's a new ware resupply system implemented in LU that will allow you to automatically resupply cores which works in the same way as the built in functionality of resupply missiles, or energy.
 
 Jumpdrive Cores Required per class:
 
