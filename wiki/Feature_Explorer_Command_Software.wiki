@@ -1,0 +1,21 @@
+#summary Explorer Command Software xxx.
+
+= Explorer Command Software =
+
+_"xxxx"_
+
+The Deploy Satellite Command employs the fly safe principle. However, if there are no safe routes to unexplored, the explorer will take an unsafe route.
+
+= Details =
+
+Required upgrades:
+  * Explorer Command Software
+  * 
+
+Recommended upgrades:
+  * 
+  * 
+
+Other notes:
+  * 
+  * 
