@@ -228,9 +228,13 @@ See: [Feature_Ship_Compendium Feature: Ship Compendium]
 
 ----
 
+=== Station Agent ===
+
 Station Agents help freighters support your factories.
 
 See: [Feature_Station_Agent Station Agent]
+
+----
 
 === Stock Exchange ===
 
