@@ -2,20 +2,23 @@
 
 = Explorer Command Software =
 
-_"xxxx"_
+_"The explorer software was designed by Teladi deep space researchers to enable remote entry and exploration of potentially hostile sectors without risking a pilot's life. Manned research vessels usually follow after the sector has proved to be safe."_
 
-The Deploy Satellite Command employs the fly safe principle. However, if there are no safe routes to unexplored, the explorer will take an unsafe route.
+*Explore Universe*
+Commands the ship to survey the current sector to map all stations, asteroids and gates. Once completed, the ship will attempt to map the next closest unknown sector via the safest path.
+
+*Deploy Satellite Network*
+The ship will place a configurable array of satellites within known sectors. When the definable number of stored satellites are used up, it will purchase fresh satellites and recommence placement.
+
+Ships following these commands employs aim to follow safe routes where possible (e.g. when explorers move to sectors bordering un-mapped sectors). However, if there are no safe routes, they will take an unsafe route.
+
 
 = Details =
 
 Required upgrades:
   * Explorer Command Software
-  * 
 
 Recommended upgrades:
-  * 
-  * 
-
-Other notes:
-  * 
-  * 
+  * Triplex Scanner
+  * Maximum engine upgrades
+  * Mineral Scanner (enabling re-tasking to asteroid scanning)
