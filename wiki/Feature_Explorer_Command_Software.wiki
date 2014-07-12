@@ -1,6 +1,6 @@
 #summary Explorer Command Software.
 
-= Explorer Command Software =
+= Adds automatic exploration to your toolbox  =
 
 _"The explorer software was designed by Teladi deep space researchers to enable remote entry and exploration of potentially hostile sectors without risking a pilot's life. Manned research vessels usually follow after the sector has proved to be safe."_
 
