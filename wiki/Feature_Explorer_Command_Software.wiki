@@ -20,7 +20,7 @@ When you absolutely, positively need to know every roids' minerals in a sector.
 
 Does what it says on the tin.
 
-Ships following these commands employs aim to follow safe routes where possible (e.g. when explorers move to sectors bordering un-mapped sectors). However, if there are no safe routes, they will take an unsafe route.
+Ships following these commands employs aim to follow safe routes where possible (e.g. when explorers move to sectors bordering un-mapped sectors). Note a safe route requires you to *know* the actual route.  However, if there are no safe routes, they will take an unsafe route.
 
 
 = Details =
