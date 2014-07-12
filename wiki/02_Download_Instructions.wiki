@@ -3,7 +3,7 @@
 ----
 Download the installer here:
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.1.zip Litcube's Universe V1.2.1]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.0.zip Litcube's Universe V1.2.0]
 
 ----
 
@@ -18,7 +18,7 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 
 Patch:
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.0.exe Patch: Litcube's Universe V1.2.0]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.1.exe Patch: Litcube's Universe V1.2.1]
 
 [Change_Log Change log]
 
