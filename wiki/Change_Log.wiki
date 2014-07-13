@@ -12,7 +12,7 @@
 
 ----
 = Version 1.2.2 =
-=== Not Yet Released ===
+=== July 13, 2014 ===
   * _*This patch does not require an import/export*_
   * _*Patch contains all previous changes from 1.2.1 and up*_
   * _*This patch requires you to first install the GUI Installer from the [02_Download_Instructions Download Page]*_<br><br>
