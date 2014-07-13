@@ -26,6 +26,14 @@ Patch:
 
 ----
 
+GUI Installer:
+
+This is an optional package that changes your GUI, if you'd like to try a different one.
+
+[http://litcube.xtimelines.net/download.php?File=LUGUIV1.0.0.exe GUI Installer V1.0.0]
+
+----
+
 = Installation Instructions =
 
 Read the shit when running the installer.  It's there for your protection.
