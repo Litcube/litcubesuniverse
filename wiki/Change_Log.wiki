@@ -14,7 +14,7 @@
 = Version 1.2.2 =
 === Not Yet Released ===
   * _*This patch does not require an import/export*_
-  * _Patch contains all previous changes from 1.2.1 and up_
+  * _*Patch contains all previous changes from 1.2.1 and up*_
   * _*This patch requires you to first install the GUI Installer from the [02_Download_Instructions Download Page]*_<br><br>
   * (4) Fixed: imported Phanon Corp resets when it's not supposed to
   * (3) Fixed: MLCC ships no longer load energy in place of missiles when restocking
