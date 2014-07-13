@@ -23,7 +23,9 @@ Patch:
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.0.exe Patch: Litcube's Universe V1.2.0]
 
 [Change_Log Change log]
+----
 
+= GUI Installer = 
 ----
 
 GUI Installer:
