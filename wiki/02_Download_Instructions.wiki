@@ -1,34 +1,27 @@
 = Download =
-
 ----
-Download the installer here:
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.0.zip Litcube's Universe V1.2.0]
 
 ----
-
-
 = Patch = 
 ----
+
 Read the [Change_Log Changelog] before you patch.  If you run into problems and didn't read it, bunnies will die.  And I can't help that.
 
 If you don't use the installer, and do a manual copy paste, your game will be broken.
 
 ----
 
-Patch:
-
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.1.exe Patch: Litcube's Universe V1.2.1]
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.0.exe Patch: Litcube's Universe V1.2.0]
 
 [Change_Log Change log]
-----
 
+----
 = GUI Installer = 
 ----
-
-GUI Installer:
 
 This is an optional package that changes your GUI, if you'd like to try a different one.
 
