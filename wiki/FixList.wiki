@@ -2,9 +2,11 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
-Trade Product Search giving no buy/sell options ([http://forum.egosoft.com/viewtopic.php?p=4407643#4407643 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4407699#4407699 Second Report])
+Reaper reporting incorrect number of wares collected ([http://forum.egosoft.com/viewtopic.php?p=4408148#4408148 OP] | [https://dl.dropboxusercontent.com/u/18285480/X05.sav Save] | [http://imgur.com/a/mCXCo#0 Screenshots])
 
 == Rejected ==
+
+Trade Product Search giving no buy/sell options ([http://forum.egosoft.com/viewtopic.php?p=4407643#4407643 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4407699#4407699 Second Report] | [http://forum.egosoft.com/viewtopic.php?p=4408026#4408026 Resolution])
 
 Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
 
