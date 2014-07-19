@@ -6,6 +6,10 @@ Reaper reporting incorrect number of wares collected ([http://forum.egosoft.com/
 
 Encyclopedia doesn't show known shipyard's ships unless you actually look at it ([http://forum.egosoft.com/viewtopic.php?p=4408741#4408741 OP] | [http://www.mediafire.com/download/xydqna947du1kcc/ Save])
 
+Fuel quickshuttle not working ([http://forum.egosoft.com/viewtopic.php?p=4408834#4408834 OP] | [https://dl.dropboxusercontent.com/u/18285480/X01.sav Save] | [http://imgur.com/a/TMpn1 Screenshots])
+
+Fuel quickshuttle buying ecells rather than taking from homebase when initial load insufficient ([http://forum.egosoft.com/viewtopic.php?p=4408834#4408834 OP] | [https://dl.dropboxusercontent.com/u/18285480/X02.sav Save] | [http://imgur.com/2ZJkYi8 Screenshot])
+
 == Rejected ==
 
 Trade Product Search giving no buy/sell options ([http://forum.egosoft.com/viewtopic.php?p=4407643#4407643 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4407699#4407699 Second Report] | [http://forum.egosoft.com/viewtopic.php?p=4408026#4408026 Resolution])
