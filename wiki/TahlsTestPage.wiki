@@ -6,29 +6,30 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
 
 == Download and Requirement Check == 
 
-     # Download the base mod, any patches, and any extra patching requirements from the [https://code.google.com/p/litcubesuniverse/wiki/02_Download_Instructions download page].
      # Check the [https://code.google.com/p/litcubesuniverse/wiki/Change_Log change log] for any additional requirements for the patch you downloaded.
        * Requirements are listed in bold at the top of each respective patch's notes.
        * Be sure to complete the requirements for each patch between the base mod and the newest patch you downloaded. For example, if the base mod you downloaded is of version 1.2.0 and the patch is version 1.2.3, you need to complete any requirements listed for patches 1.2.1, 1.2.2, and 1.2.3. The only exception to this rule is that if you will be starting a new game, you need not perform an Export/Import.
+     # Download the base mod, any patches, and any extra patching requirements from the [https://code.google.com/p/litcubesuniverse/wiki/02_Download_Instructions download page].
 
 == Prepare Your X3AP install for LU ==
 
      # Ensure you have a clean install of X3AP. A clean install is one that:
-       * Is updated to the latest version of X3AP
-       * Has never had any mod/script installed to it or any mod tool associated with it. This is key. Mod tools like plugin manager will break your install and you can never be completely sure that previously installed mods/scripts have had every file associated with them removed or reverted to the vanilla version. When in doubt, delete your entire installation folder and reinstall from scratch.
+       * Is updated to the latest version of X3AP.
+       * Has never had any mod/script installed to it or any mod tool associated with it. _This is key._ Mod tools like plugin manager will break your install and you can never be completely sure that previously installed mods/scripts have had every file associated with them removed or reverted to the vanilla version. When in doubt, delete your entire installation folder and reinstall from scratch.
      # Create an install of X3AP separate from the one downloaded from steam.
-       # Find the folder your game is installed in. For a fresh X3AP install, this is locaed within your steam folder in 'Steam\!SteamApps\common\x3 terran conflict'
+       # Find the folder your game is installed in. For a fresh X3AP install, this is locaed within your steam folder in 'Steam\!SteamApps\common\x3 terran conflict'.
        # Copy the 'x3 terran conflict' folder to another location. In my install I used 'E:\X3AP Installs\LU', but any location not associated with steam will do.
        # Download the !NoSteam executable from the [http://www.egosoft.com/download/x3ap/bonus_en.php Egosoft website] and extract it to your new 'x3 terran conflict' folder.
        # Update any shortcuts you use to point to the !NoSteam exe.
 
 == Installation == 
 
-     # Run the base mod installer. Be sure to read all text the install displays. It really is important info, we promise!
+     # Run the base mod installer. Be sure to read all text the installer displays. It really is important info, we promise!
        * When the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section. Do NOT select the addon folder!
-       * In my case listed in the last section, I pointed the installer to 'E:\X3AP Installs\LU\x3 terran conflict'
+       * In my case listed in the last section, I pointed the installer to 'E:\X3AP Installs\LU\x3 terran conflict'.
      # Run any additional installers you read were necessary when you did the requirements check in the first section of this guide (you did do a requirements check, right?).
        * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
      # Run the installer for the latest patch.
        * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
-     # Run the game using the !NoSteam exe you installed earlier. 
+     # Run the game using the !NoSteam exe you installed earlier.
+     # Prepare for the onslaught of the OCV! 
