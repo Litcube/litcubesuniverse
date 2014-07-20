@@ -6,10 +6,10 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
 
 == Download and Requirement Check == 
 
+     # Download the base mod, any patches, and any extra patching requirements from the [https://code.google.com/p/litcubesuniverse/wiki/02_Download_Instructions download page].
      # Check the [https://code.google.com/p/litcubesuniverse/wiki/Change_Log change log] for any additional requirements for the patch you downloaded.
        * Requirements are listed in bold at the top of each respective patch's notes.
        * Be sure to complete the requirements for each patch between the base mod and the newest patch you downloaded. For example, if the base mod you downloaded is version 1.2.0 and the patch is version 1.2.3, you need to complete any requirements listed for patches 1.2.1, 1.2.2, and 1.2.3. The only exception to this rule is that if you will be starting a new game, you need not perform an Export/Import.
-     # Download the base mod, any patches, and any extra patching requirements from the [https://code.google.com/p/litcubesuniverse/wiki/02_Download_Instructions download page].
 
 == Prepare Your X3AP install for LU ==
 
