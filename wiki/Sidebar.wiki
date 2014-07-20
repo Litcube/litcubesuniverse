@@ -2,6 +2,7 @@
   * [Contact_Me Contact me]
   * [Acknowledgements]
   * [02_Download_Instructions Download]
+  * [Installation]
   * [03_FAQ FAQ (Q&A)]
   * [04_Features Major Features]
     * [Feature_Balance Balance]
