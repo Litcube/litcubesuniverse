@@ -17,13 +17,3 @@ MLCC ships not responding to commands [http://forum.egosoft.com/viewtopic.php?p=
 == Rejected ==
 
 Trade Product Search giving no buy/sell options ([http://forum.egosoft.com/viewtopic.php?p=4407643#4407643 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4407699#4407699 Second Report] | [http://forum.egosoft.com/viewtopic.php?p=4408026#4408026 Resolution])
-
-Provide a non-exe download ([http://forum.egosoft.com/viewtopic.php?p=4393062#4393062 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393080#4393080 Response])
-
-Autoclaim all ships in sector/nearest ship function ([http://forum.egosoft.com/viewtopic.php?p=4392769#4392769 OP] | [http://forum.egosoft.com/viewtopic.php?p=4392783#4392783 Response])
-
-Incorporate Marine Repairs ([http://forum.egosoft.com/viewtopic.php?p=4393180#4393180 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393195#4393195 Response])
-
-Increase weapon rate of fire ([http://forum.egosoft.com/viewtopic.php?p=4392501#4392501 OP] | [http://forum.egosoft.com/viewtopic.php?p=4393208#4393208 Response])
-
-Integrate Larger Gates Mod ([http://forum.egosoft.com/viewtopic.php?p=4398908#4398908 OP] | [http://forum.egosoft.com/viewtopic.php?t=300329&postdays=0&postorder=asc&start=0 Mod Thread])
