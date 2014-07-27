@@ -12,6 +12,8 @@ Fuel quickshuttle buying ecells rather than taking from homebase when initial lo
 
 MLCC fighters freezing mid battle ([http://forum.egosoft.com/viewtopic.php?p=4410070#4410070 OP] | [http://www.mediafire.com/download/63fmi488f46f45o/X10.sav Save])
 
+MLCC ships not responding to commands [http://forum.egosoft.com/viewtopic.php?p=4411546#4411546 OP] | [http://forum.egosoft.com/viewtopic.php?p=4411731#4411731 Add. Info] | [https://mega.co.nz/#!2og3TbqA!otHmSQfz83U_gKR84zpgiNGc3l46CMMVZpiSOA_ObPo Save] | [https://mega.co.nz/#!vopmHJZQ!mWeyQJ6SYpNNfQ5c_pesDstbOk98C6o0uMOZghICS8I  Video])
+
 == Rejected ==
 
 Trade Product Search giving no buy/sell options ([http://forum.egosoft.com/viewtopic.php?p=4407643#4407643 OP] | [https://www.mediafire.com/?jluua06aaszuadr Save] | [http://forum.egosoft.com/viewtopic.php?p=4407699#4407699 Second Report] | [http://forum.egosoft.com/viewtopic.php?p=4408026#4408026 Resolution])
