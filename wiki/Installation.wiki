@@ -34,3 +34,10 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
        * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
      # Run the game using the !NoSteam exe you installed earlier.
      # Prepare for the onslaught of the OCV! 
+
+== Sure Signs Your Install is Fucked ==
+
+Due to the number of changes LU makes to the base game, deviating from the instructions listed above will often result in a broken install. Signs your install is broken are:
+     # There are .pck files in your ...\addon\scripts directory
+     # Your game lags like hell
+If you have issues with your new LU installation and notice any of the above, please delete your entire X3AP install folder, re-download X3AP from steam, and carefully follow the install instructions above again before making a bug report on the forum.
