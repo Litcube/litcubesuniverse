@@ -15,9 +15,11 @@
 = Version 1.2.4 =
 === Not Yet Released ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br><br>
+  * (4) Fixed: MLCC fighters stopping when no enemy within carrier's set range
   * (2) Fixed: Reaper reporting incorrect number of wares collected
   * (2) Fixed: Encyclopedia showing readtext0-0 when item with no info was selected
   * (-) Changed: Fuel Quickshuttle (and all supply commands) now return home to load if wares available
+
 ----
 
 
