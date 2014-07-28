@@ -15,8 +15,17 @@
 = Version 1.2.4 =
 === Not Yet Released ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br><br>
-  * (2) Reaper reporting incorrect number of wares collected
+  * (2) Fixed: Reaper reporting incorrect number of wares collected
+  * (2) Fixed: Encyclopedia showing readtext0-0 when item with no info was selected
 ----
+
+
+
+
+
+
+
+
 = Version 1.2.3 =
 === July 14, 2014 ===
   * _*This patch does not require an import/export*_
