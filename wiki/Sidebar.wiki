@@ -23,6 +23,7 @@
     * [Feature_Hotkeys Hotkeys]
     * [Feature_Jumpgate_Quantifier Jumpgate Quantifier]
     * [Feature_Marine_Combat_Training Marine Combat Training]
+    * [Feature_Missile_Boat_Missile_Defence Missile Boat Missile Defence]
     * [Feature_MLCC Military Logistics & Command Software]
     * [Feature_New_Models Models]
     * [Feature_Music Music]
