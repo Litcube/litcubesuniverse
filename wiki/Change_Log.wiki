@@ -14,7 +14,7 @@
 ----
 = Version 1.2.4 =
 === Not Yet Released ===
-  * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br><br>
+  * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
   * (2) Reaper reporting incorrect number of wares collected
 ----
 = Version 1.2.3 =
