@@ -1,0 +1,7 @@
+#summary Missile boats are very effective at protecting ships from missiles
+
+= Missile Boat Missile Defence =
+
+When missile boats set a turret to _Missiles Only_, they will monitor all ships (of the same race) within the mosquito missile's range, which is about 20 km.
+
+If any missiles are incoming, the missile boat ship will fire a mosquito at the incoming missile.  Mosquitos are no ordinary missiles; they're lightning quick, and carry a very generous proximity fuse  Any missile that comes within a few hundred meters of a mosquito is destroyed.
