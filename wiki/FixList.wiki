@@ -2,8 +2,6 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
-Reaper reporting incorrect number of wares collected ([http://forum.egosoft.com/viewtopic.php?p=4408148#4408148 OP] | [https://dl.dropboxusercontent.com/u/18285480/X05.sav Save] | [http://imgur.com/a/mCXCo#0 Screenshots])
-
 Encyclopedia doesn't show known shipyard's ships unless you actually look at it ([http://forum.egosoft.com/viewtopic.php?p=4408741#4408741 OP] | [http://www.mediafire.com/download/xydqna947du1kcc/ Save])
 
 Fuel quickshuttle not working ([http://forum.egosoft.com/viewtopic.php?p=4408834#4408834 OP] | [https://dl.dropboxusercontent.com/u/18285480/X01.sav Save] | [http://imgur.com/a/TMpn1 Screenshots])
