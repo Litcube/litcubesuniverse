@@ -148,6 +148,14 @@ See: [Feature_MLCC Feature: Military Logistics & Command Software]
 
 ----
 
+=== Missile Boat Missile Defence ====
+
+Missile boats are very effective at protecting ships from missiles
+
+See: [Feature_Missile_Boat_Missile_Defence Feature: Missile Boat Missile Defence]
+
+----
+
 == Models ==
 
 I put this first on the features page, not for boasting purposes, but so you can see it and read it.  I can't take any credit for the models themselves, aside from scene fixes and racial turrets.  But you should read the feature page anyway.
