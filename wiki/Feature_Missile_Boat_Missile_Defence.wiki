@@ -8,3 +8,8 @@ If any missiles are incoming, the missile boat ship will fire a mosquito at the 
 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/XZOG_Kf-At8" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<wiki:video url="http://www.youtube.com/watch?v=XZOG_Kf-At8"
