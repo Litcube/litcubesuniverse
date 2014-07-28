@@ -11,6 +11,9 @@ Read the [Change_Log Changelog] before you patch.  If you run into problems and 
 
 If you don't use the installer, and do a manual copy paste, your game will be broken.
 
+
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.4.exe Patch: Litcube's Universe V1.2.4]
+
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.3.exe Patch: Litcube's Universe V1.2.3]
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.0.exe Patch: Litcube's Universe V1.2.0]
