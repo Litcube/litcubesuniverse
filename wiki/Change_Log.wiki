@@ -22,7 +22,7 @@
   * (-) Changed: Fuel Quickshuttle (and all supply commands) now return home to load if wares available
   * (-) Upgraded: Implemented [Feature_Missile_Boat_Missile_Defence Missile Boat Missile Defence]
   * (-) Upgraded: Added Terran ice mines for sale
-
+  * (-) Upgraded: New weapon lighting effects
 ----
 
 
