@@ -13,6 +13,8 @@ http://www.mediafire.com/convkey/7a76/ab1s7hqbhlo6fz1fg.jpg
 
 Keep in mind:
 
+FLC doesn't actually go above a visible amount until level 19 @ 15%.
+
 28		Legend	(500 000)<br>
 29		Hero	(700 000)<br>
 30		X-TREME	(1 000 000)<br>
