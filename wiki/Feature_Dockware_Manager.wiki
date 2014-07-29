@@ -2,7 +2,7 @@
 
 = Dockware Manager =
 
-Dockware Manager helps you organize the wares at your dock, and lets your various types of traders know what you want to keep, what you need to sell, and what to stock at the dock.  It also has features for easily single-click equipping your (hundreds  of) ships through templates, and purchasing/equipping equipment upgrades and tuning upgrades.
+Dockware Manager helps you organize the wares at your dock, and lets your various types of traders know what you want to keep, what you need to sell, and what to stock at the dock.  It also has features for easily single-click equipping your (hundreds)of ships through templates, and purchasing/equipping equipment upgrades and tuning upgrades.
 
 There's a number of different traders you'll come to employ.  The dock agent works with two of them; the Dock Agent and Freighter.  When you stock wares in your dock, as you would vanilla, the vanilla system automatically adds a ware entry to your dock, as you'll see in the _Info_ menu of the dock itself.  Even when you remove these wares, the entry still exists, even if you want it to go away.
 
@@ -14,11 +14,11 @@ The Dockware Manager allows the management of this system.  Through the three pa
 
 http://www.mediafire.com/convkey/7e5f/5oo205yvo35csz9fg.jpg
 
-The _capacities_ page's main function is to enable you to set the amount of ware you'd like to keep at your dock.  From here, you can also add wares that you're not yet tracking, and also add groups of wares that you don't have in your hold yet.
+The _capacities_ page's main function is to enable you to set the amount of wares you'd like to keep at your dock.  From here, you can also add wares that you're not yet tracking, and also add groups of wares that you don't have in your hold yet.
 
 A fresh dock has no wares to track.  If you load wares from a docked ship to the dock, and then open Dockware Manager, you'll see that ware as _unassigned_.  If you select it, it will be added to the Dockware Manager in a predefined category such as weapons, shields, missile, or ship production components (components required by the HQ to produce ships).  If you click on an added ware, it will be removed from the dock (added to _unassigned_).  An assigned ware shows the current amount, capacity of the ware (to be followed by your trade ships), the percentage (stock over capacity), and the source of the ware, if set.
 
-Highlighting an added ware and using arrow keys left and right, you're able to set the capacity of the ware.  This capacity is the amount to which your Dock Agent pilots or Freighter pilots will adhere when stocking the dock.  Any amount *over* this capacity will be sold by your dock agent.  Your Freighter will also not ferry any more than your capacity from the wares sources.  More on this later.
+Highlighting an added ware and using arrow keys left and right, you're able to set the capacity of the ware.  This capacity is the amount to which your Dock Agent pilots or Freighter pilots will adhere to when stocking the dock.  Any amount *over* this capacity will be sold by your dock agent.  Your Freighters will also not ferry any more than your capacity from the wares sources.  More on this later.
 
 If you want to set the capacity of an entire group of wares, first select the desired _ware group_.  Highlight the _set group capacity_ option.  Now use the arrows or keypad to set the desired capacity for the group (like the vanilla trade menu).  Hit enter, and the entire group of wares is added to your dockware manager at the chosen capacity.
 
@@ -26,7 +26,7 @@ If you want to set the capacity of an entire group of wares, first select the de
 
 http://www.mediafire.com/convkey/2f37/3ift757ud2477ihfg.jpg
 
-The _sources_ page allows you to set optional sources for your added wares.  You can have Freighters ferry wares from a source to your dock.  In order for your Freighter to know from where to ferry these wares, highlight the ware, and select its source.  In the above image, you'll see that Meatsteak Cahoonas has a source; it's set to Saturn CH 20 Meatsteak.  As that Saturn Complex hub pumps out meatsteak cahoonas, your freighter will bring them to the dock.
+The _sources_ page allows you to set optional sources for your added wares.  You can have Freighters ferry wares from a source to your dock.  In order for your Freighter to know from where to ferry these wares, highlight the ware, and select its source.  In the above image, you'll see that Meatsteak Cahoonas has a source; it's set to Saturn CH 20 Meatsteak.  As that Saturn Complex hub pumps out Meatsteak Cahoonas, your freighter will bring them to the dock.
 
 You can also set a source to _buy_.  This will tell your Dock Agent that these wares should be purchased.  The Dock Agent will respect the prices in your dock's _adjust station parameters_ menu.  Make sure your dock has the required funds for these purchases.
 
@@ -34,7 +34,7 @@ You can also set a source to _buy_.  This will tell your Dock Agent that these w
 
 http://www.mediafire.com/convkey/3d97/fgdrfyrgrm0185tfg.jpg
 
-The _thresholds_ page allows you to set the minimum amount in stock at a source before the Freighter will bother going to grab stock.  In the image above, you'll see that High Energy Plasma Throwers are set to 10%.  The Freighter will only go for a freight run when the source station (which happens to be another Saturn Complex Hub 20x) is at 10% capacity or higher.  This function was introduced to ensure slow producing stations don't make for unnecessary trade runs by your Freighters.
+The _thresholds_ page allows you to set the minimum amount in stock at a source before the Freighter will bother going to grab stock.  In the image above, you'll see that High Energy Plasma Throwers are set to 10%.  The Freighter will only go for more when the source station (which happens to be another Saturn Complex Hub 20x) is at 10% capacity or higher.  This function was introduced to ensure slow producing stations don't make for unnecessary trade runs by your Freighters.
 
 ----
 
