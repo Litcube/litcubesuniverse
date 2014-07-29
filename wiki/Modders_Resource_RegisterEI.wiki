@@ -12,4 +12,14 @@ setup.EI.Template<br>
 Z.EmpireCopy.Template.Export<br>
 Z.EmpireCopy.Template.Import<br><br>
 
-Copy the files.  _Template_ in these files should be renamed to 
+Copy the files.  _Template_ in these files should be renamed to a name that will be consistent with your mods name.  For example, we'll name it _JouXMissions_.  Your files will now be named:
+
+setup.EI.JouXMissions<br>
+Z.EmpireCopy.JouXMissions.Export<br>
+Z.EmpireCopy.JouXMissions.Import<br><br>
+
+Now open up the setup script.  As it says in the template, change the three arguments of the script.
+
+*Name:* The name we picked.  In this example, it's JouXMissions.
+*FileNumber:*  A filename for the export.  LU uses 8382.  Use something higher than 8390.
+*PageNumber:*  Use an unused page number.  Somewhere between 8005 and 80100 should do.
