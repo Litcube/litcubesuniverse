@@ -15,7 +15,7 @@
 === Not Yet Released ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
   * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
-  * (-) Upgraded: Modders have a way of registering stuff in the EI [Modders_Resource_RegisterEI]
+  * (-) Upgraded: Modders have a way of registering stuff in the EI [Modders_Resource_RegisterEI Modders Resource: Register to EI]
 ----
 ----
 = Version 1.2.4 =
