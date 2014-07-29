@@ -1,0 +1,15 @@
+#summary Register with the Export Import Engine
+
+= Registering your mod to use the LU Export Import functionality =
+
+*_STRONGLY_* recommend using X-Studio with these instructions.
+
+If your mod has globals or other data that needs to be exported or imported using LU's system, read this thing.
+
+There's three scripts you'll have to copy:
+
+setup.EI.Template
+Z.EmpireCopy.Template.Export
+Z.EmpireCopy.Template.Import
+
+Copy the files.  _Template_ in these files should be renamed to 
