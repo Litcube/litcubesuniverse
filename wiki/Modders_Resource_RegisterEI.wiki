@@ -25,3 +25,35 @@ Now open up the setup script.  As it says in the template, change the three argu
 *Name:* The name we picked.  In this example, it's JouXMissions.<br>
 *FileNumber:*  A filename for the export.  LU uses 8382.  Use something higher than 8390.<br>
 *PageNumber:*  Use an unused page number.  Somewhere between 8005 and 80100 should do.<br>
+
+Now, when a player loads a game, that setup script will register your two renamed scripts with the LU EI engine.  Whenever a player export his game or imports his game those two scripts will be run.
+
+== Export Script ==
+
+Open up the Export script you made.  You can edit everything between those two _=======_s.
+
+This script writes.  It writes to the file and page you specified in the setup script.
+
+There's two examples in there.  The first is a simple single variable export.  Anything before a gosub Line: call will write the $Text variable.  $Text can be of any data type, but objects (ships, stations, asteroids, sectors) will not work right.  In this case, we're writing the string 'Joubarbe Likes Cats' to the file.
+
+The second example is an array write.  That script is a motherfucker of an acheivement.  That one line will write any array in any structure with any number of dimensions.  One line.  Remember again, though, that objects can't be written right.
+
+If you need to write an object, get creative.  For a sector, don't write the sector object, write its X and Y coordinates, and then read them back in when you get to the import script.
+
+Refer to the LUV export script for reference.
+
+== Import Script ==
+
+Open up the Import script you made.  As with the export, edit only between those two double lines.
+
+Import obviously needs to be read in the same order as it was exported. 
+
+Here, there's two examples that will read what was written in the example exports.
+
+The first will read the next line into $Text.  This $Text in the example happens to be 'Joubarbe Likes cats'.  When you make a gosub Line: call, the line is read into $Text.
+
+The second will read our exported array into the variable $Return.
+
+
+
+
