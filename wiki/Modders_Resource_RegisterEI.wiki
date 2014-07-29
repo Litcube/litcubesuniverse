@@ -9,22 +9,22 @@ If your mod has globals or other data that needs to be exported or imported usin
 There's three scripts you'll have to copy:
 
 setup.EI.Template<br>
-Z.EmpireCopy.Template.Export<br>
-Z.EmpireCopy.Template.Import<br><br>
+Z.!EmpireCopy.Template.Export<br>
+Z.!EmpireCopy.Template.Import<br><br>
 
 Copy the files.  _Template_ in these files should be renamed to a name that will be consistent with your mods name.  For example, we'll name it _JouXMissions_.  Your files will now be named:
 
 setup.EI.JouXMissions<br>
-Z.EmpireCopy.JouXMissions.Export<br>
-Z.EmpireCopy.JouXMissions.Import<br><br>
+Z.!EmpireCopy.JouXMissions.Export<br>
+Z.!EmpireCopy.JouXMissions.Import<br><br>
 
 == Setup Script ==
 
 Now open up the setup script.  As it says in the template, change the three arguments of the script.
 
 *Name:* The name we picked.  In this example, it's JouXMissions.<br>
-*FileNumber:*  A filename for the export.  LU uses 8382.  Use something higher than 8390.<br>
-*PageNumber:*  Use an unused page number.  Somewhere between 8005 and 80100 should do.<br>
+*!FileNumber:*  A filename for the export.  LU uses 8382.  Use something higher than 8390.<br>
+*!PageNumber:*  Use an unused page number.  Somewhere between 8005 and 80100 should do.<br>
 
 Now, when a player loads a game, that setup script will register your two renamed scripts with the LU EI engine.  Whenever a player export his game or imports his game those two scripts will be run.
 
@@ -53,7 +53,5 @@ Here, there's two examples that will read what was written in the example export
 The first will read the next line into $Text.  This $Text in the example happens to be 'Joubarbe Likes cats'.  When you make a gosub Line: call, the line is read into $Text.
 
 The second will read our exported array into the variable $Return.
-
-
 
 
