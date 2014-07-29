@@ -8,8 +8,8 @@ If your mod has globals or other data that needs to be exported or imported usin
 
 There's three scripts you'll have to copy:
 
-setup.EI.Template
-Z.EmpireCopy.Template.Export
-Z.EmpireCopy.Template.Import
+setup.EI.Template<br>
+Z.EmpireCopy.Template.Export<br>
+Z.EmpireCopy.Template.Import<br><br>
 
 Copy the files.  _Template_ in these files should be renamed to 
