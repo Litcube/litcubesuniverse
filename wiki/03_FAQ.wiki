@@ -8,7 +8,7 @@
 ----
 === Known compatibility issues ===
  
-  Plugin Manager not compatible.<br>
+  Plugin Manager is not compatible.<br>
   Lucike's script library overwrites a few key LU references.<br>
 
 === My game crashes when I eject ===
@@ -17,7 +17,7 @@
 
 === Is XYZ mod compatible with LU? ===
 
-  I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there.(I mean, really, how the fuck am I supposed to know?  Install it, play it for a time, and report back to you?)"
+  I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there. (I mean, really, how the fuck am I supposed to know? Install it, play it for a time, and report back to you?)
 
 === Can you make XYZ feature available as a standalone? ===
 
@@ -37,7 +37,7 @@
 
   [http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf Tahlmorra's LU Rainmeter Guide]
 
-Also, see: [Feature_Dashboards]. 
+  Also, see: [Feature_Dashboards]. 
 
 === Where can I find a non-exe download? ===
  
@@ -71,7 +71,7 @@ Also, see: [Feature_Dashboards].
 
 === How does LU compare to the vanilla game? ===
 
-  Compared to vanilla, LU has improved [04_Features a lot of thing] but has eliminated the plots. There also is no kha'ak, aldrin sectors, nor unfocussed jump drive.
+  Compared to vanilla, LU has improved [04_Features a lot of things] but has eliminated the plots. There also is no kha'ak, aldrin sectors, or unfocused jump drive.
 
   Enemies are tougher, but can still be defeated through skillful flying. It is reasonably well-[Feature_Balance balanced] that way (so far).
 
@@ -127,7 +127,7 @@ Also, see: [Feature_Dashboards].
 
   The latter.  It's not a huge panic race against time, but there is a slight sense of urgency.  You'll get messages time to time to let you know what's happening in the Universe.
 
-  However, running SETA run over night to have your 1 UT gain you millions probably isn't a good idea.
+  However, running SETA run overnight to have your 1 UT gain you millions probably isn't a good idea.
 
 ----
 == Traders ==
@@ -141,7 +141,7 @@ Also, see: [Feature_Dashboards].
 
   A lot of the script commands have been implemented to reflect this.  I've added script flags of [respect PPP] which basically means, respect the Player Property Present rule when searching for objects or trades.
 
-  If a UT finds an enemy where there is a lucrative trade deal, it will ignore it, but log it with the Complaint Department (Managed by Helen Wayte).  You can view trader complaints in the player menu ([Feature_Hotkeys hotkey] accessible).  It will let you know here the threat is, and why it's ignoring that sweat deal.  Not only UTs will do this, but also the Station Agents, Vend traders, Dock Agents, or any other trader you have for AI.  They all use the same system.
+  If a UT finds an enemy where there is a lucrative trade deal, it will ignore it, but log it with the Complaint Department (Managed by Helen Wayte).  You can view trader complaints in the player menu ([Feature_Hotkeys hotkey] accessible).  It will let you know here the threat is, and why it's ignoring that sweat deal.  Not only UTs will do this, but also Station Agents, Vend traders, Dock Agents, or any other trader you have for AI.  They all use the same system.
 
   For example, if you have no assets in Argon Prime, then none of your traders will search there for deals or treat it as a viable trading opportunity.
 
@@ -179,7 +179,7 @@ Also, see: [Feature_Dashboards].
 
   If "Remember last position" is ON, the explorer will go back to the last place he dropped a sat to search for the closest unplaced sat from wherever he is when he just finished what he's doing (placed a sat, bought sats).  If remember last position is OFF, he will search for closest unplaced sat from wherever he is when he just finished what he's doing (placed a sat, bought sats)
 
-  Whether to turn it ON or OFF depends on circumstances. If I'm trying to concentrate on an area, for example, I need Spectre missiles, and I need that Terran space laid, I'll fly a few to Mars, for example, and then I'd turn it on.  Because if they have to fly to Teladi space (once they run out of sats) to pick up sats, I want them coming back to Mars to keep laying sats.
+  Whether to turn it ON or OFF depends on circumstances. If I'm trying to concentrate on an area, for example, I need Spectre missiles, and I need that Terran space laid, I'll fly a few to Mars and then I'd turn it on.  Because if they have to fly to Teladi space (once they run out of sats) to pick up sats, I want them coming back to Mars to keep laying sats.
 
 ----
 == Early-Game ==
