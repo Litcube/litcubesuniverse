@@ -221,16 +221,22 @@ _See Also: [Feature_Revelation]_
 
   Yeah. You'll notice that the OCV ships can't be found anywhere else in the universe. They're special.  They are significantly tougher than other ships of their class.
 
-=== Regarding Revelation (the OCV): Did you ever fix the thing where the OCV can't spread past Unknown or Xenon sectors? ===
+=== Can the OCV be stopped? ===
 
-  There's only one station that produces the resources required for the OCV to produce ships, and thus spread.  Thats the homeworld of the OCV.
+Yes. Taking all OCV sectors (this does NOT include vanilla Xenon sectors) will stop the OCV.
+
+=== What happens if I take the OCV homeworld? ===
+  
+  There's only one station that produces the resources required for the OCV to produce ships, and thus spread.  That's the homeworld of the OCV.
 
   If the homeworld is destroyed, then a new one will emerge from any of the sectors to OCV has.
-
-  So, yes, you can cut the head off the snake. But it'll still bite ya! Holding that sector would be really difficult.
 
 === Can you "cut off" the OCV supply line by flanking it and taking back sectors away from the front lines, so that supply never reaches new sectors? ===
 
   You'd have incursions from both sides, unless you cut off the supply of resources from the homeworld. That would effectively halt their production beyond that point.
 
   Each sector uses 4 M4 ships to ferry resources from the OCV homeworld sector to the ships home sector station. So all these M4s are flying to the homeworld constantly to pick up resources and bring them back to their sector so they can expand.
+
+===Did you ever fix the thing where the OCV can't spread past Unknown or Xenon sectors?===
+
+  Yes.
