@@ -18,8 +18,10 @@ setup.EI.JouXMissions<br>
 Z.EmpireCopy.JouXMissions.Export<br>
 Z.EmpireCopy.JouXMissions.Import<br><br>
 
+== Setup Script ==
+
 Now open up the setup script.  As it says in the template, change the three arguments of the script.
 
-*Name:* The name we picked.  In this example, it's JouXMissions.
-*FileNumber:*  A filename for the export.  LU uses 8382.  Use something higher than 8390.
-*PageNumber:*  Use an unused page number.  Somewhere between 8005 and 80100 should do.
+*Name:* The name we picked.  In this example, it's JouXMissions.<br>
+*FileNumber:*  A filename for the export.  LU uses 8382.  Use something higher than 8390.<br>
+*PageNumber:*  Use an unused page number.  Somewhere between 8005 and 80100 should do.<br>
