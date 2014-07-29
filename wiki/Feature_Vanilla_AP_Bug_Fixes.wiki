@@ -10,4 +10,4 @@ Several changes have been made to fix certain bugs found in the unmodified versi
 
   * Several scene and model issues have been fixed with ships (misaligned turrets)
 
-  * Mission spawned pirate ships no longer have inactive
+  * Mission spawned pirate ships no longer have inactive turrets.
