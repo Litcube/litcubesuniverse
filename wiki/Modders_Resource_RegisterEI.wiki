@@ -1,6 +1,6 @@
 #summary Register with the Export Import Engine
 
-= Registering your mod to use the LU Export Import functionality =
+= Registering EIs =
 
 *_STRONGLY_* recommend using X-Studio with these instructions.
 
