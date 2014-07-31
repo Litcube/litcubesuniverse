@@ -19,6 +19,7 @@
   * (1) Fixed: Terran's lasertower icon is now a laser tower icon as opposed to an M5 icon
   * (-) Changed: Reduced range of Remote System Control to 4Km
   * (-) Upgraded: Modders have a way of registering stuff in the EI ([Modders_Resource_RegisterEI Modders Resource: Register to EI])
+  * (-) Upgraded: A few more safeguards implemented to keep people from fucking up ships names and export compatibility
 
 
 
