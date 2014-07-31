@@ -1,5 +1,3 @@
 #summary Shit Litcube needs to consider when he gets home.
 
 = Shit Litcube Needs to Consider When He Gets Home =
-
-Invalid XML syntax in ship names breaking import ([http://forum.egosoft.com/viewtopic.php?p=4413144#4413144 Explanation])
