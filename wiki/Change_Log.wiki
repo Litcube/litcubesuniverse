@@ -15,6 +15,7 @@
 === Not Yet Released ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
   * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
+  * (4) Fixed: emergency jump had issues when OOS
   * (3) Fixed: Collect wares command now works in same sector if ship is docked
   * (1) Fixed: Terran's lasertower icon is now a laser tower icon as opposed to an M5 icon
   * (1) Fixed: A few more safeguards implemented to keep people from fucking up ships names and export compatibility
