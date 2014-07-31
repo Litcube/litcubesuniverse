@@ -7,7 +7,7 @@ Read the shit when running the installer.  It's there for your protection.
 ----
 = Patch = 
 
-Read the [Change_Log Changelog] before you patch. Specifically, make sure to follow all instructions listed in bold for each patch between your old version and the version you are installing. For example, if you are upgrading from version 1.2.0 to version 1.2.4, you must follow in instructions listed for patch's 1.2.1, 1.2.2, 1.2.3, and 1.2.4.
+Read the [Change_Log Changelog] before you patch. Specifically, make sure to follow all instructions listed in bold for each patch between your old version and the version you are installing. For example, if you are upgrading from version 1.2.0 to version 1.2.4, you must follow instructions listed for patch's 1.2.1, 1.2.2, 1.2.3, and 1.2.4.
 
 If you run into problems and didn't read it, bunnies will die.  And I can't help that.
 
