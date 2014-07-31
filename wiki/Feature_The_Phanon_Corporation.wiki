@@ -39,7 +39,7 @@ This plugin creates a new enemy faction, The Phanon Corporation, that is far mor
   * 8 consecutive subsidiaries, increasing with buying power each generation (8 "levels", if you will).  The Phanon Corporation will automatically upgrade their corporation subsidiary when a certain level of military power has been acquired by the faction, or when their HQ is destroyed.
   * You will have an impact on their earning potential - kill a TS, and they have to buy a new one, and you decreased their trading income. They're just like you. 
   * They will respond to their stations attacks if they have the military available 
-  * Southern, Western most Unknown sector used in this script as a Phanon Headquarter home.  This is easily changed in the text file Bullwinkle sent 8384-L044.xml. 
+  * The Phanon Headquarter home sector is randomly chosen from a list of 13 Unknown and Pirate sectors. If you want spoilers, possible sectors are listed 8384-L044.xml. If the Phanon HQ is destroyed, a new sector will be chosen for the next iteration's HQ. 
   * This script uses Race 1, so it might be incompatible with those scripts using Race 1. 
   * Race 1 is set to neutral for all races. So shooting them will not effect your notoriety with anyone else.
   * The Phanon have no enemies except for you.
