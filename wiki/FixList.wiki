@@ -2,6 +2,4 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
-Reaper quickshuttle doesn't work in sector it's homebased in
-
 Invalid XML syntax in ship names breaking import ([http://forum.egosoft.com/viewtopic.php?p=4413144#4413144 Explanation])
