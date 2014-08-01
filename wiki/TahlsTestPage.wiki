@@ -1,0 +1,10 @@
+#summary Universal Bailing.
+
+= Universal Bailing =
+
+LU has a universal bailing mechanic similar in concept to !ThisIsHarsh's [http://forum.egosoft.com/viewtopic.php?t=219440 NPC Bailing Addon].
+
+== Bailing ==
+
+
+== Salvagers ==
