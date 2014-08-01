@@ -10,7 +10,7 @@ Bailing has been changes in fundamental ways:
   * Overall bail chance has been decreased.
   * All ships not owned by the player can now bail.
   * All ships can now cause a bail to occur.
-  * Each ship class has its own (slightly random) maximum hull strength before they have a chance to bail (larger ships have a lower threshold than smaller ones).
+  * Each ship class has its own threshold hull strength below which they have a chance to bail (larger ships have a lower threshold than smaller ones).
   * Bail chance is dependent on four factors
     # Ship Class
     # Pilot Moral
