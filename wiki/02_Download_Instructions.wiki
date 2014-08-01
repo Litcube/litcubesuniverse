@@ -1,6 +1,6 @@
 = Download =
 
-Read the shit when running the installer.  It's there for your protection.
+Read and follow the [Installation installation guide] carefully when installing Litcube's Universe. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.0.zip Litcube's Universe V1.2.0]
 <br><br><br>
