@@ -8,6 +8,8 @@ Welcome to Litcube's Universe
 = Index =
 [01_What_is_Litcubes_Universe What is Litcube's Universe?]
 
+[Installation Installation]
+
 [02_Download_Instructions Download]
 
 [03_FAQ Frequently Asked Questions (FAQ)]
