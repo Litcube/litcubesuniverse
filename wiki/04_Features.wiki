@@ -292,6 +292,14 @@ See: [Feature_Trade_Reports Feature: Trade Reports]
 
 ----
 
+=== Universal Bailing ===
+
+NPC Bailing.
+
+See: [Feature_Universal_Bailing Feature: Universal Bailing]
+
+----
+
 === Vanilla AP Bug Fixes ===
 
 Many bugs fixed.
