@@ -2,7 +2,7 @@
 
 = Universal Bailing =
 
-LU has a universal bailing mechanic that completely replaces vanilla bailing.
+LU has a universal bailing mechanic that completely replaces its vanilla equivalent.
 
 == Bailing ==
 
