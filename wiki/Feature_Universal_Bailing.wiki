@@ -1,4 +1,4 @@
-#summary Universal Bailing.
+#summary Universal Bailing
 
 = Universal Bailing =
 
