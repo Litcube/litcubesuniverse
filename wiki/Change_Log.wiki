@@ -12,7 +12,7 @@
 
 ----
 = Version 1.2.5 =
-=== Not Yet Released ===
+=== July 2, 2014 ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
   * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
   * (4) Fixed: emergency jump had issues when OOS
