@@ -13,6 +13,8 @@ If you run into problems and didn't read it, bunnies will die.  And I can't help
 
 If you don't use the installer, and do a manual copy paste, your game will be broken.
 
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.5.exe Patch: Litcube's Universe V1.2.5]
+
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.4.exe Patch: Litcube's Universe V1.2.4]
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.3.exe Patch: Litcube's Universe V1.2.3]
