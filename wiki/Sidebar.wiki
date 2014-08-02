@@ -7,7 +7,7 @@
   * [04_Features Major Features]
     * [Feature_Balance Balance]
     * [Feature_Bounce Bounce]
-    * [Feature_Carrier_Command_Software Command Software Update]
+    * [Feature_Carrier_Command_Software Carrier Command Software Update]
     * [Feature_Dashboards Dashboards]
     * [Feature_Dockware_Manager Dockware Manager]
     * [Feature_LU_Dynamic_Menu_System Dynamic Menu System]
