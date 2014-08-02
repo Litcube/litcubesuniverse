@@ -28,6 +28,7 @@
   * (-) Upgraded: Universal bailing implemented (See: [Feature_Universal_Bailing Universal Bailing])
   * (-) Upgraded: Implemented salvager jobs to clean up
   * (-) Upgraded: All job patrol scripts rewritten; patrols will no longer smile/wave/moon/flash tits as they fly by enemies
+  * (-) Upgraded: Phanon corp subsidiaries can now be fired if their performance is low
 
 
 
