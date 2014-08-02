@@ -9,7 +9,12 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
-
+----
+= Version 1.2.6 =
+=== Not Yet Released ===
+  * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
+  * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
+  * (-) Upgraded: Signal_Targeted now implemented (Jack08's code)
 ----
 = Version 1.2.5 =
 === July 2, 2014 ===
@@ -29,12 +34,6 @@
   * (-) Upgraded: Implemented salvager jobs to clean up
   * (-) Upgraded: All job patrol scripts rewritten; patrols will no longer smile/wave/moon/flash tits as they fly by enemies
   * (-) Upgraded: Phanon corp subsidiaries can now be fired if their performance is low
-
-
-
-
-
-
 ----
 = Version 1.2.4 =
 === July 28, 2014 ===
