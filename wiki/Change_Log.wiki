@@ -27,7 +27,7 @@
   * (-) Upgraded: Modders have a way of registering stuff in the EI ([Modders_Resource_RegisterEI Modders Resource: Register to EI])
   * (-) Upgraded: Universal bailing implemented (See: [Feature_Universal_Bailing Universal Bailing])
   * (-) Upgraded: Implemented salvager jobs to clean up
-  * (-) Upgraded: All job patrol scripts rewritten; patrols will no longer smile/wave/flash tits as they fly by enemies
+  * (-) Upgraded: All job patrol scripts rewritten; patrols will no longer smile/wave/moon/flash tits as they fly by enemies
 
 
 
