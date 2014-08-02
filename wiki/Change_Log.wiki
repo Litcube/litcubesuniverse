@@ -14,7 +14,10 @@
 === Not Yet Released ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
   * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
+  * (-) Changed: Joubarbe's moon fixed (Thyn's Excavation)
+  * (-) Changed: Xenon Sector 472 has it's shattered planet now
   * (-) Upgraded: Signal_Targeted now implemented (Jack08's code)
+
 ----
 = Version 1.2.5 =
 === July 2, 2014 ===
