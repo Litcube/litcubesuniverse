@@ -29,6 +29,7 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
        * When the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section. Do NOT select the addon folder!
        * In my case listed in the last section, I pointed the installer to 'E:\X3AP Installs\LU\x3 terran conflict'.
      # Run the soundtrack installer.
+       * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
      # Run any additional installers you read were necessary when you did the requirements check in the first section of this guide (you did do a requirements check, right?).
        * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
      # Run the installer for the latest patch.
