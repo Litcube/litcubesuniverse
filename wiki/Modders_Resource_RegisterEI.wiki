@@ -30,7 +30,7 @@ Now, when a player loads a game, that setup script will register your two rename
 
 == Export Script ==
 
-Open up the Export script you made.  You can edit everything between those two _=======_s.
+Open up the Export script you made.  You can edit everything between those two "=======" lines.
 
 This script writes.  It writes to the file and page you specified in the setup script.
 
@@ -53,5 +53,3 @@ Here, there's two examples that will read what was written in the example export
 The first will read the next line into $Text.  This $Text in the example happens to be 'Joubarbe Likes cats'.  When you make a gosub Line: call, the line is read into $Text.
 
 The second will read our exported array into the variable $Return.
-
-
