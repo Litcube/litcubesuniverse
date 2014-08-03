@@ -2,7 +2,11 @@
 
 Read and follow the [Installation installation guide] carefully when installing Litcube's Universe. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
 
-The base install comes in two parts, both will wipe certain X3/addon directories clean.  If you already have the soundtrack from previous versions, you don't need to download Litcube's Universe Soundtrack V1.0.0.
+The base install comes in two parts, both will wipe certain X3/addon directories clean.
+
+* Base install wipes addon\loadscr
+* Base install wipes addon\scripts
+* Soundtrack install wipes \soundtrack
 
 A base install requires a clean AP install.
 
