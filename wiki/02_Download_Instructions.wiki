@@ -2,7 +2,7 @@
 
 Read and follow the [Installation installation guide] carefully when installing Litcube's Universe. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
 
-The base install comes in two parts, both will wipe certain X3/addon directories clean.  If you already have the soundtrack, from previous versions, you don't need to download V1.0.0.
+The base install comes in two parts, both will wipe certain X3/addon directories clean.  If you already have the soundtrack from previous versions, you don't need to download Litcube's Universe Soundtrack V1.0.0.
 
 <br><br><br>
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.0.zip Litcube's Universe V1.2.0]
@@ -11,21 +11,17 @@ The base install comes in two parts, both will wipe certain X3/addon directories
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.0.zip Litcube's Universe Soundtrack V1.0.0]
 <br><br><br>
 ----
-= Patch = 
+= Patch =
 
-Read the [Change_Log Changelog] before you patch. Specifically, make sure to follow all instructions listed in bold for each patch between your old version and the version you are installing. For example, if you are upgrading from version 1.2.0 to version 1.2.4, you must follow instructions listed for patch's 1.2.1, 1.2.2, 1.2.3, and 1.2.4.
+There are currently no patches for the current version.  Download the base install above.
+
+Read the [Change_Log Changelog] before you patch. Specifically, make sure to follow all instructions listed in bold for each patch between your old version and the version you are installing. For example, if you are upgrading from version 0.2.0 to version 0.2.4, you must follow instructions listed for patch's 0.2.1, 0.2.2, 0.2.3, and 0.2.4.
 
 If you run into problems and didn't read it, bunnies will die.  And I can't help that.
 
 If you don't use the installer, and do a manual copy paste, your game will be broken.
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.5.exe Patch: Litcube's Universe V1.2.5]
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.4.exe Patch: Litcube's Universe V1.2.4]
-
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.3.exe Patch: Litcube's Universe V1.2.3]
-
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.2.0.exe Patch: Litcube's Universe V1.2.0]
 
 [Change_Log Change log]
 <br><br><br>
