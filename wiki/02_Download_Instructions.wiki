@@ -5,7 +5,7 @@ Read and follow the [Installation installation guide] carefully when installing 
 The base install comes in two parts, both will wipe certain X3/addon directories clean.  If you already have the soundtrack from previous versions, you don't need to download Litcube's Universe Soundtrack V1.0.0.
 
 <br><br><br>
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.0.zip Litcube's Universe V1.2.0]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.0.exe Litcube's Universe V1.3.0]
 <br><br><br>
 
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.0.zip Litcube's Universe Soundtrack V1.0.0]
