@@ -2,7 +2,7 @@
 
 Read and follow the [Installation installation guide] carefully when installing Litcube's Universe. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
 
-The base install comes in two parts, both will wipe certain X3/addon directories clean.
+The base install comes in two parts, both will wipe certain X3/addon directories clean:
 
   * Base install wipes addon\loadscr<br>
   * Base install wipes addon\scripts<br>
