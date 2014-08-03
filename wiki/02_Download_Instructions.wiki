@@ -36,7 +36,7 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 
 = Other Tools =
 
-* GUI Installer
+  * GUI Installer
 
 This is an optional package that changes your GUI, if you'd like to try a different one.
 
