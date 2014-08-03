@@ -1,6 +1,6 @@
 = Download: Base Install =
 
-Read and follow the [Installation installation guide] carefully when installing Litcube's Universe. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
+A base install requires a clean AP install, so read and follow the [Installation installation guide] carefully. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
 
 The base install comes in two parts, both will wipe certain X3/addon directories clean:
 
@@ -8,7 +8,7 @@ The base install comes in two parts, both will wipe certain X3/addon directories
   * Base install wipes addon\scripts<br>
   * Soundtrack install wipes \soundtrack<br>
 
-A base install requires a clean AP install.
+
 
 <br><br><br>
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.0.exe Litcube's Universe V1.3.0]
