@@ -33,16 +33,18 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 </wiki:comment>
 <br><br><br>
 ----
-= GUI Installer = 
 
-This is an optional package that changes your GUI, if you'd like to try a different one.
-
-[http://litcube.xtimelines.net/download.php?File=LUGUIV1.0.0.exe GUI Installer V1.0.0]
-<br><br><br>
 ----
 
 = Other Tools =
 
+* GUI Installer
+
+This is an optional package that changes your GUI, if you'd like to try a different one.
+
+[http://litcube.xtimelines.net/download.php?File=LUGUIV1.0.0.exe GUI Installer V1.0.0]
+
+----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
 
 [http://www.mediafire.com/download/d44av1ee2w6r6lg/LUEditorsV1.0.9.zip LU Editors V1.0.9]
