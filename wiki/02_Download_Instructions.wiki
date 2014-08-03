@@ -4,9 +4,9 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 The base install comes in two parts, both will wipe certain X3/addon directories clean:
 
-  * Base install wipes [X3]\addon\loadscr<br>
-  * Base install wipes [X3]\addon\scripts<br>
-  * Soundtrack install wipes [X3]\soundtrack<br><br>
+  * Base install wipes X3\addon\loadscr<br>
+  * Base install wipes X3\addon\scripts<br>
+  * Soundtrack install wipes X3\soundtrack<br><br>
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.0.exe Litcube's Universe V1.3.0]
 <br><br>
