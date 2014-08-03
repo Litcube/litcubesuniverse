@@ -9,6 +9,12 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+
+= Version 1.3.1 =
+=== Holy Month of Joubarbe 3, 2014 ===
+  * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
+  * _*This patch contains all fixes from the 1.3.0 base mod *_<br><br>
+  * (4) Fixed: Fighters breaking off attacks too early
 ----
 = Version 1.3.0 =
 === Holy Month of Joubarbe 3, 2014 ===
