@@ -11,7 +11,7 @@ The base install comes in two parts, both will wipe certain X3/addon directories
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.0.exe Litcube's Universe V1.3.0]
 <br><br>
 
-[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.0.zip Litcube's Universe Soundtrack V1.0.0] (Coming Soon!!!)
+[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.0.exe Litcube's Universe Soundtrack V1.0.0] (Coming Soon!!!)
 <br><br>
 ----
 = Patch =
