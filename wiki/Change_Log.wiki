@@ -17,6 +17,7 @@
   * (2) Changed: Context menu remote system control software wasn't set to 4Km
   * (-) Changed: Joubarbe's moon fixed (Thyn's Excavation)
   * (-) Changed: Xenon Sector 472 has it's shattered planet now
+  * (-) Changed: Removed salvager name highlighting
   * (-) Upgraded: Signal_Targeted now implemented (Jack08's code)
   * (-) Upgraded: Special routine for capital ships with main guns to minimize ramming
 
