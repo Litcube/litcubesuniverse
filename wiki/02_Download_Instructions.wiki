@@ -2,7 +2,13 @@
 
 Read and follow the [Installation installation guide] carefully when installing Litcube's Universe. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.
 
+The base install comes in two parts, both will wipe certain X3/addon directories clean.  If you already have the soundtrack, from previous versions, you don't need to download V1.0.0.
+
+<br><br><br>
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.2.0.zip Litcube's Universe V1.2.0]
+<br><br><br>
+
+[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.0.zip Litcube's Universe Soundtrack V1.0.0]
 <br><br><br>
 ----
 = Patch = 
