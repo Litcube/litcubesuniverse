@@ -11,9 +11,9 @@
 
 ----
 = Version 1.3.0 =
-=== Joubarbe 3, 2014 ===
+=== Holy Month of Joubarbe 3, 2014 ===
   * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br>
-  * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
+  * _*This patch requires a reinstall of the base mod*_<br><br>
   * (2) Changed: Context menu remote system control software wasn't set to 4Km
   * (-) Changed: Joubarbe's moon fixed (Thyn's Excavation)
   * (-) Changed: Xenon Sector 472 has it's shattered planet now
