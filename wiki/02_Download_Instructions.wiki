@@ -4,9 +4,9 @@ Read and follow the [Installation installation guide] carefully when installing 
 
 The base install comes in two parts, both will wipe certain X3/addon directories clean.
 
-* Base install wipes addon\loadscr
-* Base install wipes addon\scripts
-* Soundtrack install wipes \soundtrack
+* Base install wipes addon\loadscr<br>
+* Base install wipes addon\scripts<br>
+* Soundtrack install wipes \soundtrack<br>
 
 A base install requires a clean AP install.
 
