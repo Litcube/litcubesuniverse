@@ -34,8 +34,6 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 <br><br><br>
 ----
 
-----
-
 = Other Tools =
 
 * GUI Installer
