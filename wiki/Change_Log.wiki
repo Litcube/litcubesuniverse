@@ -12,7 +12,7 @@
 
 = Version 1.3.1 =
 === Holy Month of Joubarbe 3, 2014 ===
-  * _*This patch requires an import/export.  See: [Feature_Export_Import Export/Import]*_<br><br>
+  * _*This patch requires an import/export; exports from V1.2.5 and up are compatible.  See: [Feature_Export_Import Export/Import]*_<br><br>
   * (4) Fixed: Fighters breaking off attacks too early
 ----
 = Version 1.3.0 =
