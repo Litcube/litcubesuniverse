@@ -18,6 +18,7 @@
   * (-) Changed: Joubarbe's moon fixed (Thyn's Excavation)
   * (-) Changed: Xenon Sector 472 has it's shattered planet now
   * (-) Upgraded: Signal_Targeted now implemented (Jack08's code)
+  * (-) Upgraded: Special routine for capital ships with main guns to minimize ramming
 
 ----
 = Version 1.2.5 =
