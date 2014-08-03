@@ -6,11 +6,8 @@ The base install comes in two parts, both will wipe certain X3/addon directories
 
   * Base install wipes addon\loadscr<br>
   * Base install wipes addon\scripts<br>
-  * Soundtrack install wipes \soundtrack<br>
+  * Soundtrack install wipes \soundtrack<br><br>
 
-
-
-<br><br>
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.0.exe Litcube's Universe V1.3.0]
 <br><br>
 
