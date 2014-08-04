@@ -41,7 +41,9 @@ This is an optional package that changes your GUI, if you'd like to try a differ
 ----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
 
-[http://litcube.xtimelines.net/download.php?File=LUEditorsV1.1.0.zip LU Editors V1.1.0 (data is LUV1.3.1)]
+TFiles version: LUV1.3.1
+
+[http://litcube.xtimelines.net/download.php?File=LUEditorsV1.1.0.zip LU Editors V1.1.0]
 
 ----
 
