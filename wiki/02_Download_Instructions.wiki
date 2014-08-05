@@ -16,6 +16,8 @@ The base install comes in two parts, both will wipe certain X3/addon directories
 ----
 = Patch =
 
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.2.exe Litcube's Universe Patch V1.3.2]
+
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.1.exe Litcube's Universe Patch V1.3.1]
 
 Read the [Change_Log Changelog] before you patch. Specifically, make sure to follow all instructions listed in bold for each patch between your old version and the version you are installing. For example, if you are upgrading from version 0.2.0 to version 0.2.4, you must follow instructions listed for patch's 0.2.1, 0.2.2, 0.2.3, and 0.2.4.
