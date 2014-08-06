@@ -1,6 +1,6 @@
 = Signal Targeted =
 
-A long wanted feature by scriptwriters, and a feature that has seen many diffrent implementations in the past. LU includes {{{[SIGNAL_TARGETED]}}} (since version 1.3.0)
+A long wanted feature by scripters, and a feature that has seen many diffrent implementations in the past. LU includes {{{[SIGNAL_TARGETED]}}} (since version 1.3.0)
 
 {{{[SIGNAL_TARGETED]}}} functions the same way as standard game signals and can be regsitered as both a global signal, and a local signal. The signal itself has a 3 seccond internal re-fire delay, meaning if a fleet of 100 ships target a single ship at the same time, only one signal will fire rather then 100.
 
