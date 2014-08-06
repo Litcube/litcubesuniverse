@@ -13,3 +13,7 @@ examples:
 {{{
 global secondary signal map: add signal=[SIGNAL_TARGETED] race=null class=[Ship] script='my.global.signal.targeted' prio=0 name='my.global.signal.targeted'
 }}}
+
+Supported Objects:
+ * Ship (of any kind)
+ * Station (of any kind)
