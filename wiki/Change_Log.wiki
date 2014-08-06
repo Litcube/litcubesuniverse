@@ -15,8 +15,7 @@
 ----
 = Version 1.3.2.1 Hotfix =
 === Holy Month of Joubarbe 7, 2014 ===
-  * _*This patch is a hotfix, and must be applied on top of 1.3.2 - it does not contain changes from any previous patch.
-
+  * _*This patch is a hotfix, and must be applied on top of 1.3.2 - it does not contain changes from any previous patch.*_
   * (5) Fixed: Lockup being caused by in sector combat related to captial ships & M2MD scripts.
 ----
 = Version 1.3.2 =
