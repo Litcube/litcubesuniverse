@@ -46,6 +46,7 @@
     * [Feature_Vanilla_AP_Bug_Fixes Vanilla AP Bug Fixes]
   * Modders Resources
     * [Modders_Resource_RegisterEI Register EI]
+    * [ScriptEngine_Feature_SignalTargeted Signal Targeted]
   * [Reviews]
   * [Change_Log Change Log]
   * [FixList Litcube's List]
