@@ -1,3 +1,12 @@
 #summary Shit Litcube needs to consider when he gets home.
 
 = Shit Litcube Needs to Consider When He Gets Home =
+
+== Bug Reports ==
+Debug spam when moving credits from station to player account via hotkey ([http://imgur.com/dIEOFh3 Screenshot])
+
+== Suggestions ==
+
+Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
+
+Add ATF response to OCV invasions ([http://forum.egosoft.com/viewtopic.php?p=4414707#4414707 Response])
