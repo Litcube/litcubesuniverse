@@ -8,7 +8,7 @@ The signal is fired when {{{!fight.attack.object}}} is called, any script that p
 
 examples:
 {{{
-[THIS]->add secondary signal: signal=[SIGNAL_TARGETED], script='my.signal.attacked', prio=0, name='my.signal.targeted'
+[THIS]->add secondary signal: signal=[SIGNAL_TARGETED], script='my.signal.targeted', prio=0, name='my.signal.targeted'
 }}}
 {{{
 global secondary signal map: add signal=[SIGNAL_TARGETED] race=null class=[Ship] script='my.global.signal.targeted' prio=0 name='my.global.signal.targeted'
