@@ -47,6 +47,7 @@
   * Modders Resources
     * [Modders_Resource_RegisterEI Register EI]
     * [ScriptEngine_Feature_SignalTargeted Signal Targeted]
+    * [ScriptEngine_Feature_LocalVariables Local Variabes]
   * [Reviews]
   * [Change_Log Change Log]
   * [FixList Litcube's List]
