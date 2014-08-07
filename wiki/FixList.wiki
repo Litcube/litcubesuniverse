@@ -2,6 +2,8 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
+== NOTE: [http://forum.egosoft.com/viewtopic.php?p=4414640#4414640 Only accepting bug reports from LU vanilla games or games with LU designed additional scripts]. ==
+
 == Bug Reports ==
 
 Debug spam when moving credits from station to player account via hotkey ([http://imgur.com/dIEOFh3 Screenshot])
