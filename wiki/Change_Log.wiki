@@ -12,14 +12,14 @@
 = Version 1.3.3 =
 === Not Released Yet (Wont be released until next green session) ===
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
+  * (-) Upgraded: Added support for Race Local variables
+  * (-) Upgraded: Added race masking to the script engine
 ----
 = Version 1.3.2.1 Hotfix =
 === Holy Month of Joubarbe 7, 2014 ===
   * _*This patch is a hotfix, and must be applied on top of 1.3.2 - it does not contain changes from any previous patch.*_
   * _*This hotfix does not require Export/Import*_
   * (5) Fixed: Lockup being caused by in sector combat related to captial ships & M2MD scripts.
-  * (-) Upgraded: Added support for Race Local variables
-  * (-) Upgraded: Added race masking to the script engine
 ----
 = Version 1.3.2 =
 === Holy Month of Joubarbe 6, 2014 ===
