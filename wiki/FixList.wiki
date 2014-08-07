@@ -16,6 +16,8 @@ E/I incompatibility wierdness ([http://forum.egosoft.com/viewtopic.php?p=4415528
 
 Question asking if Goner Ozias has correct cargo volume ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
 
+"Jump To" command of the Trade Product Search doesn’t follow SETA ([http://forum.egosoft.com/viewtopic.php?p=4415825#4415825 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415831#4415831 Supporting Arg.])
+
 == Suggestions ==
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
