@@ -1,4 +1,4 @@
-#Local Variable Object Support
+#summary Local Variable Object Support
 
 = Local Variables =
 
