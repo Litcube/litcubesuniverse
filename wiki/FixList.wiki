@@ -36,8 +36,6 @@ Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.
 
 A return of the Kha’ak ([http://forum.egosoft.com/viewtopic.php?p=4414163&highlight=#4414163 OP])
 
-Changing NPC bail claiming to “victor takes the spoils” ([http://forum.egosoft.com/viewtopic.php?p=4414776&highlight=#4414776 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415739#4415739 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415757#4415757 reply] | [http://forum.egosoft.com/viewtopic.php?p=4415794#4415794 Supporting Arg.])
-
 Adjust assassination targets with positive standings to fight back faster ([http://forum.egosoft.com/viewtopic.php?p=4414673&highlight=#4414673 OP])
 
 Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
@@ -45,3 +43,7 @@ Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopi
 Preventing remote claim software being loot ([http://forum.egosoft.com/viewtopic.php?p=4415142&highlight=#4415142 OP])
 
 Increasing post-buff Penatron Advanced cost ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
+
+Changing NPC bail claiming to “victor takes the spoils” ([http://forum.egosoft.com/viewtopic.php?p=4414776&highlight=#4414776 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415739#4415739 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415757#4415757 reply] | [http://forum.egosoft.com/viewtopic.php?p=4415794#4415794 Supporting Arg.])
+
+Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
