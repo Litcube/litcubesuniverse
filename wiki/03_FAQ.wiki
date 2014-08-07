@@ -45,6 +45,8 @@
 
 === I think I found a game-breaking bug. How do I report it? ===
 
+  Due to the number of wild goose chases related to script incompatibilities, the LU team is [incompatibilities no longer accepting] bug reports for issues observed in games not running LU vanilla or with scripts specifically designed to be compatible with LU. If you can reproduce your issue in a vanilla LU install, we'll be happy to take a look at it for you.
+
   The more information you can provide, the easier it will be to isolate and fix the issue. As such, please consider including the following in your reports:
      # Screenshots of the bug occurring
      # A savegame of the bug occurring or with detailed instructions on how to reproduce the bug
