@@ -3,10 +3,17 @@
 = Shit Litcube Needs to Consider When He Gets Home =
 
 == Bug Reports ==
+
 Debug spam when moving credits from station to player account via hotkey ([http://imgur.com/dIEOFh3 Screenshot])
+
+Fighter pilot says bailing lines and stops for 10 sec, then restarts without bailing ([http://forum.egosoft.com/viewtopic.php?p=4415479#4415479 OP])
 
 == Suggestions ==
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
 Add ATF response to OCV invasions ([http://forum.egosoft.com/viewtopic.php?p=4414707#4414707 Response])
+
+Add carrier target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 Response])
+
+Add ability to clear individual trade reports
