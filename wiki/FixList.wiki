@@ -10,6 +10,10 @@ Debug spam when moving credits from station to player account via hotkey ([http:
 
 Fighter pilot says bailing lines and stops for 10 sec, then restarts without bailing ([http://forum.egosoft.com/viewtopic.php?p=4415479#4415479 OP])
 
+M8s have issues upgrading in Dockware Manager. All lisings below ore collector red ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 OP]  | [http://www.mediafire.com/download/l6vo4wc2ivfjpda/X10.sav Save])
+
+E/I incompatibility wierdness ([http://forum.egosoft.com/viewtopic.php?p=4415528#4415528 OP])
+
 == Suggestions ==
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
