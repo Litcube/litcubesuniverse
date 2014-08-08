@@ -12,40 +12,34 @@ Fighter pilot says bailing lines and stops for 10 sec, then restarts without bai
 
 M8s have issues upgrading in Dockware Manager. All lisings below ore collector red ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 OP]  | [http://www.mediafire.com/download/l6vo4wc2ivfjpda/X10.sav Save])
 
-E/I incompatibility wierdness ([http://forum.egosoft.com/viewtopic.php?p=4415528#4415528 OP])
-
-Question asking if Goner Ozias has correct cargo volume ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
+Goner Ozias has low cargo volume ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
 
 "Jump To" command of the Trade Product Search doesn’t follow SETA ([http://forum.egosoft.com/viewtopic.php?p=4415825#4415825 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415831#4415831 Supporting Arg.])
+
+Sometimes ships jump in with zero laser energy (Tahl has seen this) ([http://forum.egosoft.com/viewtopic.php?p=4415926#4415926 OP])
 
 == Suggestions ==
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
-Add ATF response to OCV invasions ([http://forum.egosoft.com/viewtopic.php?p=4414702#4414702 OP] | [http://forum.egosoft.com/viewtopic.php?p=4414707#4414707 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414742&highlight=#4414742 related suggestion])
+Add ATF response to OCV invasions ([http://forum.egosoft.com/viewtopic.php?p=4414702#4414702 OP] | [http://forum.egosoft.com/viewtopic.php?p=4414707#4414707 Response])
 
 Add carrier target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 Response])
 
 Add ability to clear individual trade reports
 
-Add weapon generator to Ship Compendium ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
-
-Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
-
-Dynamic HUD monitors ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])
-
 Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])
-
-A return of the Kha’ak ([http://forum.egosoft.com/viewtopic.php?p=4414163&highlight=#4414163 OP])
-
-Adjust assassination targets with positive standings to fight back faster ([http://forum.egosoft.com/viewtopic.php?p=4414673&highlight=#4414673 OP])
 
 Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
 
-Preventing remote claim software being loot ([http://forum.egosoft.com/viewtopic.php?p=4415142&highlight=#4415142 OP])
-
 Increasing post-buff Penatron Advanced cost ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
 
-Changing NPC bail claiming to “victor takes the spoils” ([http://forum.egosoft.com/viewtopic.php?p=4414776&highlight=#4414776 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415739#4415739 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415757#4415757 reply] | [http://forum.egosoft.com/viewtopic.php?p=4415794#4415794 Supporting Arg.])
-
 Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
+
+Either replace offensive missiles on NPC M8s with mosquitoes or let them fire them in combat ([http://tinypic.com/r/2u5f8ll/8 Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X02.sav Save])
+
+Have Phanon keep track of dangerous sectors and stop sending their traders there ([http://forum.egosoft.com/viewtopic.php?p=4415972#4415972 OP])
+
+Add weapon generator to Ship Compendium ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
+
+Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
