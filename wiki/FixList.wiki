@@ -24,7 +24,7 @@ Scoob's list of things he would like to see in LU (and would allow him to play L
 
 Add ATF response to OCV invasions ([http://forum.egosoft.com/viewtopic.php?p=4414702#4414702 OP] | [http://forum.egosoft.com/viewtopic.php?p=4414707#4414707 Response])
 
-Add carrier target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 Response])
+Add carrier target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 OP])
 
 Add ability to clear individual trade reports
 
