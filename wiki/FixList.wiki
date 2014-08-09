@@ -25,7 +25,9 @@ You can severely blunt OCV invasion by building stations in front of gates ([htt
 TLs like to fly off on tangents ([http://forum.egosoft.com/viewtopic.php?p=4416340#4416340 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416343#4416343 Save and Export])
 == Suggestions ==
 
-Re-Add the "Transfer Money To Player Account" station task.
+Re-Add the "Transfer Money To Player Account" station task. ~Jack.
+
+Modify the sale price of damaged ships, making damage more detrimental to price. ~Jack.
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
