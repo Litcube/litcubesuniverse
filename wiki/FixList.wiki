@@ -54,3 +54,5 @@ Add weapon generator to Ship Compendium ([http://forum.egosoft.com/viewtopic.php
 Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
 
 Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
+
+Modify the sale price of damaged ships (make damage more detrimental to price) ~Jack
