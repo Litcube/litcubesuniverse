@@ -16,6 +16,12 @@
   * (-) Upgraded: Added race masking to the script engine
   * (-) Upgraded: Implemented Race 3-13 (+10 new races for scripts)
 ----
+= Version 1.3.2.2 Hotfix =
+=== Holy Month of Joubarbe 10, 2014 ===
+  * _*This patch is a hotfix, and must be applied on top of 1.3.2 - Contains changes in the 1.3.2.1 Hotfix*_
+  * _*This hotfix does not require Export/Import*_
+  * (5) Fixed: Lockup being cause by a corrupted M2MD script due to a compiler error.
+----
 = Version 1.3.2.1 Hotfix =
 === Holy Month of Joubarbe 7, 2014 ===
   * _*This patch is a hotfix, and must be applied on top of 1.3.2 - it does not contain changes from any previous patch.*_
