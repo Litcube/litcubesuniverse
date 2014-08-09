@@ -23,6 +23,9 @@ $count is not set in !job.invade resulting in invasions always choosing argon se
 You can severely blunt OCV invasion by building stations in front of gates ([http://forum.egosoft.com/viewtopic.php?p=4416251#4416251 OP])
 
 TLs like to fly off on tangents ([http://forum.egosoft.com/viewtopic.php?p=4416340#4416340 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416343#4416343 Save and Export])
+
+Station Agent goes beyond its tether range ([http://forum.egosoft.com/viewtopic.php?p=4416354#4416354 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416354#4416354 Save])
+
 == Suggestions ==
 
 Re-Add the "Transfer Money To Player Account" station task. ~Jack.
