@@ -26,7 +26,6 @@ Don't do it if you don't need to, but here's some reasons why you would:
 
 === How to Import ===
 
-  # Create a new install, following the [https://code.google.com/p/litcubesuniverse/wiki/Installation LU Setup Guide].
   # Start a new game. Choose the _Damyath Import_ start. 
   # Enjoy a beverage of your choice as LU rebuilds your universe.
 
