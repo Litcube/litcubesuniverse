@@ -26,6 +26,7 @@ Don't do it if you don't need to, but here's some reasons why you would:
 
 === How to Import ===
 
+  # Create a new install, following the LU Setup Guide ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 here]).
   # Start a new game. Choose the _Damyath Import_ start. 
   # Enjoy a beverage of your choice as LU rebuilds your universe.
 
