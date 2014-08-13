@@ -31,6 +31,7 @@ Station Agent goes beyond its tether range ([http://forum.egosoft.com/viewtopic.
 Re-Add the "Transfer Money To Player Account" station task. ~Jack.
 
 Modify the sale price of damaged ships, making damage more detrimental to price. ~Jack.
+
 Perhaps further modify the sale price of ships off your racial Reputation making early game salvaging less of a jumpstart ~Jack.
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
