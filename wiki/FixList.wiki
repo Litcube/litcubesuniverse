@@ -26,6 +26,8 @@ TLs like to fly off on tangents ([http://forum.egosoft.com/viewtopic.php?p=44163
 
 Station Agent goes beyond its tether range ([http://forum.egosoft.com/viewtopic.php?p=4416354#4416354 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416354#4416354 Save])
 
+Undercover Pirates are not spawning, among the problems in jobs are the "Destroy OOS" flag as well as the race flags should only the Pirate on "Hidden Pirate" Jobs, the max job count may need reducing and i suspect the create in owned sector and create in shipyard flags may be problematic for these jobs. ~ Jack
+
 == Suggestions ==
 
 Re-Add the "Transfer Money To Player Account" station task. ~Jack.
