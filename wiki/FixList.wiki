@@ -10,7 +10,7 @@ Debug spam when moving credits from station to player account via hotkey ([http:
 
 Fighter pilot says bailing lines and stops for 10 sec, then restarts without bailing ([http://forum.egosoft.com/viewtopic.php?p=4415479#4415479 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416318#4416318 Bug Found])
 
-M8s have issues upgrading in Dockware Manager. All lisings below ore collector red ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 OP] | [http://www.mediafire.com/download/l6vo4wc2ivfjpda/X10.sav Save])
+M8s have issues upgrading in Dockware Manager. All lisings below ore collector red ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 OP] | [http://www.mediafire.com/download/l6vo4wc2ivfjpda/X10.sav Save] | [http://forum.egosoft.com/viewtopic.php?p=4418424#4418424 Save 2])
 
 Goner Ozias has low cargo volume ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
 
@@ -26,7 +26,15 @@ TLs like to fly off on tangents ([http://forum.egosoft.com/viewtopic.php?p=44163
 
 Station Agent goes beyond its tether range ([http://forum.egosoft.com/viewtopic.php?p=4416354#4416354 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416354#4416354 Save])
 
+Shop for SCH bypasses station purchase rep requirements ([http://forum.egosoft.com/viewtopic.php?p=4418550#4418550 OP])
+
 Undercover Pirates are not spawning, among the problems in jobs are the "Destroy OOS" flag as well as the race flags should only the Pirate on "Hidden Pirate" Jobs, the max job count may need reducing and i suspect the create in owned sector and create in shipyard flags may be problematic for these jobs. ~ Jack
+
+Autorename UTs cant handle numbers greater than 100 ([http://forum.egosoft.com/viewtopic.php?p=4418093#4418093 OP])
+
+Dock agents sell to hostile pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4418446#4418446 OP])
+
+The infamous !turret.missiledefense.std crash ([http://forum.egosoft.com/viewtopic.php?p=4417769#4417769 OP])
 
 == Suggestions ==
 
@@ -63,3 +71,17 @@ Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egoso
 Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
 
 Allow all docks selling upgrades to refit multiple ships simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4416678#4416678 OP])
+
+Make 'Sell Spare Equipment' command ignore currently installed missile ([http://forum.egosoft.com/viewtopic.php?p=4418264#4418264 OP] | [http://forum.egosoft.com/viewtopic.php?p=4418567#4418567 Code])
+
+Rename McCallum Shipyard asit is not a shipyard ([http://forum.egosoft.com/viewtopic.php?p=4417931#4417931 OP] | [http://forum.egosoft.com/viewtopic.php?p=4417936#4417936 Response])
+
+Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
+
+Add prioritize and ignore current target hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4417718#4417718 OP])
+
+Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4417319#4417319 OP])
+
+Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150 OP])
+
+Make SMs aware of what their fellow SMs are buying to avoid overlap ([http://forum.egosoft.com/viewtopic.php?p=4417192#4417192 OP])
