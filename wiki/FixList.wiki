@@ -20,8 +20,6 @@ Autorename UTs cant handle numbers greater than 100 ([http://forum.egosoft.com/v
 
 Dock agents sell to hostile pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4418446#4418446 OP])
 
-~~The infamous !turret.missiledefense.std crash ([http://forum.egosoft.com/viewtopic.php?p=4417769#4417769 OP])~~ _Fix applied_
-
 == Suggestions ==
 
 Re-Add the "Transfer Money To Player Account" station task. ~Jack.
