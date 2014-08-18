@@ -6,10 +6,6 @@
 
 == Bug Reports ==
 
-M8s have issues upgrading in Dockware Manager. All lisings below ore collector red ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 OP] | [http://www.mediafire.com/download/l6vo4wc2ivfjpda/X10.sav Save] | [http://forum.egosoft.com/viewtopic.php?p=4418424#4418424 Save 2])
-
-Goner Ozias has low cargo volume ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
-
 ~~"Jump To" command of the Trade Product Search doesn’t follow SETA ([http://forum.egosoft.com/viewtopic.php?p=4415825#4415825 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415831#4415831 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4416345#4416345 Save])~~ _[http://forum.egosoft.com/viewtopic.php?p=4416348#4416348 Pending Quick Fix or Formal Rejection.]_
 
 Sometimes ships jump in with zero laser energy (Tahl has seen this) ([http://forum.egosoft.com/viewtopic.php?p=4415926#4415926 OP])
