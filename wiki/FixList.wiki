@@ -6,8 +6,6 @@
 
 == Bug Reports ==
 
-Debug spam when moving credits from station to player account via hotkey ([http://imgur.com/dIEOFh3 Screenshot])
-
 Fighter pilot says bailing lines and stops for 10 sec, then restarts without bailing ([http://forum.egosoft.com/viewtopic.php?p=4415479#4415479 OP] | [http://forum.egosoft.com/viewtopic.php?p=4416318#4416318 Bug Found])
 
 M8s have issues upgrading in Dockware Manager. All lisings below ore collector red ([http://forum.egosoft.com/viewtopic.php?p=4415681#4415681 OP] | [http://www.mediafire.com/download/l6vo4wc2ivfjpda/X10.sav Save] | [http://forum.egosoft.com/viewtopic.php?p=4418424#4418424 Save 2])
