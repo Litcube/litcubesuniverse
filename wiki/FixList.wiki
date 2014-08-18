@@ -6,8 +6,6 @@
 
 == Bug Reports ==
 
-~~"Jump To" command of the Trade Product Search doesn’t follow SETA ([http://forum.egosoft.com/viewtopic.php?p=4415825#4415825 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415831#4415831 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4416345#4416345 Save])~~ _[http://forum.egosoft.com/viewtopic.php?p=4416348#4416348 Pending Quick Fix or Formal Rejection.]_
-
 Sometimes ships jump in with zero laser energy (Tahl has seen this) ([http://forum.egosoft.com/viewtopic.php?p=4415926#4415926 OP])
 
 $count is not set in !job.invade resulting in invasions always choosing argon sectors ~Jack.
