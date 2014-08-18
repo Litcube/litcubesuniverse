@@ -20,6 +20,7 @@
   * (3) Fixed: Dockware Manager Upgrade Ship wasn't allowing install of wares after a non-compatible transport class ware
   * (3) Fixed: Sometimes ships jump in with zero laser energy.  The change sector recharge now only works on playership
   * (3) Fixed: Xenon invasion jobs were only choosing Argon sectors.  Poor fuckers.
+  * (3) Fixed: Shop for SCH bypassed station purchase rep requirements
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
   * (-) Changed: Bail logging disabled
   * (-) Changed: Bailed ships no longer keep any ware worth over 2 million (too fragile?)
