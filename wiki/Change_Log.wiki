@@ -22,6 +22,7 @@
   * (3) Fixed: Xenon invasion jobs were only choosing Argon sectors.  Poor fuckers.
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
   * (-) Changed: Bail logging disabled
+  * (-) Changed: Bailed ships no longer keep any ware worth over 2 million (too fragile?)
   * (-) Upgraded: Added support for Race Local variables
   * (-) Upgraded: Added race masking to the script engine
   * (-) Upgraded: Implemented Race 3-13 (+10 new races for scripts)(Reserved for future LU usage!)
