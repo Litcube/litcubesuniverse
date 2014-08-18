@@ -16,6 +16,7 @@
   * (3) Fixed: Debug spam when moving credits from station to player account via hotkey 
   * (3) Fixed: Fighter pilot says bailing lines and stops for 10 sec, then restarts without bailing
   * (3) Fixed: Dockware Manager Upgrade Ship wasn't allowing install of wares after a non-compatible transport class ware
+  * (3) Fixed: Sometimes ships jump in with zero laser energy.  The change sector recharge now only works on playership
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
   * (-) Changed: Bail logging disabled
   * (-) Upgraded: Added support for Race Local variables
