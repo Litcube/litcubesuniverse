@@ -43,7 +43,7 @@ Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150
 
 Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
 
-
+----
 == Rejected ==
 <br><br><br>
 ===*Add target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 OP])*===
