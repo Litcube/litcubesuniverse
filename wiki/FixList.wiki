@@ -6,7 +6,6 @@
 
 == Bug Reports ==
 
-You can severely blunt OCV invasion by building stations in front of gates ([http://forum.egosoft.com/viewtopic.php?p=4416251#4416251 OP])
 
 == Suggestions ==
 
