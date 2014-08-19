@@ -25,6 +25,7 @@
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
   * (2) Fixed: Penatron Advanced price fixed
   * (2) Fixed: Bailed ships no longer remove cargobay extension
+  * (1) Fixed: Text changes for TS+ ships, typo with PBG
   * (-) Changed: Bail logging disabled
   * (-) Changed: Bailed ships no longer keep any ware worth over 2 million (too fragile?)
   * (-) Changed: Station Agent behaviour completely changed (See: [Feature_Station_Agent Station Agent])
