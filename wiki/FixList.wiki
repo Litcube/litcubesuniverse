@@ -7,7 +7,7 @@
 ----
 == Bug Reports ==
 
-Basking in the cool blue sea of no bugs.
+Atlas may not undock well with the player onboard ([http://forum.egosoft.com/viewtopic.php?p=4419547#4419547 OP])
 
 ----
 == Suggestions ==
@@ -57,8 +57,6 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature yet:*
 
 Add prioritize and ignore current target hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4417718#4417718 OP])
-<br>
-Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
 <br>
 Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
 <br>
