@@ -52,5 +52,3 @@ Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150
 Make SMs aware of what their fellow SMs are buying to avoid overlap ([http://forum.egosoft.com/viewtopic.php?p=4417192#4417192 OP])
 
 Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
-
-Typo in Plasma Burst Generator description: "PGB" >>> "PBG" ([http://forum.egosoft.com/viewtopic.php?p=4419433#4419433 OP])
