@@ -8,9 +8,6 @@
 
 You can severely blunt OCV invasion by building stations in front of gates ([http://forum.egosoft.com/viewtopic.php?p=4416251#4416251 OP])
 
-Autorename UTs cant handle numbers greater than 100 ([http://forum.egosoft.com/viewtopic.php?p=4418093#4418093 OP])
-
-
 == Suggestions ==
 
 Re-Add the "Transfer Money To Player Account" station task. ~Jack.
