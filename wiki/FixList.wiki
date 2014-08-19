@@ -9,8 +9,6 @@
 
 == Suggestions ==
 
-Re-Add the "Transfer Money To Player Account" station task. ~Jack.
-
 Modify the sale price of damaged ships, making damage more detrimental to price. ~Jack.
 
 Perhaps further modify the sale price of ships off your racial Reputation making early game salvaging less of a jumpstart ~Jack.
