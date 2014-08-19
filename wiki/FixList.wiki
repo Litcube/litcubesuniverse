@@ -7,8 +7,6 @@
 ----
 == Bug Reports ==
 
-Atlas may not undock well with the player onboard ([http://forum.egosoft.com/viewtopic.php?p=4419547#4419547 OP])
-
 ----
 == Suggestions ==
 
