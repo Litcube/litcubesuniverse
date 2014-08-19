@@ -41,8 +41,6 @@ Allow all docks selling upgrades to refit multiple ships simultaneously ([http:/
 
 Make 'Sell Spare Equipment' command ignore currently installed missile ([http://forum.egosoft.com/viewtopic.php?p=4418264#4418264 OP] | [http://forum.egosoft.com/viewtopic.php?p=4418567#4418567 Code])
 
-Rename McCallum Shipyard as it is not a shipyard ([http://forum.egosoft.com/viewtopic.php?p=4417931#4417931 OP] | [http://forum.egosoft.com/viewtopic.php?p=4417936#4417936 Response])
-
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
 Add prioritize and ignore current target hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4417718#4417718 OP])
