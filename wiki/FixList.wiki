@@ -28,8 +28,6 @@ Add ATF response to OCV invasions ([http://forum.egosoft.com/viewtopic.php?p=441
 
 Add carrier target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 OP])
 
-Add ability to clear individual trade reports
-
 Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])
 
 Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
