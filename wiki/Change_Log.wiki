@@ -23,6 +23,7 @@
   * (3) Fixed: Xenon invasion jobs were only choosing Argon sectors.  Poor fuckers.
   * (3) Fixed: M8 missile turrets split into two, one for offense, one for defense.
   * (3) Fixed: Shop for SCH bypassed station purchase rep requirements
+  * (3) Fixed: Argon Equipment Dock capital dock lanes lowered to avoid undock collision
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
   * (2) Fixed: Penatron Advanced price fixed
   * (2) Fixed: Bailed ships no longer remove cargobay extension
