@@ -11,8 +11,6 @@
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
-Add carrier target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 OP])
-
 Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])
 
 Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
@@ -42,3 +40,9 @@ Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4
 Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150 OP])
 
 Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
+
+== Rejected == 
+
+*Add target selection functionality to escorts*
+
+Nope.  There's other ways to accomplish this.
