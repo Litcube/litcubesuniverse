@@ -19,8 +19,6 @@ Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopi
 
 Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
 
-Either replace offensive missiles on NPC M8s with mosquitoes or let them fire them in combat ([http://tinypic.com/r/2u5f8ll/8 Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X02.sav Save])
-
 Have Phanon keep track of dangerous sectors and stop sending their traders there ([http://forum.egosoft.com/viewtopic.php?p=4415972#4415972 OP])
 
 Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
