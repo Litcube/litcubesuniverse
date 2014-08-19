@@ -49,5 +49,5 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 ===*Add target selection functionality to escorts ([http://forum.egosoft.com/viewtopic.php?p=4415525#4415525 OP])*===
   Not yet.  There's other ways to accomplish this, and I feel adding this might add a superfluous layer to an already complex system.
 
-==*Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])*===
+===*Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])*===
   I don't think so.  It'd just seem weird with every ship in the Universe tuned to 100%.
