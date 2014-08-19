@@ -23,9 +23,7 @@ Either replace offensive missiles on NPC M8s with mosquitoes or let them fire th
 
 Have Phanon keep track of dangerous sectors and stop sending their traders there ([http://forum.egosoft.com/viewtopic.php?p=4415972#4415972 OP])
 
-Add weapon generator to Ship Compendium ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
 
-Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])
 
 Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
 
@@ -51,3 +49,9 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 
 ===*Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])*===
   I don't think so.  It'd just seem weird with every ship in the Universe tuned to 100%.
+
+===*Add weapon generator to Ship Compendium ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])*===
+  Not enough room in the menu.
+
+===*Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])*===
+  Not enough room in the menu.
