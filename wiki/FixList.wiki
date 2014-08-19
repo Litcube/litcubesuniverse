@@ -22,8 +22,6 @@ Have Phanon keep track of dangerous sectors and stop sending their traders there
 
 Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
 
-Make 'Sell Spare Equipment' command ignore currently installed missile ([http://forum.egosoft.com/viewtopic.php?p=4418264#4418264 OP] | [http://forum.egosoft.com/viewtopic.php?p=4418567#4418567 Code])
-
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
 
