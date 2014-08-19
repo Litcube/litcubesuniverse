@@ -12,7 +12,6 @@ Undercover Pirates are not spawning, among the problems in jobs are the "Destroy
 
 Autorename UTs cant handle numbers greater than 100 ([http://forum.egosoft.com/viewtopic.php?p=4418093#4418093 OP])
 
-Dock agents sell to hostile pirate stations ([http://forum.egosoft.com/viewtopic.php?p=4418446#4418446 OP])
 
 == Suggestions ==
 
