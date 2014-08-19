@@ -15,8 +15,6 @@ Basking in the cool blue sea of no bugs.
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
-Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])
-
 Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
 
 Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
@@ -50,3 +48,6 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 <br><br><br>
 ===*Add target selection functionality to escorts*===
   Not yet.  There's other ways to accomplish this, and I feel adding this might add a superfluous layer to an already complex system.
+
+==*Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.php?p=4414087&highlight=#4414087 OP])*===
+  I don't think so.  It'd just seem weird with every ship in the Universe tuned to 100%.
