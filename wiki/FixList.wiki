@@ -34,8 +34,6 @@ Max-out/increase speed upgrade use by NPCs ([http://forum.egosoft.com/viewtopic.
 
 Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
 
-Increasing post-buff Penatron Advanced cost ([http://forum.egosoft.com/viewtopic.php?p=4415601#4415601 OP])
-
 Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
 
 Either replace offensive missiles on NPC M8s with mosquitoes or let them fire them in combat ([http://tinypic.com/r/2u5f8ll/8 Screenshot] | [https://dl.dropboxusercontent.com/u/18285480/X02.sav Save])
