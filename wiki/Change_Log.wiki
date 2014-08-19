@@ -15,7 +15,7 @@
   * Jedi base: Sloth
   * _*This patch requires an import/export; exports from V1.2.5 and up are compatible.  See: [Feature_Export_Import Export/Import]*_<br><br>
   * (4) Fixed: Added safeguards to prevent a game crash if a ship docks while another ship is still launching a swam missile at it.
-  * (4) Fixed: Shady jobs were spawning properly
+  * (4) Fixed: Shady jobs were not spawning properly
   * (3) Fixed: Debug spam when moving credits from station to player account via hotkey 
   * (3) Fixed: Fighter pilot says bailing lines and stops for 10 sec, then restarts without bailing
   * (3) Fixed: Dockware Manager Upgrade Ship wasn't allowing install of wares after a non-compatible transport class ware
