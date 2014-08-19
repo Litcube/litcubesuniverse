@@ -4,10 +4,13 @@
 
 == NOTE: [http://forum.egosoft.com/viewtopic.php?p=4414640#4414640 Only accepting bug reports from LU vanilla games or games with LU designed additional scripts]. ==
 
+----
 == Bug Reports ==
 
 
+----
 == Suggestions ==
+
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
@@ -41,6 +44,7 @@ Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150
 
 Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
 
+----
 == Rejected == 
 
 *Add target selection functionality to escorts*
