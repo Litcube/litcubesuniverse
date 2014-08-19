@@ -23,7 +23,7 @@ Have Phanon keep track of dangerous sectors and stop sending their traders there
 
 Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
 
-Allow all docks selling upgrades to refit multiple ships simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4416678#4416678 OP])
+
 
 Make 'Sell Spare Equipment' command ignore currently installed missile ([http://forum.egosoft.com/viewtopic.php?p=4418264#4418264 OP] | [http://forum.egosoft.com/viewtopic.php?p=4418567#4418567 Code])
 
@@ -51,3 +51,6 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 
 ===*Add required Race Rank to Ship Compendium’s summary pages ([http://forum.egosoft.com/viewtopic.php?p=4411782&highlight=#4411782 OP])*===
   Not enough room in the menu.
+
+===*Allow all docks selling upgrades to refit multiple ships simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4416678#4416678 OP])*===
+  Not worth the work yet.  Dock a ship at a shipyard instead of the dock.
