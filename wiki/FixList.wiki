@@ -44,5 +44,4 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 == Rejected == 
 
 *Add target selection functionality to escorts*
-
-Nope.  There's other ways to accomplish this.
+  Nope.  There's other ways to accomplish this.
