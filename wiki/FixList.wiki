@@ -47,6 +47,4 @@ Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4
 
 Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150 OP])
 
-Make SMs aware of what their fellow SMs are buying to avoid overlap ([http://forum.egosoft.com/viewtopic.php?p=4417192#4417192 OP])
-
 Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
