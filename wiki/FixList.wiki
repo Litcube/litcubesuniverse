@@ -15,7 +15,7 @@ Basking in the cool blue sea of no bugs.
 
 Scoob's list of things he would like to see in LU (and would allow him to play LUV) ([http://forum.egosoft.com/viewtopic.php?p=4414659#4414659 OP]  | [http://forum.egosoft.com/viewtopic.php?p=4414662#4414662 Response] | [http://forum.egosoft.com/viewtopic.php?p=4414666#4414666 Supporting Arg.])
 
-Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])
+
 
 Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewtopic.php?p=4415730#4415730 OP] | [http://forum.egosoft.com/viewtopic.php?p=4415764#4415764 Supporting Arg.] | [http://forum.egosoft.com/viewtopic.php?p=4415793#4415793 Response])
 
@@ -54,3 +54,6 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 
 ===*Allow all docks selling upgrades to refit multiple ships simultaneously ([http://forum.egosoft.com/viewtopic.php?p=4416678#4416678 OP])*===
   Not worth the work yet.  Dock a ship at a shipyard instead of the dock.
+
+===*Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])*===
+  It is vanilla behaviour.
