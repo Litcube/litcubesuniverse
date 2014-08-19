@@ -41,6 +41,7 @@
   * (-) Upgraded: Added ability to clear a trade report
   * (-) Upgraded: Autonaming now handles up to 1000 ships
   * (-) Upgraded: Implemented Direct Deposit command (automatic station credit transfer)
+  * (-) Upgraded: You can now set your home point through the player console
 
 
 
