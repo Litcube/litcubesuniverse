@@ -21,6 +21,7 @@
   * (3) Fixed: Dockware Manager Upgrade Ship wasn't allowing install of wares after a non-compatible transport class ware
   * (3) Fixed: Sometimes ships jump in with zero laser energy.  The change sector recharge now only works on playership
   * (3) Fixed: Xenon invasion jobs were only choosing Argon sectors.  Poor fuckers.
+  * (3) Fixed: M8 missile turrets split into two, one for offense, one for defense.
   * (3) Fixed: Shop for SCH bypassed station purchase rep requirements
   * (2) Fixed: Safe Undocking was attempting to run on ships that are OOS.
   * (2) Fixed: Penatron Advanced price fixed
@@ -35,6 +36,7 @@
   * (-) Changed: Damage has greater impact on sale price
   * (-) Changed: Races don't hate each other as much (Terran/ATF)
   * (-) Changed: ATF join the fight against the OCV when the OCV reach a certain distance from home
+  * (-) Changed: Delay on mosquito chaff effect to prevent fired missiles from being destroyed
   * (-) Upgraded: Added support for Race Local variables
   * (-) Upgraded: Added race masking to the script engine
   * (-) Upgraded: Implemented Race 3-13 (+10 new races for scripts)(Reserved for future LU usage!)
