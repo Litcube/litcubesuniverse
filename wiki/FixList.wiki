@@ -56,8 +56,7 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 ===*Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])*===
   It is vanilla behaviour.
 
-=== No response given ===
-
+----
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature:*
 
 Add prioritize and ignore current target hotkeys ([http://forum.egosoft.com/viewtopic.php?p=4417718#4417718 OP])
