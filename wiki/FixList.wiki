@@ -8,8 +8,6 @@
 
 You can severely blunt OCV invasion by building stations in front of gates ([http://forum.egosoft.com/viewtopic.php?p=4416251#4416251 OP])
 
-Undercover Pirates are not spawning, among the problems in jobs are the "Destroy OOS" flag as well as the race flags should only the Pirate on "Hidden Pirate" Jobs, the max job count may need reducing and i suspect the create in owned sector and create in shipyard flags may be problematic for these jobs. ~ Jack
-
 Autorename UTs cant handle numbers greater than 100 ([http://forum.egosoft.com/viewtopic.php?p=4418093#4418093 OP])
 
 
