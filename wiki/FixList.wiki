@@ -42,7 +42,7 @@ Allow all docks selling upgrades to refit multiple ships simultaneously ([http:/
 
 Make 'Sell Spare Equipment' command ignore currently installed missile ([http://forum.egosoft.com/viewtopic.php?p=4418264#4418264 OP] | [http://forum.egosoft.com/viewtopic.php?p=4418567#4418567 Code])
 
-Rename McCallum Shipyard asit is not a shipyard ([http://forum.egosoft.com/viewtopic.php?p=4417931#4417931 OP] | [http://forum.egosoft.com/viewtopic.php?p=4417936#4417936 Response])
+Rename McCallum Shipyard as it is not a shipyard ([http://forum.egosoft.com/viewtopic.php?p=4417931#4417931 OP] | [http://forum.egosoft.com/viewtopic.php?p=4417936#4417936 Response])
 
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
@@ -53,3 +53,5 @@ Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4
 Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150 OP])
 
 Make SMs aware of what their fellow SMs are buying to avoid overlap ([http://forum.egosoft.com/viewtopic.php?p=4417192#4417192 OP])
+
+Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
