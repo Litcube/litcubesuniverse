@@ -33,6 +33,8 @@
   * (-) Changed: Stations can no longer be built within a 5KM radius of a point 5KM in front of a gate
   * (-) Changed: McCallum and Starliner docks now renamed to equipment docks; you will have to rename already placed.
   * (-) Changed: Damage has greater impact on sale price
+  * (-) Changed: Races don't hate each other as much (Terran/ATF)
+  * (-) Changed: ATF join the fight against the OCV when the OCV reach a certain distance from home
   * (-) Upgraded: Added support for Race Local variables
   * (-) Upgraded: Added race masking to the script engine
   * (-) Upgraded: Implemented Race 3-13 (+10 new races for scripts)(Reserved for future LU usage!)
