@@ -10,6 +10,15 @@
   * 5 = Seriously Fucking Critical
 ----
 
+
+= Version 1.3.4 =
+=== Not Yet Released ===
+  * Jedi base: Sloth
+  * _*This patch does not require an import/export*_<br><br>
+  * (-) Changed: Scan asteroids autonamed
+
+
+
 = Version 1.3.3 =
 === Holy Month of Joubarbe 19, 2014 ===
   * Jedi base: Sloth
@@ -46,11 +55,6 @@
   * (-) Upgraded: Autonaming now handles up to 1000 ships
   * (-) Upgraded: Implemented Direct Deposit command (automatic station credit transfer)
   * (-) Upgraded: You can now set your home point through the player console
-
-
-
-
-
 ----
 = Version 1.3.2.2 Hotfix =
 === Holy Month of Joubarbe 10, 2014 ===
