@@ -20,7 +20,7 @@ Lots of new info to access, lots of things to do.
   * *Activate remote system control:*  If your ship has Remote System Control installed, it will claim targeted ships closer then 4Km.
   * *Display target type:*  Displays some information on currently selected ship including "rare" information (means sold or not).
   * *Flag ship for tug:* Flags currently selected ship to be tugged by any ships you have running the Tug command. Pressing this a second time un-flags the ship.
-  * *Jump to home point:*  If you have a favorite place in the Universe from where you like to quietly run your empire, this will jump you there.  Position and orientation set from the Player Console.
+  * *Jump to home point:*  If you have a favorite place in the Universe from where you like to quietly run your empire, this will jump you there via the sector centre.  Position and orientation are set from the Player Console. Simply move your player ship to the spot you want to set and then chose the command from the player console.
   * *MLCC assist go code:*  "Go! Go! Go!" for your MLCC ships.  See: [Feature_MLCC MLCC].
   * *MLCC console:*  Brings up the MLCC console.  See: [Feature_MLCC MLCC].
   * *Player Console:* Opens the player console menu, a useful suite of reports and tools.
