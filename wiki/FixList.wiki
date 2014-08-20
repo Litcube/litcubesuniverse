@@ -18,9 +18,6 @@ Have Phanon keep track of dangerous sectors and stop sending their traders there
 
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
-
-Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
-
 ----
 == Rejected ==
 <br>
