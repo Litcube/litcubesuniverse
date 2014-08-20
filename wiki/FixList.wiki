@@ -21,7 +21,7 @@ Add dock capacity stats in station purchases display ([http://forum.egosoft.com/
 
 
 
-Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4417319#4417319 OP])
+
 
 Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150 OP])
 
@@ -47,6 +47,9 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 
 ===*Reducing Combat Rank gain from combat drones ([http://forum.egosoft.com/viewtopic.php?p=4415048&highlight=#4415048 OP])*===
   It is vanilla behaviour.
+
+===*Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4417319#4417319 OP])*===
+  There's a few reasons why it's the way it is: OCV invasion effectiveness, and I think it looks cooler.  That feel when you're losing, after battling capitals for 20 mins, and in the distance, through the gate, pours countless magenta lights.
 
 ----
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature yet:*
