@@ -31,6 +31,21 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 
 [Change_Log Change log]
 <br><br><br>
+
+----
+= Export/Import Package =
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV1.3.3.exe Litcube's Universe Export/Import Package V1.3.3]
+
+In an endeavour to eliminate the incremental patching, and the confusion over when to export and where, EI scripts are now externalized.
+
+Example: If you were going from V1.2.5 to V1.3.3
+
+  * Install latest EI
+  * Export game
+  * Patch to version 1.3.3
+  * Import game
+
+
 ----
 
 = Other Tools =
