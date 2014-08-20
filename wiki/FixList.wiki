@@ -16,14 +16,8 @@ Scoob's list of things he would like to see in LU (and would allow him to play L
 Have Phanon keep track of dangerous sectors and stop sending their traders there ([http://forum.egosoft.com/viewtopic.php?p=4415972#4415972 OP])
 
 
-
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
-
-
-
-
-Improve wing behavior ([http://forum.egosoft.com/viewtopic.php?p=4417150#4417150 OP])
 
 Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egosoft.com/viewtopic.php?p=4419252#4419252 OP])
 
