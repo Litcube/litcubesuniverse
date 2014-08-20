@@ -5,7 +5,7 @@ A base install requires a clean AP install, so read and follow the [Installation
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.0.exe Litcube's Universe V1.3.0]
 <br><br>
 
-[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.0.exe Litcube's Universe Soundtrack V1.0.0]
+[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.0.1.exe Litcube's Universe Soundtrack V1.0.1]
 <br><br>
 ----
 = Patch =
