@@ -34,6 +34,17 @@ If you run into problems and didn't read it, bunnies will die. And I can't help 
 
 If you don't use the installer, and do a manual copy paste, your game will be broken.
 
+
+=== What do the installers delete? ===
+
+The base install comes in two parts, both will wipe certain X3/addon directories clean:
+
+  * Base install wipes X3\addon\loadscr<br>
+  * Base install wipes X3\addon\scripts<br>
+  * Soundtrack install wipes X3\soundtrack<br><br>
+
+Patches don't clean anything.
+
 === Is XYZ mod compatible with LU? ===
 
   I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there. (I mean, really, how the fuck am I supposed to know? Install it, play it for a time, and report back to you?)
