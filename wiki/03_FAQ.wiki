@@ -25,12 +25,12 @@ If an EI is not required, just install the patch and play.
 
 If EI is required:
 
-1) Install EI* [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
+1) Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
 2) Export<br> 
 3) Install latest LU Patch [02_Download_Instructions Download]<br>
 4) Import<br>
 
-*Install to Main X3 directory, *not* the addon directory.
+Note: Install EI into Main X3 directory, *not* the addon directory.
  
 If you run into problems and didn't read it, bunnies will die. And I can't help that.
 
