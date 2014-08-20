@@ -4,7 +4,7 @@
 
 Dockware Manager helps you organize the wares at your dock, and lets your various types of traders know what you want to keep, what you need to sell, and what to stock at the dock.  It also has features for easily single-click equipping your (hundreds)of ships through templates, and purchasing/equipping equipment upgrades and tuning upgrades.
 
-There's a number of different traders you'll come to employ.  The dock agent works with two of them; the Dock Agent and Freighter.  When you stock wares in your dock, as you would vanilla, the vanilla system automatically adds a ware entry to your dock, as you'll see in the _Info_ menu of the dock itself.  Even when you remove these wares, the entry still exists, even if you want it to go away.
+There's a number of different traders you'll come to employ.  The Dockware Manager works with two of them; the Dock Agent and Freighter.  When you stock wares in your dock, as you would vanilla, the vanilla system automatically adds a ware entry to your dock, as you'll see in the _Info_ menu of the dock itself.  Even when you remove these wares, the entry still exists, even if you want it to go away.
 
 The command can be accessed through the context menu on the dock itself.  Either through the sector map or the property menu.  When you launch it, you're presented with the first page _capacities_.  There's three pages in total: _capacities_, _sources_, _thresholds_.
 
