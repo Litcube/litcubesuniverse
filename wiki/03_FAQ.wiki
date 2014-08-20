@@ -27,7 +27,7 @@ If EI is required:
 
 1) Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
 2) Export<br> 
-3) Install latest LU Patch<br>
+3) Install latest LU Patch [02_Download_Instructions Download]<br>
 4) Import<br>
 
 If you run into problems and didn't read it, bunnies will die. And I can't help that.
