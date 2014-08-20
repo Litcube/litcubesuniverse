@@ -53,6 +53,10 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 
 ===*Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])*===
   Vanilla style missions are no longer supported with the coming EMS and Joubarbe's X-Missions.
+
+
+
+<br>
 ----
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature yet:*
 
