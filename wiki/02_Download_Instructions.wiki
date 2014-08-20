@@ -15,7 +15,7 @@ The base install comes in two parts, both will wipe certain X3/addon directories
 <br><br>
 ----
 = Patch =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.2.2.exe Litcube's Universe Patch V1.3.2.2 Hotfix] - Please Read changelog for instructions.
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.3.exe Litcube's Universe Patch V1.3.3]
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.2.exe Litcube's Universe Patch V1.3.2]
 
