@@ -39,7 +39,11 @@ If you don't use the installer, and do a manual copy paste, your game will be br
 
 This is an optional package that changes your GUI, if you'd like to try a different one.
 
-[http://litcube.xtimelines.net/download.php?File=LUGUIV1.0.0.exe GUI Installer V1.0.0]
+Includes:
+*Litcube's GUIs
+*TrixX's LU GUIs
+
+[http://litcube.xtimelines.net/download.php?File=LUGUIV1.1.0.exe GUI Installer V1.1.0]
 
 ----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
