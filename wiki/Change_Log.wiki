@@ -11,7 +11,7 @@
 
 ----
 = Version 1.3.4 =
-=== Not Yet Released ===
+=== Holy Month of Joubarbe 20, 2014 ===
   * Jedi base: Sloth
   * _*This patch does not require an import/export*_<br><br>
   * (-) Changed: Scan asteroids autonamed
