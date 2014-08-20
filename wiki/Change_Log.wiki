@@ -8,9 +8,8 @@
   * 3 = Average
   * 4 = Critical
   * 5 = Seriously Fucking Critical
+
 ----
-
-
 = Version 1.3.4 =
 === Not Yet Released ===
   * Jedi base: Sloth
@@ -18,7 +17,7 @@
   * (-) Changed: Scan asteroids autonamed
 
 
-
+----
 = Version 1.3.3 =
 === Holy Month of Joubarbe 19, 2014 ===
   * Jedi base: Sloth
