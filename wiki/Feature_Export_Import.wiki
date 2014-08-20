@@ -6,6 +6,8 @@ Litcube's Universe comes packaged with the ability to export your empire includi
 
 It will *not* export data that was implemented by third party scripts.  But if it came with LU, it's supported.  It will also not reconnect your complexes.  You'll have to do that manually.
 
+Antivirus programs can significantly slow down the export process.  In a test I ran, with MSE real-time protection running, export took 18 minutes.  With it off, 7 seconds.
+
 === Why Would I Want To Do This? ===
 
 Don't do it if you don't need to, but here's some reasons why you would:
