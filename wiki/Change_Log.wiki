@@ -15,6 +15,7 @@
   * Jedi base: Sloth
   * _*This patch does not require an import/export*_<br><br>
   * (-) Changed: Scan asteroids autonamed
+  * (-) Changed: Phanon traders now check for enemies like UTs do
 
 
 ----
