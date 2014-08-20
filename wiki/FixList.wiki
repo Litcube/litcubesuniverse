@@ -15,7 +15,7 @@ Scoob's list of things he would like to see in LU (and would allow him to play L
 
 Have Phanon keep track of dangerous sectors and stop sending their traders there ([http://forum.egosoft.com/viewtopic.php?p=4415972#4415972 OP])
 
-Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])
+
 
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
@@ -51,6 +51,8 @@ Apply the auto-rename feature to ships set to scan asteroids ([http://forum.egos
 ===*Change OCV invasion ship jump order ([http://forum.egosoft.com/viewtopic.php?p=4417319#4417319 OP])*===
   There's a few reasons why it's the way it is: OCV invasion effectiveness, and I think it looks cooler.  That feel when you're losing, after battling capitals for 20 mins, and in the distance, through the gate, pours countless magenta lights.  You know they're coming just to mop up.
 
+===*Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])*===
+  Vanilla style missions are no longer supported with the coming EMS and Joubarbe's X-Missions.
 ----
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature yet:*
 
