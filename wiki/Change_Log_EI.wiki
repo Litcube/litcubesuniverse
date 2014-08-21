@@ -1,0 +1,19 @@
+#summary Change Log (History)
+
+= Change Log =
+
+=== Legend ===
+  * 1 = Very minor
+  * 2 = Minor
+  * 3 = Average
+  * 4 = Critical
+  * 5 = Seriously Fucking Critical
+
+
+
+----
+= Version 1.3.5 =
+=== Unreleased ===
+  * Jedi base: Ape
+  * (-) Upgraded: EI support: complex connections
+  * (-) Upgraded: EI support: MLCC Tasks, Missile ROEs
