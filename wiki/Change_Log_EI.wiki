@@ -15,5 +15,8 @@
 = Version 1.3.5 =
 === Unreleased ===
   * Jedi base: Ape
-  * (-) Upgraded: EI support: complex connections
-  * (-) Upgraded: EI support: MLCC Tasks, Missile ROEs
+  * (-) Upgraded: Complex connections
+  * (-) Upgraded: MLCC Tasks
+  * (-) Upgraded: MLCC Missile ROEs
+  * (-) Upgraded: MLCC Hangar info
+  * (-) Upgraded: Stock exchange stocks, ownerships, etc.
