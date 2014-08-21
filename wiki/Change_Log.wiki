@@ -18,8 +18,10 @@
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (5) Fixed: Vanilla bug where if a ship was firing a missile through a turret at the same time it left a gate, game would crash.
   * (3) Fixed: Selling missiles/shields to equipment docks was being recorded in the trade reports properly.
+  * (1) Fixed: Debug spam, missile ROE
   * (-) Changed: Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Upgraded: EI support: complex connections
+  * (-) Upgraded: EI support: MLCC Tasks, Missile ROEs
 
 
 ----
