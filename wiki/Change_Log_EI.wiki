@@ -19,4 +19,4 @@
   * (-) Upgraded: MLCC Tasks
   * (-) Upgraded: MLCC Missile ROEs
   * (-) Upgraded: MLCC Hangar info
-  * (-) Upgraded: Stock exchange stocks, ownerships, etc.
+  * (-) Upgraded: Stock exchange stocks, no longer have to empty stock exchange before EI
