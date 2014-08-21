@@ -14,7 +14,7 @@
 ----
 = Version 1.3.5 =
 === Unreleased ===
-  * Jedi base: Ape<br>
+  * Jedi base: Ape<br><br>
   * (-) Upgraded: Complex connections
   * (-) Upgraded: MLCC Tasks
   * (-) Upgraded: MLCC Missile ROEs
