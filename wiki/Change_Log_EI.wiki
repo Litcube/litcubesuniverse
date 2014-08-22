@@ -30,5 +30,9 @@
 <br>
 *Notes on this version*
   * Exporting from less than LU1.3.5 to newer version:  
+<br>
    * Bad news: Your ships will not autostart, you will have to reissue new commands.
    * Good news: From version LU1.3.5 on, several scripts will autostart after an EI:  UT, ST, Station Agent, Freighter, Dock Agent
+<br>
+   * Bad news: If you have [http://forum.egosoft.com/viewtopic.php?t=336717 this] script installed, your EI will fail.  You'll have to remove the escape codes manually using a text editor.
+   * Good news: From version LU1.3.5 on, the EI properly strips this error out.
