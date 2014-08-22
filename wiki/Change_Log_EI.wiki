@@ -20,6 +20,7 @@
   * Jedi base: Ape<br><br>
   * (2) Fixed: Salvage insurance no longer doubles
   * (-) EI implemented: Complex connections
+  * (-) EI implemented: Dock MLCC is installed
   * (-) EI implemented: MLCC Tasks
   * (-) EI implemented: MLCC Missile ROEs
   * (-) EI implemented: MLCC Hangar info
