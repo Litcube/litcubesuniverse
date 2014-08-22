@@ -4,7 +4,9 @@
 
 = Change Log =
 
-<br>===EI is an acronym for Export/Import.===<br>
+<br>
+===EI is an acronym for Export/Import.===
+<br>
 
 === Legend ===
   * 1 = Very minor
