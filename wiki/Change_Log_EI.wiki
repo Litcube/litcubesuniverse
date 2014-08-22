@@ -21,3 +21,4 @@
   * (-) Upgraded: MLCC Missile ROEs
   * (-) Upgraded: MLCC Hangar info
   * (-) Upgraded: Stock exchange stocks, no longer have to empty stock exchange before EI
+  * (-) Upgraded: Ships now put into environment if it was owned by player (i.e. ship or station)
