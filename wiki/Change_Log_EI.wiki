@@ -1,5 +1,7 @@
 #summary Change Log (History)
 
+===EI is an acronym for Export/Import.===
+
 = Change Log =
 
 === Legend ===
@@ -16,9 +18,10 @@
 === Unreleased ===
   * Jedi base: Ape<br><br>
   * (2) Fixed: Salvage insurance no longer doubles
-  * (-) Upgraded: Complex connections
-  * (-) Upgraded: MLCC Tasks
-  * (-) Upgraded: MLCC Missile ROEs
-  * (-) Upgraded: MLCC Hangar info
-  * (-) Upgraded: Stock exchange stocks, no longer have to empty stock exchange before EI
-  * (-) Upgraded: Ships now put into environment if it was owned by player (i.e. ship or station)
+  * (-) EI implemented: Complex connections
+  * (-) EI implemented: MLCC Tasks
+  * (-) EI implemented: MLCC Missile ROEs
+  * (-) EI implemented: MLCC Hangar info
+  * (-) EI implemented: Stock exchange stocks, no longer have to empty stock exchange before EI
+  * (-) EI implemented: Ships now put into environment if it was owned by player (i.e. ship or station)
+  * (-) EI implemented: Qshuttles
