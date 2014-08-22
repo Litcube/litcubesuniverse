@@ -15,7 +15,7 @@
 
 
 ----
-= Version EI8.1.0 =
+= Version 2.1.0EI =
 === Unreleased ===
   * Jedi base: Ape<br><br>
   * (2) Fixed: Salvage insurance no longer doubles
