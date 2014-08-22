@@ -1,8 +1,10 @@
 #summary Change Log (History)
 
-===EI is an acronym for Export/Import.===
+
 
 = Change Log =
+
+<br>===EI is an acronym for Export/Import.===<br>
 
 === Legend ===
   * 1 = Very minor
