@@ -27,6 +27,8 @@
   * (-) EI implemented: Stock exchange stocks, no longer have to empty stock exchange before EI
   * (-) EI implemented: Ships now put into environment if it was owned by player (i.e. ship or station)
   * (-) EI implemented: Qshuttles
+  * (-) EI implemented: Autostart supported:  UT, ST, Station Agent, Dock Agent, Freighter
+
 <br>
 *Notes on this version*
   * Exporting from less than LU1.3.5 to newer version:  
