@@ -2,7 +2,7 @@
 
 = Welcome! =
 
-[http://www.mediafire.com/view/wkzh3cg2zppf5ow/crying-baby.jpg]
+[http://www.mediafire.com/convkey/384e/wkzh3cg2zppf5owfg.jpg]
 
 You're seeing this page because you reported a bug that met one or more of the following criteria:
 
@@ -10,4 +10,3 @@ You're seeing this page because you reported a bug that met one or more of the f
   * Failed to post a save game
   * Your game is not Litcube's Universe Vanilla (LUV)
   * Your _bug report_ is conjecture / guess work / untested hypothesis
-
