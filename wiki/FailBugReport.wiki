@@ -8,5 +8,5 @@ You're seeing this page because you reported a bug that met one or more of the f
 
   # Didn't have enough information for me to reproduce.
   # Failed to post a save game
-  * Your game is not Litcube's Universe Vanilla (LUV)
-  * Your _bug report_ is conjecture / guess work / untested hypothesis
+  # Your game is not Litcube's Universe Vanilla (LUV)
+  # Your _bug report_ is conjecture / guess work / untested hypothesis
