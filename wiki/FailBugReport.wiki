@@ -1,6 +1,6 @@
 #summary You have failed to report a bug properly!
 
-= Welcome! You failed!=
+= Welcome! We failed to prevent you from failing!=
 
 [http://www.mediafire.com/convkey/384e/wkzh3cg2zppf5owfg.jpg]
 
