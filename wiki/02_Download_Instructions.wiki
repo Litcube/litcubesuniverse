@@ -9,6 +9,7 @@ A base install requires a clean AP install, so read and follow the [Installation
 <br><br>
 ----
 = Patch =
+===[https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]===
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.4.exe Litcube's Universe Patch V1.3.4]
 
 
@@ -18,9 +19,8 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.2.exe Litcube's Universe Patch V1.3.2]
 
-[https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]
-
-[Change_Log Change log]
+<br>
+*[Change_Log Change log]*
 <br><br><br>
 
 ----
