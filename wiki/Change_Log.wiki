@@ -20,6 +20,8 @@
   * (3) Fixed: Selling missiles/shields to equipment docks was being recorded in the trade reports properly.
   * (1) Fixed: Debug spam, missile ROE
   * (-) Changed: Shipyard trade menu: docks show description in monitor window as opposed to a blank
+  * (-) Changed: Jumpdrive cores now registered from game start
+  * (-) Upgraded: optimized get station best price, security checks, agent behaviour
 
 ----
 = Version 1.3.4LU =
