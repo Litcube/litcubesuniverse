@@ -23,6 +23,11 @@
   * (-) Changed: Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Changed: Jumpdrive cores now registered from game start
   * (-) Upgraded: Optimized get station best price, security checks, agent behaviour
+  * (-) Upgraded: New script command: is named script on stack of task=
+  * (-) Upgraded: New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
+  * (-) Upgraded: New script command: needed jump drive energy for jumps
+  * (-) Upgraded: New script command: max jump range based on cargo energy
+
 
 
 ----
