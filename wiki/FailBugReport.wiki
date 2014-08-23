@@ -4,11 +4,13 @@
 
 [http://www.mediafire.com/convkey/384e/wkzh3cg2zppf5owfg.jpg]
 
-You're seeing this page because you reported a bug or question that meets one or more of the following criteria:
+You're seeing this page because you reported a bug, question, or request that meets one or more of the following criteria:
 
-  # Not enough enough information for me to reproduce.
+  # Not enough enough information for me to reproduce
   # Failed to post a save game
+  # Failed to post an export file
   # Your game is not Litcube's Universe Vanilla (LUV)
   # Your _bug report_ is conjecture / guess work / untested hypothesis
   # I know what you're reporting, and it's not a bug
   # There's wiki info that answers your question / bug
+  # Your request is far from the spirit of LU
