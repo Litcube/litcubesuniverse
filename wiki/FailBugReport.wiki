@@ -4,7 +4,7 @@
 
 [http://www.mediafire.com/convkey/384e/wkzh3cg2zppf5owfg.jpg]
 
-You're seeing this page because you reported a bug that met one or more of the following criteria:
+You're seeing this page because you reported a bug or question that meets one or more of the following criteria:
 
   # Didn't have enough information for me to reproduce.
   # Failed to post a save game
