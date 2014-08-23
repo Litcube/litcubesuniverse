@@ -16,10 +16,10 @@ Without Jumpdrive Cores, a jump drive wouldn't be able to jump out nearly instan
 
 Different classes of ships require different amounts of jump cores.  Luckily, there's a new ware resupply system implemented in LU that will allow you to automatically resupply cores which works in the same way as the built in functionality of resupply missiles, or energy.
 
+As is the case with Emergency Jump, only big class ships can use it.
+
 Jumpdrive Cores Required per class:
 
-*Freighter:* 3<br>
-*Fighter:* 3<br>
 *TM:* 4<br>
 *M6:* 4<br>
 *M8:* 5<br>
