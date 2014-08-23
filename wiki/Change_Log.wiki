@@ -22,7 +22,7 @@
   * (1) Fixed: Debug spam, missile ROE
   * (-) Changed: Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Changed: Jumpdrive cores now registered from game start
-  * (-) Upgraded: optimized get station best price, security checks, agent behaviour
+  * (-) Upgraded: Optimized get station best price, security checks, agent behaviour
 
 
 ----
