@@ -29,6 +29,7 @@
   * (-) Upgraded:  New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
   * (-) Upgraded:  New script command: needed jump drive energy for jumps
   * (-) Upgraded:  New script command: max jump range based on cargo energy
+  * (-) Upgraded:  Reaper go home hotkey now reports and unloads as though it finished (will finish getting current ware first)
 
 
 
