@@ -23,12 +23,4 @@ Does what it says on the tin.
 Ships following these commands aim to follow safe routes where possible (e.g. when explorers move to sectors bordering un-mapped sectors). Note that a safe route requires you to *know* the actual route.  However, if there are no safe routes, they will take an unsafe route.
 
 
-= Details =
-
-Required upgrades:
-  * Explorer Command Software
-
-Recommended upgrades:
-  * Triplex Scanner
-  * Maximum engine upgrades
-  * Mineral Scanner (enables Scan Asteroids feature)
+These command requirements can be found in the [Feature_Encyclopedia_Update Encyclopedia]
