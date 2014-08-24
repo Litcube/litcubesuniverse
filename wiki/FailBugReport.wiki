@@ -15,3 +15,4 @@ You're seeing this page because you reported a bug, question, or request that me
   # I know what you're reporting, and it's not a bug
   # There's wiki info that answers your question / bug
   # Your request is far from the spirit of LU
+  # (sincerely:) This is a bug worth reporting, thank you!
