@@ -22,6 +22,7 @@
   * (3) Fixed:  Scan Asteroids wasn't setting the asteroids to known
   * (3) Fixed:  One more check for Phanon traders and enemies
   * (3) Fixed:  STs were not respecting jump range (thanks, Raaaak)
+  * (3) Fixed:  STs has a few issues
   * (1) Fixed:  Debug spam, missile ROE
   * (-) Changed:  Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Changed:  Jumpdrive cores now registered from game start
