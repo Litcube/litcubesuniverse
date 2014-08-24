@@ -31,7 +31,7 @@ The Saturn Complex Hub must be fitted with all of the stations as would a regula
 
 _Keep in mind, there's a hotkey for a SCH Calculator that you can set. From here you can play around with all sizes of SCHs and see what the expected cost to setup your SCH will be (All without actually purchasing a SCH)_
 
-Fly a TL to Saturn 3. Dock at the shipyard in that sector. You'll see a whole load of Saturn Complex Hubs for sale. The number after the sale item is the "production" of the module itself. As a reference, M sized factories would be the equivalent of a Saturn Complex Hub 002, and an L sized factory would be the equivalent of a Saturn Complex Hub 005. They go all the way up to 400. Once deployed from your TL's cargo hold as you would a regular factory in a sector of your choosing (preferably with a lot of scanned asteroids, and I recommend an asteroid moving/combining script), select the command "Saturn Hub Console" under the command console of the station. A new, un-configured Saturn CH console looks like this: 
+Fly a TL to Saturn 3. Dock at the shipyard in that sector. You'll see a whole load of Saturn Complex Hubs for sale. The number after the sale item is the "production" of the module itself. As a reference, M sized factories would be the equivalent of a Saturn Complex Hub 002, and an L sized factory would be the equivalent of a Saturn Complex Hub 005. They go all the way up to 400. Once deployed from your TL's cargo hold as you would a regular factory in a sector of your choosing (preferably with a lot of scanned asteroids), select the command "Saturn Hub Console" under the command console of the station. A new, un-configured Saturn CH console looks like this: 
 
 http://www.mediafire.com/convkey/8fb8/98nbeyn998hntc8fg.jpg
 
@@ -89,4 +89,3 @@ If everything in this pane is green, and you see the "Engage", you're ready to p
 = Move Logistics =
 
 There's a handy station command called _move logistics_ that enables you to move all your station agents, trade report, and station settings to another station.  This is useful for when you're upgrading your SCH to a larger size.  When you have your new one setup, run the move logistics command on the old SCH, and move logistics to the new one.  All your station agents will start using the new station, station settings will be moved, and so will the trade report.  Dockware manager sources will also be moved to the new station.
-
