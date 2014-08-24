@@ -20,10 +20,12 @@
   * (3) Fixed:  Selling missiles/shields to equipment docks was being recorded in the trade reports properly.
   * (3) Fixed:  Scan Asteroids wasn't setting the asteroids to known
   * (3) Fixed:  One more check for Phanon traders and enemies
+  * (3) Fixed:  STs were not respecting jump range
   * (1) Fixed:  Debug spam, missile ROE
   * (-) Changed:  Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Changed:  Jumpdrive cores now registered from game start
   * (-) Changed:  UTs now refuel if jump energy is less than 8 jumps before going for a buy run
+  * (-) Changed:  Script command get station best (sell/buy) price updated to include start sector; script kiddies ensure you update your scripts if you used this
   * (-) Upgraded:  Optimized get station best price, security checks, agent behaviour
   * (-) Upgraded:  New script command: is named script on stack of task=
   * (-) Upgraded:  New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
