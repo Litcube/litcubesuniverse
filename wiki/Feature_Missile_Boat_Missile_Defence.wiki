@@ -6,6 +6,8 @@ When an M8's missile turret is set to _Missiles Only_, it will monitor all ships
 
 If any missiles are targeting a monitored ship, the M8 will fire a mosquito at the incoming missile.  Mosquitoes are no ordinary missiles; they're lightning quick, and carry a very generous proximity fuse.  Any missile that comes within a few hundred meters of a mosquito is destroyed.
 
+As an added benefit to the upgraded mosquito missile, when fired, they will target the nearest incoming missile, regardless of current target.
+
 
 
 
