@@ -25,6 +25,7 @@
   * (3) Fixed:  Docking ship could become stuck if timed right and carrier had carrier command software
   * (3) Fixed:  Carrier command software could allow more than able to dock with external docking ports.
   * (3) Fixed:  STs has a few issues
+  * (3) Fixed:  Missile chaff: mosquito missile ROF reduced, increased flash/destruction speed, eliminated spam exploit
   * (1) Fixed:  Debug spam, missile ROE
   * (-) Changed:  Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Changed:  Jumpdrive cores now registered from game start
@@ -36,7 +37,7 @@
   * (-) Upgraded:  New script command: needed jump drive energy for jumps
   * (-) Upgraded:  New script command: max jump range based on cargo energy
   * (-) Upgraded:  Reaper go home hotkey now reports and unloads as though it finished (will finish getting current ware first)
-
+  * (-) Upgraded:  Missile chaff: Mosquito missiles, when fired, will target the nearest incoming missile, regardless of current target
 
 
 ----
