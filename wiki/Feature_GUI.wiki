@@ -20,6 +20,8 @@ Secondly, there's a few not-so-obvious changes:
   * Script list in the first MSCI menu is now sorted.
   * Main weapon HUD shows current cockpit view
 
+NOTE: TrixX's GUIs are only available through the separate GUI installer available on the [02_Download_Instructions download page].
+
 ==Alternate GUIs==
 
 ===Quartz, The Default===
@@ -53,5 +55,39 @@ http://www.mediafire.com/convkey/6f84/ks1thl427ed6k2zfg.jpg
 ===Topaz===
 
 http://www.mediafire.com/convkey/cd7e/1uml8aczx2gen0tfg.jpg
-  
-  
+
+===TrixX's Azure===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/azures.jpg
+
+===TrixX's Emerald===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/emeralds.jpg
+
+===TrixX's Kyanite===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/kyanites.jpg
+
+===TrixX's Malachite===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/malachites.jpg
+
+===TrixX's Opal===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/opals.jpg
+
+===TrixX's Quartz===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/quartzs.jpg
+
+===TrixX's Sapphire===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/sapphires.jpg
+
+===TrixX's Tigereyes===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/tigereyes.jpg  
+
+===TrixX's Topaz===
+
+http://www.wmwiki.com/hosted/ja2/X3%20Stuff/Previews/LU%20UI%20Shots/topazs.jpg
