@@ -31,6 +31,7 @@
   * (-) Changed:  Jumpdrive cores now registered from game start
   * (-) Changed:  UTs now refuel if jump energy is less than 8 jumps before going for a buy run
   * (-) Changed:  Script command get station best (sell/buy) price updated to include start sector; script kiddies ensure you update your scripts if you used this
+  * (-) Changed:  Removed "DINK" sounds from FLC and agent level up
   * (-) Upgraded:  Optimized get station best price, security checks, agent behaviour
   * (-) Upgraded:  New script command: is named script on stack of task=
   * (-) Upgraded:  New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
@@ -38,6 +39,7 @@
   * (-) Upgraded:  New script command: max jump range based on cargo energy
   * (-) Upgraded:  Reaper go home hotkey now reports and unloads as though it finished (will finish getting current ware first)
   * (-) Upgraded:  Missile chaff: Mosquito missiles, when fired, will target the nearest incoming missile, regardless of current target
+  * (-) Upgraded:  New message displays for EI, various user errors, quickshuttle feedback
 
 
 ----
