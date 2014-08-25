@@ -13,8 +13,9 @@ In LU (Since version 1.3.2) the following objects support local variables:
  * Sector
  * Asteroid/Debris
  * Gate
+ * Race (Since version 1.3.3)
 
-Coming in LU 1.3.3 Race objects will support local variables, example:
+In LU 1.3.3 Race objects gained support for local variables, example:
 {{{
  $Race = [Argon]
  $Race->set local variable: name='test' value=42
