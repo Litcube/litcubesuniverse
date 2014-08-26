@@ -22,8 +22,7 @@ Add Galaxy and Zone map key functionality to Sector Security Complaints list ([h
 
 Add audio notification to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422221#4422221 OP])
 
-Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390
- OP])
+Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
 
 Explorer Command Software naming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422393#4422393 OP])
 
