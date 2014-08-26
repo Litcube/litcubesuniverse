@@ -7,16 +7,12 @@
 ----
 == Bug Reports ==
 
-Various LT/UT issues ([http://forum.egosoft.com/viewtopic.php?p=4421500#4421500 OP]) ~Lit
-
 Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=4422319#4422319 OP]) plus vukica reply
 
 Potentially miss-matched voices ([http://forum.egosoft.com/viewtopic.php?p=4422337#4422337 OP])
 
 ----
 == Suggestions ==
-
-Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
 Add Galaxy and Zone map key functionality to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422150#4422150 OP])
 
