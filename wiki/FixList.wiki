@@ -11,6 +11,8 @@ Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=442
 
 Potentially miss-matched voices ([http://forum.egosoft.com/viewtopic.php?p=4422337#4422337 OP])
 
+Ship ordered to Travel To Sector not following a safe route ([http://forum.egosoft.com/viewtopic.php?p=4422541#4422541 OP])
+
 ----
 == Suggestions ==
 
@@ -21,6 +23,8 @@ Add audio notification to Sector Security Complaints list ([http://forum.egosoft
 Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
 
 Explorer Command Software naming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422393#4422393 OP])
+
+Explorer Command Software functionality suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422551#4422551 OP])
 
 ----
 == Rejected ==
