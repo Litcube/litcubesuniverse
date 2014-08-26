@@ -15,6 +15,20 @@ Keep in mind:
 
 FLC doesn't actually go above a visible amount until level 19 @ 15%.
 
-28		Legend	(500 000)<br>
-29		Hero	(700 000)<br>
-30		X-TREME	(1 000 000)<br>
+Rank / Title / (Points)<br>
+15		Instructor	(1 400)<br>
+16		Specialist	(2 000)<br>
+17		Fighter Chief	(2 500)<br>
+18		Master Chief	(6 000)<br>
+*19		Militant	(9 000)<br>
+20		Warrior		(16 000)<br>
+21		Assassin	(25 000)<br>
+22		Vindicator	(44 000)<br>
+23		Warlord		(60 000)<br>
+24		Crusader	(85 000)<br>
+25		Battlemaster	(140 000)<br>
+26		Conqueror	(280 000)<br>
+27		Overlord	(420 000)<br>
+28		Legend		(500 000)<br>
+29		Hero		(700 000)<br>
+30		X-TREME		(1 000 000)<br>
