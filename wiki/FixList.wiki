@@ -14,6 +14,10 @@
 
 Add dock capacity stats in station purchases display ([http://forum.egosoft.com/viewtopic.php?p=4417984#4417984 OP])
 
+Add Galaxy and Zone map key functionality to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422150#4422150 OP])
+
+Add audio notification to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422221#4422221 OP])
+
 ----
 == Rejected ==
 <br>
