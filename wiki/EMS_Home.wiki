@@ -12,7 +12,7 @@ you may discover missions while exploring purely out of the events that occur in
 
 EMS is not limited to only combat missions, coming in future updates are Trade and Build missions, special OCV missions and Exploration missions. EMS is also capable of creating story missions, if someone ever writes an actual plotline.
 
-EMS Also aims to eliminate the use of Menus's as much as possible when dealing with missions.
+EMS Also aims to eliminate the use of Menus as much as possible when dealing with missions.
 
 == Hoes does EMS work? ==
 
