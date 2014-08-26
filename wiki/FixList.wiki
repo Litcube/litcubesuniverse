@@ -7,7 +7,11 @@
 ----
 == Bug Reports ==
 
-[http://forum.egosoft.com/viewtopic.php?p=4421500#4421500 This] ~Lit
+Various LT/UT issues ([http://forum.egosoft.com/viewtopic.php?p=4421500#4421500 OP]) ~Lit
+
+Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=4422319#4422319 OP]) plus vukica reply
+
+Potentially miss-matched voices ([http://forum.egosoft.com/viewtopic.php?p=4422337#4422337 OP])
 
 ----
 == Suggestions ==
