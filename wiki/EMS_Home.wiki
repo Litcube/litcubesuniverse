@@ -10,7 +10,7 @@ EMS, meaning Emergent Mission System - is LU's official replacement mission syst
 EMS aims to make missions emergent within the universe, this means that rather then fly around from sector to sector contacting mission agents 
 you may discover missions while exploring purely out of the events that occur in the universe. Standard game play such as repelling a Xenon invasion becomes a mission, rather then spawning a group of random enemy's when you accept a mission EMS watches for what already happens in the universe to generate content for you.
 
-EMS is not limited to only combat missions, coming in future updates are Trade and Build missions, special OCV missions and Exploration missions unlike anything ever before seen in the X series. EMS is also capable of creating story missions, if someone ever writes an actual plotline.
+EMS is not limited to only combat missions, coming in future updates are Trade and Build missions, special OCV missions and Exploration missions. EMS is also capable of creating story missions, if someone ever writes an actual plotline.
 
 == Hoes does EMS work? ==
 
