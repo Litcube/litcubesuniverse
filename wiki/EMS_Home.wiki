@@ -1,4 +1,4 @@
-#EMS - Emergent Mission System
+#summary EMS - Emergent Mission System
 = What Is EMS? =
 =(currently unreleased)=
 == Overview ==
