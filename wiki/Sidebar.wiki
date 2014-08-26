@@ -57,5 +57,19 @@
     * [EMS_Download Download]
     * [EMS_Changelog Change Log]
     * [EMS_Documentation Scripting Documentation]
-      * [EMS_Tutorials Tutorials]
-      * [EMS_ScriptList Script Index]
+      * [EMS_Tutorials Tutorials & Resources]
+        * Basic:
+        *   [EMS_Tut_Anatomy Anatomy of a Mission]
+        *   [EMS_Tut_Structure Script Structure]
+        *   [EMS_Tut_Events Script Event List]
+        *   [EMS_Tut_Debugging Debugging with IceCore]
+        * Intermediary:
+        *   [EMS_Tut_Tables Tables]
+        *   [EMS_Tut_Signals Signal Handling]
+        *   [EMS_Tut_CustomEvents Custom Events]
+        * Advanced:
+        *   [EMS_Tut_EMSML EMSML Markup Language]
+        *   [EMS_Tut_Icons Mission Icons]
+        *   [EMS_Tut_UnitList Unit Lists]
+        *   [EMS_Tut_DLLOverlay DLL Overlay]
+     *  [EMS_ScriptList Script Index]
