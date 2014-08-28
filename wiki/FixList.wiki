@@ -7,7 +7,7 @@
 ----
 == Bug Reports ==
 
-Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=4422319#4422319 OP]) plus vukica reply
+Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=4422319#4422319 OP] + [http://forum.egosoft.com/viewtopic.php?p=4422328#4422328 vukica reply])
 
 Potentially miss-matched voices ([http://forum.egosoft.com/viewtopic.php?p=4422337#4422337 OP])
 
