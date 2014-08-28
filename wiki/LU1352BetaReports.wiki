@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= LU 1.3.5.2 Beta Reports =
+
+==E/I (1.3.5.2 --> 1.3.5.2 Only)==
+
+Tug doesn't restart ([https://www.dropbox.com/s/2njkifwj6kr5adl/X02.sav?dl=0 Pre-Export Save] | [https://www.dropbox.com/s/zikv9tbg3fw96zp/X03.sav?dl=0 Post-Export Save] | [https://www.dropbox.com/s/r8pxk19zr9r5pip/8382-L044.xml?dl=0 Export File])
+
+Freighters/Dock Agents ignore wares in cargo from pre-export, meaning they can be useless after E/I without manual intervention (full cargo, maybe same cleanup as ST/UT?) ([https://www.dropbox.com/s/2njkifwj6kr5adl/X02.sav?dl=0 Pre-Export Save] | [https://www.dropbox.com/s/zikv9tbg3fw96zp/X03.sav?dl=0 Post-Export Save] | [https://www.dropbox.com/s/r8pxk19zr9r5pip/8382-L044.xml?dl=0 Export File]))
+
+Ships moved to player owned station by import still show on sector map as undocked ([https://www.dropbox.com/s/2njkifwj6kr5adl/X02.sav?dl=0 Pre-Export Save] | [https://www.dropbox.com/s/zikv9tbg3fw96zp/X03.sav?dl=0 Post-Export Save] | [https://www.dropbox.com/s/r8pxk19zr9r5pip/8382-L044.xml?dl=0 Export File] | [http://imgur.com/a/mQG1M#0 Screenshots])
+
+==Gameplay==
