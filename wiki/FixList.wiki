@@ -11,9 +11,9 @@ Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=442
 
 Potentially miss-matched voices ([http://forum.egosoft.com/viewtopic.php?p=4422337#4422337 OP])
 
-Ship ordered to Travel To Sector not following a safe route ([http://forum.egosoft.com/viewtopic.php?p=4422541#4422541 OP])
-
 Washi is see-through, from a certain point of view ([http://forum.egosoft.com/viewtopic.php?p=4422177#4422177 OP] /  [http://forum.egosoft.com/viewtopic.php?p=4422804#4422804 further info])
+
+Potential issue with multiple message logs for "Cmdwing action many" ([http://forum.egosoft.com/viewtopic.php?p=4423102#4423102 OP] /  [http://forum.egosoft.com/viewtopic.php?p=4423094#4423094 game setup info])
 
 ----
 == Suggestions ==
