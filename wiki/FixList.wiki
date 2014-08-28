@@ -19,6 +19,8 @@ Wiki-based report: "game language changed to polish" ([https://code.google.com/p
 
 Older Wiki-based report: "Hide UTs command doesn't work" ([https://code.google.com/p/litcubesuniverse/issues/detail?id=1 OP])
 
+Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP])
+
 ----
 == Suggestions ==
 
