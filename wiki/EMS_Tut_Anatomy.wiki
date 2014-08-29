@@ -17,7 +17,7 @@ There are 4 potential parts to every mission, a brief overview is given here, mo
 
   Mission scripts function in much the same was as Generators do, however instead of handling global signals, missions handle Local signals on objects and special events from the EMS core for monitoring what the player is doing.
 
-  Missions exist as instances, each mission is contained within its own mission array (see [EMS_ArrayDocs Array Docs] for the structure) - the mission script is always called with an mission instance as its first argument. More information can be found in the article [EMS_Tut_Structure Script Structure]
+  Missions exist as instances, each mission is contained within its own mission array (see [EMS_ArrayDocs Array Docs] for the structure) - the mission script is always called with an mission instance as its first argument. More information about script arguments be found in the article [EMS_Tut_Structure Script Structure].
 
  * == Setup Script ==
 
