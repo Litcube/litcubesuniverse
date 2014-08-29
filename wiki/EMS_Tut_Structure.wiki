@@ -28,6 +28,7 @@ Event_2:
 endsub
 }}}
 == Template Code ==
+Below are templates for the creation of Generators or Mission Scripts.
 For more information about each of the events, see the [EMS_Tut_Events Script Event List].
 === Generator ===
  * Generator : Generator Instance Array
@@ -165,4 +166,3 @@ endsub
 * *******************************************
 return null
 }}}
-
