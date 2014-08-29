@@ -18,14 +18,14 @@ EMS Also aims to eliminate the use of Menus as much as possible when dealing wit
 
 So, you may be asking, if you never use a menu and accept a mission, how do you - well, accept a mission?
 
-The answer is you dont, Not in the same sense as what you do currently. In your travels you will come across missions, these missions will be displayed in a brand new interface on the right side of the screen (See Fig 1a). The new interface will tell you a brief description of what is involved in the missions and its your choose to act on that mission, or not.
+The answer is you dont, Not in the same sense as what you do currently. In your travels you will come across missions, these missions will be displayed in a brand new interface on the right side of the screen (See Fig 1a). The new interface will tell you a brief description of what is involved in the missions and its your choice to act on that mission, or not.
 
 
 http://i.imgur.com/k0pQcXO.png
 
 (Fig 1a - GUI Version Litcubes Malachite)
 
-You are given the choose - Do, or Do Not (There is no try!). If you do, you are rewarded, if you do not - shame on you for letting that poor transport die. 
+You are given the choice - Do, or Do Not (There is no try!). If you do, you are rewarded, if you do not - shame on you for letting that poor transport die. 
 
 Of coarse, some missions do need some sort of menu, such as to buy a ship - These missions will have menus that give the most information without fuss in the simplest menu possible and will be accessible via a universal hot-key that is context sensitive to the object your targeting.
 
