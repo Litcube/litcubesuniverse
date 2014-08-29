@@ -21,4 +21,6 @@ Templates saving wrong number of energy cells (templated ship has 990, set to re
 ARRAY message (with turret commands as two members) when applying a template
 
 ==Mechanics==
-Automatic Satellite deployment does not recognize Phanon as hostile, and therefore always gets destroyed when attempting to drop a sat in their home sector (maybe a sector/race/unknown sector blacklist feature?
+Automatic Satellite deployment does not recognize Phanon as hostile, and therefore always gets destroyed when attempting to drop a sat in their home sector (maybe a sector/race/unknown sector blacklist feature?)
+
+Setting Large Capacities in the Dockware Manager is tedius (1 at a time...)
