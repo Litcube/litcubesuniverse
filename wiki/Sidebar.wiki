@@ -62,6 +62,8 @@
         * [EMS_Tut_Structure Script Structure]
         * [EMS_Tut_Events Script Event List]
         * [EMS_Tut_Signals Signal Handling]
+        * [EMS_Tut_Primary_Object Primary Objects]
+        * [EMS_Tut_Updates Auto-Updates, Looping and Waits]
         * [EMS_Tut_Hello_World Basic Hello World Mission]
         * [EMS_Tut_Generator_Registration Registering a Basic Generator]
         * [EMS_Tut_CombatRewards Enabling Combat Rewards]
