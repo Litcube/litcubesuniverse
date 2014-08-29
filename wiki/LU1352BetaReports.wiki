@@ -14,7 +14,7 @@ Ships moved to player owned station by import still show on sector map as undock
 
 Using remote claim software, menu range is 5k while hotkey range is 4k ([https://www.dropbox.com/s/y5v7il92gs1y0qu/X07.sav?dl=0 Save])
 
-Templates saving wrong number of energy cells (templated ship has 990, set to refuel to 1000, template sets 400) ([https://www.dropbox.com/s/9zfa88l2m5jepdp/X01.sav?dl=0 Save])
+Templates saving wrong number of energy cells (templated ship has 990, set to refuel to 1000, template puts 400 in cargo) ([https://www.dropbox.com/s/9zfa88l2m5jepdp/X01.sav?dl=0 Save])
 
 ==Debug Messages==
 
