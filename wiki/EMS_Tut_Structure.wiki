@@ -78,7 +78,7 @@ endsub
 return null
 }}}
 
-=== MissionScript ===
+=== Mission Script ===
 Arguments:
  * Mission   : Mission Instance Array
  * eventName : String (Event Name)
