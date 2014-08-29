@@ -2,7 +2,7 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
-== NOTE: [http://forum.egosoft.com/viewtopic.php?p=4414640#4414640 Only accepting bug reports from LU vanilla games or games with LU designed additional scripts]. ==
+== NOTE 640 Only accepting bug reports from LU vanilla games or games with LU designed additional scripts]. ==
 
 ----
 == Bug Reports ==
@@ -16,6 +16,11 @@ Washi is see-through, from a certain point of view ([http://forum.egosoft.com/vi
 Potential issue with multiple message logs for "Cmdwing action many" ([http://forum.egosoft.com/viewtopic.php?p=4423102#4423102 OP] /  [http://forum.egosoft.com/viewtopic.php?p=4423094#4423094 game setup info])
 
 Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP]) - Litcube
+
+Mistral SF has cockpit inside model and blocked view ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP])
+
+Some ships seem to have wonky turret models/rendering ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP] and next two replies)
+
 
 ----
 == Suggestions ==
