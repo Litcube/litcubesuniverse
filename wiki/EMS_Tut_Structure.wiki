@@ -1,7 +1,7 @@
 #summary Structure of an EMS Mission or Generator
 
-= EMS Script Structure =
-Both EMS Generators and Mission Scripts share a common structure, Because EMS is based around event driven programming, each event received by the script is dispatched to a subroutine.
+= Script Structure =
+Both Generators and Mission Scripts share a common structure, Because EMS is based around event driven programming, each event received by the script is dispatched to a subroutine.
 
 The general structure of the scripts are as follows:
 
