@@ -21,3 +21,4 @@ Templates saving wrong number of energy cells (templated ship has 990, set to re
 ARRAY message (with turret commands as two members) when applying a template
 
 ==Mechanics==
+Automatic Satellite deployment does not recognize Tandi-Tech as hostile, and therefore always gets destroyed in their sector.
