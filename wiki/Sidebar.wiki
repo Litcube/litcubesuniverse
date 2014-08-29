@@ -60,7 +60,7 @@
       * [EMS_Tutorials Tutorials & Resources]
         * [EMS_Tut_Anatomy Anatomy of a Mission]
         * [EMS_Tut_Structure Script Structure]
-        * [EMS_Tut_Events Script Event List]
+        * [EMS_Tut_Events EMS Event List]
         * [EMS_Tut_Signals Signal Handling]
         * [EMS_Tut_Primary_Object Primary Objects]
         * [EMS_Tut_Updates Auto-Updates, Looping and Waits]
