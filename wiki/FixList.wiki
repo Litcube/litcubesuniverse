@@ -21,8 +21,6 @@ Mistral SF has cockpit inside model and blocked view ([http://forum.egosoft.com/
 
 Some ships seem to have wonky turret model/rendering ([http://forum.egosoft.com/viewtopic.php?p=4423503#4423503 OP] and several replies)
 
-Filter to hide wings in property menu ([http://forum.egosoft.com/viewtopic.php?p=4423918#4423918 OP])
-
 SCH not handling ore/silicon properly ([http://forum.egosoft.com/viewtopic.php?p=4421700#4421700 OP]) -Save sent via email
 
 Earth gate name and location don't match ([http://forum.egosoft.com/viewtopic.php?p=4424173#4424173 OP])
@@ -46,6 +44,8 @@ New hotkey for chaff ([http://forum.egosoft.com/viewtopic.php?p=4423566#4423566 
 Make OCV stations spawn with full shields ([http://forum.egosoft.com/viewtopic.php?p=4424076#4424076 OP])
 
 Two suggestions for hire-able TLs ([http://forum.egosoft.com/viewtopic.php?p=4424182#4424182 OP])
+
+Filter to hide wings in property menu ([http://forum.egosoft.com/viewtopic.php?p=4423918#4423918 OP])
 
 ----
 == Rejected ==
