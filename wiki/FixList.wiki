@@ -25,6 +25,7 @@ Filter to hide wings in property menu ([http://forum.egosoft.com/viewtopic.php?p
 
 SCH not handling ore/silicon properly ([http://forum.egosoft.com/viewtopic.php?p=4421700#4421700 OP]) -Save sent via email
 
+Earth gate name and location don't match ([http://forum.egosoft.com/viewtopic.php?p=4424173#4424173 OP])
 ----
 == Suggestions ==
 
