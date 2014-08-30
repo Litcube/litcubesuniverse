@@ -19,6 +19,8 @@ Templates saving wrong number of energy cells (templated ship has 990, set to re
 (Sinnerman) Fighter with low shields docks at carrier and does not recharge while docked 
 ([https://www.dropbox.com/s/gl0rwc6b34mwz71/X03.sav?dl=0 Save])
 
+OCV Target sound (foghorn) plays in all sectors
+
 ==Debug Messages==
 
 ARRAY message (with turret commands as two members) when applying a template
