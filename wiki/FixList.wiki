@@ -27,9 +27,9 @@ Earth gate name and location don't match ([http://forum.egosoft.com/viewtopic.ph
 
 Stations missing explosion effects
 
-Issue with Wings and Jumpgate Quantifer ([http://forum.egosoft.com/viewtopic.php?p=4424386#4424386] OP)
+Issue with Wings and Jumpgate Quantifer ([http://forum.egosoft.com/viewtopic.php?p=4424386#4424386 OP])
 
-Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388] OP)
+Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388 OP])
 
 ----
 == Suggestions ==
