@@ -43,7 +43,7 @@ Events are categorized into one of three category's:
    * Event Args: Target Sector
    The PLAYER_CHANGESECTOR event is fired whenever the _PLAYERSHIP_ changes sector.
 
- * EVENT_MISSION_ENDED _(<font color="green">Asynchronous</font>)_
+ * EVENT_MISSION_ENDED _(<font color="blue">Synchronous</font>)_
    * Event Args: String ('SUCCESS' | 'FAIL' | 'ENDED')
    The MISSION_ENDED event is fired whenever icdm.mission.end is called, the event argument contains the ending case of whether the mission failed, succeed or ended neutrally.
 
@@ -62,4 +62,3 @@ Events are categorized into one of three category's:
    * Event Aargs: The mission amalgamating this one.
    * Retrun Value: TRUE = Dont end the mission | FALSE = Inverse True
    The MISSION_AMALGAMATED event is fired when another mission amalgamates this one, for more information about mission amalgamation see the [EMS_Tut_Amalgamation Handling Amalgamation] article.
-
