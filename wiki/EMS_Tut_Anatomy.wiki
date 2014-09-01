@@ -4,7 +4,8 @@
 There are 4 potential parts to every mission, a brief overview is given here, more details are provided in the tutorials that follow.
 
  * == Generator ==
-  
+  _(ScriptName: icdm.module.[[ModuleName]].generator)_
+
   A Generator, as the name suggests - is the part responsible for creation of missions, it can accomplish its goal in one of two ways:
 
   The Generator can act as an AL with a timed update, the update can be used to run scans of the game state to determine whether a mission should be created. Using actual AL's for this job is not reccomended, Generators should be prefered over AL's for reasons that will be outlined in the articles [EMS_Tut_CustomEvents Custom Events] and [EMS_Tut_Events Script Event List].
@@ -12,6 +13,7 @@ There are 4 potential parts to every mission, a brief overview is given here, mo
   The Generator can also receive global game signals, EMS events, IceCore System events and Custom events (which we will cover later) - from now on all forms of signal or event will simply be referred to as "events".
 
  * == Mission Script ==
+  _(ScriptName: icdm.module.[[ModuleName]].missionscript)_
 
   The mission script is the actual code that runs your mission, if your mission has more then one stage it is quite possible that you could have more then one mission script for your missions.
 
@@ -20,9 +22,11 @@ There are 4 potential parts to every mission, a brief overview is given here, mo
   Missions exist as instances, each mission is contained within its own mission array (see [EMS_ArrayDocs Array Docs] for the structure) - the mission script is always called with an mission instance as its first argument. More information about script arguments be found in the article [EMS_Tut_Structure Script Structure].
 
  * == Setup Script ==
+  _(ScriptName: setup.icdm.module.[[ModuleName]])_
 
   An setup script is used to register your mission generators with the EMS core, usually this is all the setup script does as any further intiliasion should be performed within the Generator on EVENT_SETUP or EVENT_ON_SAVE_LOADED. See the [EMS_Tut_Events Script Event List] for more information on events.
 
  * == Init Script ==
+  _(ScriptName: init.icdm.module.[[ModuleName]])_
   
   Init scripts are an often underutilized feature of the X scripting engine, these scripts are called before the the job engine starts up and before the player ships is created (providing this is a new game load). They are always called before setup scripts. If there is anything that must be done before any setup scripts are called then it should be done in an init script. Init scripts also help you overcome the problem of "Well, what if this setup script isn't run before mine?".
