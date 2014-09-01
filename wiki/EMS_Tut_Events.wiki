@@ -49,9 +49,9 @@ Events are categorized into one of three category's:
 
  * EVENT_PRIMARYOBJECT_LOST _(<font color="red">Real Time</font>)_
    * Event Args: ARRAY
-     * [0] String ('KILLED' | 'BAILED')
-     * [1] Primary Object
-     * [2] Killer/Attacker
+     * [[0]] String ('KILLED' | 'BAILED')
+     * [[1]] Primary Object
+     * [[2]] Killer/Attacker
    The PRIMARYOBJECT_LOST event is fired whenever the missions primary object either bails, or is killed. Ideally you should select a new primary object (or primary location) or end the mission if no primary object could be determined. While missions can exist without primary objects, the player will only know of there existence via the missions sphere of influence, which extends from the primary objects location.
 
  * EVENT_PRIMARYOBJECT_CHANGESECTOR _(<font color="red">Real Time</font>)_
@@ -62,6 +62,4 @@ Events are categorized into one of three category's:
    * Event Aargs: The mission amalgamating this one.
    * Retrun Value: TRUE = Dont end the mission | FALSE = Inverse True
    The MISSION_AMALGAMATED event is fired when another mission amalgamates this one, for more information about mission amalgamation see the [EMS_Tut_Amalgamation Handling Amalgamation] article.
-
-
 
