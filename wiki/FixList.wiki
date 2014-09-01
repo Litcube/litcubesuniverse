@@ -23,7 +23,7 @@ Some ships seem to have wonky turret model/rendering ([http://forum.egosoft.com/
 
 SCH not handling ore/silicon properly ([http://forum.egosoft.com/viewtopic.php?p=4421700#4421700 OP]) -Save sent via email
 
-Earth gate name and location don't match ([http://forum.egosoft.com/viewtopic.php?p=4424173#4424173 OP])
+Earth sector's gate name and location don't match ([http://forum.egosoft.com/viewtopic.php?p=4424173#4424173 OP])
 
 Stations missing explosion effects
 
@@ -31,6 +31,7 @@ Issue with Wings and Jumpgate Quantifer ([http://forum.egosoft.com/viewtopic.php
 
 Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388 OP])
 
+Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP] and reported previously)
 ----
 == Suggestions ==
 
