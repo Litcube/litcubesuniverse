@@ -31,6 +31,8 @@ Issue with Wings and Jumpgate Quantifer ([http://forum.egosoft.com/viewtopic.php
 
 Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388 OP])
 
+Ships docking at some owned docks not refuelling as expected ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP])
+
 Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP] and reported previously)
 ----
 == Suggestions ==
