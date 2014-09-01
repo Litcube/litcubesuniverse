@@ -72,6 +72,8 @@ And thats it! - Now, when our Nav Beacon is destroyed our mission will recieve t
   = [THIS]->call script 'icdm.mission.unregsignal': targetMission=$Mission targetObject=$navBeacon signal=[SIGNAL_ATTACKED]
 }}}
 
+As a bonus, Mission Signals are automatically unregistered when the mission ends, meaning that you may never have to worry about unregistered the signal depending apon its purpose and your requirements.
+
 This is a very simple yet powerful system which you can use to receive events based on game signals. The following signals are supported:
 
  * SIGNAL_ATTACKED
