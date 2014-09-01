@@ -2,7 +2,7 @@
 
 = Event Information =
 Events are categorized into 1 of three categorys:
- * <font colour="color">Real Time</font>
+ * <font color="color">Real Time</font>
    Real Time events must return *as fast as possible* without *any waits*, all loops *must be written ensure they end* - Real Time events are usually thoes that originate from Signals, as such they cannot have any waits or you will create errors in the engine and save-game that may be unrecoverable.
 
 = Generator Events =
