@@ -1,9 +1,14 @@
 #summary List of EMS script events.
-
 = Event Information =
 Events are categorized into 1 of three categorys:
- * <font color="color">Real Time</font>
+ * <font color="red">Real Time</font>
    Real Time events must return *as fast as possible* without *any waits*, all loops *must be written ensure they end* - Real Time events are usually thoes that originate from Signals, as such they cannot have any waits or you will create errors in the engine and save-game that may be unrecoverable.
+
+ * <font color="orange">Synchronous</font>
+   Synchronous events are, as the name suggests, called synchronously. They are allowed to use waits but any loops sure be written to ensure they exit, preferably as soon as possible. Synchronous calls should limit waits as much as possible to prevent the calling task from waiting too long.
+
+ * <font color="green">Asynchronous</font>
+   Asynchronous events are started Asynchronously meaning they do not have a calling task that can get held up, Asynchronous events can use loops, waits and can otherwise run forever, tho unless its an UPDATE event, it is generally recommended to exit the event within a reasonable amount of time.
 
 = Generator Events =
 
