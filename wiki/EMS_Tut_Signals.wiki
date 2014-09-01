@@ -2,7 +2,7 @@
 
 = Signals =
 
-Normally when writing missions and AL's for X, Signals are a heavily used feature of the games engine, in EMS this is no exception, However the way in which you use signals changes in EMS. EMS has special signal dispatching for Mission Scripts that hides the spesifics of the signals and allows you to get down to buisness with coding the actual mission rather then writing the signal framework.
+Normally when writing missions and AL's for X, Signals are a heavily used feature of the games engine, in EMS this is no exception, However the way in which you use signals changes. EMS has special signal dispatching for Mission Scripts that hides the spesifics of the signals and allows you to get down to buisness with coding the actual mission rather then writing the signal framework.
 
 Mission's only deal with Local signals on object, To deal with Global signals this is where generators come into play. 
 
