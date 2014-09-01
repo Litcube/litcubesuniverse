@@ -33,7 +33,7 @@ Using Trade Product Search can circumvent Race Rank requirements ([http://forum.
 
 Ships docking at some owned docks not refuelling as expected ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP])
 
-Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP] and reported previously)
+Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP]; reported previously; [http://forum.egosoft.com/viewtopic.php?p=4424780#4424780 reply])
 ----
 == Suggestions ==
 
