@@ -47,7 +47,7 @@ event_onSaveLoaded:
 endsub
 }}}
 
-You may be asking, why do you unregistered the signal and then register it? - this is a good habit to get into when dealing with global signals as the signal script gets cached into the save-game, if you make any changes to the signal script after its re-registered they wont be reflected until the signal is unregistered and re-registered.
+You may be asking, why do you unregistered the signal and then register it? - this is a good habit to get into when dealing with global signals as the signal script gets cached into the save-game, if you make any changes to the signal script after its registered they wont be reflected until the signal is unregistered and re-registered.
 
 After reading the below heading about Mission Script signals you may be wondering why the generator global signals are so convoluted to use. The answer is simple - Global signals have multiple diffrent states they can be in, signified by the "race" and "class" arguments provided to the register command. Because of this they are not easy to dispatch to the right places in the same way that local signals are and for the sake of performance signal dispatching for generators was not included.
 
