@@ -31,9 +31,10 @@ Issue with Wings and Jumpgate Quantifer ([http://forum.egosoft.com/viewtopic.php
 
 Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388 OP])
 
-Ships docking at some owned docks not refuelling as expected ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP])
+Ships docking at some owned docks not refueling as expected ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP])
 
-Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP]; reported previously; [http://forum.egosoft.com/viewtopic.php?p=4424780#4424780 reply])
+Multiple MLCC docks will use overlapping auto-names ([http://forum.egosoft.com/viewtopic.php?p=4424597#4424597 OP]) 
+
 ----
 == Suggestions ==
 
@@ -83,7 +84,7 @@ Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php
 ===*Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])*===
   Vanilla style missions are no longer supported with the coming EMS and Joubarbe's X-Missions.
 
-
+===*Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP]; reported previously; [http://forum.egosoft.com/viewtopic.php?p=4424780#4424780 reply])
 
 <br>
 ----
