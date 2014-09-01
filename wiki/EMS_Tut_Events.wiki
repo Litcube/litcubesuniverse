@@ -1,6 +1,6 @@
 #summary List of EMS script events.
 = Event Information =
-Events are categorized into 1 of three categorys:
+Events are categorized into one of three category's:
  * <font color="red">Real Time</font>
    Real Time events must return *as fast as possible* without *any waits*, all loops *must be written ensure they end* - Real Time events are usually thoes that originate from Signals, as such they cannot have any waits or you will create errors in the engine and save-game that may be unrecoverable.
 
@@ -12,4 +12,56 @@ Events are categorized into 1 of three categorys:
 
 = Generator Events =
 
+ * EVENT_SETUP _(<font color="red">Real Time</font>)_
+   The SETUP Event is fired only once, when a generator is registered to the system for the very first time. Do not confuse this event with the SAVE_LOADED event.
+
+ * EVENT_UPDATE _(<font color="green">Asynchronous</font>)_
+   The UPDATE event is fired for each update interval, more information about updates is available in the article [EMS_Tut_Updates Auto-Updates, Looping and Waits].
+
+ * EVENT_ON_SAVE_LOADED _(<font color="red">Real Time</font>)_
+   The SAVE_LOADED event is fired each time the player loads a savegame, including the very first time the game starts.
+
+ * EVENT_ON_PLAYER_CHANGESECTOR _(<font color="red">Real Time</font>)_
+   The PLAYER_CHANGESECTOR event is called every time the _PLAYERSHIP_ changes sector.
+
 = Mission Script Events =
+
+ * EVENT_SETUP _(<font color="green">Asynchronous</font>)_
+   The SETUP event is fired whenever the mission is started, the SETUP event can also be called if the mission script of the mission has changed via the use of icdm.mission.set.missionscript.
+    
+ * EVENT_UPDATE _(<font color="green">Asynchronous</font>)_
+   The UPDATE event is fired for each update interval, more information about updates is available in the article [EMS_Tut_Updates Auto-Updates, Looping and Waits].
+
+ * EVENT_ON_PLAYER_ENTER_AREA _(<font color="blue">Synchronous</font>)_
+   * Return Value: TRUE = Show Mission On Overlay | FALSE = Inverse True
+   The PLAYER_ENTER_AREA event is fired when the player enters the missions sphere of influence, if the return value is TRUE, the mission will be shown on the right side of the screen overlay.
+
+ * EVENT_ON_PLAYER_LEAVE_AREA _(<font color="blue">Synchronous</font>)_
+   The PLAYER_LEAVE_AREA is fired when the player leaves the missions sphere of influence - if the mission was on the right screen overlay, it will now be removed regardless of return value.
+
+ * EVENT_ON_PLAYER_CHANGESECTOR _(<font color="red">Real Time</font>)_
+   * Event Args: Target Sector
+   The PLAYER_CHANGESECTOR event is fired whenever the _PLAYERSHIP_ changes sector.
+
+ * EVENT_MISSION_ENDED _(<font color="green">Asynchronous</font>)_
+   * Event Args: String ('SUCCESS' | 'FAIL' | 'ENDED')
+   The MISSION_ENDED event is fired whenever icdm.mission.end is called, the event argument contains the ending case of whether the mission failed, succeed or ended neutrally.
+
+ * EVENT_PRIMARYOBJECT_LOST _(<font color="red">Real Time</font>)_
+   * Event Args: ARRAY
+     * [0] String ('KILLED' | 'BAILED')
+     * [1] Primary Object
+     * [2] Killer/Attacker
+   The PRIMARYOBJECT_LOST event is fired whenever the missions primary object either bails, or is killed. Ideally you should select a new primary object (or primary location) or end the mission if no primary object could be determined. While missions can exist without primary objects, the player will only know of there existence via the missions sphere of influence, which extends from the primary objects location.
+
+ * EVENT_PRIMARYOBJECT_CHANGESECTOR _(<font color="red">Real Time</font>)_
+   * Event Args: Target Sector
+   The PRIMARYOBJECT_CHANGESECTOR event is fired whenever the mission _Primary Object_ switches sector.
+
+ * EVENT_ON_MISSION_AMALGAMATED _(<font color="red">Real Time</font>)_
+   * Event Aargs: The mission amalgamating this one.
+   * Retrun Value: TRUE = Dont end the mission | FALSE = Inverse True
+   The MISSION_AMALGAMATED event is fired when another mission amalgamates this one, for more information about mission amalgamation see the [EMS_Tut_Amalgamation Handling Amalgamation] article.
+
+
+
