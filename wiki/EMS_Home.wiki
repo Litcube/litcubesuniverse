@@ -36,4 +36,4 @@ EMS contains several incompatibilities, Other mission systems (including the van
 
 The other reason for separating EMS from the LU core download is that EMS currently only functions on windows versions of the game, this is due to how EMS renders its new UI - However, it should still function under Wine. This questionable multi-platform support is the main reason for the seperate download, in the future we hope to have a Linux native solution but that wont be for some time yet.
 
-While EMS is an addon download, full support will be given to users running EMS as if they were running LUV. Please make note of the fact that your using EMS in your save games that get posted as part of bug reports so that they may be properly debugged.
+While EMS is an addon download, full support will be given to users running EMS as if they were running LUV. Please make note of the fact that you're using EMS in you're save games that get posted as part of bug reports so that they may be properly debugged.
