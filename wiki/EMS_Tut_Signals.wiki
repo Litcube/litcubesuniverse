@@ -53,7 +53,7 @@ After reading the below heading about Mission Script signals you may be wonderin
 
 = Mission Script Local Signals =
 
-Missions use local signals, these signals can be very useful to track events in your mission. For the sake of this example were going to use a Nav Beacon, which we want to know when it has been destroyed. For this example we are going to assume that the Nav Beacon is not the missions Primary Object, as if it was the primary object of the mission we could simply track this via the use of the event EVENT_ON_PRIMARYOBJECT_LOST.
+Missions use local signals, these signals can be very useful to track events in your mission. For the sake of this example were going to use a Nav Beacon, which we want to know when it has been destroyed. For this example we are going to assume that the Nav Beacon is not the missions primary object, as if it was the primary object of the mission we could simply track this via the use of the event EVENT_ON_PRIMARYOBJECT_LOST.
 
 The first step is to create the nav beacon and then register the signal to it. We will do this in our example mission script's EVENT_SETUP event. 
 {{{
