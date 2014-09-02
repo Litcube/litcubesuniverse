@@ -27,7 +27,7 @@ http://i.imgur.com/k0pQcXO.png
 
 You are given the choice - Do, or Do Not (There is no try!). If you do, you are rewarded, if you do not - shame on you for letting that poor transport die. 
 
-Of coarse, some missions do need some sort of menu, such as to buy a ship - These missions will have menus that give the most information without fuss in the simplest menu possible and will be accessible via a universal hot-key that is context sensitive to the object your targeting.
+Of course, some missions do need some sort of menu, such as to buy a ship - These missions will have menus that give the most information without fuss in the simplest menu possible and will be accessible via a universal hot-key that is context sensitive to the object your targeting.
 
 == Why a seperate download? ==
 Why is EMS a seperate download and not built into the LUV base package?
