@@ -25,7 +25,7 @@ The reason the resolution on the timer is so lax is for performance reasons, if 
 
 = Looping and Waits =
 
-Because of how EMS performs its updates, you are free to run loops within the update even that last for the entire lifetime of the mission. You are free to wait as often as you like and take as long as you like within your missions update call.
+Because of how EMS performs its updates, you are free to run loops within the update that last for the entire lifetime of the mission. You are free to wait as often as you like and take as long as you like within your missions update call.
 
 If the update resolutions above are not good enough for your mission, say for example you absolutely require and update once every second, you are free to do the following:
 
