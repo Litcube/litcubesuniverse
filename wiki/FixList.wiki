@@ -2,7 +2,7 @@
 
 = Shit Litcube Needs to Consider When He Gets Home =
 
-== NOTE 640 Only accepting bug reports from LU vanilla games [or games with LU designed additional scripts]. ==
+== NOTE 640 Only accepting bug reports from LU vanilla games (or games with LU designed additional scripts). ==
 
 ----
 == Bug Reports ==
