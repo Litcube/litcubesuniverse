@@ -35,6 +35,8 @@ Ships docking at some owned docks not refueling as expected ([http://forum.egoso
 
 Multiple MLCC docks will use overlapping auto-names ([http://forum.egosoft.com/viewtopic.php?p=4424597#4424597 OP]) 
 
+The Aquatic Month of Scoob's first "5"? ([http://forum.egosoft.com/viewtopic.php?p=4425589#4425589 OP])
+
 ----
 == Suggestions ==
 
@@ -44,6 +46,7 @@ Add audio notification to Sector Security Complaints list ([http://forum.egosoft
 
 Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
 
+Deadly pirouetting round-a-bouts of doom! ([http://forum.egosoft.com/viewtopic.php?p=4425963#4425963 OP])
 Explorer Command Software naming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422393#4422393 OP])
 
 Explorer Command Software functionality suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422551#4422551 OP])
