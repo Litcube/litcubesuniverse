@@ -27,7 +27,7 @@ These missions are not yet implemented but are due to be rolled out in future up
    Second hand ship sales will be generated from ships within the universe that are returning to base to be mothballed, or that are returning to a shipyard to be scrapped in the case of NPC salvagers.
 
  * ==== OCV Related Missions ====
-   *Detailed TBD*
+   Detailed TBD
    Hybrid Combat/Population Evacuation missions.
 
  * ==== Intelligent Build Missions ====
