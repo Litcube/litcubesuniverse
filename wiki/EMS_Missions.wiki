@@ -27,9 +27,7 @@ These missions are not yet implemented but are due to be rolled out in future up
    Second hand ship sales will be generated from ships within the universe that are returning to base to be mothballed, or that are returning to a shipyard to be scrapped in the case of NPC salvagers.
 
  * ==== OCV Related Missions ====
-   Detailed TBD
-
-   Hybrid Combat/Population Evacuation missions.
+   Hybrid Combat/Population Evacuation missions. (Details TBD)
 
  * ==== Intelligent Build Missions ====
    Rather then selecting a random sector to build a totally random station in, EMS will generate realistic station build missions that actually fill a need in the economy of the local area, whether that be creating supply or demand - it will make sense for the station to be 
