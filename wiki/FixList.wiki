@@ -7,8 +7,6 @@
 ----
 == Bug Reports ==
 
-Potentially miss-matched stations ([http://forum.egosoft.com/viewtopic.php?p=4422319#4422319 OP] + [http://forum.egosoft.com/viewtopic.php?p=4422328#4422328 vukica reply])
-
 Potentially miss-matched voices ([http://forum.egosoft.com/viewtopic.php?p=4422337#4422337 OP])
 
 Washi is see-through, from a certain point of view ([http://forum.egosoft.com/viewtopic.php?p=4422177#4422177 OP] /  [http://forum.egosoft.com/viewtopic.php?p=4422804#4422804 further info])
