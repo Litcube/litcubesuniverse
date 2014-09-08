@@ -20,7 +20,7 @@ OCV Target sound (foghorn) plays in all sectors
 
 ==Debug Messages==
 
-ARRAY message relating to turret commands when applying a template. Screenshot shows applying template to Mandalay [http://imgur.com/jTLD2Nn Screenshot]
+ARRAY message relating to turret commands when applying a template. Screenshot shows applying template to Mandalay ([http://imgur.com/jTLD2Nn Screenshot])
 
 ==Mechanics/Polish==
 Automatic Satellite deployment does not recognize Phanon as hostile, and therefore always gets destroyed when attempting to drop a sat in their home sector (maybe a sector/race/unknown sector blacklist feature?)
