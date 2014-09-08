@@ -70,6 +70,8 @@ Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php
 
 Skin-related suggestions ([http://forum.egosoft.com/viewtopic.php?p=4427322#4427322 OP])
 
+Allow for NPC TLs to transport wares for you too ([http://forum.egosoft.com/viewtopic.php?p=4427540#4427540 OP])
+
 ----
 == Rejected ==
 <br>
