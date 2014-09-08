@@ -7,10 +7,6 @@
 ----
 == Bug Reports ==
 
-Washi is see-through, from a certain point of view ([http://forum.egosoft.com/viewtopic.php?p=4422177#4422177 OP] /  [http://forum.egosoft.com/viewtopic.php?p=4422804#4422804 further info])
-
-Potential issue with "Cmdwing action many" [http://forum.egosoft.com/viewtopic.php?p=4412308#4412308 report 1 (modded)]  / report 2 (link lost) / update to report 2 (link lost) / [http://forum.egosoft.com/viewtopic.php?p=4426410#4426410 report 3])
-
 Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP] / [http://forum.egosoft.com/viewtopic.php?p=4423621#4423621 further info]) - Litcube
 
 Mistral SF has cockpit inside model and blocked view ([http://forum.egosoft.com/viewtopic.php?p=4423442#4423442 OP])
