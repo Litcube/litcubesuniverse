@@ -16,6 +16,8 @@ Freighters/Dock Agents ignore wares in cargo from pre-export, meaning they can b
 
 Ships moved to player owned station by import still show on sector map as undocked (Both IS and OOS) ([https://www.dropbox.com/s/2njkifwj6kr5adl/X02.sav?dl=0 Pre-Export Save] | [https://www.dropbox.com/s/zikv9tbg3fw96zp/X03.sav?dl=0 Post-Export Save] | [https://www.dropbox.com/s/r8pxk19zr9r5pip/8382-L044.xml?dl=0 Export File] | [http://imgur.com/a/mQG1M#0 Screenshots])
 
+E/I forces lasertowers to go through setup phase again
+
 ==Gameplay==
 
 Using remote claim software, menu range is 5k while hotkey range is 4k ([https://www.dropbox.com/s/y5v7il92gs1y0qu/X07.sav?dl=0 Save])
