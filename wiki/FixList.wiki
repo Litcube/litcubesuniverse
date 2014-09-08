@@ -37,6 +37,8 @@ Issue with Terran 'support' leading to OCV hold-up ([http://forum.egosoft.com/vi
 
 Couple of other questions and obserations ([http://forum.egosoft.com/viewtopic.php?p=4426555#4426555 OP])
 
+Bug report for fighter drones and targets using gates ([http://forum.egosoft.com/viewtopic.php?p=4427873#4427873 OP])
+
 ----
 == Suggestions ==
 
