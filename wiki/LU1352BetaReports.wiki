@@ -24,6 +24,8 @@ Templates saving wrong number of energy cells (templated ship has 990, set to re
 
 OCV Target sound (foghorn) plays in all sectors
 
+MLCC targeting bailed ships ([https://www.dropbox.com/s/hv4p5yx3zcx8kbz/MLCC%20targeting%20bailed%20ships.zip?dl=0 Save])
+
 ==Debug Messages==
 
 ARRAY message relating to turret commands when applying a template. Screenshot shows applying template to Mandalay ([http://imgur.com/jTLD2Nn Screenshot])
