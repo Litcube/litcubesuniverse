@@ -28,6 +28,7 @@
   * (3) Fixed:  STs had a few issues in the local search code
   * (3) Fixed:  Missile chaff: mosquito missile ROF reduced, increased flash/destruction speed, eliminated spam exploit
   * (1) Fixed:  Debug spam, missile ROE
+  * (1) Fixed:  Pirate anarchy port replaced with pirate base
   * (-) Changed:  Shipyard trade menu: docks show description in monitor window as opposed to a blank
   * (-) Changed:  Jumpdrive cores now registered from game start
   * (-) Changed:  UTs now refuel if jump energy is less than 8 jumps before going for a buy run
