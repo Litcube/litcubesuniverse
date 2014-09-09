@@ -19,6 +19,7 @@
 === Unreleased ===
   * Jedi base: Ape<br><br>
   * (2) Fixed: Salvage insurance no longer doubles
+  * (2) Fixed: Dock Agent, Freighter also get stray ware cleanup
   * (-) EI implemented: Complex connections
   * (-) EI implemented: Dock MLCC is installed
   * (-) EI implemented: MLCC Tasks
