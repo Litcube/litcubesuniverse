@@ -17,8 +17,6 @@ Ships docking at some owned docks not refueling as expected ([http://forum.egoso
 
 Multiple MLCC docks will use overlapping auto-names ([http://forum.egosoft.com/viewtopic.php?p=4424597#4424597 OP]) 
 
-Issue with Terran 'support' leading to OCV hold-up ([http://forum.egosoft.com/viewtopic.php?p=4426555#4426555 OP])
-
 Couple of other questions and obserations ([http://forum.egosoft.com/viewtopic.php?p=4426555#4426555 OP])
 
 Bug report for fighter drones and targets using gates ([http://forum.egosoft.com/viewtopic.php?p=4427873#4427873 OP])
