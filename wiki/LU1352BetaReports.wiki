@@ -2,11 +2,6 @@
 
 = LU 1.3.5.2 Beta Reports =
 
-==E/I (in general)==
-
-MLCC ships wont respond until you open the MLCC config menu once ([https://www.dropbox.com/s/malylc062mez152/MLCC%20loss%20on%20docks.zip?dl=0 X02 Save in this zip])
-
-
 ==Gameplay==
 
 Using remote claim software, menu range is 5k while hotkey range is 4k ([https://www.dropbox.com/s/y5v7il92gs1y0qu/X07.sav?dl=0 Save])
