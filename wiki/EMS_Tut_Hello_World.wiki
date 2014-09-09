@@ -23,7 +23,7 @@ First things first, we need to create the Mission Script. With EMS a template mi
 Now that we have made a clone of the template mission script, its time to begin writing our mission. Because this mission is mostly just creation of objects and handling of signals, the bulk of the mission code is right here in the setup event.
 
  ==== Creating the Navigational Beacons ====
- First things first, lets create our Navigation Beacons and store them as a mission property so that we can deal with them later on.
+ First in our setup event, lets create our Navigation Beacons and store them as a mission property so that we can deal with them later on.
 {{{
 $missionSector = $Mission[1]
 $navBeaconCount = 3
