@@ -9,8 +9,6 @@
 
 Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP] / [http://forum.egosoft.com/viewtopic.php?p=4423621#4423621 further info]) - Litcube
 
-Issue with Wings and Jumpgate Quantifer ([http://forum.egosoft.com/viewtopic.php?p=4424386#4424386 OP] with further info [http://forum.egosoft.com/viewtopic.php?p=4424422#4424422 here] and [http://forum.egosoft.com/viewtopic.php?p=4424428#4424428 here])
-
 Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388 OP])
 
 Ships docking at some owned docks not refueling as expected ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP])
