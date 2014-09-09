@@ -24,7 +24,7 @@ Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php
 
 Skin-related suggestions ([http://forum.egosoft.com/viewtopic.php?p=4427322#4427322 OP])
 
-Allow for NPC TLs to transport wares for you too ([http://forum.egosoft.com/viewtopic.php?p=4427540#4427540 OP])
+
 
 MLCC hotkey for collecting spacesuits and bails ([http://forum.egosoft.com/viewtopic.php?p=4427555#4427555 OP])
 
@@ -75,6 +75,8 @@ Add the ability to turn off station welcomes  ([http://forum.egosoft.com/viewtop
 Deadly pirouetting roundabouts of doom! ([http://forum.egosoft.com/viewtopic.php?p=4425963#4425963 OP])
 <br>
 Explorer Command Software naming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422393#4422393 OP])
+<br>
+Allow for NPC TLs to transport wares for you too ([http://forum.egosoft.com/viewtopic.php?p=4427540#4427540 OP])
 
 *Maybe some day:*
 
