@@ -10,11 +10,11 @@
 ----
 == Suggestions ==
 
-Add audio notification to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422221#4422221 OP])
 
-Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
 
-Explorer Command Software naming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422393#4422393 OP])
+
+
+
 
 Explorer Command Software functionality suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422551#4422551 OP])
 
@@ -79,3 +79,11 @@ Adjusting bailed-ship claiming cost/risk-reward ([http://forum.egosoft.com/viewt
 Add the ability to turn off station welcomes  ([http://forum.egosoft.com/viewtopic.php?p=4427555#4427555 OP])
 <br>
 Deadly pirouetting roundabouts of doom! ([http://forum.egosoft.com/viewtopic.php?p=4425963#4425963 OP])
+<br>
+Explorer Command Software naming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422393#4422393 OP])
+
+*Maybe some day:*
+<br>
+Add audio notification to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422221#4422221 OP])
+<br>
+Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
