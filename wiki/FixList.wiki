@@ -11,8 +11,6 @@ Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=44232
 
 Multiple MLCC docks will use overlapping auto-names ([http://forum.egosoft.com/viewtopic.php?p=4424597#4424597 OP]) 
 
-Bug report for fighter drones and targets using gates ([http://forum.egosoft.com/viewtopic.php?p=4427873#4427873 OP])
-
 ----
 == Suggestions ==
 
