@@ -36,14 +36,14 @@ while $navBeaconCount > 0
    $cNavBeacon = create ship: type={Neutral Race Navigational Beacon} owner=[Neutral Race] addto=$missionSector x=$cNavBeacon.X y=$cNavBeacon.Y z=$cNavBeacon.Z
    $cNavBeacon-> set relation against [PLAYERSHIP] to [Foe]
    $cNavBeacon-> set name to 'Hello, World!'
-   = [THIS]->call script 'icdm.mission.regsignal': targetMission=$Mission targetObject=$cNavBeacon eventName='ON_NAVBEACON_KILLED' signal=[SIGNAL_KILLED]
+   = [THIS]->call script 'icdm.mission.regsignal': targetMission=$Mission targetObject=$cNavBeacon eventName='SIGNAL_NAVBEACON_KILLED' signal=[SIGNAL_KILLED]
    append $cNavBeacon to array $navBeacons
 end
 = [THIS]->call script 'icdm.mission.set.property': targetMission=$Mission propertyName='navBeacons' value=$navBeacons
 }}}
  The first thing your probably going to notice is the first line. What were doing here is retrieving the Primay Object of the mission, in this case - when the mission is started the primary object is set to the sector "Home of Light" - you will get to see this in the next tutorial. (see [EMS_ArrayDocs Array Documentation] for mission array indexes)
 
- The seccond thing your likely to notice is the call to _"icdm.mission.regsignal"_. As per the mission objective, we need to know when the Navigational Beacon's are killed! This call sets up the signal dispatching in such a way that our mission will recieve the event 'ON_NAVBEACON_KILLED' when one of the beacons is killed. (See the [EMS_Tut_Signals Signal Handling] article for more information on signals)
+ The seccond thing your likely to notice is the call to _"icdm.mission.regsignal"_. As per the mission objective, we need to know when the Navigational Beacon's are killed! This call sets up the signal dispatching in such a way that our mission will recieve the event _"SIGNAL_NAVBEACON_KILLED"_ when one of the beacons is killed. (See the [EMS_Tut_Signals Signal Handling] article for more information on signals)
 
  ==== Starting Auto-Updates ====
  To demonstrate the use of Auto Updates were going to tell the mission system that this mission wants to receive updates with the following script call:
@@ -78,5 +78,54 @@ event_Setup:
    = [THIS]-> call script 'icdm.mission.set.autoupdate' : targetMission=$Mission autoUpdate=[TRUE] updateInterval=10
 endsub
 }}}
+
+== Implementing SIGNAL_NAVBEACON_KILLED ==
+==== Creating the Subroutine ====
+ Above, we just told the mission system we want to recieve a new event, called _"SIGNAL_NAVBEACON_KILLED"_ when a Navigational Beacon dies. Now we need to implement it!
+
+ first things first we need to make a new subroutine, so at the end of the file were going to insert the following:
+{{{
+* *******************************************
+* *********SIGNAL_NAVBEACON_KILLED***********
+* *******************************************
+signal_NavBeaconKilled:
+endsub
+}}}
+
+ Now that we have our subroutine, we need to call it - so at the top of the mission script, we are going to add the event to the else-if stack that dispatches signals:
+{{{
+if $eventName == 'EVENT_SETUP'
+  gosub event_Setup:
+else if $eventName == 'EVENT_UPDATE'
+  gosub event_Update:
+else if $eventName == 'EVENT_ON_PLAYER_ENTER_AREA'
+  gosub event_onPlayerEnterArea:
+else if $eventName == 'EVENT_MISSION_ENDED'
+  gosub event_onMissionEnded:
+else if $eventName == 'SIGNAL_NAVBEACON_KILLED'
+  gosub signal_NavBeaconKilled:
+end
+}}}
+
+ There we go, Now our signal will be dispatched to the correct subroutine. You may notice that my else-if stack has less entries then yours (if you have been following along). This is because ive removed all the events that are not relevant to this mission for the sake of both readability and performance.
+
+==== Implementing the Signal ====
+ This signal is actually very basic, all we need to do is check the killer, and if the killer is the player ship, end the mission as successful, otherwise end as neutral. Oh, and we also throw a small reward for the player in too!
+{{{
+* *******************************************
+* *********SIGNAL_NAVBEACON_KILLED***********
+* *******************************************
+signal_NavBeaconKilled:
+   *fetch the killer from the event args
+   $killer = $eventArgs[1]
+   if $killer == [PLAYERSHIP]
+      = [THIS]->call script 'icdm.mission.set.reward': targetMission=$Mission rewardValue=100000 addMode=[TRUE]
+      = [THIS]->call script 'icdm.mission.end': targetMission=$Mission Success=[TRUE] Failure=null
+   else
+      = [THIS]->call script 'icdm.mission.end': targetMission=$Mission Success=null Failure=null
+   end
+endsub
+}}}
+ And there we go! if a Navigation Beacon dies to the player ship, the mission will now end in a Success, if a Navigation Beacon dies for any other reason, the mission simply ends, This mission cant "fail" in the traditional sense. _An exercise for the reader: Make the mission Fail if the player is within the same sector as the mission and is not the killer of the beacon._
 
 =UNDER ACTIVE DEVELOPMENT: If your seeing this stay turned as im still writing!=
