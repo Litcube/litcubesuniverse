@@ -54,7 +54,7 @@
   * (-) Upgraded:  Missile chaff: Mosquito missiles, when fired, will target the nearest incoming missile, regardless of current target
   * (-) Upgraded:  New message displays for EI, various user errors, quickshuttle feedback
   * (-) Upgraded:  Changed LOD of all turrets, which made me have to realign all components (this was WAY more work than I wanted it to be)
-  * (-) Upgraded:  Universe explorers will now cooperate, and lock sectors
+  * (-) Upgraded:  Universe explorers and asteroid scanners will now cooperate (in a fashion), and lock sectors/asteroids
 
 
 ----
