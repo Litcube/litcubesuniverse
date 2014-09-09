@@ -20,7 +20,7 @@ This tutorial was created with X-Studio. X-Studio is recommended for all mission
 First things first, we need to create the Mission Script. With EMS a template mission script has been provided, Simply open up the _"icdm.module.template.missionscript"_ script and save it as whatever you wish to name the mission script, i reccomend leaving most of the name intact and simply changing the module name like so: "_icdm.module.*tutorial*.missionscript.xml_"
 
 == The Setup Event ==
-Now that we have made a clone of the template mission script, its time to begin writing our mission. Because this mission is mostly just creation of objects and handling of signals, the bulk of the mission code is right here in the setup event.
+Now that we have made a clone of the template mission script, its time to begin writing our mission. Because this mission is mostly just creation of objects and handling of signals, the bulk of the missions functional code is right here in the setup event.
 
  ==== Creating the Navigational Beacons ====
  First in our setup event, lets create our Navigation Beacons and store them as a mission property so that we can deal with them later on.
@@ -131,6 +131,8 @@ endsub
 == The Update Event ==
 If you recall, back in the setup event we registered our mission to receive automatic updates from the mission system. What were going to do here is create a sort of "Your getting Hotter", "Your getting Colder" output in the subtitle text of the game. This is one of thoes rare events were we actually require a very high update resolution so were going to use a loop to achieve this.
 
+The update event is not actually necessary for this mission to work, this was added to demonstrate how to use the auto-update system, the mission can quite happily work without this code.
+
  ==== Setting up the basic update loop ====
   What were doing here is simply copying the basic update loop from the [EMS_Tut_Updates Auto-Updates, Looping and Waits] article and modifying it slightly, it will now exit if the player is not in the mission sector.
 {{{
@@ -196,7 +198,9 @@ event_Update:
 endsub
  }}}
  And there we have our hotter/colder display! now, onto the final event for this mission.
+
 == The Ended Event ==
+The final event for this mission is the Ended event. The Ended event is fired once the mission has been ended - Missions have 3 diffrent states that they can end in, Success, Failure or Ended. The Success and Failure cases are exactly what they seem, however the third case is the interesting one. A Mission can "End" neutrally, a neutral ending means the player hasen't done anything with the mission and as such the mission has ended silently either without the player knowing or with the player not caring.
+For this tutorial mission, we only have "Success" and "Ended" cases, it cant fail in the traditional sense. _An exercise for the reader: Make the mission Fail if the player is within the same sector as the mission and is not the killer of the beacon._
 
-
-=UNDER ACTIVE DEVELOPMENT: If your seeing this stay turned as im still writing!=
+==UNDER ACTIVE DEVELOPMENT: If your seeing this stay turned as im still writing!... P.S. Need sleep will finish tmorrow == 
