@@ -33,6 +33,7 @@
   * (3) Fixed:  ATF volunteers weren't jumping on an insurgency event
   * (2) Fixed:  Stations were missing explosion effects
   * (2) Fixed:  Remote drop factory now filters out complex construction kits
+  * (2) Fixed:  Remote Control System range didn't match menu claim range (formula issue)
   * (1) Fixed:  Debug spam, missile ROE
   * (1) Fixed:  Pirate anarchy port replaced with pirate base
   * (-) Changed:  Shipyard trade menu: docks show description in monitor window as opposed to a blank
