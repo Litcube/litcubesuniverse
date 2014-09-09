@@ -6,9 +6,6 @@
 
 MLCC ships wont respond until you open the MLCC config menu once ([https://www.dropbox.com/s/malylc062mez152/MLCC%20loss%20on%20docks.zip?dl=0 X02 Save in this zip])
 
-==E/I (1.3.5.2 --> 1.3.5.2 Only)==
-
-E/I forces lasertowers to go through setup phase again
 
 ==Gameplay==
 
