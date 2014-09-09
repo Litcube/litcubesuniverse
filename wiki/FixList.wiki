@@ -9,8 +9,6 @@
 
 Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP] / [http://forum.egosoft.com/viewtopic.php?p=4423621#4423621 further info]) - Litcube
 
-Mistral SF has cockpit inside model and blocked view ([http://forum.egosoft.com/viewtopic.php?p=4423442#4423442 OP])
-
 SCH not handling ore/silicon properly ([http://forum.egosoft.com/viewtopic.php?p=4421700#4421700 OP]) -Save sent via email
 
 Earth sector's gate name and location don't match ([http://forum.egosoft.com/viewtopic.php?p=4424173#4424173 OP])
