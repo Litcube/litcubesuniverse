@@ -38,8 +38,6 @@ Bug report for fighter drones and targets using gates ([http://forum.egosoft.com
 ----
 == Suggestions ==
 
-Add Galaxy and Zone map key functionality to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422150#4422150 OP])
-
 Add audio notification to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422221#4422221 OP])
 
 Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
@@ -92,6 +90,9 @@ Add the ability to turn off station welcomes ([http://forum.egosoft.com/viewtopi
 
 ===*Add stations built for missions to E/I ([http://forum.egosoft.com/viewtopic.php?p=4416214#4416214 OP])*===
   Vanilla style missions are no longer supported with the coming EMS and Joubarbe's X-Missions.
+
+===*Add Galaxy and Zone map key functionality to Sector Security Complaints list*===
+  I like the idea, but too much work for what it's worth right now
 
 ===*Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP]; reported previously; [http://forum.egosoft.com/viewtopic.php?p=4424780#4424780 reply])*===
 
