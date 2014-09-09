@@ -83,7 +83,7 @@ endsub
 ==== Creating the Subroutine ====
  Above, we just told the mission system we want to recieve a new event, called _"SIGNAL_NAVBEACON_KILLED"_ when a Navigational Beacon dies. Now we need to implement it!
 
- first things first we need to make a new subroutine, so at the end of the file were going to insert the following:
+ First we need to make a new subroutine, so at the end of the file were going to insert the following:
 {{{
 * *******************************************
 * *********SIGNAL_NAVBEACON_KILLED***********
