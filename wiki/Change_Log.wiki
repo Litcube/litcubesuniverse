@@ -20,6 +20,7 @@
   * (5) Fixed:  MLCC fighter wings could cause a freeze if the carrier was jumped out of sector
   * (4) Fixed:  UTs issue with black listing wares (thanks, Raaaak)
   * (4) Fixed:  TL's marine combat training had debug values still in there, enabling the class to finish in 10ish seconds.
+  * (4) Fixed:  MLCC ships no longer target bailed ships / astronauts
   * (3) Fixed:  Selling missiles/shields to equipment docks was not being recorded in the trade reports properly.
   * (3) Fixed:  Scan Asteroids wasn't setting the asteroids to known
   * (3) Fixed:  One more check for Phanon traders and enemies
