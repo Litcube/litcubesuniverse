@@ -7,8 +7,6 @@
 
 ==Debug Messages==
 
-ARRAY message relating to turret commands when applying a template. Screenshot shows applying template to Mandalay ([http://imgur.com/jTLD2Nn Screenshot])
-
 Message from UT when refueling failed
 
 ==Mechanics/Polish==
