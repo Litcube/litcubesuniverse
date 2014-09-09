@@ -1,0 +1,81 @@
+#summary Hello, World.
+
+= Hello, World! =
+
+In this tutorial we will use everything that was learned from the following articles:
+  * [EMS_Tut_Anatomy Anatomy of a Mission]
+  * [EMS_Tut_Structure Script Structure]
+  * [EMS_Tut_Events Script Event List]
+  * [EMS_Tut_Properties Mission Properties]
+  * [EMS_Tut_Signals Signal Handling]
+  * [EMS_Tut_Primary_Object Primary Objects]
+  * [EMS_Tut_Updates Auto-Updates, Looping and Waits]
+to create a very basic mission.
+
+The mission in a nutshell: Locate one of 3 randomly placed Navigation Beacons in Home of Light and destroy it.
+
+This tutorial was created with X-Studio. X-Studio is recommended for all mission development.
+
+== Setting up the Mission Script ==
+First things first, we need to create the Mission Script. With EMS a template mission script has been provided, Simply open up the _"icdm.module.template.missionscript"_ script and save it as whatever you wish to name the mission script, i reccomend leaving most of the name intact and simply changing the module name like so: "_icdm.module.*tutorial*.missionscript.xml_"
+
+== The Setup Event ==
+Now that we have made a clone of the template mission script, its time to begin writing our mission. Because this mission is mostly just creation of objects and handling of signals, the bulk of the mission code is right here in the setup event.
+
+ ==== Creating the Navigational Beacons ====
+ First things first, lets create our Navigation Beacons and store them as a mission property so that we can deal with them later on.
+{{{
+$missionSector = $Mission[1]
+$navBeaconCount = 3
+$navBeacons = array alloc: size=0
+while $navBeaconCount > 0
+   dec $navBeaconCount
+   $cNavBeacon.X = random value between -50000 and 50000
+   $cNavBeacon.Y = random value between -50000 and 50000
+   $cNavBeacon.Z = random value between -50000 and 50000
+   $cNavBeacon = create ship: type={Neutral Race Navigational Beacon} owner=[Neutral Race] addto=$missionSector x=$cNavBeacon.X y=$cNavBeacon.Y z=$cNavBeacon.Z
+   $cNavBeacon-> set relation against [PLAYERSHIP] to [Foe]
+   $cNavBeacon-> set name to 'Hello, World!'
+   append $cNavBeacon to array $navBeacons
+end
+= [THIS]->call script 'icdm.mission.set.property': targetMission=$Mission propertyName='navBeacons' value=$navBeacons
+}}}
+ The first thing your probably going to notice is the first line. What were doing here is retrieving the Primay Object of the mission, in this case - when the mission is started the primary object is set to the sector "Home of Light" - you will get to see this in the next tutorial. (see [EMS_ArrayDocs Array Documentation] for mission array indexes)
+
+ The seccond think your likely to notice is the call to _"icdm.mission.regsignal"_. As per the mission objective, we need to know when the Navigational Beacon's are killed! This call sets up the signal dispatching in such a way that our mission will recieve the event 'ON_NAVBEACON_KILLED' when one of the beacons is killed. (See the [EMS_Tut_Signals Signal Handling] article for more information on signals)
+
+ ==== Starting Auto-Updates ====
+ To demonstrate the use of Auto Updates were going to tell the mission system that this mission wants to receive updates with the following script call:
+{{{
+= [THIS]-> call script 'icdm.mission.set.autoupdate' : targetMission=$Mission autoUpdate=[TRUE] updateInterval=10
+}}}
+
+ ==== The Final Setup Code ====
+ For now, this is all thats needed in our Setup event - we will go over some more advanced things such as mission icons and the DLL overlay in the advanced section of the tutorial.
+ {{{
+
+* *******************************************
+* ***************EVENT_SETUP*****************
+* *******************************************
+event_Setup:
+   $missionSector = $Mission[1]
+   $navBeaconCount = 3
+   $navBeacons = array alloc: size=0
+   while $navBeaconCount > 0
+      dec $navBeaconCount
+      $cNavBeacon.X = random value between -50000 and 50000
+      $cNavBeacon.Y = random value between -50000 and 50000
+      $cNavBeacon.Z = random value between -50000 and 50000
+      $cNavBeacon = create ship: type={Neutral Race Navigational Beacon} owner=[Neutral Race] addto=$missionSector x=$cNavBeacon.X y=$cNavBeacon.Y z=$cNavBeacon.Z
+      $cNavBeacon-> set relation against [PLAYERSHIP] to [Foe]
+      $cNavBeacon-> set name to 'Hello, World!'
+      = [THIS]->call script 'icdm.mission.regsignal': targetMission=$Mission targetObject=$cNavBeacon eventName='ON_NAVBEACON_KILLED' signal=[SIGNAL_KILLED]
+      append $cNavBeacon to array $navBeacons
+   end
+   = [THIS]->call script 'icdm.mission.set.property': targetMission=$Mission propertyName='navBeacons' value=$navBeacons
+
+   = [THIS]-> call script 'icdm.mission.set.autoupdate' : targetMission=$Mission autoUpdate=[TRUE] updateInterval=10
+endsub
+}}}
+
+=UNDER ACTIVE DEVELOPMENT: IF your setting this stay turned as im still writing!=
