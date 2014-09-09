@@ -56,7 +56,7 @@
     * [EMS_Missions Missions]
     * [EMS_Download Download]
     * [EMS_Changelog Change Log]
-    * [EMS_BugList Icewave's List]
+    * [EMS_BugList Jack08's List]
     * [EMS_Documentation Scripting Documentation]
       * [EMS_Tutorials Tutorials & Resources]
         * [EMS_Tut_Anatomy Anatomy of a Mission]
