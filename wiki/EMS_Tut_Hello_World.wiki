@@ -78,4 +78,4 @@ event_Setup:
 endsub
 }}}
 
-=UNDER ACTIVE DEVELOPMENT: If your setting this stay turned as im still writing!=
+=UNDER ACTIVE DEVELOPMENT: If your seeing this stay turned as im still writing!=
