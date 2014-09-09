@@ -86,3 +86,5 @@ This is a very simple yet powerful system which you can use to receive events ba
  * SIGNAL_BUYWARE
  * SIGNAL_LOADWARE
  * SIGNAL_UNLOADWARE
+
+When handling a signal, the $eventArgs script argument is set to an array, the array holds the arguments for the signal. $eventArgs[[0]] is always the relevant object for the signal and $eventArgs[[1]]+ is the standard arguments for the signal. For example with SIGNAL_ATTAKCED, $eventArgs[[0]] would be the ship thats being attacked, and $eventArgs[[1]] is the ship thats attacking it.
