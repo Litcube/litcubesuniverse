@@ -28,6 +28,7 @@
   * (3) Fixed:  STs had a few issues in the local search code
   * (3) Fixed:  Missile chaff: mosquito missile ROF reduced, increased flash/destruction speed, eliminated spam exploit
   * (3) Fixed:  Mistral SF cockpit fixed
+  * (3) Fixed:  SCH wasn't handling automatic installation of minerals from asteroids correctly
   * (2) Fixed:  Stations were missing explosion effects
   * (1) Fixed:  Debug spam, missile ROE
   * (1) Fixed:  Pirate anarchy port replaced with pirate base
