@@ -4,7 +4,6 @@
 
 ==Gameplay==
 
-MLCC targeting bailed ships ([https://www.dropbox.com/s/hv4p5yx3zcx8kbz/MLCC%20targeting%20bailed%20ships.zip?dl=0 Save])
 
 ==Debug Messages==
 
