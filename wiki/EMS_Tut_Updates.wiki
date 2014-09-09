@@ -35,7 +35,7 @@ _(however please also take into account the performance effect this may have if 
 while [TRUE]
   $missionState = $Mission[7]
   $newVersion = is a new script version available
-  do if $missionSate != 1 or $newVersion
+  do if $missionState != 1 or $newVersion
      break
 
   * Your update stuff
