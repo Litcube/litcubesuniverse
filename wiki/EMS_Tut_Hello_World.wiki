@@ -128,4 +128,75 @@ endsub
 }}}
  And there we go! if a Navigation Beacon dies to the player ship, the mission will now end in a Success, if a Navigation Beacon dies for any other reason, the mission simply ends, This mission cant "fail" in the traditional sense. _An exercise for the reader: Make the mission Fail if the player is within the same sector as the mission and is not the killer of the beacon._
 
+== The Update Event ==
+If you recall, back in the setup event we registered our mission to receive automatic updates from the mission system. What were going to do here is create a sort of "Your getting Hotter", "Your getting Colder" output in the subtitle text of the game. This is one of thoes rare events were we actually require a very high update resolution so were going to use a loop to achieve this.
+
+ ==== Setting up the basic update loop ====
+  What were doing here is simply copying the basic update loop from the [EMS_Tut_Updates Auto-Updates, Looping and Waits] article and modifying it slightly, it will now exit if the player is not in the mission sector.
+{{{
+$missionSector = $Mission[1]
+while [TRUE]
+   $missionState = $Mission[7]
+   $newVersion = is a new script version available
+   $playerSector = [PLAYERSHIP]->get sector
+   do if $missionState != 1 or $newVersion or $playerSector != $missionSector
+      break
+
+   = wait 500 ms
+end
+}}}
+  
+
+ ==== Adding the functionality ====
+  For this part of the tutorial, ive added comments to the code rather then trying to explain it part by part.
+ {{{
+* *******************************************
+* ***************EVENT_UPDATE****************
+* *******************************************
+event_Update:
+   *#Fetch the missions sector
+   $missionSector = $Mission[1]
+
+   *#Fetch the Navigation Beacon array we defined earlier
+   $navBeacons = [THIS]->call script 'icdm.mission.get.property': targetMission=$Mission propertyName='navBeacons'
+
+   *#Set the players last distance to 0
+   $lastDistance = 0
+   while [TRUE]
+      $missionState = $Mission[7]
+      $newVersion = is a new script version available
+      $playerSector = [PLAYERSHIP]->get sector
+      do if $missionState != 1 or $newVersion or $playerSector != $missionSector
+         break
+
+      *#Set the closest distance to something insanely large at fisrt!
+      $closestBeacon = 9999999
+
+      *#Each loop, get the distance to the nearest nav beacon
+      for each $navBeacon in array $navBeacons
+         $navBeacon.Distance = get distance between $navBeacon and [PLAYERSHIP]
+
+         *#Store the closest beacon
+         do if $closestBeacon > $navBeacon.Distance
+            $closestBeacon = $navBeacon.Distance
+      end 
+
+      *#Determine if were getting hotter, or colder
+      if $lastDistance < $closestBeacon
+         display subtitle text: text='Hello World: Your getting hotter!' duration=1000 ms
+      else
+         display subtitle text: text='Hello World: Your getting colder!' duration=1000 ms
+      end
+  
+      *#Store the current closest distance for the next loop
+      $lastDistance = $closestBeacon
+
+      = wait 500 ms
+   end
+endsub
+ }}}
+ And there we have our hotter/colder display! now, onto the final event for this mission.
+== The Ended Event ==
+
+
 =UNDER ACTIVE DEVELOPMENT: If your seeing this stay turned as im still writing!=
