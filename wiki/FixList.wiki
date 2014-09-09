@@ -7,8 +7,6 @@
 ----
 == Bug Reports ==
 
-Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP] / [http://forum.egosoft.com/viewtopic.php?p=4423621#4423621 further info]) - Litcube
-
 ----
 == Suggestions ==
 
