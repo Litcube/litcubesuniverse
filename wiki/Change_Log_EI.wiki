@@ -18,17 +18,18 @@
 = Version 2.1.0EI =
 === Unreleased ===
   * Jedi base: Ape<br><br>
-  * (2) Fixed: Salvage insurance no longer doubles
-  * (2) Fixed: Dock Agent, Freighter also get stray ware cleanup
-  * (-) EI implemented: Complex connections
-  * (-) EI implemented: Dock MLCC is installed
-  * (-) EI implemented: MLCC Tasks
-  * (-) EI implemented: MLCC Missile ROEs
-  * (-) EI implemented: MLCC Hangar info
-  * (-) EI implemented: Stock exchange stocks, no longer have to empty stock exchange before EI
-  * (-) EI implemented: Ships now put into environment if it was owned by player (i.e. ship or station)
-  * (-) EI implemented: Qshuttles
-  * (-) EI implemented: Autostart supported:  UT, ST, Station Agent, Dock Agent, Freighter, Attack Nearest, Attack Same, Protect, Deploy Satellites, Explore Universe, Scan Asteroids, Tug
+  * (2) Fixed:  Salvage insurance no longer doubles
+  * (2) Fixed:  Dock Agent, Freighter also get stray ware cleanup
+  * (1) Fixed:  Laser towers import as already setup
+  * (-) EI implemented:  Complex connections
+  * (-) EI implemented:  Dock MLCC is installed
+  * (-) EI implemented:  MLCC Tasks
+  * (-) EI implemented:  MLCC Missile ROEs
+  * (-) EI implemented:  MLCC Hangar info
+  * (-) EI implemented:  Stock exchange stocks, no longer have to empty stock exchange before EI
+  * (-) EI implemented:  Ships now put into environment if it was owned by player (i.e. ship or station)
+  * (-) EI implemented:  Qshuttles
+  * (-) EI implemented:  Autostart supported:  UT, ST, Station Agent, Dock Agent, Freighter, Attack Nearest, Attack Same, Protect, Deploy Satellites, Explore Universe, Scan Asteroids, Tug
 
 <br>
 *Notes on this version*
