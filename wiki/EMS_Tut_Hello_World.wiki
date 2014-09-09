@@ -43,7 +43,7 @@ end
 }}}
  The first thing your probably going to notice is the first line. What were doing here is retrieving the Primay Object of the mission, in this case - when the mission is started the primary object is set to the sector "Home of Light" - you will get to see this in the next tutorial. (see [EMS_ArrayDocs Array Documentation] for mission array indexes)
 
- The seccond think your likely to notice is the call to _"icdm.mission.regsignal"_. As per the mission objective, we need to know when the Navigational Beacon's are killed! This call sets up the signal dispatching in such a way that our mission will recieve the event 'ON_NAVBEACON_KILLED' when one of the beacons is killed. (See the [EMS_Tut_Signals Signal Handling] article for more information on signals)
+ The seccond thing your likely to notice is the call to _"icdm.mission.regsignal"_. As per the mission objective, we need to know when the Navigational Beacon's are killed! This call sets up the signal dispatching in such a way that our mission will recieve the event 'ON_NAVBEACON_KILLED' when one of the beacons is killed. (See the [EMS_Tut_Signals Signal Handling] article for more information on signals)
 
  ==== Starting Auto-Updates ====
  To demonstrate the use of Auto Updates were going to tell the mission system that this mission wants to receive updates with the following script call:
