@@ -9,8 +9,6 @@
 
 Problem with MLCC ROE settings  ([http://forum.egosoft.com/viewtopic.php?p=4423229#4423229 OP] / [http://forum.egosoft.com/viewtopic.php?p=4423621#4423621 further info]) - Litcube
 
-Using Trade Product Search can circumvent Race Rank requirements ([http://forum.egosoft.com/viewtopic.php?p=4424388#4424388 OP])
-
 Ships docking at some owned docks not refueling as expected ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP])
 
 Multiple MLCC docks will use overlapping auto-names ([http://forum.egosoft.com/viewtopic.php?p=4424597#4424597 OP]) 
