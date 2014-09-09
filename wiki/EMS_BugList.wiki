@@ -1,0 +1,24 @@
+#summary EMS Bugs and Sugetions
+
+=Bugs=
+
+===Pending===
+ 
+===Accepted===
+
+===Rejected===
+
+=Suggestions=
+
+===Pending===
+ 
+===Accepted===
+
+===Rejected (Permanently)===
+
+===Rejected (Temporarily)===
+ * Mission: Smuggling (by OneOfMany)([http://forum.egosoft.com/viewtopic.php?p=4427054#4427054 Link])
+   While i like the idea, i cannot currently think of a way to dynamically generate this content based on the state of the universe. It may be possible after the Resource Low missions are implemented
+
+ * Mission: Hostile Transport. (by OneOfMany)([http://forum.egosoft.com/viewtopic.php?p=4427054#4427054 Link])
+  While i like the idea, i cannot currenly come up with a way to generate this mission without spawning enemys from thin air - nor is there currently any state in the universe that would require the transport of passengers.
