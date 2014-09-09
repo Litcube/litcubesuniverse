@@ -36,6 +36,7 @@ while $navBeaconCount > 0
    $cNavBeacon = create ship: type={Neutral Race Navigational Beacon} owner=[Neutral Race] addto=$missionSector x=$cNavBeacon.X y=$cNavBeacon.Y z=$cNavBeacon.Z
    $cNavBeacon-> set relation against [PLAYERSHIP] to [Foe]
    $cNavBeacon-> set name to 'Hello, World!'
+   = [THIS]->call script 'icdm.mission.regsignal': targetMission=$Mission targetObject=$cNavBeacon eventName='ON_NAVBEACON_KILLED' signal=[SIGNAL_KILLED]
    append $cNavBeacon to array $navBeacons
 end
 = [THIS]->call script 'icdm.mission.set.property': targetMission=$Mission propertyName='navBeacons' value=$navBeacons
