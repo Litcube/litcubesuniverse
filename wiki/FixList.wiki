@@ -12,12 +12,6 @@
 
 
 
-
-
-
-
-Explorer Command Software functionality suggestion ([http://forum.egosoft.com/viewtopic.php?p=4422551#4422551 OP])
-
 New hotkey for chaff ([http://forum.egosoft.com/viewtopic.php?p=4423566#4423566 OP])
 
 Make OCV stations spawn with full shields ([http://forum.egosoft.com/viewtopic.php?p=4424076#4424076 OP])
