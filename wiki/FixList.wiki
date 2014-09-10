@@ -48,8 +48,6 @@ Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php
 ===*Add Galaxy and Zone map key functionality to Sector Security Complaints list*===
   I like the idea, but too much work for what it's worth right now
 
-===*Remote TL station placement can bug ([http://forum.egosoft.com/viewtopic.php?p=4424762#4424762 OP]; reported previously; [http://forum.egosoft.com/viewtopic.php?p=4424780#4424780 reply])*===
-
 <br>
 ----
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature yet*
