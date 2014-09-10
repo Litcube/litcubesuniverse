@@ -46,6 +46,7 @@
   * (-) Changed:  MLCC autonaming now includes homebase name; keep your MLCC dock names short
   * (-) Changed:  Mosquito missiles no longer exist; replaced with Chaff
   * (-) Changed:  Templates no longer locked to maximum of 40 jumps of energy cells
+  * (-) Changed:  OCV stations start with full shields
   * (-) Upgraded:  Optimized get station best price, security checks, agent behaviour
   * (-) Upgraded:  New script command: is named script on stack of task=
   * (-) Upgraded:  New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
