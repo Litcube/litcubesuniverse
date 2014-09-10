@@ -79,4 +79,5 @@ Add audio notification to Sector Security Complaints list ([http://forum.egosoft
 Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
 
 *What?  No, dude*
+
 MLCC hotkey for collecting spacesuits and bails ([http://forum.egosoft.com/viewtopic.php?p=4427555#4427555 OP])
