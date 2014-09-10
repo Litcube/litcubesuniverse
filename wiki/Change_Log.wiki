@@ -58,6 +58,8 @@
   * (-) Upgraded:  Changed LOD of all turrets, which made me have to realign all components (this was WAY more work than I wanted it to be)
   * (-) Upgraded:  Universe explorers and asteroid scanners will now cooperate (in a fashion), and lock sectors/asteroids
   * (-) Upgraded:  Neutral ships (bailed ships), now show up in a separate section in the sector map
+  * (-) Upgraded:  Changed positioning of some trade menus so high cost items don't overlap with stock display
+  * (-) Upgraded:  Ware videos removed, replaced with description of ware (many rewritten to fit in info window)
 
 ----
 = Version 1.3.4LU =
