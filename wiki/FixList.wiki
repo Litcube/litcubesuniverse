@@ -16,7 +16,7 @@ Filter to hide wings in property menu ([http://forum.egosoft.com/viewtopic.php?p
 
 Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php?p=4424196#4424196 OP])
 
-MLCC hotkey for collecting spacesuits and bails ([http://forum.egosoft.com/viewtopic.php?p=4427555#4427555 OP])
+
 
 
 
@@ -77,3 +77,6 @@ Skin-related suggestions ([http://forum.egosoft.com/viewtopic.php?p=4427322#4427
 Add audio notification to Sector Security Complaints list ([http://forum.egosoft.com/viewtopic.php?p=4422221#4422221 OP])
 <br>
 Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
+
+*What?  No, dude*
+MLCC hotkey for collecting spacesuits and bails ([http://forum.egosoft.com/viewtopic.php?p=4427555#4427555 OP])
