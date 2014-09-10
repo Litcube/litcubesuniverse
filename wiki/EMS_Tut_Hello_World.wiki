@@ -224,7 +224,7 @@ And thats it! our Hello World mission is now complete. As you can see here we re
 
 You may be wondering what the call to _icdm.textdb.format_ is for and the strange _Mission.Reward_ thing is in the message text, this is part of EMSML (EMS Markup Language) and will be automatically translated to the missions reward before sending the message to the player. More information on EMSML will be provided in future tutorials.
 
-Be sure to follow onto the [EMS_Tut_Generator_Registration Registering a Hello World Generator] tutorial to see the mission in action.
+Be sure to follow onto the [EMS_Tut_Generator_Registration Registering a Hello World Generator] tutorial to see the mission actually being started in the game world.
 == The Complete Script ==
 {{{
 * # Hello, World
