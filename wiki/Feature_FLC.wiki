@@ -12,7 +12,9 @@ http://www.mediafire.com/convkey/7a76/ab1s7hqbhlo6fz1fg.jpg
 
 
 Keep in mind:
+
 1. The x-axis on the graph is in Points (see below for Ranks).
+
 2. Thus FLC doesn't go above a visible amount until after Rank 19.
 
 Rank / Title / (Points)<br>
