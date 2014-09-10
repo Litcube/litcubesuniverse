@@ -202,5 +202,154 @@ endsub
 == The Ended Event ==
 The final event for this mission is the Ended event. The Ended event is fired once the mission has been ended - Missions have 3 diffrent states that they can end in, Success, Failure or Ended. The Success and Failure cases are exactly what they seem, however the third case is the interesting one. A Mission can "End" neutrally, a neutral ending means the player hasen't done anything with the mission and as such the mission has ended silently either without the player knowing or with the player not caring.
 For this tutorial mission, we only have "Success" and "Ended" cases, it cant fail in the traditional sense. _An exercise for the reader: Make the mission Fail if the player is within the same sector as the mission and is not the killer of the beacon._
+{{{
+* *******************************************
+* ***********EVENT_MISSION_ENDED*************
+* *******************************************
+event_onMissionEnded:
+   if $eventArgs == 'SUCCESS'
+      $messageText = [THIS]->call script 'icdm.textdb.format': stringToFormat='Hello World! You Recieve ^Mission.Reward^!' lookupCacheTable=null Mission=$Mission
+      = [THIS]-> call script 'icdm.mission.processrewardnotify' : targetMission=$Mission messageText=$messageText pctValue=100
+   end
 
-==UNDER ACTIVE DEVELOPMENT: If your seeing this stay turned as im still writing!... P.S. Need sleep will finish tmorrow == 
+   *Dont forget to cleanup after your mission!
+   $navBeacons = [THIS]-> call script 'icdm.mission.get.property' : targetMission=$Mission propertyName='navBeacons'
+   for each $navBeacon in array $navBeacons
+      do if $navBeacon->exists
+         $navBeacon->destruct: show no explosion=[TRUE]
+   end
+endsub
+}}}
+And thats it! our Hello World mission is now complete. As you can see here we reward the player if the mission succeeded, but most importantly we *cleanup after ourselves* never leave mission objects in the game word after the mission is over if it can be prevented!
+
+You may be wondering what the call to _icdm.textdb.format_ is for and the strange _Mission.Reward_ thing is in the message text, this is part of EMSML (EMS Markup Language) and will be automatically translated to the missions reward before sending the message to the player. More information on EMSML will be provided in future tutorials.
+
+Be sure to follow onto the [EMS_Tut_Generator_Registration Registering a Hello World Generator] tutorial to see the mission in action.
+== The Complete Script ==
+{{{
+* # Hello, World
+
+if $eventName == 'EVENT_SETUP'
+   gosub event_Setup:
+else if $eventName == 'EVENT_UPDATE'
+   gosub event_Update:
+else if $eventName == 'EVENT_ON_PLAYER_ENTER_AREA'
+   gosub event_onPlayerEnterArea:
+else if $eventName == 'EVENT_MISSION_ENDED'
+   gosub event_onMissionEnded:
+else if $eventName == 'SIGNAL_NAVBEACON_KILLED'
+   gosub signal_NavBeaconKilled:
+end
+
+return null
+
+* *******************************************
+* ***************EVENT_SETUP*****************
+* *******************************************
+event_Setup:
+   $missionSector = $Mission[1]
+   $navBeaconCount = 3
+   $navBeacons = array alloc: size=0
+   while $navBeaconCount > 0
+      dec $navBeaconCount
+      $cNavBeacon.X = random value between -50000 and 50000
+      $cNavBeacon.Y = random value between -50000 and 50000
+      $cNavBeacon.Z = random value between -50000 and 50000
+      $cNavBeacon = create ship: type={Neutral Race Navigational Beacon} owner=[Neutral Race] addto=$missionSector x=$cNavBeacon.X y=$cNavBeacon.Y z=$cNavBeacon.Z
+      $cNavBeacon-> set relation against [PLAYERSHIP] to [Foe]
+      $cNavBeacon-> set name to 'Hello, World!'
+      = [THIS]-> call script 'icdm.mission.regsignal' : targetMission=$Mission targetObject=$cNavBeacon eventName='SIGNAL_NAVBEACON_KILLED' signal=[SIGNAL_KILLED]
+      append $cNavBeacon to array $navBeacons
+   end
+   = [THIS]-> call script 'icdm.mission.set.property' : targetMission=$Mission propertyName='navBeacons' value=$navBeacons
+
+   = [THIS]-> call script 'icdm.mission.set.autoupdate' : targetMission=$Mission autoUpdate=[TRUE] updateInterval=10
+endsub
+
+* *******************************************
+* ***************EVENT_UPDATE****************
+* *******************************************
+event_Update:
+   * #Fetch the missions sector
+   $missionSector = $Mission[1]
+
+   * #Fetch the Navigation Beacon array we defined earlier
+   $navBeacons = [THIS]-> call script 'icdm.mission.get.property' : targetMission=$Mission propertyName='navBeacons'
+
+   * #Set the players last distance to 0
+   $lastDistance = 0
+
+   while [TRUE]
+      $missionState = $Mission[7]
+      $newVersion = is a new script version available
+      $playerSector = [PLAYERSHIP]-> get sector
+      do if $missionState != 1 OR $newVersion OR $playerSector != $missionSector
+         break
+
+      * #Set the closest distance to something insanely large at fisrt!
+      $closestBeacon = 9999999
+
+      * #Each loop, get the distance to the nearest nav beacon
+      for each $navBeacon in array $navBeacons
+         $navBeacon.Distance = get distance between $navBeacon and [PLAYERSHIP]
+
+         * #Store the closest beacon
+         do if $closestBeacon > $navBeacon.Distance
+            $closestBeacon = $navBeacon.Distance
+      end
+
+      * #Determine if were getting hotter, or colder
+      if $lastDistance > $closestBeacon
+         display subtitle text: text='Hello World: Your getting hotter!' duration=1000 ms
+      else
+         display subtitle text: text='Hello World: Your getting colder!' duration=1000 ms
+      end
+
+      * #Store the current closest distance for the next loop
+      $lastDistance = $closestBeacon
+
+      = wait 500 ms
+   end
+endsub
+
+* *******************************************
+* ********EVENT_ON_PLAYER_ENTER_AREA*********
+* *******************************************
+event_onPlayerEnterArea:
+   return [FALSE]
+endsub
+
+
+* *******************************************
+* ***********EVENT_MISSION_ENDED*************
+* *******************************************
+event_onMissionEnded:
+   if $eventArgs == 'SUCCESS'
+      $messageText = [THIS]->call script 'icdm.textdb.format': stringToFormat='Hello World! You Recieve ^Mission.Reward^!' lookupCacheTable=null Mission=$Mission
+      = [THIS]-> call script 'icdm.mission.processrewardnotify' : targetMission=$Mission messageText=$messageText pctValue=100
+   end
+
+   *Dont forget to cleanup after your mission!
+   $navBeacons = [THIS]-> call script 'icdm.mission.get.property' : targetMission=$Mission propertyName='navBeacons'
+   for each $navBeacon in array $navBeacons
+      do if $navBeacon->exists
+         $navBeacon->destruct: show no explosion=[TRUE]
+endsub
+
+
+* *******************************************
+* *********SIGNAL_NAVBEACON_KILLED***********
+* *******************************************
+signal_NavBeaconKilled:
+   $killer = $eventArgs[1]
+   if $killer == [PLAYERSHIP]
+      = [THIS]-> call script 'icdm.mission.set.reward' : targetMission=$Mission rewardValue=100000 addMode=[TRUE]
+      = [THIS]-> call script 'icdm.mission.end' : targetMission=$Mission Success=[TRUE] Failure=null
+   else
+      = [THIS]-> call script 'icdm.mission.end' : targetMission=$Mission Success=null Failure=null
+   end
+endsub
+
+* *******************************************
+return null
+}}}
