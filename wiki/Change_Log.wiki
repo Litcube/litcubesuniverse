@@ -57,7 +57,7 @@
   * (-) Upgraded:  New message displays for EI, various user errors, quickshuttle feedback
   * (-) Upgraded:  Changed LOD of all turrets, which made me have to realign all components (this was WAY more work than I wanted it to be)
   * (-) Upgraded:  Universe explorers and asteroid scanners will now cooperate (in a fashion), and lock sectors/asteroids
-
+  * (-) Upgraded:  Neutral ships (bailed ships), now show up in a separate section in the sector map
 
 ----
 = Version 1.3.4LU =
