@@ -15,7 +15,7 @@ Keep in mind:
 
 1. The x-axis on the graph above is in Points (see below for Rank conversion).
 
-2. In-game, FLC doesn't go above a visible amount until about 10 000 (between Ranks 19 and 20).
+2. In-game, FLC doesn't go above a visible amount until ~10 000 Points (between Ranks 19 and 20).
 
 Rank / Title / (Points)<br>
 15		Instructor	(1 400)<br>
