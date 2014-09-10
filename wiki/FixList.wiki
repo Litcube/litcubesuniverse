@@ -10,8 +10,6 @@
 ----
 == Suggestions ==
 
-Make OCV stations spawn with full shields ([http://forum.egosoft.com/viewtopic.php?p=4424076#4424076 OP])
-
 Filter to hide wings in property menu ([http://forum.egosoft.com/viewtopic.php?p=4423918#4423918 OP])
 
 Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php?p=4424196#4424196 OP])
