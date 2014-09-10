@@ -80,7 +80,7 @@ endsub
 }}}
 
 == Implementing SIGNAL_NAVBEACON_KILLED ==
-==== Creating the Subroutine ====
+ ==== Creating the Subroutine ====
  Above, we just told the mission system we want to recieve a new event, called _"SIGNAL_NAVBEACON_KILLED"_ when a Navigational Beacon dies. Now we need to implement it!
 
  First we need to make a new subroutine, so at the end of the file were going to insert the following:
@@ -109,7 +109,7 @@ end
 
  There we go, Now our signal will be dispatched to the correct subroutine. You may notice that my else-if stack has less entries then yours (if you have been following along). This is because ive removed all the events that are not relevant to this mission for the sake of both readability and performance.
 
-==== Implementing the Signal ====
+ ==== Implementing the Signal ====
  This signal is actually very basic, all we need to do is check the killer, and if the killer is the player ship, end the mission as successful, otherwise end as neutral. Oh, and we also throw a small reward for the player in too!
 {{{
 * *******************************************
