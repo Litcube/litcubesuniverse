@@ -12,7 +12,7 @@
 
 
 
-Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php?p=4424196#4424196 OP])
+
 
 
 
@@ -75,6 +75,8 @@ Add audio notification to Sector Security Complaints list ([http://forum.egosoft
 Add ability to deactive autorenaming ([http://forum.egosoft.com/viewtopic.php?p=4422390#4422390 OP])
 <br>
 Filter to hide wings in property menu ([http://forum.egosoft.com/viewtopic.php?p=4423918#4423918 OP])
+<br>
+Adjustment to swapping ships for pilots ([http://forum.egosoft.com/viewtopic.php?p=4424196#4424196 OP])
 
 *What?  No, dude*
 
