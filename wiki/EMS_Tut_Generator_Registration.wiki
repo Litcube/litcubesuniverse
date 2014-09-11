@@ -5,7 +5,16 @@
 In this tutorial we are going to use the mission script we are going to write a simple generator for the mission script we created in the last tutorial _(which we named "icdm.module.tutorial.missionscript")_
 
 == Setting up the Generator Script ==
-Similar to the last tutorial - we need to create the Generator script from the template that EMS provides. Simply open up the "icdm.module.template.generator" script and save it as whatever you wish to name the mission script, just like before i recommend leaving most of the name intact and simply changing the module name like so: "icdm.module.*tutorial*.generator.xml"
+Similar to the last tutorial - we need to create the Generator script from the template that EMS provides. Simply open up the _"icdm.module.template.generator"_ script and save it as whatever you wish to name the mission script, just like before i recommend leaving most of the name intact and simply changing the module name like so: _"icdm.module.*tutorial*.generator.xml"_
+
+== Creating the Setup Script ==
+You can use any setup script name you like, but as usual i recommend following a unified format: For the tutorial we are going to create the setup script called _"setup.icdm.module.*tutorial*"_.
+
+The setup script is required to register the generator, and in this tutorial it is literally a one liner. Here is the setup script:
+
+{{{
+= [THIS]-> call script 'icdm.generator.register' : eventScript='icdm.module.tutorial.generator'
+}}}
 
 == The Generation Code ==
 This generator is very simple - when the player enters the sector "Home of Light" the mission will be started.
