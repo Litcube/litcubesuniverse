@@ -38,6 +38,8 @@ endsub
 You may notice the Mission Lock calls in there, they will be touched on in detail in the article [EMS_Tut_Locks Mission Locks] - however for now the basic understanding should be straightforward. The object mission lock scripts allow you to prevent the creation of more then one mission in refrence to a spesific object - in this case, only one mission is allowed to start in "Home of Light".
 
 == The Final Generator Code ==
+With the mission script, setup script and generator all created in your game, you should now be able to go to home of light - find one of the beacons, and destroy it for a 100,000 Cr reward!.
+
 {{{
 if $eventName == 'EVENT_SETUP'
   gosub event_Setup:
