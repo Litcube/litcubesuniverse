@@ -61,6 +61,7 @@
   * (-) Upgraded:  Neutral ships (bailed ships), now show up in a separate section in the sector map
   * (-) Upgraded:  Changed positioning of some trade menus so high cost items don't overlap with stock display
   * (-) Upgraded:  Ware videos removed, replaced with description of ware (many rewritten to fit in info window)
+  * (-) Upgraded:  6 new sectors, Terran sectors moved, no more odd jumps (e.g. vanilla heretics end to asteroid belt)
 
 ----
 = Version 1.3.4LU =
