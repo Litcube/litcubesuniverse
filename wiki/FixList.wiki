@@ -17,6 +17,10 @@ Adding Orbital Headquarters (Terran HQ) to the ATF Shipyard. ([http://forum.ego
 
 Add the ship names to the load screen pictures ([http://forum.egosoft.com/viewtopic.php?p=4429655#4429655 OP])
 
+Ship renaming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4429678#4429678 OP])
+
+Carrier command suggestion ([http://forum.egosoft.com/viewtopic.php?p=4429678#4429678 OP])
+
 ----
 == Rejected ==
 <br>
