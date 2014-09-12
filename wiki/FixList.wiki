@@ -15,6 +15,7 @@ Changing Tug auto-name from Security to something like Tug ([http://forum.egosof
 
 Adding Orbital Headquarters (Terran HQ) to the ATF Shipyard. ([http://forum.egosoft.com/viewtopic.php?p=4429568#4429568 OP])
 
+Add the ship names to the load screen pictures ([http://forum.egosoft.com/viewtopic.php?p=4429655#4429655 OP])
 
 ----
 == Rejected ==
