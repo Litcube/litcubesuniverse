@@ -16,3 +16,8 @@ http://www.mediafire.com/convkey/6758/n77e8nu3ekblnk3fg.jpg
 A station parameter exists that allows you to set intermediates to buy, sell, buy & sell, or none.
 
 The Station Agent respects these.
+
+Senario:  You want your homebase to buy resources and intermediates, but not sell them.  Also sell products:
+
+Add the products you want to sell using the Set Station Product command.
+Set intermediates to Buy in station parameters
