@@ -30,7 +30,7 @@ See: [Feature_Carrier_Command_Software Feature: Command Software Update]
 
 === Complex Management ===
 
-A few commands allowing station agents to manage your complexes
+A few commands allowing station agents to manage your complexes.
 
 See: [Feature_Complex_Management Feature: Complex Management]
 
