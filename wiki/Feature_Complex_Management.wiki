@@ -2,7 +2,7 @@
 
 = Complex Management =
 
-This page is for vanilla style complexes, and *not* the Saturn Complex Hubs.  Just a few features to make your life easier when managing them at the same time as you're using Station Agents and Couriers.
+This page is for vanilla style complexes, and *_not_* the Saturn Complex Hubs.  Just a few features to make your life easier when managing them at the same time as you're using Station Agents and Couriers.
 
 == Set Station Product ==
 
