@@ -2,7 +2,7 @@
 
 = Courier =
 
-The courier has the ability to follow through with a user set delivery list.  It has the capability to load, unload, with specified amounts of wares at any destination owned by you.  For ships with which the courier cannot dock, it will use a transporter device to both load and unload wares.  The task type loop is optional and can be put anywhere on the courier's list; however, any delivery items below the loop would never be executed.
+The courier has the ability to follow through with a user set delivery list.  It has the capability to load and unload, with specified amounts of wares at any destination owned by you.  For ships with which the courier cannot dock, it will use a transporter device to both load and unload wares.  The task type "loop" is optional and can be put anywhere on the courier's list; however, any delivery items below the loop would never be executed.
 
 The courier requires Trade Command Mk 2
 
