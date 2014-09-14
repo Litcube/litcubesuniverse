@@ -36,6 +36,14 @@ See: [Feature_Complex_Management Feature: Complex Management]
 
 ----
 
+=== Courier ===
+
+A courier acts as a transporter ship that's only purpose is to follow through a delivery list.
+
+See: [Feature_Courier Feature: Courier]
+
+----
+
 === Dashboards ===
 
 There's dashboards, if you want them.
