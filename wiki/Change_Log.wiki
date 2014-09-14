@@ -64,6 +64,8 @@
   * (-) Upgraded:  Ware videos removed, replaced with description of ware (many rewritten to fit in info window)
   * (-) Upgraded:  6 new sectors, Terran sectors moved, no more odd jumps (e.g. vanilla heretics end to asteroid belt)
   * (-) Upgraded:  Rewrote docking information for ships and stations to make it clearer; only 5.5 hours!
+  * (-) Upgraded:  included Courier command
+  * (-) Upgraded:  Fixed a performance issue with Bounce
 
 ----
 = Version 1.3.4LU =
