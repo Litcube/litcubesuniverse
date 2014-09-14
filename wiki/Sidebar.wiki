@@ -9,6 +9,7 @@
     * [Feature_Bounce Bounce]
     * [Feature_Carrier_Command_Software Carrier Command Software Update]
     * [Feature_Complex_Management Complex Management]
+    * [Feature_Courier Courier]
     * [Feature_Dashboards Dashboards]
     * [Feature_Dockware_Manager Dockware Manager]
     * [Feature_LU_Dynamic_Menu_System Dynamic Menu System]
