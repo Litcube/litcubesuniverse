@@ -66,6 +66,7 @@
   * (-) Upgraded:  Rewrote docking information for ships and stations to make it clearer; only 5.5 hours!
   * (-) Upgraded:  included Courier command
   * (-) Upgraded:  Fixed a performance issue with Bounce
+  * (-) Upgraded:  Larxyz's LU specific HQ model implemented, now with a M6/TS docking bay
 
 ----
 = Version 1.3.4LU =
