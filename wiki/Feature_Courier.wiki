@@ -4,6 +4,8 @@
 
 The courier has the ability to follow through with a user set delivery list.  It has the capability to load and unload, with specified amounts of wares at any destination owned by you.  For ships with which the courier cannot dock, it will use a transporter device to both load and unload wares.  The task type "loop" is optional and can be put anywhere on the courier's list; however, any delivery items below the loop would never be executed.
 
+The courier ignores certain errors that would stop other commands in their tracks.  For example, it ignores error -105, no wares available in cargo.  This is going to happen a lot with the courier, because you may also be transporting with the destination points.  Again, the emphasis is on the loop.  If there were no wares this time around, maybe next time.  Think of the courier as your galactic janitor and delivery man who just don't give a fuck.
+
 Keep in mind it's not the courier's job to buy or sell; there are other software commands for that.  The courier is intended to fill gaps in your trade network when you need specific wares repeatedly (using the "loop" type) to keep up supply.
 
 The courier requires Trade Command Mk 2
