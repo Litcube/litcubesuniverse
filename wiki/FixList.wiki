@@ -21,6 +21,7 @@ Ship renaming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4429678#4429
 
 Carrier command suggestion ([http://forum.egosoft.com/viewtopic.php?p=4429678#4429678 OP])
 
+Attack Shields command for turrets ([http://forum.egosoft.com/viewtopic.php?p=4430522#4430522 OP])
 ----
 == Rejected ==
 <br>
