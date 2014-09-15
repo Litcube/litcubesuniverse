@@ -72,6 +72,7 @@
   * (-) Upgraded:  Larxyz's LU specific HQ model implemented, now with a M6/TS docking bay
   * (-) Upgraded:  Terran have 3 new missiles, respective factories
   * (-) Upgraded:  AI ships now chaff if their fightskill is high enough
+  * (-) Upgraded:  Vanilla bug: Script commands running jump on player ship respect SETA
 
 ----
 = Version 1.3.4LU =
