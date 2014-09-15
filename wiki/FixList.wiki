@@ -68,6 +68,10 @@ Allow for NPC TLs to transport wares for you too ([http://forum.egosoft.com/view
 Two suggestions for hire-able TLs ([http://forum.egosoft.com/viewtopic.php?p=4424182#4424182 OP])
 <br>
 Skin-related suggestions ([http://forum.egosoft.com/viewtopic.php?p=4427322#4427322 OP])
+<br>
+Adding Orbital Headquarters (Terran HQ) to the ATF Shipyard. ([http://forum.egosoft.com/viewtopic.php?p=4429568#4429568 OP])
+<br>
+There was a reason I removed the terran HQ, but I can't remember what it was.
 
 *Maybe some day*
 
