@@ -74,6 +74,7 @@
   * (-) Upgraded:  Terran have 3 new missiles, respective factories
   * (-) Upgraded:  AI ships now chaff if their fightskill is high enough
   * (-) Upgraded:  Vanilla bug: Script commands running jump on player ship respect SETA
+  * (-) Upgraded:  MLCC Retreat missions now:  Escort Me: Protect, Escort Me: Attack Same, Escort Me: Attack Nearest
 
 ----
 = Version 1.3.4LU =
