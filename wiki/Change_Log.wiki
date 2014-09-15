@@ -68,6 +68,7 @@
   * (-) Upgraded:  included Courier command
   * (-) Upgraded:  Fixed a performance issue with Bounce
   * (-) Upgraded:  Larxyz's LU specific HQ model implemented, now with a M6/TS docking bay
+  * (-) Upgraded:  Terran have 3 new missiles, respective factories
 
 ----
 = Version 1.3.4LU =
