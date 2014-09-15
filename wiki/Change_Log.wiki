@@ -50,6 +50,7 @@
   * (-) Changed:  OCV stations start with full shields
   * (-) Changed:  Removed all object description voice overs; they didn't match all the changes anyway
   * (-) Changed:  Some missiles stats, big change on all missile prices and their respective factories
+  * (-) Changed:  TLs will no longer allow you to drop an HQ if you already have one built
   * (-) Upgraded:  Optimized get station best price, security checks, agent behaviour
   * (-) Upgraded:  New script command: is named script on stack of task=
   * (-) Upgraded:  New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
