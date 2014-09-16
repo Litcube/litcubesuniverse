@@ -16,7 +16,7 @@
 === Unreleased ===
   * Jedi base: Ape
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br>
-  * _*Note that EI to this version will cause your SCH menu for some stations to give incorrect information.  They will function normally, but the info displayed will not be correct.  To fix this, disengage, unload, reset production information, and re-install the SCH*_<br>
+  * _*Note that EI to this version will cause your SCH menu for some stations to give incorrect information.  They will function normally, but the info displayed will not be correct.  To fix this, disengage, unload, reset production information, and re-install the SCH*_<br><br>
   * (5) Fixed:  Vanilla bug where if a ship was firing a missile through a turret at the same time it left a gate, game would crash.
   * (5) Fixed:  MLCC fighter wings could cause a freeze if the carrier was jumped out of sector
   * (4) Fixed:  UTs issue with black listing wares (thanks, Raaaak)
