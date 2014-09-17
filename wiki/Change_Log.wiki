@@ -55,6 +55,7 @@
   * (-) Changed:  Some missiles stats, big change on all missile prices and their respective factories
   * (-) Changed:  TLs will no longer allow you to drop an HQ if you already have one built
   * (-) Changed:  Added a 5Km distance bufffer for jumping within same sector (autojump min jump 0) to a target (with jump if distance is less than)
+  * (-) Changed:  Made a new gate model as bounce was liking them
   * (-) Upgraded:  Optimized get station best price, security checks, agent behaviour
   * (-) Upgraded:  New script command: is named script on stack of task=
   * (-) Upgraded:  New script command: is sector security threat in owned scanner range: sector=, ship not a threat up to gun count=
@@ -79,6 +80,7 @@
   * (-) Upgraded:  MLCC Retreat missions now:  Escort Me: Protect, Escort Me: Attack Same, Escort Me: Attack Nearest
   * (-) Upgraded:  Larxyz's LU specific Xenon Dock model implemented
   * (-) Upgraded:  Betty now speaks all wares, including new LU wares; some ware names changed
+  * (-) Upgraded:  Three tiers of CCDS (Chaff Countermeasure Defence Systsems) implemented
 
 ----
 = Version 1.3.4LU =
