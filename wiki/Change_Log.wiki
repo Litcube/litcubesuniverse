@@ -78,6 +78,7 @@
   * (-) Upgraded:  Vanilla bug: Script commands running jump on player ship respect SETA
   * (-) Upgraded:  MLCC Retreat missions now:  Escort Me: Protect, Escort Me: Attack Same, Escort Me: Attack Nearest
   * (-) Upgraded:  Larxyz's LU specific Xenon Dock model implemented
+  * (-) Upgraded:  Betty now speaks all wares, including new LU wares; some ware names changed
 
 ----
 = Version 1.3.4LU =
