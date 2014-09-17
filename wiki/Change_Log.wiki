@@ -13,7 +13,7 @@
 
 ----
 = Version 1.3.5LU =
-=== xxxx ===
+=== September 17th, 2014 ===
   * Jedi base: Ape
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (5) Fixed:  Vanilla bug where if a ship was firing a missile through a turret at the same time it left a gate, game would crash.
