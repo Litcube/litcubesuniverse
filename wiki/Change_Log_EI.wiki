@@ -16,7 +16,7 @@
 
 ----
 = Version 2.1.0EI =
-=== Unreleased ===
+=== September 17th, 2014 ===
   * Jedi base: Ape<br><br>
   * (2) Fixed:  Salvage insurance no longer doubles
   * (2) Fixed:  Dock Agent, Freighter also get stray ware cleanup
