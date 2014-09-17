@@ -32,6 +32,7 @@
   * (3) Fixed:  Mistral SF cockpit fixed
   * (3) Fixed:  SCH wasn't handling automatic installation of minerals from asteroids correctly
   * (3) Fixed:  ATF volunteers weren't jumping on an insurgency event
+  * (3) Fixed:  OCV was searching for all race M4s in sector to base off build list, which included all freighters, resulting in more ships than necessary
   * (2) Fixed:  Stations were missing explosion effects
   * (2) Fixed:  Remote drop factory now filters out complex construction kits
   * (2) Fixed:  Remote Control System range didn't match menu claim range (formula issue)
