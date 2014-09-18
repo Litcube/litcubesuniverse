@@ -27,7 +27,7 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 ----
 = Export/Import Package =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.0.exe Litcube's Universe Export/Import Package V2.1.0]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.1.exe Litcube's Universe Export/Import Package V2.1.1]
 
 In an endeavour to eliminate the incremental patching, and the confusion over when to export at which patch etc., EI scripts are now externalized.
 
