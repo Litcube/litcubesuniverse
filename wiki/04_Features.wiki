@@ -140,14 +140,6 @@ See: [Feature_Hotkeys Feature: Hotkeys]
 
 ----
 
-=== Jumpgate Quantifier ===
-
-Jumping has changed.
-
-See: [Feature_Jumpgate_Quantifier]
-
-----
-
 === Marine Combat Training ===
 
 You can train marines for combat
@@ -209,6 +201,14 @@ See: [Feature_High_Performance Feature: High Performance]
 "The Player's Competitor", Phanon Corporation creates a faction that fights and trades like you do.  Litcube's Universe's Phanon Corporation is heavily upgraded from the vanilla version.
 
 See: [Feature_The_Phanon_Corporation Feature: The Phanon Corporation]
+
+----
+
+=== Quantum Jumpdrive Extension ===
+
+Jumping has changed
+
+See: [Feature_Quantum_Jumpdrive_Extension Feature: Quantum Jumpdrive Extension]
 
 ----
 
