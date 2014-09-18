@@ -13,8 +13,13 @@
   * 5 = Seriously Fucking Critical
   * EI is an acronym for Export/Import
 
-
 ----
+= Version 2.1.1EI =
+=== September 18th, 2014 ===
+  * Jedi base: Ape<br><br>
+  * (2) Fixed:  Sector/Map change support for versions older than 1.3.4
+----
+
 = Version 2.1.0EI =
 === September 17th, 2014 ===
   * Jedi base: Ape<br><br>
