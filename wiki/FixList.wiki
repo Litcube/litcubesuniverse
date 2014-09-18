@@ -6,7 +6,7 @@
 
 ----
 == Bug Reports ==
-Freight drone oddness ([http://forum.egosoft.com/viewtopic.php?p=4432188#4432188 OP])
+
 ----
 == Suggestions ==
 
