@@ -17,8 +17,11 @@
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (4) Fixed:  "H!"  "Fuck" "tits!"
   * (2) Fixed:  Brain fart in station agent
+  * (2) Fixed:  MLCC escorts weren't moving on to the next task when their leader left the sector in some conditions
   * (2) Fixed:  Non homebased couriers now do not have number assignments
+  * (2) Fixed:  Sectors Zyarth's Dominion, Zyarth's Stand, Unknown Sector Nu, updated descriptions.
   * (1) Fixed:  MLCC assist menu pops up again after requesting successful assist
+
 
 
 
