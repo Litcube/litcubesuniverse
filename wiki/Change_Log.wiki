@@ -22,6 +22,8 @@
   * (2) Fixed:  Sectors Zyarth's Dominion, Zyarth's Stand, Unknown Sector Nu, updated descriptions.
   * (2) Fixed:  Earth now a viable target for Deploy Satellite
   * (1) Fixed:  MLCC assist menu pops up again after requesting successful assist
+  * (1) Fixed:  Trade productr search jump now works, renamed 'dock at' just in case your autojump isn't set
+  * (1) Fixed:  Betty shuts up after you start jumping on script initiated player jumps (countdown)
 
 
 
