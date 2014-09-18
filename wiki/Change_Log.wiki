@@ -12,7 +12,7 @@
 
 ----
 = Version 1.3.6LU =
-=== September 17th, 2014 ===
+=== Unreleased ===
   * Jedi base: Cougar
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (4) Fixed:  "H!"  "Fuck" "tits!"
