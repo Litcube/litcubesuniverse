@@ -13,7 +13,7 @@ Bailing has been changes in fundamental ways:
   * Each ship class has its own threshold hull strength below which they have a chance to bail (larger ships have a lower threshold than smaller ones).
   * Bail chance is dependent on four factors
     # Ship Class
-    # Pilot Moral
+    # Pilot Morale
     # Hull Strength
     # Relative combat strength between the attacking and bailing ship
 
