@@ -14,7 +14,7 @@
   * EI is an acronym for Export/Import
 
 ----
-= Version 2.1.1EI =
+= Version 2.1.2EI =
 === September 18th, 2014 ===
   * Jedi base: Sloth, Ape, Cougar<br><br>
   * (2) Fixed:  EI wasn't putting player in correct sector after complex connections
