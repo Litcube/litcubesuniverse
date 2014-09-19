@@ -13,7 +13,8 @@
 = Version 1.3.7LU =
 === Not for a long while ===
   * Jedi base: Cougar<br><br>
-  * (1) Fixed:  Omicron Channel gates updates to Gorbs
+  * (1) Fixed:     Omicron Channel gates updates to Gorbs
+  * (-) Upgraded:  New games now load last hotkey profile
 
 
 ----
