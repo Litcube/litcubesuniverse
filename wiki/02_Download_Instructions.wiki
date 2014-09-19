@@ -15,7 +15,7 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 *Older patches*
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.4.exe Litcube's Universe Patch V1.3.5]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.5.exe Litcube's Universe Patch V1.3.5]
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.4.exe Litcube's Universe Patch V1.3.4]
 
