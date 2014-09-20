@@ -13,6 +13,8 @@ Debug spam in message log (possibly related to killing a Phanon TS) ([http://tin
 
 Phanon M8s carry fighter drones but don't use them
 
+Problem with ship outfitting (targeted pirate kestral has 34 energy cells, no guns/missiles/shields) ([https://www.dropbox.com/s/fmrzsgk739ug2ua/X04.sav?dl=0 Save])
+
 ----
 == Suggestions ==
 
