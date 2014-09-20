@@ -7,6 +7,10 @@
 ----
 == Bug Reports ==
 
+Omicron Channel gates still use old ring model
+
+Debug spam in message log (possibly related to killing a Phanon TS) ([http://tinypic.com/r/2a91vtj/8 Screenshot])
+
 ----
 == Suggestions ==
 
