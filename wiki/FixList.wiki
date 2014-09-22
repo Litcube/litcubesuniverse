@@ -19,6 +19,8 @@ Exports from early 1.3 series games (1.3.4 in this example, 1.3.2.2 reported els
 
 Menu claim range differs from hotkey claim range with software ([https://www.dropbox.com/s/es04cdf3leas1jz/X04.sav?dl=0 Save])
 
+SA stuck on 'waiting' even though product way over export limit (See SA for SCH Jumpcore 50 in this save) ([https://www.dropbox.com/s/mumrjhl105ee22j/X06.sav?dl=0 Save])
+
 ----
 == Suggestions ==
 
