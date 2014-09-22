@@ -17,6 +17,8 @@ Problem with ship outfitting (targeted pirate kestral has 34 energy cells, no gu
 
 Exorts from early 1.3 series games (1.3.4 in this example, 1.3.2.2 reported elsewhere) break OCV (victory declared as soon as it's started) ([https://www.dropbox.com/s/8ntmzi5odohxlbu/8382-L044.xml?dl=0 Export])
 
+Menu claim range differs from hotkey claim range with software ([https://www.dropbox.com/s/es04cdf3leas1jz/X04.sav?dl=0 Save])
+
 ----
 == Suggestions ==
 
