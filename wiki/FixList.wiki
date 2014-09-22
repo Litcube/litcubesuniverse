@@ -32,6 +32,8 @@ Attack Shields command for turrets ([http://forum.egosoft.com/viewtopic.php?p=44
 
 Give OCV an lower energy requirement equivalent for PPCs. As is, Rs and Gs are easy kills because they run out of energy so quickly
 
+Filter active ships from template outfut menu
+
 ----
 == Rejected ==
 <br>
