@@ -25,7 +25,7 @@ SAs wont buy products for single factories ([https://www.dropbox.com/s/ks6t3zd1y
 
 Debug spam when setting direct deposit low watermark (In this case, to 1 mill) ([http://tinypic.com/r/2cdjv46/8 Screenshot])
 
-MLCC bombers don't fire missiles ([http://forum.egosoft.com/viewtopic.php?p=4434486#4434486 Report]|[http://www.filedropper.com/x10_3 Save])
+MLCC bombers don't fire missiles ([http://forum.egosoft.com/viewtopic.php?p=4434486#4434486 Report] | [http://www.filedropper.com/x10_3 Save])
 
 ----
 == Suggestions ==
