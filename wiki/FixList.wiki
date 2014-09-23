@@ -31,7 +31,8 @@ Flail SCHs make Chaff ([http://forum.egosoft.com/viewtopic.php?p=4434782#4434782
 
 Local traders don't respect home sector ([http://forum.egosoft.com/viewtopic.php?p=4433907&highlight=#4433907 Report and Possible Solution])
 
-PAA Available in terran sectors sans rep requirments ([http://forum.egosoft.com/viewtopic.php?p=4434901#4434901 Report])
+PAA Available in Terran sectors sans rep requirements ([http://forum.egosoft.com/viewtopic.php?p=4434901#4434901 Report])
+
 ----
 == Suggestions ==
 
