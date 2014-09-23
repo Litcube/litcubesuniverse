@@ -30,6 +30,8 @@ MLCC bombers don't fire missiles ([http://forum.egosoft.com/viewtopic.php?p=4434
 Flail SCHs make Chaff ([http://forum.egosoft.com/viewtopic.php?p=4434782#4434782 Report] | [https://anonfiles.com/file/5f9df335513c91f79db244c973593b19 Save])
 
 Local traders don't respect home sector ([http://forum.egosoft.com/viewtopic.php?p=4433907&highlight=#4433907 Report and Possible Solution])
+
+PAA Available in terran sectors sans rep requirments ([http://forum.egosoft.com/viewtopic.php?p=4434901#4434901 Report])
 ----
 == Suggestions ==
 
