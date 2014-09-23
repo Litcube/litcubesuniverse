@@ -21,6 +21,8 @@ Menu claim range differs from hotkey claim range with software ([https://www.dro
 
 SA stuck on 'waiting' even though product way over export limit (See SA for SCH Jumpcore 50 in this save) ([https://www.dropbox.com/s/mumrjhl105ee22j/X06.sav?dl=0 Save])
 
+SAs wont buy products for single factories ([https://www.dropbox.com/s/ks6t3zd1yf3r8a2/X06.sav?dl=0 Save])
+
 Debug spam when setting direct deposit low watermark (In this case, to 1 mill) ([http://tinypic.com/r/2cdjv46/8 Screenshot])
 
 ----
