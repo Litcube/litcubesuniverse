@@ -27,6 +27,8 @@ Debug spam when setting direct deposit low watermark (In this case, to 1 mill) (
 
 MLCC bombers don't fire missiles ([http://forum.egosoft.com/viewtopic.php?p=4434486#4434486 Report] | [http://www.filedropper.com/x10_3 Save])
 
+Flail SCHs make Chaff ([http://forum.egosoft.com/viewtopic.php?p=4434782#4434782 Report] | [https://anonfiles.com/file/5f9df335513c91f79db244c973593b19 Save])
+
 ----
 == Suggestions ==
 
