@@ -33,6 +33,8 @@ Local traders don't respect home sector ([http://forum.egosoft.com/viewtopic.php
 
 PAA Available in Terran sectors sans rep requirements ([http://forum.egosoft.com/viewtopic.php?p=4434901#4434901 Report])
 
+Freighters broken (may be an overstock issue, fixed when overstock disabled) ([http://forum.egosoft.com/viewtopic.php?p=4434961#4434961 Report] | [https://www.dropbox.com/s/0ck4h87y0fdl65s/X01.sav?dl=0 Save])
+
 ----
 == Suggestions ==
 
