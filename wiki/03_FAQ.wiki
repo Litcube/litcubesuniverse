@@ -21,6 +21,8 @@ Look at the [Change_Log changelog]. If, from your version + 1, to the version yo
 
 Note: Regardless of the number of patch notes that include "Export/Import required", you only need to perform *one* E/I.
 
+Note: Export/Import does not need to be performed if you will be starting a new game!
+
 The other way to tell if you need an EI is when you load your save game after patching and the game farts and exits with a message.
 
 If an EI is not required, just install the patch and play.
