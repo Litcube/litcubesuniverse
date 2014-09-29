@@ -15,7 +15,7 @@
   * Jedi base: Zebra
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (4) Fixed:     Flail factories were producing chaff
-  * (4) Fixed:     Freighter fixed using overstock function (overstock should cause dock agents to ignore selling, and freighters to ignore homebase capacity settings)
+  * (4) Fixed:     Freighter fixed using overstock function
   * (3) Fixed:     Some smaller NPC ships had no weapons or shields and it sucked
   * (3) Fixed:     UTs getting stuck on taking refuge
   * (3) Fixed:     Rep requirements for lasers
