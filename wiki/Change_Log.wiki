@@ -15,6 +15,7 @@
   * Jedi base: Zebra
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (3) Fixed:     Some smaller NPC ships had no weapons or shields and it sucked
+  * (3) Fixed:     UTs getting stuck on taking refuge
   * (2) Fixed:     Debug spam on attacking phanon traders removed
   * (2) Fixed:     Menu claim range versus hotkey claim range (again)
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
