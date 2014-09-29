@@ -36,6 +36,8 @@ http://www.mediafire.com/convkey/3d97/fgdrfyrgrm0185tfg.jpg
 
 The _thresholds_ page allows you to set the minimum amount in stock at a source before the Freighter will bother going to grab stock.  In the image above, you'll see that High Energy Plasma Throwers are set to 10%.  The Freighter will only go for more when the source station (which happens to be another Saturn Complex Hub 20x) is at 10% capacity or higher.  This function was introduced to ensure slow producing stations don't make for unnecessary trade runs by your Freighters.
 
+When a ware is set to _overstock_, Freighters will continue to stock the ware despite the capacity settings.  Additionally, Dock Agents will not sell wares set to _overstock_.
+
 ----
 
 The top portion of the menu has other options that are helpful for outfitting your ships using all these wares you're stocking.
