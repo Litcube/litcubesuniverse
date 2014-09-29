@@ -39,6 +39,8 @@ The 'dimmed' installed missile hud icon for chaff (the version you see when miss
 
 Player owned ships use chaff without CCDS installed (noticed in only on ships of the same type as my flown one, but I'm very skeptical that it's restricted to that. My playership has CCDS Mk1 installed)
 
+Asteroid tractor breaks after 1 move ([http://forum.egosoft.com/viewtopic.php?p=4436551#4436551 Post] | [http://www.mediafire.com/download/53vwjo72msdbu9y/X10.sav Save])
+
 ----
 == Suggestions ==
 
@@ -54,7 +56,11 @@ Give OCV an lower energy requirement equivalent for PPCs. As is, Rs and Gs are e
 
 Filter active ships from template outfit menu
 
-Add PPP check to second UT station check ([http://forum.egosoft.com/viewtopic.php?p=4434630#4434630 Topic])
+Add PPP check to second UT station check ([http://forum.egosoft.com/viewtopic.php?p=4434630#4434630 Post])
+
+Clarify hanger capacities in ship compendium ([http://forum.egosoft.com/viewtopic.php?p=4437222#4437222 Post])
+
+Add passenger capacity to ship compendium (Willfe)
 
 ----
 == Rejected ==
