@@ -9,7 +9,6 @@
 
 MLCC bombers don't fire missiles ([http://forum.egosoft.com/viewtopic.php?p=4434486#4434486 Report] | [http://www.filedropper.com/x10_3 Save])
 
-The 'dimmed' installed missile hud icon for chaff (the version you see when missiles are on cooldown after firing or being installed) says mosquito
 
 Player owned ships use chaff without CCDS installed (noticed in only on ships of the same type as my flown one, but I'm very skeptical that it's restricted to that. My playership has CCDS Mk1 installed)
 
