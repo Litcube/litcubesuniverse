@@ -23,6 +23,7 @@
   * (2) Fixed:     Menu claim range versus hotkey claim range (again)
   * (2) Fixed:     Direct deposit debug spam removed
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
+  * (1) Fixed:     Chaff missile icon fixed
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Changed:   NPC fight routine now uses drones if available
 
