@@ -19,13 +19,18 @@
   * (3) Fixed:     Some smaller NPC ships had no weapons or shields and it sucked
   * (3) Fixed:     UTs getting stuck on taking refuge
   * (3) Fixed:     Rep requirements for lasers
+  * (3) Fixed:     MLCC bombers turret issue fixed
+  * (3) Fixed:     Missile boats range check before firing tweaked, removed boarding pod selection bug
   * (2) Fixed:     Debug spam on attacking phanon traders removed
   * (2) Fixed:     Menu claim range versus hotkey claim range (again)
   * (2) Fixed:     Direct deposit debug spam removed
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
   * (1) Fixed:     Chaff missile icon fixed
-  * (-) Upgraded:  New games now load last hotkey profile
   * (-) Changed:   NPC fight routine now uses drones if available
+  * (-) Changed:   Tweaked missile boat missile ranges, speeds slightly
+  * (-) Upgraded:  New games now load last hotkey profile
+
+
 
 
 ----
