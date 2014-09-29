@@ -18,6 +18,7 @@
   * (2) Fixed:     Debug spam on attacking phanon traders removed
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
   * (-) Upgraded:  New games now load last hotkey profile
+  * (-) Changed:   NPC fight routine now uses drones if available
 
 
 ----
