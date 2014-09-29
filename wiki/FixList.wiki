@@ -7,11 +7,6 @@
 ----
 == Bug Reports ==
 
-MLCC bombers don't fire missiles ([http://forum.egosoft.com/viewtopic.php?p=4434486#4434486 Report] | [http://www.filedropper.com/x10_3 Save])
-
-
-Player owned ships use chaff without CCDS installed (noticed in only on ships of the same type as my flown one, but I'm very skeptical that it's restricted to that. My playership has CCDS Mk1 installed)
-
 Asteroid tractor breaks after 1 move ([http://forum.egosoft.com/viewtopic.php?p=4436551#4436551 Post] | [http://www.mediafire.com/download/53vwjo72msdbu9y/X10.sav Save])
 
 ----
