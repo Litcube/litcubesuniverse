@@ -6,6 +6,8 @@ A simple command, the Freighter is designed to work with your dock and the dock'
 
 They'll also pay attention to threshold limits on those specified sources so that your freighters aren't making multiple runs, wasting fuel, just to pick up a few wares.  See the thresholds section of [Feature_Dockware_Manager Dockware Manager].
 
+A ware set to _overstock_ will enable the Freighter to continue stocking well past its home dock's capacity limit.
+
 Freighters do not buy wares for those wares set to _buy_.  Dock Agent does.
 
 Freighter command requirements can be found in the [Feature_Encyclopedia_Update Encyclopedia]
