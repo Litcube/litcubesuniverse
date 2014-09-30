@@ -17,6 +17,7 @@
   * (>9000) Fixed: Fucking Kuiper belt misspelled.
   * (4) Fixed:     Flail factories were producing chaff
   * (4) Fixed:     Freighter fixed using overstock function
+  * (4) Fixed:     Phanon hunters were not stopping scan task after being captured/bailed
   * (3) Fixed:     Some smaller NPC ships had no weapons or shields and it sucked
   * (3) Fixed:     UTs getting stuck on taking refuge
   * (3) Fixed:     Rep requirements for lasers
