@@ -32,6 +32,7 @@
   * (-) Changed:   NPC fight routine now uses drones if available
   * (-) Changed:   Tweaked missile boat missile ranges, speeds slightly
   * (-) Changed:   Player to player station selling now adds to trade report for station
+  * (-) Changed:   Some minor ship stat changes (laser: G, R, cargo: M5, M4, M3)
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
