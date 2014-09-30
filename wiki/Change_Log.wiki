@@ -33,6 +33,7 @@
   * (-) Changed:   Tweaked missile boat missile ranges, speeds slightly
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
+  * (-) Upgraded:  Can now remove ship types from MLCC configuration
 
 
 
