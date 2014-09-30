@@ -7,8 +7,6 @@
 ----
 == Bug Reports ==
 
-Asteroid tractor breaks after 1 move ([http://forum.egosoft.com/viewtopic.php?p=4436551#4436551 Post] | [http://www.mediafire.com/download/53vwjo72msdbu9y/X10.sav Save])
-
 ----
 == Suggestions ==
 
