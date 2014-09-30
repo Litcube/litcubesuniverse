@@ -24,6 +24,7 @@
   * (2) Fixed:     Debug spam on attacking phanon traders removed
   * (2) Fixed:     Menu claim range versus hotkey claim range (again)
   * (2) Fixed:     Direct deposit debug spam removed
+  * (2) Fixed:     Removed flickering in Plutarch Tractor System menu; optimization.
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
   * (1) Fixed:     Chaff missile icon fixed
   * (-) Changed:   NPC fight routine now uses drones if available
