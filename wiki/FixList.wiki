@@ -20,8 +20,6 @@ Give OCV an lower energy requirement equivalent for PPCs. As is, Rs and Gs are e
 
 Filter active ships (ships with currently running commands) from the template outfit menu
 
-Add PPP check to second UT station check ([http://forum.egosoft.com/viewtopic.php?p=4434630#4434630 Post])
-
 Clarify hanger capacities in ship compendium ([http://forum.egosoft.com/viewtopic.php?p=4437222#4437222 Post])
 
 Add passenger capacity to ship compendium (Willfe)
