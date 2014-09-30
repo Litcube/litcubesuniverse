@@ -10,8 +10,6 @@
 ----
 == Suggestions ==
 
-Add the ship names to the load screen pictures ([http://forum.egosoft.com/viewtopic.php?p=4429655#4429655 OP])
-
 Ship renaming suggestion ([http://forum.egosoft.com/viewtopic.php?p=4429678#4429678 OP])
 
 Carrier command suggestion ([http://forum.egosoft.com/viewtopic.php?p=4429678#4429678 OP])
@@ -81,6 +79,7 @@ Skin-related suggestions ([http://forum.egosoft.com/viewtopic.php?p=4427322#4427
 Adding Orbital Headquarters (Terran HQ) to the ATF Shipyard. ([http://forum.egosoft.com/viewtopic.php?p=4429568#4429568 OP])
 <br>
 There was a reason I removed the terran HQ, but I can't remember what it was.
+Add the ship names to the load screen pictures ([http://forum.egosoft.com/viewtopic.php?p=4429655#4429655 OP])
 
 *Maybe some day*
 
