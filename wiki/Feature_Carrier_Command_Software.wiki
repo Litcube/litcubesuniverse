@@ -7,7 +7,7 @@ The carrier command software now enables a carrier to quickly dock incoming figh
 CCS only works on huge ships (M7 and up).
 
 
-http://www.mediafire.com/convkey/abec/t1uk7q8438l9gwwfg.jpg
+http://www.mediafire.com/convkey/78ab/t1uk7q8438l9gwwfg.jpg
 
 In addition to this feature, the software opens up a command called Carrier Command, allowing the quick action on all homebased fighters.
 
