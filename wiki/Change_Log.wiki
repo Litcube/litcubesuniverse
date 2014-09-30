@@ -14,7 +14,7 @@
 === Not for a long while ===
   * Jedi base: Zebra
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
-  * (>9000) Fixed: Fucking Kuiper belt mispelled.
+  * (>9000) Fixed: Fucking Kuiper belt misspelled.
   * (4) Fixed:     Flail factories were producing chaff
   * (4) Fixed:     Freighter fixed using overstock function
   * (3) Fixed:     Some smaller NPC ships had no weapons or shields and it sucked
