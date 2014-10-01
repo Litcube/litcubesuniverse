@@ -45,6 +45,9 @@ Add passenger capacity to ship compendium (Willfe)
 ===*Add Galaxy and Zone map key functionality to Sector Security Complaints list*===
   I like the idea, but too much work for what it's worth right now
 
+===*Attack Shields command for turrets ([http://forum.egosoft.com/viewtopic.php?p=4430522#4430522 OP])*===
+  There's a shit ton of work that would need to be done to incorporate this properly.  What would the target be?  Capitals?  All ships?  Fighters?  Missile defence included?  Attack same target?  For the benefit, I'm not convinced it's worth it.  There's other methods to attack shields.  Boarding is a micromanagement nightmare for a reason.
+
 <br>
 ----
 *Either I'm too lazy to write a response, or I just don't feel LU needs the feature yet*
@@ -69,10 +72,6 @@ Adding Orbital Headquarters (Terran HQ) to the ATF Shipyard. ([http://forum.ego
 <br>
 There was a reason I removed the terran HQ, but I can't remember what it was.
 Add the ship names to the load screen pictures ([http://forum.egosoft.com/viewtopic.php?p=4429655#4429655 OP])
-<br>
-Attack Shields command for turrets ([http://forum.egosoft.com/viewtopic.php?p=4430522#4430522 OP])
-<br>
-There's a shit ton of work that would need to be done to incorporate this properly.  What would the target be?  Capitals?  All ships?  Fighters?  Missile defence included?  Attack same target?  For the benefit, I'm not convinced it's worth it.  There's other methods to attack shields.  Boarding is a micromanagement nightmare for a reason.
 
 *Maybe some day*
 
