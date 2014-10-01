@@ -31,6 +31,7 @@
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
   * (1) Fixed:     Chaff missile icon fixed
   * (1) Fixed:     Betty didn't say Alpha Particle Cannon correctly 
+  * (1) Fixed:     Fixed Ship Compendium ship view showing missiles for main turret
   * (-) Changed:   NPC fight routine now uses drones if available
   * (-) Changed:   Tweaked missile boat missile ranges, speeds slightly
   * (-) Changed:   Player to player station selling now adds to trade report for station
