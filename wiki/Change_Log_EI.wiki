@@ -19,6 +19,7 @@
 === Unreleased ===
   * Jedi base: Sloth, Ape, Cougar, Zebra<br><br>
   * (2) Fixed:  Safeguard to prevent an export within the first 5 minutes of a game.  Shit needs to be setup before you export.
+  * (-) EI implemented:  Ware discovered status
 ----
 = Version 2.1.2EI =
 === September 18th, 2014 ===
