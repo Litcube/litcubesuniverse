@@ -38,6 +38,7 @@
   * (-) Changed:   Some minor ship stat changes (laser: G, R, cargo: M5, M4, M3)
   * (-) Changed:   With some of the OOS combat changes, slowing OCV expansion by about 20% was necessary
   * (-) Changed:   Template outfit menu now filters ships running commands (beautiful suggestion)
+  * (-) Changed:   Trade Product Search and Ship Compendium now respect ware discovery status
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
