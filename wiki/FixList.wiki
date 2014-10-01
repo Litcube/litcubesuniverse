@@ -10,11 +10,6 @@
 ----
 == Suggestions ==
 
-
-Clarify hanger capacities in ship compendium ([http://forum.egosoft.com/viewtopic.php?p=4437222#4437222 Post])
-
-Add passenger capacity to ship compendium (Willfe)
-
 ----
 == Rejected ==
 <br>
