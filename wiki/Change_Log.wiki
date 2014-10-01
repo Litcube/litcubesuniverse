@@ -18,13 +18,13 @@
   * (4) Fixed:     Flail factories were producing chaff
   * (4) Fixed:     Freighter fixed using overstock function
   * (4) Fixed:     Phanon hunters were not stopping scan task after being captured/bailed
-  * (4) Fixed:     OOS laser rebalance, much testing; it's very close now.
+  * (4) Fixed:     OOS laser re-balance, much testing; it's very close now.
   * (3) Fixed:     Some smaller NPC ships had no weapons or shields and it sucked
   * (3) Fixed:     UTs getting stuck on taking refuge
   * (3) Fixed:     Rep requirements for lasers
   * (3) Fixed:     MLCC bombers turret issue fixed
   * (3) Fixed:     Missile boats range check before firing tweaked, removed boarding pod selection bug
-  * (2) Fixed:     Debug spam on attacking phanon traders removed
+  * (2) Fixed:     Debug spam on attacking Phanon traders removed
   * (2) Fixed:     Menu claim range versus hotkey claim range (again)
   * (2) Fixed:     Direct deposit debug spam removed
   * (2) Fixed:     Removed flickering in Plutarch Tractor System menu; optimization.
@@ -35,6 +35,7 @@
   * (-) Changed:   Player to player station selling now adds to trade report for station
   * (-) Changed:   Some minor ship stat changes (laser: G, R, cargo: M5, M4, M3)
   * (-) Changed:   With some of the OOS combat changes, slowing OCV expansion by about 20% was necessary
+  * (-) Changed:   Template outfit menu now filters ships running commands (beautiful suggestion)
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
