@@ -47,6 +47,7 @@
   * (-) Upgraded:  All ships now have varying marine capacity (none lower than before)
   * (-) Upgraded:  Added another page to Ship Compendium showing docking capability, added marine capacity
   * (-) Upgraded:  Ship Compendium shows race in red if rep too low to buy ship
+  * (-) Upgraded:  Several new script commands
 
 
 
