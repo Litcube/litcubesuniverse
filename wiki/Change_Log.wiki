@@ -43,6 +43,7 @@
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
   * (-) Upgraded:  Tahlmorra's Revelation military flash reports
   * (-) Upgraded:  All ships now have varying marine capacity (none lower than before)
+  * (-) Upgraded:  Added another page to Ship Compendium showing docking capability, added marine capacity
 
 
 
