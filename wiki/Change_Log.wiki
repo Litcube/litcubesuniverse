@@ -34,6 +34,7 @@
   * (-) Changed:   Tweaked missile boat missile ranges, speeds slightly
   * (-) Changed:   Player to player station selling now adds to trade report for station
   * (-) Changed:   Some minor ship stat changes (laser: G, R, cargo: M5, M4, M3)
+  * (-) Changed:   With some of the OOS combat changes, slowing OCV expansion by about 20% was necessary
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
