@@ -12,8 +12,6 @@
 
 Attack Shields command for turrets ([http://forum.egosoft.com/viewtopic.php?p=4430522#4430522 OP])
 
-Filter active ships (ships with currently running commands) from the template outfit menu
-
 Clarify hanger capacities in ship compendium ([http://forum.egosoft.com/viewtopic.php?p=4437222#4437222 Post])
 
 Add passenger capacity to ship compendium (Willfe)
