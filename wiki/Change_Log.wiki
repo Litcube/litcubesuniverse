@@ -42,7 +42,7 @@
   * (-) Changed:   Template outfit menu now filters ships running commands (beautiful suggestion)
   * (-) Changed:   Trade Product Search and Ship Compendium now respect ware discovery status
   * (-) Changed:   Phanon, OCV, now enemies
-  * (-) Changed:   Chaff no longer destroys missiles of the same race
+  * (-) Changed:   Chaff no longer destroys missiles fired by the same race
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
