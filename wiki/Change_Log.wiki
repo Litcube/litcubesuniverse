@@ -29,6 +29,7 @@
   * (2) Fixed:     Direct deposit debug spam removed
   * (2) Fixed:     Removed flickering in Plutarch Tractor System menu; optimization.
   * (2) Fixed:     Script command _add default items_ no longer adds more than max
+  * (2) Fixed:     Bailed pilots of larger ships had the same stats/name
   * (1) Fixed:     Omicron Channel gates updates to Gorbs
   * (1) Fixed:     Chaff missile icon fixed
   * (1) Fixed:     Betty didn't say Alpha Particle Cannon correctly 
