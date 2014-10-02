@@ -40,6 +40,7 @@
   * (-) Changed:   With some of the OOS combat changes, slowing OCV expansion by about 20% was necessary
   * (-) Changed:   Template outfit menu now filters ships running commands (beautiful suggestion)
   * (-) Changed:   Trade Product Search and Ship Compendium now respect ware discovery status
+  * (-) Changed:   Phanon, OCV, now enemies
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
@@ -48,6 +49,9 @@
   * (-) Upgraded:  Added another page to Ship Compendium showing docking capability, added marine capacity
   * (-) Upgraded:  Ship Compendium shows race in red if rep too low to buy ship
   * (-) Upgraded:  Several new script commands
+  * (-) Upgraded:  Phanon, OCV now their own separate race.  The OCV are *not* Xenon.
+
+
 
 
 
