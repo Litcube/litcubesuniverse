@@ -57,7 +57,7 @@
   * (-) Upgraded:  Several new script commands
   * (-) Upgraded:  Phanon, OCV now their own separate race.  The OCV are *not* Xenon.
   * (-) Upgraded:  Activate Emergency Retreat Drive hotkey implemented
-  * (-) Upgraded:  Trade Product Search has new "mode" option; now tells if rep is high enough to purchase
+  * (-) Upgraded:  Trade Product Search has new "mode" option; now tells if rep is high enough to purchase [https://code.google.com/p/litcubesuniverse/wiki/Feature_Trade_Product_Search TPS]
 
 
 
