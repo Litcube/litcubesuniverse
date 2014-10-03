@@ -47,6 +47,7 @@
   * (-) Changed:   Ships don't bounce against drones anymore
   * (-) Changed:   Fighter drone cost, stats balanced; keris now uses plasma gun
   * (-) Changed:   Jumpdrive core costs increased, ERD requirements increased
+  * (-) Changed:   Betty will no longer warn you when your ships are attacked in same sector, also increased delay between warnings
   * (-) Upgraded:  New games now load last hotkey profile
   * (-) Upgraded:  Global ship naming added ability to filter by wing and homebase
   * (-) Upgraded:  Can now remove ship types from MLCC configuration
