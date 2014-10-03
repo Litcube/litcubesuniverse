@@ -20,10 +20,10 @@ As is the case with Emergency Jump, only big class ships can use it.
 
 Jumpdrive Cores Required per class:
 
-*TM:* 4<br>
-*M6:* 4<br>
-*M8:* 5<br>
-*TL:* 8<br>
-*M7:* 12<br>
-*M1:* 22<br>
-*M2:* 29<br>
+*TM:* 6<br>
+*M8:* 10<br>
+*M6:* 17<br>
+*TL:* 20<br>
+*M7:* 45<br>
+*M1:* 85<br>
+*M2:* 125<br>
