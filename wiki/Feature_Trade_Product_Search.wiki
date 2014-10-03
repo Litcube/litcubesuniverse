@@ -2,7 +2,7 @@
 
 = Trade Product Search =
 
-http://www.mediafire.com/convkey/2977/3httih83u9eb7b4fg.jpg
+http://www.mediafire.com/convkey/b043/v2or0a52dgk9xyffg.jpg
 
 This command, run on the player ship, lets you find stuff for sale so that you don't have to ask me where to find it.  It'll look for wares, ships, or stations for sale in the entire Universe.
 
