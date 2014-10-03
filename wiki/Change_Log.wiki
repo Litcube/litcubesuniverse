@@ -55,6 +55,7 @@
   * (-) Upgraded:  Ship Compendium shows race in red if rep too low to buy ship
   * (-) Upgraded:  Several new script commands
   * (-) Upgraded:  Phanon, OCV now their own separate race.  The OCV are *not* Xenon.
+  * (-) Upgraded:  Activate Emergency Retreat Drive hotkey implemented
 
 
 
