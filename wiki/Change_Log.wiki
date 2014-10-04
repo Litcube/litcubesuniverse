@@ -59,8 +59,10 @@
   * (-) Upgraded:  Several new script commands
   * (-) Upgraded:  Phanon, OCV now their own separate race.  The OCV are *not* Xenon.
   * (-) Upgraded:  Activate Emergency Retreat Drive hotkey implemented
-  * (-) Upgraded:  Trade Product Search has new "mode" option; now tells if rep is high enough to purchase See: [https://code.google.com/p/litcubesuniverse/wiki/Feature_Trade_Product_Search TPS]
+  * (-) Upgraded:  Trade Product Search has new "mode" option; now tells if rep is high enough to purchase See: 
+[https://code.google.com/p/litcubesuniverse/wiki/Feature_Trade_Product_Search TPS]
   * (-) Upgraded:  From Zebra on, save games will show data and codebase version in menus _properly_
+  * (-) Upgraded:  Trade Product Search now shows some average, universally known info on wares
 
 
 
