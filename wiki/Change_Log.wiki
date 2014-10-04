@@ -11,7 +11,7 @@
 
 ----
 = Version 1.3.7LU =
-=== Coming Soon ===
+=== October 4, 2014 ===
   * Jedi base: Zebra
   * _*This patch requires an import/export; See: [Feature_Export_Import Export/Import]*_<br><br>
   * (>9000) Fixed: Fucking Kuiper belt misspelled.
