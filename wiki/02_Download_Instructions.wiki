@@ -5,15 +5,17 @@ A base install requires a clean AP install, so read and follow the [Installation
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.4.exe Litcube's Universe V1.3.4]
 <br><br>
 
-[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.0.exe Litcube's Universe Soundtrack V1.1.0]
+[http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.1.exe Litcube's Universe Soundtrack V1.1.1]
 <br><br>
 ----
 = Patch =
 === Seriously: [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]===
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.6.exe Litcube's Universe Patch V1.3.6]
 
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.7.exe Litcube's Universe Patch V1.3.7]
 
 *Older patches*
+
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.6.exe Litcube's Universe Patch V1.3.6]
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.5.exe Litcube's Universe Patch V1.3.5]
 
@@ -29,16 +31,9 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 ----
 = Export/Import Package =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.2.exe Litcube's Universe Export/Import Package V2.1.2]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.3.exe Litcube's Universe Export/Import Package V2.1.3]
 
 In an endeavour to eliminate the incremental patching, and the confusion over when to export at which patch etc., EI scripts are now externalized.
-
-Example: If you were going from V1.3.4 to V1.3.5
-
-  * Install latest EI (into Main X3 directory, *not* the addon directory)
-  * Export game
-  * Patch to version 1.3.5
-  * Import game
 
 ----
 
@@ -52,7 +47,7 @@ Includes:
   * Litcube's GUIs
   * TrixX's LU GUIs
 
-[http://litcube.xtimelines.net/download.php?File=LUGUIV1.1.1.exe GUI Installer V1.1.1]
+[http://litcube.xtimelines.net/download.php?File=LUGUIV1.2.0.exe GUI Installer V1.2.0]
 
 ----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
@@ -81,4 +76,4 @@ Includes:
 
   * X-Studio I custom syntax.  Just throw this in your X-Studio folder and it will read the syntax.
 
-[http://litcube.xtimelines.net/download.php?File=Custom.SyntaxV1.3.0.zip X-Studio Custom Syntax V1.3.0]
+[http://litcube.xtimelines.net/download.php?File=Custom.SyntaxV1.3.1.zip X-Studio Custom Syntax V1.3.1]
