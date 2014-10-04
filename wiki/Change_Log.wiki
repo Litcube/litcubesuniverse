@@ -25,6 +25,7 @@
   * (3) Fixed:     MLCC bombers turret issue fixed
   * (3) Fixed:     Missile boats range check before firing tweaked, removed boarding pod selection bug
   * (3) Fixed:     M8 turret change from 1.3.3 fixed
+  * (3) Fixed:     Revelation was using import values when turning Revelation back on; it shouldn't
   * (2) Fixed:     Debug spam on attacking Phanon traders removed
   * (2) Fixed:     Menu claim range versus hotkey claim range (again)
   * (2) Fixed:     Direct deposit debug spam removed
