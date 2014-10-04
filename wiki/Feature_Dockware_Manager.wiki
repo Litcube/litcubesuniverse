@@ -48,6 +48,8 @@ http://www.mediafire.com/convkey/bec8/4o285ppo0m7p1j2fg.jpg
 
 From this menu, you can order equipment, software, and tunings.  Once purchased (green), you'll be able to equip ships with these upgrades through the _upgrade ship_ menu.  In the example image above, you can see that this dock has purchased Best Buys Locator, Cargo Bay Extension and Fight Command Software MK1, among others.  Docked ships can now have these wares installed from here.  Licenses are purchased on a per dock basis.
 
+NOTE: Licences are specific to the dock at which they are purchased and are not transferable to other docks.
+
 == Function: Template Outfit ==
 
 http://www.mediafire.com/convkey/6891/428j75ei66t6os0fg.jpg
