@@ -14,28 +14,30 @@
   * EI is an acronym for Export/Import
 
 
+
+----
+= Version 2.1.4EI =
+=== Unreleased ===
+  * (-) Changed:  Phanon, OCV messages will not repeat, if you already received them
+
 ----
 = Version 2.1.3EI =
 === Unreleased ===
-  * Jedi base: Sloth, Ape, Cougar, Zebra<br><br>
   * (2) Fixed:  Safeguard to prevent an export within the first 5 minutes of a game.  Shit needs to be setup before you export.
   * (-) EI implemented:  Ware discovered status
 ----
 = Version 2.1.2EI =
 === September 18th, 2014 ===
-  * Jedi base: Sloth, Ape, Cougar<br><br>
   * (2) Fixed:  EI wasn't putting player in correct sector after complex connections
   * (1) Fixed:  Small check for < and > characters
 ----
 = Version 2.1.1EI =
 === September 18th, 2014 ===
-  * Jedi base: Sloth, Ape<br><br>
   * (2) Fixed:  Sector/Map change support for versions older than 1.3.4
 ----
 
 = Version 2.1.0EI =
 === September 17th, 2014 ===
-  * Jedi base: Sloth, Ape<br><br>
   * (2) Fixed:  Salvage insurance no longer doubles
   * (2) Fixed:  Dock Agent, Freighter also get stray ware cleanup
   * (1) Fixed:  Laser towers import as already setup
