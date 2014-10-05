@@ -33,10 +33,10 @@
 
   If EI is required:
 
-  # Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
-  # Export<br> 
-  # Install latest LU Patch [02_Download_Instructions Download]<br>
-  # Import<br>
+   # Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
+   # Export<br> 
+   # Install latest LU Patch [02_Download_Instructions Download]<br>
+   # Import<br>
 
   Note: Install EI into Main X3 directory, *not* the addon directory.
  
