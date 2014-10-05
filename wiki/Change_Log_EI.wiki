@@ -18,7 +18,7 @@
 ----
 = Version 2.1.4EI =
 === Unreleased ===
-  * (-) Changed:  Phanon, OCV messages on EI supressed
+  * (-) Changed:  Phanon, OCV messages on EI suppressed
 
 ----
 = Version 2.1.3EI =
