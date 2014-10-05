@@ -9,7 +9,7 @@
 
 ----
 == Suggestions ==
-*Add Save/Load feature and the ability to edit waypoints to Courier
+Add Save/Load feature and the ability to edit waypoints to Courier
 
 ----
 == Rejected ==
