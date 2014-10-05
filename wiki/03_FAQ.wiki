@@ -36,6 +36,7 @@
   * Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
   * Export<br> 
   * Install latest LU Patch [02_Download_Instructions Download]<br>
+  * If they were updated, install other LU packages as well (such as the GUI package)<br>
   * Import<br>
 
   Note: Install EI into Main X3 directory, *not* the addon directory.
