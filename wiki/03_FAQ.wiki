@@ -19,9 +19,11 @@
 
 If you are installing LU on for the first time, please read and follow the [https://code.google.com/p/litcubesuniverse/wiki/Installation Install Instructions] instead.
 
-Look at the [Change_Log changelog]. If, from your version + 1, to the version you're updating to, you see the words "Export/Import required", you need to do an EI. Example: going from 1.2.4 to 1.3.4: Look at 1.2.5 through 1.3.4 on on the changelog. See "Export/Import required" in any of the changelogs? Then you need to do an EI. Be sure to follow any other instructions listed in the changlogs. Example: going from 1.2.4 to 1.3.4: patch 1.3.0 requires a reinstall of the base mod.
+Look at the [Change_Log changelog]. If, from your version + 1, to the version you're updating to, look at the _Code Base_.  This is the code base version, and it will be an animal such as Sloth, Cougar, Zebra.  If the animal is different from the version you are running, you need to export, otherwise your save game will not load.  You can only load save games of the same animal, or code base.
 
-Note: Regardless of the number of patch notes that include "Export/Import required", you only need to perform *one* E/I (from your existing save to the latest patch). 
+For example:  If you're currently running 1.3.6, you'll see that the code base for 1.3.6 is _Cougar_.  If you're updating to version 1.3.7, you'll see the code base is _Zebra_.  They are different.  Therefore you need to EI.
+
+Note: You only need to perform _*one*_ E/I (from your existing save to the latest patch). 
 
 Note: Export/Import does not need to be performed if you will be starting a new game.
 
