@@ -23,6 +23,7 @@
 = Version 1.3.7LU =
 === October 4, 2014 ===
   * *Code base: Zebra*
+
   * (>9000) Fixed: Fucking Kuiper belt misspelled.
   * (4) Fixed:     Flail factories were producing chaff
   * (4) Fixed:     Freighter fixed using overstock function
