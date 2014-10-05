@@ -15,7 +15,7 @@
 = Version 1.3.8LU =
 === Unreleased ===
   * Jedi base: Zebra
-  * _*This patch does not require an import/export<br><br>
+  * _*This patch does not require an import/export*<br><br>
   * (-) Changed:     Auction Cargo Stations command now only works when docked at shipyards
 
 
