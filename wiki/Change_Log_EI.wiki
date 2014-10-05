@@ -18,7 +18,7 @@
 ----
 = Version 2.1.4EI =
 === Unreleased ===
-  * (-) Changed:  Phanon, OCV messages will not repeat, if you already received them
+  * (-) Changed:  Phanon, OCV messages on EI supressed
 
 ----
 = Version 2.1.3EI =
