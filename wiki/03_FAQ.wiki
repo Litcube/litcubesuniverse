@@ -17,32 +17,32 @@
 
 === How do I patch? ===
 
-If you are installing LU on for the first time, please read and follow the [https://code.google.com/p/litcubesuniverse/wiki/Installation Install Instructions] instead.
+  If you are installing LU on for the first time, please read and follow the [https://code.google.com/p/litcubesuniverse/wiki/Installation Install Instructions] instead.
 
-Look at the [Change_Log changelog]. If, from your version + 1, to the version you're updating to, look at the _Code Base_.  This is the code base version, and it will be an animal such as Sloth, Cougar, Zebra.  If the animal is different from the version you are running, you need to export, otherwise your save game will not load.  You can only load save games of the same animal, or code base.
+  Look at the [Change_Log changelog]. If, from your version + 1, to the version you're updating to, look at the _Code Base_.  This is the code base version, and it will be an animal such as Sloth, Cougar, Zebra.  If the animal is different from the version you are running, you need to export, otherwise your save game will not load.  You can only load save games of the same animal, or code base.
 
-For example:  If you're currently running 1.3.6, you'll see that the code base for 1.3.6 is _Cougar_.  If you're updating to version 1.3.7, you'll see the code base is _Zebra_.  They are different.  Therefore you need to EI.
+  For example:  If you're currently running 1.3.6, you'll see that the code base for 1.3.6 is _Cougar_.  If you're updating to version 1.3.7, you'll see the code base is _Zebra_.  They are different.  Therefore you need to EI.
 
-Note: You only need to perform _*one*_ E/I (from your existing save to the latest patch). 
+  Note: You only need to perform _*one*_ E/I (from your existing save to the latest patch). 
 
-Note: Export/Import does not need to be performed if you will be starting a new game.
+  Note: Export/Import does not need to be performed if you will be starting a new game.
 
-The other way to tell if you need an EI is when you load your save game after patching and the game farts and exits with a message.
+  The other way to tell if you need an EI is when you load your save game after patching and the game farts and exits with a message.
 
-If an EI is not required, just install the patch and play.
+  If an EI is not required, just install the patch and play.
 
-If EI is required:
+  If EI is required:
 
-1) Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
-2) Export<br> 
-3) Install latest LU Patch [02_Download_Instructions Download]<br>
-4) Import<br>
+  # Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
+  # Export<br> 
+  # Install latest LU Patch [02_Download_Instructions Download]<br>
+  # Import<br>
 
-Note: Install EI into Main X3 directory, *not* the addon directory.
+  Note: Install EI into Main X3 directory, *not* the addon directory.
  
-If you run into problems and didn't read it, bunnies will die. And I can't help that.
+  If you run into problems and didn't read it, bunnies will die. And I can't help that.
 
-If you don't use the installer, and do a manual copy paste, your game will be broken.
+  If you don't use the installer, and do a manual copy paste, your game will be broken.
 
 
 === What do the installers delete? ===
