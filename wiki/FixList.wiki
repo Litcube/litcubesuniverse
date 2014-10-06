@@ -10,6 +10,7 @@
 ----
 == Suggestions ==
 Add Save/Load feature and the ability to edit waypoints to Courier
+Ability to re-order Templates in the Template Manager (Move them up/down)
 
 ----
 == Rejected ==
