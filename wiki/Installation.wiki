@@ -22,6 +22,12 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
        # Copy the 'x3 terran conflict' folder to another location. In my install I used 'E:\X3AP Installs\LU', but any location not associated with steam will do.
        # Download the !NoSteam executable from the [http://www.egosoft.com/download/x3ap/bonus_en.php Egosoft website] and extract it to your new 'x3 terran conflict' folder.
        # Update any shortcuts you use to point to the !NoSteam exe.
+     # Ensure X3AP is set to use English localization.
+       # Create a shortcut to the !NoSteam executable you just extracted.
+       # Right click on the shortcut and click properties.
+       # On the _Shortcut_ tab, locate the _Target_ text box.
+       # Paste _-language 44_ at the end of the current contents of that text box.
+         * For example, the _Target_ line for my shortcut reads _"E:\X3AP Installs\LU\X3AP_n.exe" -language 44_
 
 == Installation == 
 
