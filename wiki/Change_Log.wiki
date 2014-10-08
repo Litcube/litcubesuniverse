@@ -17,6 +17,7 @@
   * *Code base: Zebra*
 
   * (4) Fixed:       OCV home sector wasn't producing wares past a count of 2000 each
+  * (3) Fixed:       Revelation defend event now only starts in valid races sectors
   * (2) Fixed:       MLCC bomber debug rename
   * (2) Fixed:       Dockware Manager, coloured ship names in upgrade menu difficult to tell what was selected
   * (2) Fixed:       Dockware Manager, no longer adds equipment, upgrades, or licenses on group add
