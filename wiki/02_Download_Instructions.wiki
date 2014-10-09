@@ -46,6 +46,7 @@ Includes:
 
 ----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
+  * Data accurate to LUV1.3.8
 
 [http://litcube.xtimelines.net/download.php?File=LUEditorsV1.3.0.zip LU Editors V1.3.0]
 
