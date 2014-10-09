@@ -1,0 +1,11 @@
+#summary CCDS allows ships to automatically track and fire chaff
+
+= Chaff Countermeasure Defense System =
+
+CCDS is a ship system that enables auto firing of chaff at incoming missiles.  There is no configuration required beyond equipping the ship with chaff.  If the system is installed, the ship will track incoming missiles and fire chaff.
+
+There are 3 variants; MK1, MK2, MK3.
+
+The only difference between them is who manufactures them, and in turn where they are purchased, and also the success rate the system has at intercepting the incoming missiles.
+
+There is a random variable in the form of the pilot's flight skill, but other than that, the CCDS is roughly 30%, 65%
