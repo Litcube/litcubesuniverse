@@ -17,13 +17,13 @@
 
 ----
 = Version 2.1.4EI =
-=== Unreleased ===
+=== October 9, 2014 ===
   * (-) Changed:  Phanon, OCV messages on EI suppressed
   * (-) Changed:  LU.EI.IgnoreThis will ignore the object during export
 
 ----
 = Version 2.1.3EI =
-=== Unreleased ===
+=== October 4, 2014 ===
   * (2) Fixed:  Safeguard to prevent an export within the first 5 minutes of a game.  Shit needs to be setup before you export.
   * (-) EI implemented:  Ware discovered status
 ----
