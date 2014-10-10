@@ -15,7 +15,7 @@
 === Unreleased ===
   * *Code base: Zebra*
 
-  * (2) Fixed:       If a ship was docked at a station, it would not count towards PPP for stock exchange
+  * (2) Fixed:       If a ship was docked at a stock exchange, it would not count towards PPP
 ----
 = Version 1.3.9LU =
 === October 9, 2014 ===
