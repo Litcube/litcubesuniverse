@@ -19,6 +19,7 @@
 = Version 2.1.4EI =
 === Unreleased ===
   * (-) Changed:  Phanon, OCV messages on EI suppressed
+  * (-) Changed:  LU.EI.IgnoreThis will ignore the object during export
 
 ----
 = Version 2.1.3EI =
