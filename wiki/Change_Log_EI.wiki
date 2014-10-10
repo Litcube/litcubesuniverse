@@ -28,17 +28,17 @@
   * (-) EI implemented:  Ware discovered status
 ----
 = Version 2.1.2EI =
-=== September 18th, 2014 ===
+=== September 18, 2014 ===
   * (2) Fixed:  EI wasn't putting player in correct sector after complex connections
   * (1) Fixed:  Small check for < and > characters
 ----
 = Version 2.1.1EI =
-=== September 18th, 2014 ===
+=== September 18, 2014 ===
   * (2) Fixed:  Sector/Map change support for versions older than 1.3.4
 ----
 
 = Version 2.1.0EI =
-=== September 17th, 2014 ===
+=== September 17, 2014 ===
   * (2) Fixed:  Salvage insurance no longer doubles
   * (2) Fixed:  Dock Agent, Freighter also get stray ware cleanup
   * (1) Fixed:  Laser towers import as already setup
