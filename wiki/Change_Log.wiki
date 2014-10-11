@@ -15,7 +15,11 @@
 === Unreleased ===
   * *Code base: Zebra*
 
-  * (2) Fixed:       If a ship was docked at a stock exchange, it would not count towards PPP
+  * (2) Fixed:  If a ship was docked at a stock exchange, it would not count towards PPP
+  * (2) Fixed:  Some UT code wasn't calculating profit properly
+  * (2) Fixed:  UT drone orders were fucking up trade report
+  * (-) Changed:  Added a few things to the market menus  
+
 ----
 = Version 1.3.9LU =
 === October 9, 2014 ===
