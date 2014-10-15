@@ -25,6 +25,7 @@
   * (-) Changed:  Player docks hold more
   * (-) Changed:  Mass Driver added to most M5s, more M4s, some M3s
   * (-) Changed:  Vestibule of Creation sector name to Prophecy Fulfilled, as Betty was drunk.
+  * (-) Changed:  Silicone Wafer volume from 18 to 12
   * (-) Upgraded:  Trade Report added to context menu (advanced), hotkey added
 
 
