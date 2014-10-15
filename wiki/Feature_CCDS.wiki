@@ -1,4 +1,4 @@
-#summary CCDS allows ships to automatically track and fire chaff
+#summary Chaff Countermeasure Defense System fires chaff at incoming missiles.
 
 = Chaff Countermeasure Defense System =
 
