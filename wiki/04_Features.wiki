@@ -28,6 +28,14 @@ See: [Feature_Carrier_Command_Software Feature: Command Software Update]
 
 ----
 
+=== CCDS ===
+
+Chaff Countermeasure Defense System fires chaff at incoming missiles.
+
+See: [Feature_CCDS Feature: CCDS]
+
+----
+
 === Complex Management ===
 
 A few commands allowing station agents to manage your complexes.
