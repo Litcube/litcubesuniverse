@@ -10,6 +10,8 @@
  
   Plugin Manager is not compatible.<br>
   Lucike's script library overwrites a few key LU references.<br>
+  Litcube does not support any install that is not LUV (Litcube's Universe Vanilla)<br>
+
 
 === My game crashes when I eject ===
 
@@ -25,7 +27,7 @@
 
   Note: You only need to perform _*one*_ E/I (from your existing save to the latest patch). 
 
-  Note: Export/Import does not need to be performed if you will be starting a new game.
+  Note: Export/Import does not need to be performed if you will be starting a new game.  OBVIOUSLY.
 
   The other way to tell if you need an EI is when you load your save game after patching and the game farts and exits with a message.
 
