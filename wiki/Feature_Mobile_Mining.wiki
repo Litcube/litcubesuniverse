@@ -1,0 +1,13 @@
+#summary LU Mobile Mining is different
+
+= Mobile Mining In LU =
+
+Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector has been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.
+
+Only the new miner variant of ships can actually equip them.
+
+Most of the time when you hit a rock, you'll get a mineral like ore, silicon, ice, or nividium.  Rarely, you'll end up with a rare mineral or crystal.
+
+Outposts throughout the galaxy will buy these rare minerals and crystals.  These docks consume at a high rate.
+
+There will be NPC miners out there who also mine and sell to mining outposts.
