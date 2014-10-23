@@ -28,6 +28,7 @@
   * (-) Changed:  Silicone Wafer volume from 18 to 12
   * (-) Upgraded:  Trade Report added to context menu (advanced), hotkey added
   * (-) Upgraded:  Courier can now save, apply queues
+  * (-) Upgraded:  Mobile mining implemented
 
 ----
 = Version 1.3.9LU =
