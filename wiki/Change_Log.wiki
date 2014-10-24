@@ -17,6 +17,7 @@
 
   * (3) Fixed:  Station Agent code reworked to avoid waiting forever bug
   * (3) Fixed:  Dockware Manager was allowing capacities to be set that were higher than the dock could store
+  * (3) Fixed:  Carrier Command would only run if a carrier had docked ships, which was dumb
   * (2) Fixed:  If a ship was docked at a stock exchange, it would not count towards PPP
   * (2) Fixed:  Some UT code wasn't calculating profit properly
   * (2) Fixed:  UT drone orders were fucking up trade report
