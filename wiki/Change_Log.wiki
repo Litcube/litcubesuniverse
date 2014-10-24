@@ -27,6 +27,7 @@
   * (-) Changed:  Mass Driver added to most M5s, more M4s, some M3s
   * (-) Changed:  Vestibule of Creation sector name to Prophecy Fulfilled, as Betty was drunk.
   * (-) Changed:  Silicone Wafer volume from 18 to 12
+  * (-) Changed:  The Toukon top prongs you see through the cockpit looked a little fucking stupid, so I changed them
   * (-) Upgraded:  Trade Report added to context menu (advanced), hotkey added
   * (-) Upgraded:  Courier can now save, apply queues
   * (-) Upgraded:  Mobile mining implemented
