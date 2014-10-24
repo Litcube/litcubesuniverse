@@ -20,6 +20,7 @@
   * (2) Fixed:  If a ship was docked at a stock exchange, it would not count towards PPP
   * (2) Fixed:  Some UT code wasn't calculating profit properly
   * (2) Fixed:  UT drone orders were fucking up trade report
+  * (1) Fixed:  Station import/export display is finally shown in percentile
   * (-) Changed:  Added a few things to the market menus
   * (-) Changed:  Ship destroyed notification sound
   * (-) Changed:  Player docks hold more
