@@ -20,7 +20,7 @@
     * [Feature_Explorer_Command_Software Explorer Command Software] 
     * [Feature_Export_Import Export/Import]
     * [Feature_Freighter Freighter]
-    * [Feature_FLC FLC]
+    * [Feature_FLC Fightrank Loot Chance (FLC)]
     * [Feature_GoD_Changes GoD Changes]
     * [Feature_GUI GUI]
     * [Feature_Hotkeys Hotkeys]
