@@ -120,10 +120,10 @@ Mining
 
 55:  !plugin.fightcommand.fire.task
 
-90:  Lib.Cmd.FlyUntil.EnemyShipFoundInScanner
-90:  Lib.Cmd.FlyUntil.NeutralShipFoundInScanner
-90:  Lib.Cmd.FlyUntil.WareFoundInScanner
-90:  Lib.Cmd.FlyUntil.LocalVariableFlagIsTrue
+90:  Lib.Cmd.FlyUntil.EnemyShipFoundInScanner<br>
+90:  Lib.Cmd.FlyUntil.NeutralShipFoundInScanner<br>
+90:  Lib.Cmd.FlyUntil.WareFoundInScanner<br>
+90:  Lib.Cmd.FlyUntil.LocalVariableFlagIsTrue<br>
 
 101:  al.Revelation.Monitor
 
@@ -146,8 +146,6 @@ Mining
 723:  Lib.Cmd.FireChaff.Check
 
 932:  Lib.Cmd.MLCC.UpdateDockSupply
-
-
 
 
 
