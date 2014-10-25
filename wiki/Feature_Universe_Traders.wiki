@@ -1,5 +1,13 @@
 Universe Traders operate similarly to vanilla traders, with a few key changes regarding trader security and jump ranges.
 
+==Player Console Commands==
+
+Two commands are available for UT's in the Player Console.
+
+*UT Ignore Stray Ware Warning:* If you want to keep certain wares in the UT and not sell them, add those wares to this list to prevent unnecessary UT messages.
+
+*UT Blacklist Wares:* What it sounds like. If there are certain wares that you don't want the UT to trade, add them to this list.
+
 ==Security==
 
 Universe traders are more concerned with self-preservation than they previously were.  To that effect, every UT regardless of level will equip itself with 6 Fighter Drones.
@@ -29,11 +37,3 @@ Additionally, UT's will only trade in sectors where player-owned property is pre
 * Note *--The "Buy" distance of a trader is essentially its tether distance.  The greater sell distance is to ensure that the UT doesn't end up carrying cargo that it can't sell.
 
 Additionally, the UT will use its jumpdrive until it detects that it has 8 jumps or less left in its fuel tank, at which time it will withhold buying or selling new wares and jump to refuel.
-
-==Player Console Commands==
-
-Two commands are available for UT's in the Player Console.
-
-*UT Ignore Stray Ware Warning:* If you want to keep certain wares in the UT and not sell them, add those wares to this list to prevent unnecessary UT messages.
-
-*UT Blacklist Wares:* What it sounds like. If there are certain wares that you don't want the UT to trade, add them to this list.
