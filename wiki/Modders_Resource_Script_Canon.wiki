@@ -3,39 +3,39 @@
 ----
 ===Script Types===
 
-[Script] is the general name of the script.  Such as BuyWare, or MapSector.  All script files that include the same names/descriptor will obviously be related
+*[Script]* is the general name of the script.  Such as BuyWare, or MapSector.  All script files that include the same names/descriptor will obviously be related
 
-HK stands for hotkey
+*HK* stands for hotkey
 
-Cmd.[name]		Only commands that show up in the ship menu or HKs allowed.  These are the only commands that you should have SET COMMAND in for displaying stuff.  They can contain menus, if the entire command is a menu itself, meaning, it’s not a command configuration menu (which should go in as a pre load),
+*Cmd.[name]*		Only commands that show up in the ship menu or HKs allowed.  These are the only commands that you should have SET COMMAND in for displaying stuff.  They can contain menus, if the entire command is a menu itself, meaning, it’s not a command configuration menu (which should go in as a pre load),
 
-Lib.Gen		No commands.  Helper functions only
+*Lib.Gen*		No commands.  Helper functions only
 
-Lib.X.[name].	X stands for eXtension.  Repeated commands within script groups that wouldn’t apply anywhere else. Helper description after the dot.
+*Lib.X.[name].*	X stands for eXtension.  Repeated commands within script groups that wouldn’t apply anywhere else. Helper description after the dot.
 
-Lib.Cmd		Generic commands that run as ship tasks.  Useful for all sorts of scripts, but are not run directly from a menu.  No log text!  No SET COMMAND! Try to be descriptive for the command in a general -> specific hierarchy, for example:  Lib.Cmd.Fly.SafePath or Lib.Cmd.Fly.Near.Station.
+*Lib.Cmd*		Generic commands that run as ship tasks.  Useful for all sorts of scripts, but are not run directly from a menu.  No log text!  No SET COMMAND! Try to be descriptive for the command in a general -> specific hierarchy, for example:  Lib.Cmd.Fly.SafePath or Lib.Cmd.Fly.Near.Station.
 
-Lib.Debug		Debugging and general use for developing scripts.  Never ever run during normal play operation.
+*Lib.Debug*		Debugging and general use for developing scripts.  Never ever run during normal play operation.
 
-Lib.MenuHelp	Helper library scripts for menu functions.
+*Lib.MenuHelp*	Helper library scripts for menu functions.
 
-HK.			Only called from a hotkey.  Code in here should only include a line to run the Cmd + the bare minimum required to run the Cmd script.
+*HK.*			Only called from a hotkey.  Code in here should only include a line to run the Cmd + the bare minimum required to run the Cmd script.
 
-CmdChk.		Only for setup scripts return availability for command.
+*CmdChk.*		Only for setup scripts return availability for command.
 
-setup.			For setting up commands.  All non-fly related should be launched on preloads to avoid “autopilot enabled” message.  
+*setup.*			For setting up commands.  All non-fly related should be launched on preloads to avoid “autopilot enabled” message.  
 
-Menu.			Menu scripts.  Launched directly from commands or from other scripts that DO NOT run a command (which is reserved for preloads or PL scripts).  These can also be helpers for other CMD menu style commands.  The “.SM” suffix is used for loop back scripts in dynamic menus.  It is called every time the player interacts with the dynamic menu.
+*Menu.*			Menu scripts.  Launched directly from commands or from other scripts that DO NOT run a command (which is reserved for preloads or PL scripts).  These can also be helpers for other CMD menu style commands.  The “.SM” suffix is used for loop back scripts in dynamic menus.  It is called every time the player interacts with the dynamic menu.
 
-Lib.MenuHelp.QM	Generic menus that fit into other menus.  That’s for Quick Menu. For library use.
+*Lib.MenuHelp.QM*	Generic menus that fit into other menus.  That’s for Quick Menu. For library use.
 
-PL			All preload scripts on menus
+*PL*			All preload scripts on menus
 
-Sig.			Fired from signals
+*Sig.*			Fired from signals
 
-Gbl.			Anything intended to run as global task.
+*Gbl.*			Anything intended to run as global task.
 
-Lib.Gbl.[name]	Global helper libraries.
+*Lib.Gbl.[name]*	Global helper libraries.
 
 ----
 ===Error Code Returns===
@@ -146,4 +146,3 @@ Mining
 723:  Lib.Cmd.FireChaff.Check
 
 932:  Lib.Cmd.MLCC.UpdateDockSupply
-
