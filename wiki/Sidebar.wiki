@@ -47,6 +47,7 @@
     * [Feature_Trade_Product_Search Trade Product Search]
     * [Feature_Trade_Reports Trade Reports]
     * [Feature_Universal_Bailing Universal Bailing]
+    * [Feature_Universe_Traders]
     * [Feature_Vanilla_AP_Bug_Fixes Vanilla AP Bug Fixes]
   * Modders Resources
     * [Modders_Resource_RegisterEI Register EI]
