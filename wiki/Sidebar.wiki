@@ -50,6 +50,7 @@
     * [Feature_Vanilla_AP_Bug_Fixes Vanilla AP Bug Fixes]
   * Modders Resources
     * [Modders_Resource_RegisterEI Register EI]
+    * [Modders_Resource_Script_Canon LU Script Canon]
     * [ScriptEngine_Feature_SignalTargeted Signal Targeted]
     * [ScriptEngine_Feature_LocalVariables Local Variabes]
   * [Reviews]
