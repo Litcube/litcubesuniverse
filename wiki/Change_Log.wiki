@@ -18,6 +18,7 @@
   * *Code base: Dugong*
 
   * (4) Fixed: Keris was not installing plasma gun
+  * (4) Fixed:  Trade reports run on ships were cancelling ship orders (task 0, DERP)
   * (3) Fixed: Space suit was no equipping repair laser
 
 
