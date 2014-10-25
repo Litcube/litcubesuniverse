@@ -44,7 +44,7 @@ All Litcube scripts return negative error codes with arrays.  The second line is
 
 > 0	Success or other return result upon success
 
-	Cargo & Transport Codes
+	*Cargo & Transport Codes*
 -100	General cargo problem
 	Ware, Target
 -101	Not enough cargo space for amount requested (includes trying to jump error)
@@ -60,7 +60,7 @@ Ware, TargetShip
 -106	Cargo sale requested, no ware in cargo hold
 	Amount, Ware
 
-	Station & Ship Codes
+	*Station & Ship Codes*
 -200	Home base has none of requested ware
 	Station, Ware
 -201	Ship requires a home base for this command
@@ -69,7 +69,7 @@ Ware, TargetShip
 -225	Not enough energy to jump to sector
 
 	
-	Pre refuel Codes
+	*Pre refuel Codes*
 -250	Trying to refuel, Fuel Resupply Quantity not large enough for it
 	StartSector, DestinationSector
 -251	Trying to refuel, cargo bay not large enough for resupply
@@ -79,27 +79,27 @@ Ware, TargetShip
 -260	Not enough fuel at homebase
 	Homebase
 
-Post refuel Codes
+        *Post refuel Codes*
 -280	Autojump enabled one or more is not installed: T.C.S. MK1, T.C.S. MK2, Trading System Extension, or Best Buys Locator.
 -281	Already have enough fuel.  Energy is equal to or more than Fuel Resupply Quantity.
 
-	Money Code
+	*Money Code*
 -300	Not enough cash to buy
 	Ware, Station, Amount
 
-	Search Codes
+	*Search Codes*
 -400	Station not found for purchase
 	Ware, SafePathBoolean
 -401	Station not found for selling
 	Ware, SafePathBoolean
 
-	Safe Path
+	*Safe Path*
 -500	Safe path not found
 	StartSector, DestinationSector
 -501	Object given is not valid
 	Object
 
-Mining
+        *Mining*
 -600	There are no minerals to be found in sector
 	Sector
 -601	Mineral requested is not found in the sector
