@@ -18,7 +18,7 @@
 
 ----
 = Version 2.1.5EI =
-=== Unreleased ===
+=== October 24th, 2014 ===
   * (-) Upgraded:  Courier save queue support
 ----
 = Version 2.1.4EI =
