@@ -1,3 +1,5 @@
+#summary Automated traders to ensure hassle-free income.
+
 Universe Traders operate similarly to vanilla traders, with a few key changes regarding trader security and jump ranges.
 
 ==Player Console Commands==
