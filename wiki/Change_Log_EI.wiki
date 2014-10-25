@@ -19,6 +19,7 @@
 ----
 = Version 2.1.5EI =
 === October 24th, 2014 ===
+  * (-) Changed:  EI recreates all asteroids/debris
   * (-) Upgraded:  Courier save queue support
 ----
 = Version 2.1.4EI =
