@@ -12,7 +12,7 @@
 
 ----
 = Version 1.4.0LU =
-=== Unreleased ===
+=== October 24th, 2014 ===
   * *Code base: Jellyfish*
 
   * (3) Fixed:  Station Agent code reworked to avoid waiting forever bug
