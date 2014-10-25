@@ -2,7 +2,7 @@
 
 A base install requires a clean AP install, so read and follow the [Installation installation guide] carefully. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.  Also, [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408552463&updated=03_FAQ#What_do_the_installers_delete? some installers wipe data]
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.3.4.exe Litcube's Universe V1.3.4]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.4.0.exe Litcube's Universe V1.4.0]
 <br><br>
 
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.1.exe Litcube's Universe Soundtrack V1.1.1]
@@ -11,16 +11,7 @@ A base install requires a clean AP install, so read and follow the [Installation
 = Patch =
 === Seriously: [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]===
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.9.exe Litcube's Universe Patch V1.3.9]
-
-*Older patches*
-
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.8.exe Litcube's Universe Patch V1.3.8]
-
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.7.exe Litcube's Universe Patch V1.3.7]
-
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.3.7.exe Litcube's Universe Patch V1.3.7]
-
+Currently there are no patches for 1.4.0
 
 <br>
 *[Change_Log Change log]*
@@ -28,7 +19,7 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 ----
 = Export/Import Package =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.4.exe Litcube's Universe Export/Import Package V2.1.4]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.6.exe Litcube's Universe Export/Import Package V2.1.6]
 
 In an endeavour to eliminate the incremental patching, and the confusion over when to export at which patch etc., EI scripts are now externalized.
 
