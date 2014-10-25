@@ -7,6 +7,23 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.1.exe Litcube's Universe Soundtrack V1.1.1]
 <br><br>
+
+
+
+1.) Install the export/import files to your 1.3.9 install 
+
+2.) Load your game and export 
+
+3.) Go to addons\t and move the 8382-L044.xml file somewhere safe. 
+
+4.) Install 1.4.0 over 1.3.9 
+
+5.) Install the export/import files to your now 1.4.0 install 
+
+6.) Put the 8382-L044.xml file back in addons\t 
+
+7.) Start the game and import
+
 ----
 = Patch =
 === Seriously: [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]===
