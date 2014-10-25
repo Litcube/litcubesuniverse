@@ -1,6 +1,6 @@
 =Litcube’s X3 Terran Conflict Scripting Canon=
 
-
+----
 ===Script Types===
 
 [Script] is the general name of the script.  Such as BuyWare, or MapSector.  All script files that include the same names/descriptor will obviously be related
@@ -37,7 +37,7 @@ Gbl.			Anything intended to run as global task.
 
 Lib.Gbl.[name]	Global helper libraries.
 
- 
+----
 ===Error Code Returns===
 
 All Litcube scripts return negative error codes with arrays.  The second line is to inform of the required variables on the error reporting for Lib.Gen.SendMessageError
@@ -107,7 +107,7 @@ Mining
 -602	Mobile Drilling System not equipped
 	
 
- 
+----
 ===Tasks===
 
 9:  !lib.ext.scan.forenemies
@@ -146,6 +146,4 @@ Mining
 723:  Lib.Cmd.FireChaff.Check
 
 932:  Lib.Cmd.MLCC.UpdateDockSupply
-
-
 
