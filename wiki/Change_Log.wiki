@@ -30,6 +30,7 @@
   * (-) Changed:  Silicone Wafer volume from 18 to 12
   * (-) Changed:  The Toukon top prongs you see through the cockpit looked a little fucking stupid, so I changed them
   * (-) Changed:  Scan asteroids command no longer safes before scanning first sector
+  * (-) Changed:  Asteroids, debris, no longer re-spawn
   * (-) Upgraded:  Trade Report added to context menu (advanced), hotkey added
   * (-) Upgraded:  Courier can now save, apply queues
   * (-) Upgraded:  Mobile mining implemented
