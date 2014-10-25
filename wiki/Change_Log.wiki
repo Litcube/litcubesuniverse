@@ -14,7 +14,7 @@
 
 ----
 = Version 1.4.0LU =
-=== October 24th, 2014 ===
+=== Unreleased ===
   * *Code base: Dugong*
 
   * (4) Fixed: Keris was not installing plasma gun
