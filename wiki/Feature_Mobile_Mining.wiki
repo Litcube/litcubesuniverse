@@ -18,8 +18,8 @@ Outposts throughout the galaxy will buy these rare minerals and crystals.  These
 
 
 
-Mineral || Chance || Price
-Red Mineral || 54% || 23423
+|| Mineral || Chance || Price
+|| Red Mineral || 54% || 23423
 
 There will be NPC miners out there who also mine and sell to mining outposts.
 
