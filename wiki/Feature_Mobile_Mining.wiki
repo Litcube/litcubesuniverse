@@ -6,7 +6,7 @@ Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector has bee
 
 === Mobile Drilling System Is Different ===
 
-Hitting a debris rock with the MDS is now they to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.
+Hitting a debris rock with the MDS is now the way to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.
 
 Only the new miner variant of ships can actually equip MDS lasers.
 
