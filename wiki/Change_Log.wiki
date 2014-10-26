@@ -11,10 +11,17 @@
 
 
 
+----
+= Version 1.4.2LU =
+=== October 25th, 2014 ===
+  * *Code base: Dugong*
+
+  * (4) Fixed: Tractor Asteroid was creating debris instead of Asteroid
+  * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
 
 ----
 = Version 1.4.1LU =
-=== Unreleased ===
+=== October 25th, 2014 ===
   * *Code base: Dugong*
 
   * (4) Fixed: Keris was not installing plasma gun
@@ -30,8 +37,6 @@
   * (-) Changed:  _get asteroid array from sector_ now only returns asteroids of type 0 (the mine placement asteroids, not debris)
   * (-) Changed: Balanced Dockware Manager licensing
   * (-) Upgraded:  New script command _get debris array from sector_
-
-
 ----
 = Version 1.4.0LU =
 === October 24th, 2014 ===
