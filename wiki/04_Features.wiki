@@ -333,7 +333,7 @@ See: [Feature_Universal_Bailing Feature: Universal Bailing]
 
 === Universe Traders ===
 
-Feature_Universe_Traders
+LU UTs work a little differently.
 
 See: [Feature_Universe_Traders Universe Traders]
 
