@@ -16,10 +16,12 @@ Most of the time when you hit a rock, you'll get a mineral like ore, silicon, ic
 
 Outposts throughout the galaxy will buy these rare minerals and crystals.  These docks consume at a high rate.
 
+Upon an MDS hitting, the ship has a chance of loosening a material
 
-
-|| *Mineral* || *Chance* || *Price* ||
-|| Red Mineral || 54% || 23423 ||
+|| *Material* || *Chance* ||
+|| Debris Resource || 92% ||
+|| Rare Mineral || 5.5% || 
+|| Crystal || 2.5% ||
 
 There will be NPC miners out there who also mine and sell to mining outposts.
 
