@@ -1,5 +1,7 @@
 #summary LU Mobile Mining is different
 
+=WIP=
+
 = Mobile Mining In LU =
 
 Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector has been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.
