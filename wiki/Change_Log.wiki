@@ -13,7 +13,7 @@
 
 
 ----
-= Version 1.4.0LU =
+= Version 1.4.1LU =
 === Unreleased ===
   * *Code base: Dugong*
 
