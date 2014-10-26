@@ -1,6 +1,8 @@
 = Download: Base Install =
 
-A base install requires a clean AP install, so read and follow the [Installation installation guide] carefully. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.  Also, [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408552463&updated=03_FAQ#What_do_the_installers_delete? some installers wipe data]
+A base install requires a clean AP install, so read and follow the [Installation installation guide] carefully. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.  Also, [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408552463&updated=03_FAQ#What_do_the_installers_delete? some installers wipe data].
+
+The install guide also has instructions for continuing from an export/import but with a new install.
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.4.0.exe Litcube's Universe V1.4.0]
 <br><br>
@@ -9,20 +11,6 @@ A base install requires a clean AP install, so read and follow the [Installation
 <br><br>
 
 
-
-1.) Install the export/import files to your 1.3.9 install 
-
-2.) Load your game and export 
-
-3.) Go to addons\t and move the 8382-L044.xml file somewhere safe. 
-
-4.) Install 1.4.0 over 1.3.9 
-
-5.) Install the export/import files to your now 1.4.0 install 
-
-6.) Put the 8382-L044.xml file back in addons\t 
-
-7.) Start the game and import
 
 ----
 = Patch =
