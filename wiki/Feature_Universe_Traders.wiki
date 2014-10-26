@@ -1,4 +1,4 @@
-#summary Automated traders to ensure hassle-free income.
+#summary LU UTs work a little differently
 
 = UTs & STs =
 
