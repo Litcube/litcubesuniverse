@@ -18,6 +18,10 @@ Universe traders are more concerned with self-preservation than they previously 
 
 Additionally, UT's will only trade in sectors where player-owned property is present (PPP). They will not jump into a sector where an enemy ship carrying more than 4 guns is within any player scan range.  
 
+==Refueling==
+
+UTs will refuel if a target station is out of fuel range or the UT has less than 8 sector jumps worth of fuel.
+
 ==Universe Trader Levels & Ranges==
 
 || *Level* || *Title* || *Buy Range* || *Sell Range* || *Notes* ||
