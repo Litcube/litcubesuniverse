@@ -4,11 +4,11 @@
 
 = Mobile Mining In LU =
 
-Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector has been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.
+Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector have been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.
 
 === Mobile Drilling System Is Different ===
 
-Hitting a debris rock with the MDS is now they to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.  Depending on the rock size, it can only take so many hits before breaking apart.  The larger the debris rock, the more hits it can take.  Larger debris rocks will break into smaller debris rocks.
+Hitting a debris rock with the MDS is now the only way to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.  Depending on the rock size, it can only take so many hits before breaking apart.  The larger the debris rock, the more hits it can take.  Larger debris rocks will break into smaller debris rocks.
 
 Only the new miner variant of ships can actually equip MDS lasers.
 
@@ -16,12 +16,17 @@ Only the new miner variant of ships can actually equip MDS lasers.
 
 Some of the time when you hit a rock, you'll get a mineral like ore, silicon, ice, or nividium.  Rarely, you'll end up with a rare mineral or crystal.  Outposts throughout the galaxy will buy these rare minerals and crystals.
 
-Upon an MDS hitting, the ship has a chance of loosening a material, as per the following table.  Note that small variations in these percentages are based on the type of debris.  Ice has a slightly higher chance of yielding crystal, and Nividium has a slightly higher chance of yielding both rare minerals and crystals.
+Upon an MDS hitting, the ship has a chance of loosening a material.  If something is loosened, it could be a resource ware, a rare mineral, or crystal as per the following table.  Note that small variations in the table's percentages are based on the type of debris.  Ice has a slightly higher chance of yielding crystal, and Nividium has a slightly higher chance of yielding both rare minerals and crystals.
 
-|| *Material* || *Chance* ||
+|| *Material* || *Rarity* ||
 || Debris Resource || 92% ||
 || Rare Mineral || 5.5% || 
 || Crystal || 2.5% ||
+
+If the material loosened is a Rare Mineral, it could be one of the following:
+
+|| *Rare Mineral* || *Rarity* || *Average Price* ||
+|| Red Mineral || 55% || 15,828 Cr ||
 
 
 There will be NPC miners out there who also mine and sell to mining outposts.
