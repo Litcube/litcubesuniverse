@@ -43,6 +43,23 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
      # Run the game using the !NoSteam exe you installed earlier.
      # Prepare for the onslaught of the OCV! 
 
+== Importing to a new base install from a previous Export ==
+
+
+1.) Install the export/import files to your 1.3.9 install 
+
+2.) Load your game and export 
+
+3.) Go to addons\t and move the 8382-L044.xml file somewhere safe. 
+
+4.) Install 1.4.0 over 1.3.9 
+
+5.) Install the export/import files to your now 1.4.0 install 
+
+6.) Put the 8382-L044.xml file back in addons\t 
+
+7.) Start the game and import
+
 == Sure Signs Your Install is Fucked ==
 
 Due to the number of changes LU makes to the base game, deviating from the instructions listed above will often result in a broken install. Signs your install is broken are:
