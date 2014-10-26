@@ -4,10 +4,40 @@
 
 Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector has been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.
 
-Only the new miner variant of ships can actually equip them.
+=== Mobile Drilling System Is Different ===
+
+Hitting a debris rock with the MDS is now they to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.
+
+Only the new miner variant of ships can actually equip MDS lasers.
+
+=== Rare Minerals and Crystals ===
 
 Most of the time when you hit a rock, you'll get a mineral like ore, silicon, ice, or nividium.  Rarely, you'll end up with a rare mineral or crystal.
 
 Outposts throughout the galaxy will buy these rare minerals and crystals.  These docks consume at a high rate.
 
+
+
+Mineral || Chance || Price
+Red Mineral || 54% || 23423
+
 There will be NPC miners out there who also mine and sell to mining outposts.
+
+About the mobile mining stuff, the wiki is quite vague : 
+
+1 Do the MDS "eats up" the rocks it hits ? Can they completly empty a sector of small rocks ? (if yes, do the rocks respawn ?) 
+
+2 How the yield of the rocks affect the collecting rate ? 
+
+3 Do they need to hit small rocks or can they be used on big asteroids ? (if small rocks only, do the ships break them down to the size they need ?) 
+
+4 How many miners can hit the same rock ? 
+
+5 As it's laser based, does it work better/worse OOS ?
+
+
+1: Yes. Depending on the size, a rock can only take so many hits 
+2: The higher the yield, the higher the chance of yielding more valuable items 
+3: Any size debris hit with an MDS can yield 
+4: As many miners as you want can hit the same rock. Even different races. 
+5: I pained to ensure OOS mining and IS mining is performed at the same pace 
