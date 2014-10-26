@@ -4,7 +4,7 @@
 
 = Mobile Mining In LU =
 
-Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector have been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.
+Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector have been re-purposed.  Hit a rock with your MDS, and you have a chance of your ore collector popping something into your cargo bay.  It's as simple as that.  Care was taken to ensure that the efficiency of miners was the same out of sector as it would be in sector.
 
 === Mobile Drilling System Is Different ===
 
@@ -35,21 +35,15 @@ If the material loosened is a Rare Mineral, it could be one of the following:
 || Gold Mineral || 0.4% || 3,740,752 Cr ||
 || White Mineral || 0.2% || 8,075,251 Cr ||
 
-There will be NPC miners out there who also mine and sell to mining outposts.
+If the material loosened is a Crystal, it could be one of the following:
 
-About the mobile mining stuff, the wiki is quite vague : 
+|| *Crystal* || *Rarity* || *Average Price* ||
+|| Red Crystal || 72% || 28,164 Cr ||
+|| Yellow Crystal || 21.1% || 109,997 Cr ||
+|| Blue Crystal || 5.3% || 509,786 Cr ||
+|| Green Crystal || 1.3% || 2,425,814 Cr ||
+|| Black Crystal || 0.3% || 12,351,797 Cr ||
 
-2 How the yield of the rocks affect the collecting rate ? 
+=== Mining Outposts ===
 
-3 Do they need to hit small rocks or can they be used on big asteroids ? (if small rocks only, do the ships break them down to the size they need ?) 
-
-4 How many miners can hit the same rock ? 
-
-5 As it's laser based, does it work better/worse OOS ?
-
-
-1: Yes. Depending on the size, a rock can only take so many hits 
-2: The higher the yield, the higher the chance of yielding more valuable items 
-3: Any size debris hit with an MDS can yield 
-4: As many miners as you want can hit the same rock. Even different races. 
-5: I pained to ensure OOS mining and IS mining is performed at the same pace 
+Plutarch, NMMC, Pirates, and the USC has all setup Mining Outposts stationed throughout the Universe.  They'll buy these resources.  Rare Minerals and Crystals will be consumed at these docks at a far quicker pace than other wares would be.
