@@ -6,28 +6,25 @@ Here's the quick and dirty.  The Mobile Drilling Laser and Ore Collector has bee
 
 === Mobile Drilling System Is Different ===
 
-Hitting a debris rock with the MDS is now the way to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.
+Hitting a debris rock with the MDS is now they to mine.  When the debris rock is hit, there is a chance for a mineral or crystal to be "loosened".  The Ore Collector will beam the loosened material into the cargo bay, which all happens automatically.  Depending on the rock size, it can only take so many hits before breaking apart.  The larger the debris rock, the more hits it can take.  Larger debris rocks will break into smaller debris rocks.
 
 Only the new miner variant of ships can actually equip MDS lasers.
 
 === Rare Minerals and Crystals ===
 
-Most of the time when you hit a rock, you'll get a mineral like ore, silicon, ice, or nividium.  Rarely, you'll end up with a rare mineral or crystal.
+Some of the time when you hit a rock, you'll get a mineral like ore, silicon, ice, or nividium.  Rarely, you'll end up with a rare mineral or crystal.  Outposts throughout the galaxy will buy these rare minerals and crystals.
 
-Outposts throughout the galaxy will buy these rare minerals and crystals.  These docks consume at a high rate.
-
-Upon an MDS hitting, the ship has a chance of loosening a material
+Upon an MDS hitting, the ship has a chance of loosening a material, as per the following table.  Note that small variations in these percentages are based on the type of debris.  Ice has a slightly higher chance of yielding crystal, and Nividium has a slightly higher chance of yielding both rare minerals and crystals.
 
 || *Material* || *Chance* ||
 || Debris Resource || 92% ||
 || Rare Mineral || 5.5% || 
 || Crystal || 2.5% ||
 
+
 There will be NPC miners out there who also mine and sell to mining outposts.
 
 About the mobile mining stuff, the wiki is quite vague : 
-
-1 Do the MDS "eats up" the rocks it hits ? Can they completly empty a sector of small rocks ? (if yes, do the rocks respawn ?) 
 
 2 How the yield of the rocks affect the collecting rate ? 
 
