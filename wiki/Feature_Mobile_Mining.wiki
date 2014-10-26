@@ -44,4 +44,4 @@ If the material loosened is a crystal, it could be one of the following:
 
 === Mining Outposts ===
 
-Plutarch, NMMC, Pirates, and the USC has all setup Mining Outposts stationed throughout the Universe.  They'll buy mineral resources, rare minerals, and crystals.  Rare Minerals and Crystals will be consumed at these docks at a far quicker pace than other wares would be.
+Plutarch, NMMC, Pirates, and the USC have all setup Mining Outposts stationed throughout the Universe.  They'll buy mineral resources, rare minerals, and crystals.  Rare Minerals and Crystals will be consumed at these docks at a far quicker pace than other wares would be.
