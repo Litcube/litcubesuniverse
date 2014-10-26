@@ -1,4 +1,4 @@
-#summary LU UTs work a little differently
+#summary LU UTs work a little differently.
 
 = UTs & STs =
 
