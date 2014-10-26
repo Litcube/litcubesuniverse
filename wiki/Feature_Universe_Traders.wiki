@@ -24,6 +24,8 @@ UTs will refuel if a target station is out of fuel range or the UT has less than
 
 ==Universe Trader Levels & Ranges==
 
+*Note:* You can turn your Sector Trader into a Universe Trader at level 8, like Vanilla.  The UT will be less effective until it reaches level 11.
+
 || *Level* || *Title* || *Buy Range* || *Sell Range* || *Notes* ||
 || 10 || Senior Paymaster || 1 || Same Sector ||
 || 11 || Chief Paymaster || 1 || 1 ||
