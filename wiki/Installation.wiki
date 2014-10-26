@@ -46,19 +46,13 @@ Welcome to LU! This guide will assist you in making sure you install the mod pro
 == Importing to a new base install from a previous Export ==
 
 
-1.) Install the export/import files to your 1.3.9 install 
-
-2.) Load your game and export 
-
-3.) Go to addons\t and move the 8382-L044.xml file somewhere safe. 
-
-4.) Install 1.4.0 over 1.3.9 
-
-5.) Install the export/import files to your now 1.4.0 install 
-
-6.) Put the 8382-L044.xml file back in addons\t 
-
-7.) Start the game and import
+     # Install the export/import files to your *existing version* install 
+     # Load your game and export 
+     # Go to addons\t and move the 8382-L044.xml file somewhere safe. 
+     # Install *new version* to a new clean install
+     # Install the export/import files to your now *new version* install 
+     # Put the 8382-L044.xml file back in addons\t 
+     # Start the game and import
 
 == Sure Signs Your Install is Fucked ==
 
