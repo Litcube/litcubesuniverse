@@ -16,7 +16,7 @@ The install guide also has instructions for continuing from an export/import but
 = Patch =
 === Seriously: [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]===
 
-Currently there are no patches for 1.4.0
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.1 Litcube's Universe Patch V1.4.1]
 
 <br>
 *[Change_Log Change log]*
@@ -24,7 +24,7 @@ Currently there are no patches for 1.4.0
 
 ----
 = Export/Import Package =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.6.exe Litcube's Universe Export/Import Package V2.1.6]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.8.exe Litcube's Universe Export/Import Package V2.1.8]
 
 In an endeavour to eliminate the incremental patching, and the confusion over when to export at which patch etc., EI scripts are now externalized.
 
@@ -44,9 +44,9 @@ Includes:
 
 ----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
-  * Data accurate to LUV1.3.8
+  * Data accurate to LUV1.4.1
 
-[http://litcube.xtimelines.net/download.php?File=LUEditorsV1.3.0.zip LU Editors V1.3.0]
+[http://litcube.xtimelines.net/download.php?File=LUEditorsV1.3.1.zip LU Editors V1.3.1]
 
 ----
 
@@ -70,4 +70,4 @@ Includes:
 
   * X-Studio I custom syntax.  Just throw this in your X-Studio folder and it will read the syntax.
 
-[http://litcube.xtimelines.net/download.php?File=Custom.SyntaxV1.3.1.zip X-Studio Custom Syntax V1.3.1]
+[http://litcube.xtimelines.net/download.php?File=Custom.SyntaxV1.3.2.zip X-Studio Custom Syntax V1.3.2]
