@@ -19,7 +19,7 @@
 
   * (4) Fixed: Keris was not installing plasma gun
   * (4) Fixed: Trade reports run on ships were cancelling ship orders (task 0, DERP)
-  * (3) Fixed: Space suit was no equipping repair laser
+  * (3) Fixed: Space suit was not equipping repair laser
   * (3) Fixed: Escort: Attack Same will now attack stations if leader has target set to a station
   * (3) Fixed: Emergency Jump now works on wings, temporarily removed until the emergency jump is complete.
   * (-) Changed: UTs now refuel before buy and sell if station is beyond jump fuel range, or jump fuel is less than 8 jumps
