@@ -23,6 +23,7 @@
   * (3) Fixed: Escort: Attack Same will now attack stations if leader has target set to a station
   * (3) Fixed: Emergency Jump now works on wings, temporarily removed until the emergency jump is complete.
   * (3) Fixed: Global ship renaming proposed changes array was reversed (st rename bug with different ship types)
+  * (3) Fixed: Headquarters now requires notoriety; woops
   * (-) Changed: UTs now refuel before buy and sell if station is beyond jump fuel range, or jump fuel is less than 8 jumps
   * (-) Changed: Increased TS miner rotation agility
   * (-) Changed: OCV's three resources changed to Red Crystal, Orange Mineral, Purple Mineral
