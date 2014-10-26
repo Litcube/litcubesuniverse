@@ -13,7 +13,7 @@
 
 ----
 = Version 1.4.2LU =
-=== October 25th, 2014 ===
+=== Unreleased ===
   * *Code base: Dugong*
 
   * (4) Fixed: Tractor Asteroid was creating debris instead of Asteroid
