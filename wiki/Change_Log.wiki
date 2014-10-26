@@ -28,6 +28,7 @@
   * (-) Changed: Increased TS miner rotation agility
   * (-) Changed: OCV's three resources changed to Red Crystal, Orange Mineral, Purple Mineral
   * (-) Changed:  _get asteroid array from sector_ now only returns asteroids of type 0 (the mine placement asteroids, not debris)
+  * (-) Changed: Balanced Dockware Manager licensing
   * (-) Upgraded:  New script command _get debris array from sector_
 
 
