@@ -4,8 +4,6 @@ A base install requires a clean AP install, so read and follow the [Installation
 
 The install guide also has instructions for continuing from an export/import but with a new install.
 
-Please note:  Your 1.4.0 install should *NOT* have 09.cat/dat in your addon directory.  If you did not do a clean install with the 1.4.0 base, the 09.cat/dat will still be there.
-
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.4.0.exe Litcube's Universe V1.4.0]
 <br><br>
 
