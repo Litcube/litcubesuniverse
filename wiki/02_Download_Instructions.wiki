@@ -16,7 +16,7 @@ The install guide also has instructions for continuing from an export/import but
 = Patch =
 === Seriously: [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch]===
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.1 Litcube's Universe Patch V1.4.1]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.1.exe Litcube's Universe Patch V1.4.1]
 
 <br>
 *[Change_Log Change log]*
