@@ -27,7 +27,13 @@ If the material loosened is a Rare Mineral, it could be one of the following:
 
 || *Rare Mineral* || *Rarity* || *Average Price* ||
 || Red Mineral || 55% || 15,828 Cr ||
-
+|| Orange Mineral || 27% || 34,868 Cr ||
+|| Purple Mineral || 10.8% || 96,415 Cr ||
+|| Blue Mineral || 4.5% || 254,788 Cr ||
+|| Green Mineral || 1.5% || 862,549 Cr ||
+|| Silver Mineral || 0.6% || 2,385,051 Cr ||
+|| Gold Mineral || 0.4% || 3,740,752 Cr ||
+|| White Mineral || 0.2% || 8,075,251 Cr ||
 
 There will be NPC miners out there who also mine and sell to mining outposts.
 
