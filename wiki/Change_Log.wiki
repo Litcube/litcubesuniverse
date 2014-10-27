@@ -17,6 +17,7 @@
   * *Code base: Dugong*
 
   * (4) Fixed: Tractor Asteroid was creating debris instead of Asteroid
+  * (2) Fixed: Pirate miner escorts weren't pretending they weren't pirates as well as their leader
   * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Start
 
