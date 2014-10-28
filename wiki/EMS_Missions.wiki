@@ -17,14 +17,14 @@
  * ==== Task-force Escort ===
    A Task-force has entered hostile space on orders classified at the highest level, your task - should you choose to accept it - is to help the task force find its way though what could quite probably be a suicide mission. Due to the unique nature of this mission there are no records of its existence, you will be rewarded periodically by the task-force commander for your ongoing assistance.
 
+ * ==== Second Hand Ships ====
+   Second hand ship sales will be generated from ships within the universe that are returning to base to be mothballed, or that are returning to a shipyard to be scrapped in the case of NPC salvagers.
+
  * ==== Sector Defense ====
    Sector defense missions are created by Task-force commanders, recon scouts, OWP's and Military Bases. Defend the sector at all costs. 
 
 = Upcoming Missions =
 These missions are not yet implemented but are due to be rolled out in future updates. If you have any ideas for missions you would like to see in EMS, please do not hesitate to suggest them!
-
- * ==== Second Hand Ships ====
-   Second hand ship sales will be generated from ships within the universe that are returning to base to be mothballed, or that are returning to a shipyard to be scrapped in the case of NPC salvagers.
 
  * ==== OCV Related Missions ====
    Hybrid Combat/Population Evacuation missions. (Details TBD)
