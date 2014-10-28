@@ -36,6 +36,7 @@
   If EI is required:
 
   * Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
+  * Turn off your antivirus software (if it is on the E/I will take hours, without it minutes)
   * Export<br> 
   * Install latest LU Patch [02_Download_Instructions Download]<br>
   * If they were updated, install other LU packages as well (such as the GUI package)<br>
