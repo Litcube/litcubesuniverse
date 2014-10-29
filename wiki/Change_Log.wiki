@@ -18,6 +18,7 @@
 
   * (4) Fixed: Tractor Asteroid was creating debris instead of Asteroid
   * (2) Fixed: Pirate miner escorts weren't pretending they weren't pirates as well as their leader
+  * (2) Keris, Fighter Drone MK 2, now have reputation requirements
   * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Start
   * (-) Changed: Deploy Satellite command now has proper error message for transport class issue
