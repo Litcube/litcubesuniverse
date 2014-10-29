@@ -22,6 +22,7 @@
   * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Start
   * (-) Changed: Deploy Satellite command now has proper error message for transport class issue
+  * (-) Changed: Missile, Laser fabs reputations all require + 1 rank than their product
 
 ----
 = Version 1.4.1LU =
