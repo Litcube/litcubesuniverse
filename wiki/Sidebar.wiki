@@ -13,7 +13,7 @@
     * [Feature_Courier Courier]
     * [Feature_Dashboards Dashboards]
     * [Feature_Dockware_Manager Dockware Manager]
-    * [Feature_Dockware_Manager Dock Agent]
+    * [Feature_Dock Agent]
     * [Feature_LU_Dynamic_Menu_System Dynamic Menu System]
     * [Feature_ERD Emergency Jump Update]
     * [Feature_ERD Emergency Retreat Drive & Jump Cores]
