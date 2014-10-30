@@ -19,6 +19,8 @@
 
 === How do I patch? ===
 
+*Important:  Make sure you have the most up-to-date version of the base install before patching! *
+
   If you are installing LU on for the first time, please read and follow the [https://code.google.com/p/litcubesuniverse/wiki/Installation Install Instructions] instead.
 
   Look at the [Change_Log changelog]. Look at the _Code Base_ of the version you are current running.  Now back to me.  This is the code base version of your current game, and it will be an animal such as Sloth, Cougar, Zebra.  Now look at the _Code Base_ of the version you are going to patch to (which should be the latest version, we don't do incremental patches).  This is the code base of the version you're going to patch to.  If the code base is different from the version you are running to the version you are going to patch to, you need to export; otherwise your save game will not load.  For example, a Sloth is different from a Zebra.  A sloth is a slow furry animal, and a Zebra looks like a striped horse.  You can only load save games of the same animal, or code base.
