@@ -1,0 +1,18 @@
+#summary A Dock Agent manages your docks for you.
+#labels DockAgent
+
+= Dock Agent =
+
+This agent will sell goods from it's homebase equipment dock that aren't set for capacity; sell wares that exceed the set capacity; and buy any items set to buy(up to capacity).
+
+See [Feature_Dockware_Manager Dockware Manager] for more information.
+
+
+== Required Equipment ==
+ 
+Valid Homebase that is a dock
+Little ship 
+Trade Command Software Mk1 
+Trade Command Software MK2
+Trade System Extension
+Station Agent Software 
