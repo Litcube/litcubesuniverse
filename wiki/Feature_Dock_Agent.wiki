@@ -3,7 +3,7 @@
 
 = Dock Agent =
 
-This agent will sell goods from it's homebase equipment dock that aren't set for capacity; sell wares that exceed the set capacity; and buy any items set to buy(up to capacity).
+This agent will sell goods from it's homebase equipment dock that are not set for capacity; sell wares that exceed the set capacity; and buy any items set to buy(up to capacity).
 
 See [Feature_Dockware_Manager Dockware Manager] for more information.
 
