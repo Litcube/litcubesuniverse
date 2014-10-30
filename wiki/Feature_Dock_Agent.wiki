@@ -12,9 +12,4 @@ See [Feature_Dockware_Manager Dockware Manager] for more information.
 
 == Required Equipment ==
  
--Valid Homebase that is a dock<br>
--Little ship<br>
--Trade Command Software Mk1<br> 
--Trade Command Software MK2<br>
--Trade System Extension<br>
--Station Agent Software <br>
+Check the in-game encyclopedia
