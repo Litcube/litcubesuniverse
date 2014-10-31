@@ -23,6 +23,7 @@
   * (2) Fixed: SCH Disengage error message should tell you TL isn't docked, not that there is null cargo available
   * (2) Fixed: Thank you  on killed messages now come from the sector owner as opposed to vanilla style some fucking random dock owner
   * (2) Fixed: Dockware Manager set group capacity would add weird capacity values to wares that were unassigned
+  * (2) Fixed: Dockware Manager now filters complexed undockable stations for sources
   * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Star
   * (-) Changed: Deploy Satellite command now has proper error message for transport class issue
