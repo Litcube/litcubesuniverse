@@ -48,6 +48,8 @@ Rational: Missiles cost money.  So why would you use them if they did the same d
 
 You'll notice colours.  The icon colour matches the trail colour.  Colour represents their damage output.
 
+
+_Note: These figures may not match the current version, the idea is to demonstrate the colour categories_
 http://www.mediafire.com/convkey/b313/m4qz5z2vj5d5lq4fg.jpg
 
 
