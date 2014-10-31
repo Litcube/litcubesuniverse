@@ -20,6 +20,7 @@
   * (2) Fixed: Pirate miner escorts weren't pretending they weren't pirates as well as their leader
   * (2) Fixed: Keris, Fighter Drone MK 2, now have reputation requirements
   * (2) Fixed: Mining Outposts were supposed to be equipment docks
+  * (2) Fixed: SCH Disengage error message should tell you TL isn't docked, not that there is null cargo available
   * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Star
   * (-) Changed: Deploy Satellite command now has proper error message for transport class issue
