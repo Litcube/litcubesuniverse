@@ -1,7 +1,6 @@
 #summary Change Log (History)
 
-next code base:
-  * (2) Fixed: Thank you  on killed messages now come from the sector owner as opposed to vanilla style some fucking random dock owner
+
 
 = Change Log =
 
