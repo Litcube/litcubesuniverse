@@ -1,5 +1,8 @@
 #summary Change Log (History)
 
+next code base:
+  * (2) Fixed: Thank you  on killed messages now come from the sector owner as opposed to vanilla style some fucking random dock owner
+
 = Change Log =
 
 === Legend ===
@@ -8,6 +11,7 @@
   * 3 = Average
   * 4 = Critical
   * 5 = Seriously Fucking Critical
+
 
 
 
@@ -21,7 +25,6 @@
   * (2) Fixed: Keris, Fighter Drone MK 2, now have reputation requirements
   * (2) Fixed: Mining Outposts were supposed to be equipment docks
   * (2) Fixed: SCH Disengage error message should tell you TL isn't docked, not that there is null cargo available
-  * (2) Fixed: Thank you  on killed messages now come from the sector owner as opposed to vanilla style some fucking random dock owner
   * (2) Fixed: Dockware Manager set group capacity would add weird capacity values to wares that were unassigned
   * (2) Fixed: Dockware Manager now filters complexed undockable stations for sources
   * (-) Changed: Tractor Asteroid command renamed to Plutarch Tractor System
