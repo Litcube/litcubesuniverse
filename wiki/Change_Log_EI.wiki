@@ -14,7 +14,10 @@
   * EI is an acronym for Export/Import
 
 
-
+----
+= Version 2.1.9EI =
+=== Unreleased ===
+  * (5) Fixed:  Fucking efficiency on Mines was not set properly
 ----
 = Version 2.1.8EI =
 === October 26th, 2014 ===
