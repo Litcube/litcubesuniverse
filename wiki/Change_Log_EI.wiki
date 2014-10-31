@@ -16,7 +16,7 @@
 
 ----
 = Version 2.1.9EI =
-=== Unreleased ===
+=== October 31, 2014 ===
   * (5) Fixed:  Fucking efficiency on Mines was not set properly
 ----
 = Version 2.1.8EI =
