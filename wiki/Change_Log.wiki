@@ -13,6 +13,12 @@
 
 
 
+----
+= Version 1.4.3LU =
+=== Unreleased ===
+  * *Code base: Dugong*
+
+  * (4) Fixed: Wings jumping in can get phantomed at sector center
 
 ----
 = Version 1.4.2LU =
@@ -30,7 +36,6 @@
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Star
   * (-) Changed: Deploy Satellite command now has proper error message for transport class issue
   * (-) Changed: Missile, Laser fabs reputations all require + 1 rank than their product
-
 ----
 = Version 1.4.1LU =
 === October 25th, 2014 ===
