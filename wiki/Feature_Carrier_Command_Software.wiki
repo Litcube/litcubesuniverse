@@ -9,6 +9,6 @@ CCS's docking feature only works on huge ships (M7 and up).
 
 http://www.mediafire.com/convkey/78ab/t1uk7q8438l9gwwfg.jpg
 
-In addition to this feature, the software opens up a command called Carrier Command, allowing the quick action on all homebased fighters.
+In addition to the docking feature, the software opens up a command called Carrier Command, allowing the quick action on all homebased fighters.
 
 Homebased ships will only be actioned if it has the appropriate upgrades for the requested command, reflected in the _available_ column of the menu.
