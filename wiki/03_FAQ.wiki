@@ -52,6 +52,7 @@
 
   If you don't use the installer, and do a manual copy paste, your game will be broken.
 
+Note: The export file is named 8382-L044.xml. Hopefully you will never need it.
 
 === What do the installers delete? ===
 
