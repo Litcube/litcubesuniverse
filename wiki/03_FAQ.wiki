@@ -205,14 +205,8 @@ Patches don't clean anything.
   * Far Point
   * Scion Fire
   * Overmasters
-
-  Also:
-  * CEO's Sprite
   * Empire's Edge
-  * Home of Light
-  * Omicron Lyrae
-  * Scale Plate Green
-  * Seizewell
+
 
 === It sounds like Universe Traders won't trade hardly anywhere at the beginning of the game. What do I have to do to get "assets"? Satellites? ===
 
