@@ -19,8 +19,7 @@
   * *Code base: Dugong*
 
   * (4) Fixed: Wing ships jumping in can get phantomed at sector center
-  * (3) Fixed: Odd and rare courier menu bug showing deploy satellites was a 
-typo
+  * (3) Fixed: Odd and rare courier menu bug showing deploy satellites was a typo
   * (2) Fixed: Order strings now work properly for miners
 
 ----
@@ -31,7 +30,7 @@ typo
   * (4) Fixed: Tractor Asteroid was creating debris instead of Asteroid
   * (2) Fixed: Pirate miner escorts weren't pretending they weren't pirates as well as their leader
   * (2) Fixed: Keris, Fighter Drone MK 2, now have reputation requirements
-  * (2) Fixed: Mining Outposts were supposed to be equipment docks
+  * (2) Fixed: Mining Outposts were not supposed to be equipment docks
   * (2) Fixed: SCH Disengage error message should tell you TL isn't docked, not that there is null cargo available
   * (2) Fixed: Dockware Manager set group capacity would add weird capacity values to wares that were unassigned
   * (2) Fixed: Dockware Manager now filters complexed undockable stations for sources
