@@ -19,6 +19,7 @@
   * *Code base: Dugong*
 
   * (4) Fixed: Wing ships jumping in can get phantomed at sector center
+  * (3) Fixed: Odd and rare courier menu bug showing deploy satellites was a typo
 
 ----
 = Version 1.4.2LU =
