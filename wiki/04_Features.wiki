@@ -60,6 +60,14 @@ See: [Feature_Dashboards Feature: Dashboards]
 
 ----
 
+=== Dock Agent === 
+
+A Dock Agent manages your docks for you.
+
+See: [Feature_Dock_Agent Dock Agent]
+
+---
+
 === Dock Ware Manager ===  
 
 Dockware Manager helps you organize the wares at your dock, and lets your various types of traders know what you want to keep, what you need to sell, and what to stock at the dock.
