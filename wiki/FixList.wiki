@@ -1,5 +1,3 @@
 #summary Bug Reports
 
 == Bug Reports ==
-
-Info it displays is always "Returning to home base" even when it's mining. 
