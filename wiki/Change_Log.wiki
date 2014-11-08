@@ -15,7 +15,7 @@
 
 ----
 = Version 1.4.3LU =
-=== Unreleased ===
+=== November 8, 2014 ===
   * *Code base: Dugong*
 
   * (4) Fixed: Wing ships jumping in can get phantomed at sector center
