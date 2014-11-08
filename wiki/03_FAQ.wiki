@@ -19,40 +19,7 @@
 
 === How do I patch? ===
 
-*Important:  Make sure you have the most up-to-date version of the base install before patching! *
-
-  Firstly, you OBVIOUSLY need the latest base installed first.  If you're last base was 1.3.4, and there's a 1.4.0, you need a fresh 1.4.0 install.  If the base hasn't changed, continue on.
-
-  If you are installing LU on for the first time, please read and follow the [https://code.google.com/p/litcubesuniverse/wiki/Installation Install Instructions] instead.
-
-  Look at the [Change_Log changelog]. Look at the _Code Base_ of the version you are current running.  Now back to me.  This is the code base version of your current game, and it will be an animal such as Sloth, Cougar, Zebra.  Now look at the _Code Base_ of the version you are going to patch to (which should be the latest version, we don't do incremental patches).  This is the code base of the version you're going to patch to.  If the code base is different from the version you are running to the version you are going to patch to, you need to export; otherwise your save game will not load.  For example, a Sloth is different from a Zebra.  A sloth is a slow furry animal, and a Zebra looks like a striped horse.  You can only load save games of the same animal, or code base.
-
-  For example:  If you're currently running 1.3.6, you'll see that the code base for 1.3.6 is _Cougar_.  If you're updating to version 1.3.7, you'll see the code base is _Zebra_.  They are different (one is a fast cat, and the other looks like a striped horse).  In this example case, you need to EI.
-
-  Note: You only need to perform _*one*_ E/I (from your existing save to the latest patch). 
-
-  Note: Export/Import does not need to be performed if you will be starting a new game.  OBVIOUSLY.
-
-  The other way to tell if you need an EI is when you load your save game after patching and the game farts and exits with a message.
-
-  If an EI is not required, just install the patch and play.
-
-  If EI is required:
-
-  * Install EI [02_Download_Instructions Download] (if you don't have latest EI installed)<br> 
-  * Turn off your antivirus software (if it is on the E/I will take hours, without it minutes)
-  * Export<br> 
-  * Install latest LU Patch [02_Download_Instructions Download]<br>
-  * If they were updated, install other LU packages as well (such as the GUI package)<br>
-  * Import<br>
-
-  Note: Install EI into Main X3 directory, *not* the addon directory.
- 
-  If you run into problems and didn't read it, bunnies will die. And I can't help that.
-
-  If you don't use the installer, and do a manual copy paste, your game will be broken.
-
-Note: The export file is named 8382-L044.xml. Hopefully you will never need it.
+Read the [Installation Installation] instructions.
 
 === What do the installers delete? ===
 
