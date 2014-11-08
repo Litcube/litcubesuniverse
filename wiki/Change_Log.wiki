@@ -24,6 +24,7 @@
   * (3) Fixed: SCHs automatic operation on remove could fuck up adding resources back to asteroids
   * (2) Fixed: Order strings now work properly for miners
   * (2) Fixed: Phanon HQ name wasn't changing between subsidiaries
+  * (-) Upgraded: Plutarch Tractor System now selects the next source asteroid of same type ready for engage when compacting
 
 ----
 = Version 1.4.2LU =
