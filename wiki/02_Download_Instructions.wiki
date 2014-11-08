@@ -26,7 +26,7 @@ The install guide also has instructions for continuing from an export/import but
 
 ----
 = Export/Import Package =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.1.9.exe Litcube's Universe Export/Import Package V2.1.9]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.2.0.exe Litcube's Universe Export/Import Package V2.2.0]
 
 In an endeavour to eliminate the incremental patching, and the confusion over when to export at which patch etc., EI scripts are now externalized.
 
