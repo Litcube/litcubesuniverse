@@ -4,44 +4,48 @@
 
 Welcome to LU! This guide will assist you in making sure you install or patch properly.
 
-== I am starting from scratch on a new game == 
+You will be performing a, b, or c.  Choose one.
 
-     # Have a clean install ready.  See: [CleanInstall Clean Install]
-     # Download the base mod from [02_Download_Instructions the downloads page]
-     # Install the base mod to your clean install main folder (i.e. C:\X3)
-     # Download the soundtrack from [02_Download_Instructions the downloads page]
-     # Install the soundtrack to your clean install main folder (i.e. C:\X3)
-     # Download the latest patch from [02_Download_Instructions the downloads page]
-     # Install the latest patch to your clean install main folder (i.e. C:\X3)
+== A) I am starting from scratch on a new game == 
 
+     # Have a clean install ready.  See: [CleanInstall Clean Install].
+     # Download the base mod from [02_Download_Instructions the downloads page].
+     # Install the base mod to your clean install main folder (i.e. C:\X3).
+     # Download the soundtrack from [02_Download_Instructions the downloads page].
+     # Install the soundtrack to your clean install main folder (i.e. C:\X3).
+     # Download the latest patch from [02_Download_Instructions the downloads page].
+     # Install the latest patch to your clean install main folder (i.e. C:\X3).
 
+== B) I am upgrading to a new version and want to continue with my empire: The base install *HAS NOT* been updated since I last installed the base == 
 
+     # I recognize that the base install I used for my current game is the same version that is on the download page.
+     # Download the latest E/I Package from [02_Download_Instructions the downloads page].
+     # Install the latest E/I package to your existing LU installation main folder (i.e. C:\X3).
+     # Load your current game and perform an export.  If you do not know how, see: [Feature_Export_Import Export/Import].
+     # Download the latest patch from [02_Download_Instructions the downloads page].
+     # Install the latest patch to your existing LU installation main folder (i.e. C:\X3).
+     # Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
+     # Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
+     # Start X3, choose new game, Damyath Import.
 
+== C) I am upgrading to a new version and want to continue with my empire: The base install *HAS* been updated since I last installed the base == 
 
-== Installation == 
+     # I recognize that the base install I used for my current game is outdated, and the download page has a more current version.
+     # Have a clean install ready.  See: [CleanInstall Clean Install].
+     # Download the base mod from [02_Download_Instructions the downloads page].
+     # Install the base mod to your clean install main folder (i.e. C:\X3).
+     # Download the soundtrack, if you do not have the latest version, from [02_Download_Instructions the downloads page].
+     # Install the soundtrack to your clean install main folder (i.e. C:\X3).
+     # Download the latest E/I Package from [02_Download_Instructions the downloads page].
+     # Install the latest E/I package to your *current game* LU installation main folder (i.e. C:\X3).
+     # Load your current game and perform an export.  If you do not know how, see: [Feature_Export_Import Export/Import].
+     # A file will be generated in your addon\t directory called 8382-L044.xml.  Move this file to the *new installation* addon\t.
+     # Install the latest E/I package to your *new LU installation* main folder (i.e. C:\X3).
+     # Start X3 in the new installation, choose new game, Damyath Import.
 
-     # Run the base mod installer. Be sure to read all text the installer displays. It really is important info, we promise!
-       * When the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section. Do NOT select the addon folder!
-       * In my case listed in the last section, I pointed the installer to 'E:\X3AP Installs\LU\x3 terran conflict'.
-     # Run the soundtrack installer.
-       * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
-     # Run any additional installers you read were necessary when you did the requirements check in the first section of this guide (you did do a requirements check, right?).
-       * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
-     # Run the installer for the latest patch.
-       * Again, when the installer asks you to point it towards your X3AP install, select the folder that contains the !NoSteam exe you installed in the last section.
-     # Run the game using the !NoSteam exe you installed earlier.
-     # Prepare for the onslaught of the OCV! 
+== I am a fucking idiot and cannot follow these basic instructions ==
 
-== Importing to a new base install from a previous Export ==
-
-
-     # Install the export/import files to your *existing version* install 
-     # Load your game and export 
-     # Go to addons\t and move the 8382-L044.xml file somewhere safe. 
-     # Install *new version* to a new clean install
-     # Install the export/import files to your now *new version* install 
-     # Put the 8382-L044.xml file back in addons\t 
-     # Start the game and import
+     # I cannot help you.
 
 == Sure Signs Your Install is Fucked ==
 
