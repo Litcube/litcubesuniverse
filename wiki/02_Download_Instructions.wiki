@@ -5,6 +5,8 @@ Read and follow the [Installation installation guide] carefully.
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.4.0.exe Litcube's Universe V1.4.0]
 <br><br>
 
+*[Change_Log Change log]*
+
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.1.exe Litcube's Universe Soundtrack V1.1.1]
 <br><br>
 
@@ -15,9 +17,7 @@ Read and follow the [Installation installation guide] carefully.
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.3.exe Litcube's Universe Patch V1.4.3]
 
-<br>
 *[Change_Log Change log]*
-<br><br><br>
 
 ----
 = Export/Import Package =
