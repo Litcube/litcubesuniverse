@@ -18,7 +18,7 @@ You will be performing a, b, or c.  Choose one.
 
 == B) I am upgrading to a new version and want to continue with my empire: The base install *HAS NOT* been updated since I last installed the base == 
 
-     # I recognize that the base install I used for my current game is the same version that is on the download page.
+     # I recognize that the base install use to install LU for my current game is the same version that is on the download page.
      # Download the latest E/I Package from [02_Download_Instructions the downloads page].
      # Install the latest E/I package to your existing LU installation main folder (i.e. C:\X3).
      # Load your current game and perform an export.  If you do not know how, see: [Feature_Export_Import Export/Import].
@@ -30,7 +30,7 @@ You will be performing a, b, or c.  Choose one.
 
 == C) I am upgrading to a new version and want to continue with my empire: The base install *HAS* been updated since I last installed the base == 
 
-     # I recognize that the base install I used for my current game is outdated, and the download page has a more current version.
+     # I recognize that the base install I used to install my current game is outdated, and the download page has a more current version.
      # Have a clean install ready.  See: [CleanInstall Clean Install].
      # Download the base mod from [02_Download_Instructions the downloads page].
      # Install the base mod to your clean install main folder (i.e. C:\X3).
