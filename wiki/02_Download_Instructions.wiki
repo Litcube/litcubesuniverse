@@ -1,8 +1,6 @@
 = Download: Base Install =
 
-A base install requires a clean AP install, so read and follow the [Installation installation guide] carefully. Due to the number of changes LU makes to X3AP, failure to do so will fuck up your install.  Also, [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408552463&updated=03_FAQ#What_do_the_installers_delete? some installers wipe data].
-
-The install guide also has instructions for continuing from an export/import but with a new install.
+Read and follow the [Installation installation guide] carefully.
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.4.0.exe Litcube's Universe V1.4.0]
 <br><br>
@@ -10,13 +8,10 @@ The install guide also has instructions for continuing from an export/import but
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.1.exe Litcube's Universe Soundtrack V1.1.1]
 <br><br>
 
-
-
 ----
 = Patch =
 
-<br>
-* Seriously: [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408550661&updated=03_FAQ#How_do_I_patch? How to patch] *
+Read and follow the [Installation installation guide] carefully.
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.3.exe Litcube's Universe Patch V1.4.3]
 
