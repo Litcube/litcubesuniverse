@@ -25,6 +25,8 @@
   * (2) Fixed: Order strings now work properly for miners
   * (2) Fixed: Phanon HQ name wasn't changing between subsidiaries
   * (-) Upgraded: Plutarch Tractor System now selects the next closest source asteroid of same type ready for engage when compacting
+  * (-) Changed: Added more asteroids to the map (map change)
+  * (-) Changed: Plutarch Tractor System requires more resources
 
 ----
 = Version 1.4.2LU =
