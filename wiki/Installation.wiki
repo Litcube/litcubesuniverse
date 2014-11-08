@@ -6,6 +6,8 @@ Welcome to LU! This guide will assist you in making sure you install or patch pr
 
 You will be performing a, b, or c.  Choose one.
 
+----
+
 == A) I am starting from scratch on a new game == 
 
      # Have a clean install ready.  See: [CleanInstall Clean Install].
@@ -15,6 +17,8 @@ You will be performing a, b, or c.  Choose one.
      # Install the soundtrack to your clean install main folder (i.e. C:\X3).
      # Download the latest patch from [02_Download_Instructions the downloads page].
      # Install the latest patch to your clean install main folder (i.e. C:\X3).
+
+----
 
 == B) I am upgrading to a new version and want to continue with my empire: The base install *HAS NOT* been updated since I last installed the base == 
 
@@ -27,6 +31,8 @@ You will be performing a, b, or c.  Choose one.
      # Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
      # Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
      # Start X3, choose new game, Damyath Import.
+
+----
 
 == C) I am upgrading to a new version and want to continue with my empire: The base install *HAS* been updated since I last installed the base == 
 
@@ -43,9 +49,13 @@ You will be performing a, b, or c.  Choose one.
      # Install the latest E/I package to your *new clean install* main folder (i.e. C:\X3).
      # Start X3 in the new installation, choose new game, Damyath Import.
 
+----
+
 == I am a fucking idiot and cannot follow these basic instructions ==
 
      # I cannot help you.
+
+----
 
 == Sure Signs Your Install is Fucked ==
 
