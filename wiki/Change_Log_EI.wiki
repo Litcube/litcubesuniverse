@@ -15,6 +15,10 @@
 
 
 ----
+= Version 2.2.0EI =
+=== November 7, 2014 ===
+  * (4) Fixed:  If you tried to export a version less than 1.3.5 to a newer vesion, hang could happen with revelation importing
+----
 = Version 2.1.9EI =
 === October 31, 2014 ===
   * (5) Fixed:  Fucking efficiency on Mines was not set properly
