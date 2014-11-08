@@ -1,0 +1,18 @@
+#summary Description of a clean install
+
+= Prepare Your X3AP install for LU =
+
+     # Ensure you have a clean install of X3AP. A clean install is one that:
+       * Is updated to the latest version of X3AP.
+       * Has never had any mod/script installed to it or any mod tool associated with it. _This is key._ Mod tools like plugin manager will break your install and you can never be completely sure that previously installed mods/scripts have had every file associated with them removed or reverted to the vanilla version. When in doubt, delete your entire installation folder and reinstall from scratch.
+     # Create an install of X3AP separate from the one downloaded from steam.
+       # Find the folder your game is installed in. For a fresh X3AP install, this is locaed within your steam folder in ...\Steam\!SteamApps\common\x3 terran conflict.
+       # Copy the 'x3 terran conflict' folder to another location. In my install I used 'E:\X3AP Installs\LU', but any location not associated with steam will do.
+       # Download the !NoSteam executable from the [http://www.egosoft.com/download/x3ap/bonus_en.php Egosoft website] and extract it to your new 'x3 terran conflict' folder.
+       # Update any shortcuts you use to point to the !NoSteam exe.
+     # Ensure X3AP is set to use English localization.
+       # Create a shortcut to the !NoSteam executable you just extracted.
+       # Right click on the shortcut and click properties.
+       # On the _Shortcut_ tab, locate the _Target_ text box.
+       # Paste _-language 44_ at the end of the current contents of that text box.
+         * For example, the _Target_ line for my shortcut reads _"E:\X3AP Installs\LU\X3AP_n.exe" -language 44_
