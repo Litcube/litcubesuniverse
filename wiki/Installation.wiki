@@ -30,7 +30,7 @@ You will be performing a, b, c, etc..  Choose one.
 == B ==
 
   * The new patch is the same code base than what I'm running: *NO*
-  * There is a newer base install on the [02_Download_Instructions the downloads page] that i have never installed: *NO*
+  * The base install that I installed is the same version that is on the [02_Download_Instructions the downloads page]: *YES*
   * I want to continue my empire
 
      # Download the latest E/I Package from [02_Download_Instructions the downloads page].
@@ -46,9 +46,9 @@ You will be performing a, b, c, etc..  Choose one.
 
 == C ==
 
-  * *The new patch is the same code base than what I'm running: NEW CODE BASE*
-  * *The base install I last installed is the same version on the [02_Download_Instructions the downloads page]: NEW BASE*
-  * *I want to continue my empire*
+  * The new patch is the same code base than what I'm running: *NO*
+  * The base install that I installed is the same version that is on the [02_Download_Instructions the downloads page]: *NO*
+  * I want to continue my empire
 
      # Have a clean install ready.  See: [CleanInstall Clean Install].
      # Download the base mod from [02_Download_Instructions the downloads page].
@@ -68,9 +68,9 @@ You will be performing a, b, c, etc..  Choose one.
 
 == D ==
 
-  * *There is a new patch, which is the same code base as what I'm running*
-  * *The base install I last installed is the same version on the [02_Download_Instructions the downloads page]*
-  * *I want to continue my empire*
+  * The new patch is the same code base than what I'm running: *YES*
+  * The base install that I installed is the same version that is on the [02_Download_Instructions the downloads page]: *YES*
+  * I want to continue my empire
 
      # I recognize that the base install used to install LU for my current game is the same version that is on the download page.
      # I recognize that the code base (animal name) of the patch I'm about to install is the same as my current game.
