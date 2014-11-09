@@ -15,7 +15,7 @@ Read and follow the [Installation installation guide] carefully.
 
 Read and follow the [Installation installation guide] carefully.
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.3.exe Litcube's Universe Patch V1.4.3]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.4.exe Litcube's Universe Patch V1.4.4]
 
 *[Change_Log Change log]*
 
