@@ -29,11 +29,9 @@ You will be performing a, b, c, etc..  Choose one.
 
 == B ==
 
-===
   * The new patch is the same code base than what I'm running: *NO*
   * The base install that I installed is the same version that is on the [02_Download_Instructions the downloads page]: *YES*
   * I want to continue my empire
-===
 
      # Download the latest E/I Package from [02_Download_Instructions the downloads page].
      # Install the latest E/I package to your existing LU installation main folder (i.e. C:\X3).
