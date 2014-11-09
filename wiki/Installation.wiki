@@ -29,9 +29,9 @@ You will be performing a, b, c, etc..  Choose one.
 
 == B ==
 
-  * *The new patch is the same code base than what I'm running: NEW CODE BASE*
-  * *The base install I last installed is the same version on the [02_Download_Instructions the downloads page]: NO NEW BASE*
-  * *I want to continue my empire*
+  * The new patch is the same code base than what I'm running: *NO*
+  * There is a newer base install on the [02_Download_Instructions the downloads page] that i have never installed: *NO*
+  * I want to continue my empire
 
      # Download the latest E/I Package from [02_Download_Instructions the downloads page].
      # Install the latest E/I package to your existing LU installation main folder (i.e. C:\X3).
