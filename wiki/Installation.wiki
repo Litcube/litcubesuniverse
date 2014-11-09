@@ -12,7 +12,7 @@ You will be performing a, b, c, etc..  Choose one.
 
 == A ==
 
-*  I am starting from scratch on a new game == 
+*  I am starting from scratch on a new game
 
      # Have a clean install ready.  See: [CleanInstall Clean Install].
      # Download the base mod from [02_Download_Instructions the downloads page].
