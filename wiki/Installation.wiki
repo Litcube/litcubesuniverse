@@ -59,7 +59,6 @@ You will be performing a, b, c, etc..  Choose one.
 
 == D ==
 
-  * There is a new patch, and it is the same code base than what I'm running: *NO*
   * The base install that I installed is the same version that is on the [02_Download_Instructions the downloads page]: *NO*
   * I want to continue my empire
 
@@ -79,27 +78,6 @@ You will be performing a, b, c, etc..  Choose one.
 
 ----
 
-== E ==
-
-  * There is a new patch, and it is the same code base than what I'm running: *YES*
-  * The base install that I installed is the same version that is on the [02_Download_Instructions the downloads page]: *NO*
-  * I want to continue my empire
-
-     # Have a clean install ready.  See: [CleanInstall Clean Install].
-     # Download the base mod from [02_Download_Instructions the downloads page].
-     # Install the base mod to your *new clean install* main folder (i.e. C:\X3).
-     # Download the soundtrack, if you do not have the latest version, from [02_Download_Instructions the downloads page].
-     # Install the soundtrack to your *new clean install* main folder (i.e. C:\X3).
-     # Download the latest E/I Package from [02_Download_Instructions the downloads page].
-     # Install the latest E/I package to your *current game LU installation* main folder (i.e. C:\X3).
-     # Load your current game from your *current game LU installation* and perform an export.  If you do not know how, see: [Feature_Export_Import Export/Import].
-     # A file will be generated in your *current game LU installation* addon\t directory called 8382-L044.xml.  Move this file to the *new installation* addon\t.
-     # Install the latest E/I package to your *new clean install* main folder (i.e. C:\X3).
-     # Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
-     # Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
-     # Start X3 in the new installation, choose new game, Damyath Import.
-
-----
 
 == I am a fucking idiot and cannot follow these basic instructions ==
 
