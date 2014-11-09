@@ -17,17 +17,20 @@ You will be performing a, b, c, etc..  Choose one.
      # Have a clean install ready.  See: [CleanInstall Clean Install].
      # Download the base mod from [02_Download_Instructions the downloads page].
      # Install the base mod to your clean install main folder (i.e. C:\X3).
-     # Download the soundtrack from [02_Download_Instructions the downloads page].
-     # Install the soundtrack to your clean install main folder (i.e. C:\X3).
      # Download the latest patch from [02_Download_Instructions the downloads page].
      # Install the latest patch to your clean install main folder (i.e. C:\X3).
+     # Download the soundtrack from [02_Download_Instructions the downloads page].
+     # Install the soundtrack to your clean install main folder (i.e. C:\X3).
+     # Download the latest GUI package from [02_Download_Instructions the downloads page].
+     # Install the latest GUI package to your clean install main folder (i.e. C:\X3).
+
 
 ----
 
 == B ==
 
-  * *There is a new patch, which is a different code base than what I'm running*
-  * *The base install I last installed is the same version on the [02_Download_Instructions the downloads page]*
+  * *The new patch is the same code base than what I'm running: NEW CODE BASE*
+  * *The base install I last installed is the same version on the [02_Download_Instructions the downloads page]: NO NEW BASE*
   * *I want to continue my empire*
 
      # Download the latest E/I Package from [02_Download_Instructions the downloads page].
@@ -43,8 +46,8 @@ You will be performing a, b, c, etc..  Choose one.
 
 == C ==
 
-  * *There is a new patch, which is a different code base than what I'm running*
-  * *The base install I last installed is obsolete, a new version is on the [02_Download_Instructions the downloads page]*
+  * *The new patch is the same code base than what I'm running: NEW CODE BASE*
+  * *The base install I last installed is the same version on the [02_Download_Instructions the downloads page]: NEW BASE*
   * *I want to continue my empire*
 
      # Have a clean install ready.  See: [CleanInstall Clean Install].
