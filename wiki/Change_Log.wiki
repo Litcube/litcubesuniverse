@@ -11,7 +11,12 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+----
+= Version 1.4.5LU =
+=== November 8, 2014 ===
+  * *Code base: Dugong*
 
+  * (5) Fixed: God damnit
 ----
 = Version 1.4.4LU =
 === November 8, 2014 ===
