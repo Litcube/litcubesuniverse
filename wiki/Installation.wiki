@@ -23,6 +23,7 @@ You will be performing a, b, c, etc..  Choose one.
      # Install the soundtrack to your clean install main folder (i.e. C:\X3).
      # Download the latest GUI package from [02_Download_Instructions the downloads page].
      # Install the latest GUI package to your clean install main folder (i.e. C:\X3).
+     # Start X3, choose New Game -> Your Desired Start (Do NOT choose Damyath Import when beginning a new game!)
 
 
 ----
@@ -37,6 +38,7 @@ You will be performing a, b, c, etc..  Choose one.
      # Install the latest patch to your existing LU installation main folder (i.e. C:\X3).
      # Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
      # Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
+     # Start X3 and load your save.
 
 ----
 
@@ -53,7 +55,7 @@ You will be performing a, b, c, etc..  Choose one.
      # Install the latest patch to your existing LU installation main folder (i.e. C:\X3).
      # Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
      # Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
-     # Start X3, choose new game, Damyath Import.
+     # Start X3, choose New Game -> Damyath Import.
 
 ----
 
@@ -65,16 +67,16 @@ You will be performing a, b, c, etc..  Choose one.
      # Have a clean install ready.  See: [CleanInstall Clean Install].
      # Download the base mod from [02_Download_Instructions the downloads page].
      # Install the base mod to your *new clean install* main folder (i.e. C:\X3).
-     # Download the soundtrack, if you do not have the latest version, from [02_Download_Instructions the downloads page].
+     # Download the soundtrack, if you if you do not already have the installer for the latest version, from [02_Download_Instructions the downloads page].
      # Install the soundtrack to your *new clean install* main folder (i.e. C:\X3).
+     # Download the GUI installer, if you if you do not already have the installer for the latest version, from [02_Download_Instructions the downloads page].
+     # Install the GUI installer to your *new clean install* main folder (i.e. C:\X3).
      # Download the latest E/I Package from [02_Download_Instructions the downloads page].
      # Install the latest E/I package to your *current game LU installation* main folder (i.e. C:\X3).
      # Load your current game from your *current game LU installation* and perform an export.  If you do not know how, see: [Feature_Export_Import Export/Import].
-     # A file will be generated in your *current game LU installation* addon\t directory called 8382-L044.xml.  Move this file to the *new installation* addon\t.
+     # A file will be generated in your *current game LU installation* addon\t directory called 8382-L044.xml.  Move this file to the *new clean install* addon\t.
      # Install the latest E/I package to your *new clean install* main folder (i.e. C:\X3).
-     # Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
-     # Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
-     # Start X3 in the new installation, choose new game, Damyath Import.
+     # Start X3 in the new installation, choose New Game -> Damyath Import.
 
 ----
 
