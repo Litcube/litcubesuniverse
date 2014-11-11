@@ -11,6 +11,8 @@
 
 ===Pending===
 ===Accepted===
+ * Small Pirate Forces Interception
+   A obvious hole in the current event scanning measures that needs to be plugged.
 ===Rejected (Permanently)===
 ===Rejected (Temporarily)===
  * Mission: Smuggling (by OneOfMany)([http://forum.egosoft.com/viewtopic.php?p=4427054#4427054 Link])
