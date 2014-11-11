@@ -11,6 +11,15 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+
+----
+= Version 1.4.5LU =
+=== Unreleased ===
+  * *Code base: Hirola*
+
+  * (3) Fixed: Lag could occur when a big ship was swarmed, had emergency jump activated, but no means to do jump
+  * (2) Fixed: Thank you on killed messages now come from the sector owner as opposed to vanilla style some random dock owner
+
 ----
 = Version 1.4.5LU =
 === November 8, 2014 ===
