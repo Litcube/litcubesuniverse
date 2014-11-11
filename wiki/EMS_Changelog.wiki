@@ -1,0 +1,16 @@
+#summary Change Log (History)
+
+= Change Log =
+
+=== Legend ===
+  * 1 = Very minor
+  * 2 = Minor
+  * 3 = Average
+  * 4 = Critical
+  * 5 = Seriously Fucking Critical
+
+
+----
+= Version 1.0.0EMS =
+=== Unreleased ===
+  * Initial Release
