@@ -18,19 +18,19 @@ Keep in mind:
 2. In-game, FLC doesn't go above a visible amount until ~10 000 Points (between Ranks 19 and 20).
 
 ||Rank||Title||Points||
-15		Instructor	(1 400)<br>
-16		Specialist	(2 000)<br>
-17		Fighter Chief	(2 500)<br>
-18		Master Chief	(6 000)<br>
-*19		Militant	(9 000)<br>
-20		Warrior		(16 000)<br>
-21		Assassin	(25 000)<br>
-22		Vindicator	(44 000)<br>
-23		Warlord		(60 000)<br>
-24		Crusader	(85 000)<br>
-25		Battlemaster	(140 000)<br>
-26		Conqueror	(280 000)<br>
-27		Overlord	(420 000)<br>
-28		Legend		(500 000)<br>
-29		Hero		(700 000)<br>
-30		X-TREME		(1 000 000)<br>
+||15||Instructor||1,400||
+||16||Specialist||2,000||
+||17||Fighter Chief||2,500||
+||18||Master Chief||6,000||
+||19||Militant||9,000||
+||20||Warrior||16,000||
+||21||Assassin||25,000||
+||22||Vindicator||44,000||
+||23||Warlord||60,000||
+||24||Crusader||85,000||
+||25||Battlemaster||140,000||
+||26||Conqueror||280,000||
+||27||Overlord||420,000||
+||28||Legend||500,000||
+||29||Hero||700,000||
+||30||X-TREME||1,000,000||
