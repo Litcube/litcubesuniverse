@@ -13,9 +13,9 @@ http://www.mediafire.com/convkey/b072/22b2o2upy1b9yw6fg.jpg
 
 Keep in mind:
 
-1. The x-axis on the graph above is in Points (see below for Rank conversion).
+  # The x-axis on the graph above is in Points (see below for Rank conversion).
 
-2. In-game, FLC doesn't go above a visible amount until level 19 @ 15%
+  # In-game, FLC doesn't go above a visible amount until level 19 @ 15%
 
 ||Rank||Title||Points||
 ||15||Instructor||1,400||
