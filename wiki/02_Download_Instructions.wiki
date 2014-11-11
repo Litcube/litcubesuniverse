@@ -19,7 +19,9 @@ Read and follow the [Installation installation guide] carefully.
 
 This is an optional package that changes your GUI, if you'd like to try a different one.  Includes Litcube's GUIs and TrixX's LU GUIs.
 
-[http://litcube.xtimelines.net/download.php?File=LUGUIV1.2.2.exe GUI Installer V1.2.2]
+Nov 11, 2014
+
+[http://litcube.xtimelines.net/download.php?File=LUGUIV1.2.3.exe GUI Installer V1.2.3]
 
 ----
 
