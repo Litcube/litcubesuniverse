@@ -3,7 +3,6 @@
 Read and follow the [Installation installation guide] carefully.
 
 [http://litcube.xtimelines.net/download.php?File=LitcubesUniverseV1.4.0.exe Litcube's Universe V1.4.0]
-<br><br>
 
 *[Change_Log Change log]*
 
