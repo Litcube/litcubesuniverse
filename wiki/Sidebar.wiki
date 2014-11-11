@@ -62,7 +62,6 @@
   * [EMS_Home EMS]
     * [EMS_Install Install Instructions]
     * [EMS_Missions Missions]
-    * [EMS_Download Download]
     * [EMS_Changelog Change Log]
     * [EMS_BugList Jack08's List]
     * [EMS_Documentation Scripting Documentation]
