@@ -18,6 +18,8 @@
   * *Code base: Hirola*
 
   * (3) Fixed: Lag could occur when a big ship was swarmed, had emergency jump activated, but no means to do jump
+  * (3) Fixed: Trade reports not generated correctly when purchasing new ships and equipping
+  * (3) Fixed: Trade reports not generated when a station was selling to NPCs
   * (2) Fixed: Thank you on killed messages now come from the sector owner as opposed to vanilla style some random dock owner
 
 ----
