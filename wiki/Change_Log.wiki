@@ -13,7 +13,7 @@
 
 
 ----
-= Version 1.4.5LU =
+= Version 1.4.6LU =
 === Unreleased ===
   * *Code base: Hirola*
 
