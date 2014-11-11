@@ -7,6 +7,8 @@ Install Checklist:
  Please run through the install checklist every time you wish to update EMS, as some requirements may change. Also please check to see if EMS has been updated every time you update LU.
   * Ensure you are running LU *Version 1.4.6* or later.
   * Ensure you have installed a GUI from GUI Installer *Version 1.2.3* or later.
+ If you meet the above requirements, simply download the EMS installer. The EMS installer will ask you to select a GUI version, select the same GUI version you installed via the LU GUI installer previously.
+ If you wish to switch GUI in the future, please re-run the LU GUI installer and the EMS installer.
 
 = Download =
 *Comming Soon*
