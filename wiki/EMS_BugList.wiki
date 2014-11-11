@@ -13,6 +13,8 @@
 ===Accepted===
  * Small Pirate Forces Interception
    A obvious hole in the current event scanning measures that needs to be plugged.
+ * Improved Reward Handling
+   Nothing is worse then having an NPC get the last hit and you get nothing...
 ===Rejected (Permanently)===
 ===Rejected (Temporarily)===
  * Mission: Smuggling (by OneOfMany)([http://forum.egosoft.com/viewtopic.php?p=4427054#4427054 Link])
