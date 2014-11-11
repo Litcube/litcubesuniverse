@@ -6,10 +6,23 @@ Read and follow the [Installation installation guide] carefully.
 
 *[Change_Log Change log]*
 
+----
+
+= Soundtrack =
+
 [http://litcube.xtimelines.net/download.php?File=LUSoundtrackV1.1.1.exe Litcube's Universe Soundtrack V1.1.1]
 <br><br>
 
 ----
+
+= GUI Installer =
+
+This is an optional package that changes your GUI, if you'd like to try a different one.  Includes Litcube's GUIs and TrixX's LU GUIs.
+
+[http://litcube.xtimelines.net/download.php?File=LUGUIV1.2.2.exe GUI Installer V1.2.2]
+
+----
+
 = Patch =
 
 Read and follow the [Installation installation guide] carefully.
@@ -19,26 +32,17 @@ Read and follow the [Installation installation guide] carefully.
 *[Change_Log Change log]*
 
 ----
-= Export/Import Package =
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.2.0.exe Litcube's Universe Export/Import Package V2.2.0]
 
-In an endeavour to eliminate the incremental patching, and the confusion over when to export at which patch etc., EI scripts are now externalized.
+= Export/Import Package =
+
+Read and follow the [Installation installation guide] carefully.
+
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniverseEIV2.2.0.exe Litcube's Universe Export/Import Package V2.2.0]
 
 ----
 
 = Other Tools =
 
-  * GUI Installer
-
-This is an optional package that changes your GUI, if you'd like to try a different one.
-
-Includes:
-  * Litcube's GUIs
-  * TrixX's LU GUIs
-
-[http://litcube.xtimelines.net/download.php?File=LUGUIV1.2.2.exe GUI Installer V1.2.2]
-
-----
   * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
   * Data accurate to LUV1.4.1
 
