@@ -93,7 +93,6 @@ Due to the number of changes LU makes to the base game, deviating from the instr
      # There are .pck files in your ...\addon\scripts directory
      # Your game lags like hell
      # Your ships won't autojump when settings are correct and e-cells present
-     # Mammoths, everywhere. So many Mammoths that I could not for the life me
-understand how the sky could contain them all yet be so black.
+     # Mammoths, everywhere. So many Mammoths that I could not for the life me understand how the sky could contain them all yet be so black.
 
 If you have issues with your new LU installation and notice any of the above, please delete your entire X3AP install folder, re-download X3AP from steam, and carefully follow the install instructions above again before making a bug report on the forum.
