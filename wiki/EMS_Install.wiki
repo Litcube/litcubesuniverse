@@ -10,6 +10,8 @@ Install Checklist:
  If you meet the above requirements, simply download the EMS installer. The EMS installer will ask you to select a GUI version, select the same GUI version you installed via the LU GUI installer previously.
  If you wish to switch GUI in the future, please re-run the LU GUI installer and the EMS installer.
 
+After installing EMS, be sure to bind the "EMS: Action" hotkey, this is multi-function hotkey used by EMS, you will receive visual feedback on screen when an action is available.
+
 = Download =
 *Comming Soon*
 
