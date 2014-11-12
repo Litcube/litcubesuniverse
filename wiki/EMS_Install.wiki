@@ -12,6 +12,8 @@ Install Checklist:
 
 After installing EMS, *be sure to bind the "EMS: Action" hotkey*, this is multi-function hotkey used by EMS, you will receive visual feedback on screen when an action is available.
 
+Optionally, you may perform an Export and Import - This is *not required* however it will allow EMS to gain full understanding of the universe immediately, rather then building up that knowledge over time, resulting in more active missions upfront. If you are installing EMS and patching LU at the same time, make sure EMS is installed *before Importing* for best results.
+
 = Download =
 *Comming Soon*
 
