@@ -15,3 +15,20 @@ As the player, you will always carry around the same trade report for your trade
 There's also a master list in the player console that records every single trade ever made by any of your ships.
 
 The trade reports are capable of numbers reaching quadrillions.
+
+
+== Trade Report Types ==
+
+There's three types of trade reports
+
+=== Trade Report Type: Personal ===
+
+Accessed by the _Advanced_ context sub-menu, this trade report follows you wherever you go, whatever ship you are in.  If you entered into a UT to pilot it, for example, the UTs ship report would be your own personal one.  And when you exited the UT to go into another ship, the trade report follows you, but the UT's trade report would be the same as it was before you jumped in.  Included in personal reports is ships bought at a shipyard; though the equipping done through the shipyard is attributed to the individual ship.
+
+=== Trade Report Type: Station/Ship ===
+
+Accessed by the _Advanced_ context sub-menu, ships and stations will generate their own trade reports.
+
+=== Trade Report Type: Archive ===
+
+In the Player Console, select the _trade report archive_.  This will contain every single transaction all of your ships and stations ever made.
