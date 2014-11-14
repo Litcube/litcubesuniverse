@@ -39,11 +39,11 @@ Read and follow the [Installation installation guide] carefully.
 
 Forum banner.
 
-http://litcube.xtimelines.net/LUBanner.jpg
+http://litcube.xtimelines.net/LUBanner.png
 
 This would go in your signature:
 {{{
-[url=http://forum.egosoft.com/viewtopic.php?t=365706][img]http://litcube.xtimelines.net/LUBanner.jpg[/img][/url]
+[url=http://forum.egosoft.com/viewtopic.php?t=365706][img]http://litcube.xtimelines.net/LUBanner.png[/img][/url]
 }}}
 
 
