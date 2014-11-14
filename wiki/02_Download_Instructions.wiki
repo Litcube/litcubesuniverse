@@ -35,6 +35,22 @@ Read and follow the [Installation installation guide] carefully.
 
 ----
 
+= Banner =
+
+Forum banner.
+
+http://litcube.xtimelines.net/LUBanner.jpg
+
+This would go in your signature:
+
+[url=http://forum.egosoft.com/viewtopic.php?t=365706][img]http://litcube.xtimelines.net/LUBanner.jpg[/img][/url]
+
+
+
+*[Change_Log Change log]*
+
+----
+
 = Export/Import Package =
 
 Read and follow the [Installation installation guide] carefully.
