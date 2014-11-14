@@ -27,6 +27,7 @@
   * (-) Upgraded: Fighting ability added to marine view in dock trade menu
   * (-) Upgraded: Marine stats order displayed properly in dock menu (matches trade window)
   * (-) Upgraded: Marine fight training added to docks (removed TL combat training command)
+  * (-) Upgraded: Property menu, personnel tab now shows percent completion of marine training
 
 
 ----
