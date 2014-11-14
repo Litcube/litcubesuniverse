@@ -12,5 +12,5 @@
 
 ----
 = Version 1.0.0EMS =
-=== Unreleased ===
+=== 15'th November, 2014 (REV 19.25.57) ===
   * Initial Release
