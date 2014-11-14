@@ -46,9 +46,6 @@ This would go in your signature:
 [url=http://forum.egosoft.com/viewtopic.php?t=365706][img]http://litcube.xtimelines.net/LUBanner.png[/img][/url]
 }}}
 
-
-*[Change_Log Change log]*
-
 ----
 
 = Export/Import Package =
