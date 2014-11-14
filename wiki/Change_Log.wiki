@@ -21,7 +21,7 @@
   * (3) Fixed: Trade reports not generated correctly when purchasing new ships and equipping
   * (3) Fixed: Trade reports not generated when a station was selling to NPCs
   * (3) Fixed: Trade report was screwing up on a Dock Agents bulk sell and also Sell Spare Equipment command
-  * (2) Fixed: Thank you on killed messages now come from the sector owner as opposed to vanilla style some random dock owner
+  * (2) Fixed: Thank you on killed messages now come from the sector owner as opposed to vanilla style (some random dock owner)
   * (-) Changed: FLC nerfed; see [Feature_FLC FLC]
   * (-) Upgraded: Marines now show stats when viewed, as opposed to just stars
   * (-) Upgraded: Fighting ability added to marine view in dock trade menu
