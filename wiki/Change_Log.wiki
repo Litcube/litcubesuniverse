@@ -28,12 +28,10 @@
   * (-) Upgraded: Marine stats order displayed properly in dock menu (matches trade window)
   * (-) Upgraded: Marine fight training added to docks (removed TL combat training command)
   * (-) Upgraded: Property menu, personnel tab now shows percent completion of marine training
-
-
 ----
 = Version 1.4.5LU =
 === November 8, 2014 ===
-  * *Code base: Dugong*
+  * *Code base: [http://en.wikipedia.org/wiki/Dugong Dugong]*
 
   * (5) Fixed: God damnit
 ----
@@ -42,11 +40,10 @@
   * *Code base: Dugong*
 
   * (5) Fixed: Plutarch Tractor System was destroying roids
-
 ----
 = Version 1.4.3LU =
 === November 8, 2014 ===
-  * *Code base: Dugong*
+  * *Code base: [http://en.wikipedia.org/wiki/Dugong Dugong]*
 
   * (4) Fixed: Wing ships jumping in can get phantomed at sector center
   * (3) Fixed: Odd and rare courier menu bug showing deploy satellites was a typo
@@ -57,11 +54,10 @@
   * (-) Upgraded: Plutarch Tractor System now selects the next closest source asteroid of same type ready for engage when compacting
   * (-) Changed: Added more asteroids to the map (map change)
   * (-) Changed: Plutarch Tractor System requires more resources
-
 ----
 = Version 1.4.2LU =
 === October 31, 2014 ===
-  * *Code base: Dugong*
+  * *Code base: [http://en.wikipedia.org/wiki/Dugong Dugong]*
 
   * (4) Fixed: Tractor Asteroid was creating debris instead of Asteroid
   * (2) Fixed: Pirate miner escorts weren't pretending they weren't pirates as well as their leader
@@ -77,7 +73,7 @@
 ----
 = Version 1.4.1LU =
 === October 25th, 2014 ===
-  * *Code base: Dugong*
+  * *Code base: [http://en.wikipedia.org/wiki/Dugong Dugong]*
 
   * (4) Fixed: Keris was not installing plasma gun
   * (4) Fixed: Trade reports run on ships were cancelling ship orders (task 0, DERP)
@@ -95,7 +91,7 @@
 ----
 = Version 1.4.0LU =
 === October 24th, 2014 ===
-  * *Code base: Jellyfish*
+  * *Code base: [http://en.wikipedia.org/wiki/Jellyfish Jellyfish]*
 
   * (3) Fixed:  Station Agent code reworked to avoid waiting forever bug
   * (3) Fixed:  Dockware Manager was allowing capacities to be set that were higher than the dock could store
@@ -119,14 +115,14 @@
 ----
 = Version 1.3.9LU =
 === October 9, 2014 ===
-  * *Code base: Zebra*
+  * *Code base: [http://en.wikipedia.org/wiki/Zebra Zebra]*
 
   * (4) Fixed:       OCV freighters were thinking they were 'stocked enough' too early
   * (-) Changed:     Increased accuracy of laser tower beam
 ----
 = Version 1.3.8LU =
 === October 8, 2014 ===
-  * *Code base: Zebra*
+  * *Code base: [http://en.wikipedia.org/wiki/Zebra Zebra]*
 
   * (4) Fixed:       OCV home sector wasn't producing wares past a count of 2000 each
   * (3) Fixed:       Revelation defend event now only starts in valid races sectors
@@ -140,15 +136,10 @@
   * (-) Changed:     Auction Cargo Stations command now only works when docked at shipyards
   * (-) Changed:     New sector pick routine for invasion jobs
   * (-) Changed:     Limited the amount of drones a fleet will launch
-
-
-
-
 ----
 = Version 1.3.7LU =
 === October 4, 2014 ===
-
-  * *Code base: Zebra*
+  * *Code base: [http://en.wikipedia.org/wiki/Zebra Zebra]*
 
   * (>9000) Fixed: Fucking Kuiper belt misspelled.
   * (4) Fixed:     Flail factories were producing chaff
@@ -199,16 +190,11 @@
   * (-) Upgraded:  Trade Product Search has new "mode" option; [Feature_Trade_Product_Search TPS]
   * (-) Upgraded:  From Zebra on, save games will show data and codebase version in menus _properly_
   * (-) Upgraded:  Trade Product Search now shows some average, universally known info on wares
-
-
-
-
-
 ----
 = Version 1.3.6LU =
 === September 18th, 2014 ===
 
-  * *Code base: Cougar*
+  * *Code base: [http://en.wikipedia.org/wiki/Cougar_(slang) Cougar]*
 
   * (4) Fixed:  "H!"  "Fuck" "tits!"
   * (2) Fixed:  Brain fart in station agent
@@ -219,15 +205,11 @@
   * (1) Fixed:  MLCC assist menu pops up again after requesting successful assist
   * (1) Fixed:  Trade product search jump now works, renamed 'dock at' just in case your autojump isn't set
   * (1) Fixed:  Betty shuts up after you start jumping on script initiated player jumps (countdown)
-
-
-
-
 ----
 = Version 1.3.5LU =
 === September 17th, 2014 ===
 
-  * *Code base: Ape*
+  * *Code base: [http://en.wikipedia.org/wiki/Ape Ape]*
 
   * (5) Fixed:  Vanilla bug where if a ship was firing a missile through a turret at the same time it left a gate, game would crash.
   * (5) Fixed:  MLCC fighter wings could cause a freeze if the carrier was jumped out of sector
@@ -299,7 +281,7 @@
 = Version 1.3.4LU =
 === Holy Month of Joubarbe 20, 2014 ===
 
-  * *Code base: Sloth*
+  * *Code base: http://en.wikipedia.org/wiki/Sloth Sloth]*
 
   * _*This patch does not require an import/export*_<br><br>
   * (-) Changed: Scan asteroids autonamed
@@ -308,7 +290,7 @@
 = Version 1.3.3LU =
 === Holy Month of Joubarbe 19, 2014 ===
 
-  * *Code base: Sloth*
+  * *Code base: http://en.wikipedia.org/wiki/Sloth Sloth]*
 
   * (4) Fixed: Added safeguards to prevent a game crash if a ship docks while another ship is still launching a swam missile at it.
   * (4) Fixed: Shady jobs were not spawning properly
