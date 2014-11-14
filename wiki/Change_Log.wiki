@@ -14,7 +14,7 @@
 
 ----
 = Version 1.4.6LU =
-=== Unreleased ===
+=== November 14, 2014 ===
   * *Code base: Hirola*
 
   * (3) Fixed: Lag could occur when a big ship was swarmed, had emergency jump activated, but no means to do jump
