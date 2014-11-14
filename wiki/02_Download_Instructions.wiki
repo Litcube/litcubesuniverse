@@ -39,7 +39,7 @@ Read and follow the [Installation installation guide] carefully.
 
 Forum banner.
 
-http://litcube.xtimelines.net/LUBanner.png
+http://litcube.xtimelines.net/LUBanner.jpg
 
 This would go in your signature:
 {{{
