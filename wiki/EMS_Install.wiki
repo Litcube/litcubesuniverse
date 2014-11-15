@@ -15,7 +15,7 @@ After installing EMS, *be sure to bind the "EMS: Action" hotkey*, this is multi-
 Optionally, you may perform an Export and Import - This is *not required* however it will allow EMS to gain full understanding of the universe immediately, rather then building up that knowledge over time, resulting in more active missions upfront. If you are installing EMS and patching LU at the same time, make sure EMS is installed *before Importing* for best results.
 
 = Download =
-<font color="red">Users have been reporting problems with the use of RadeonPro, if you experience crashes and are using RadeonPro, please ensure the "Disable API Monitoring" option is disabled, if problems persist try launching the game without RadeonPro. I am working on a compatibility fix.</font>
+<font color="red">Users have been reporting problems with the use of RadeonPro, if you experience crashes and are using RadeonPro, please ensure the "Disable API Monitoring" option is enabled, if problems persist try launching the game without RadeonPro. I am working on a compatibility fix.</font>
 
 [http://litcube.xtimelines.net/download.php?File=EMS_v1.0.0.exe EMS Version 1.0.0]
 
