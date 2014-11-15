@@ -14,6 +14,15 @@ EMS is not limited to only combat missions, coming in future updates are Trade a
 
 EMS Also aims to eliminate the use of Menus as much as possible when dealing with missions.
 
+== What to Expect ==
+
+In keeping with the harsh nature of LU, EMS, unlike the standard mission system, will not hand you anything on silver platters. It is up to you to find missions in the game world, you must explore to do this in both hostile and friendly space.
+
+If your an avid mission runner, EMS will drastically change your game play, providing emergent experience throughout the game via event scanning - this should create a more believable atmosphere within the game as EMS will not spawn enemies for the soul purpose of letting the player kill them.
+
+This is just the begining
+EMS is in its infancy, Its current mission set are the basics required for release but its event scanner will be updated and improved over the coarse of EMS's lifetime, New missions will be added as well as new functionality to improve the amount of events happening in the universe.
+
 == Hoes does EMS work? ==
 
 So, you may be asking, if you never use a menu and accept a mission, how do you - well, accept a mission?
