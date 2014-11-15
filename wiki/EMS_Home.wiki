@@ -1,6 +1,5 @@
 #summary EMS - Emergent Mission System
 = What Is EMS? =
-=(currently unreleased)=
 == Overview ==
 
 EMS, meaning Emergent Mission System - is LU's official replacement mission system for vanilla missions as well as a unique mission framework for use by anyone to create missions within the MSCI.
