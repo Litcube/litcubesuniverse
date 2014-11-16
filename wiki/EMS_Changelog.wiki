@@ -11,6 +11,14 @@
 
 
 ----
+= Version 1.0.1EMS =
+=== 17'th November, 2014 (REV 23.27.57) ===
+  * Fixed a crash that would occur when using RadeonPro or Millers Action
+  * Removed the EXE name requirement of EMS's dll
+  * Removed hooking for DirectInput completely, as its not needed at this time.
+
+----
+
 = Version 1.0.0EMS =
 === 15'th November, 2014 (REV 19.25.57) ===
   * Initial Release
