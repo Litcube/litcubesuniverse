@@ -19,6 +19,12 @@ Optionally, you may perform an Export and Import - This is *not required* howeve
 
 [http://litcube.xtimelines.net/download.php?File=EMS_v1.0.0.exe EMS Version 1.0.0]
 
+= HELP! X3AP is crashing at start-up! =
+There are currently three known causes for this.
+ * Users have been reporting problems with the use of RadeonPro, if you experience crashes and are using RadeonPro, please ensure the "Disable API Monitoring" option is enabled, if problems persist try launching the game without RadeonPro. I am working on a compatibility fix.
+ * Users have reported the same error as the above while using Mirillis Action (a gameplay recorder), i am working on a fix for this error.
+ * If your game's exe is not named "X3AP_n.exe", then EMS will not correctly hook itself, and you will see a strange popup and the game will exit, please make sure your exe is named correctly.
+
 = Bug Reports =
 Think you've found bug? *save the game immediately!* EMS data is highly transient and if what your observing is a bug, all evidence of it will be erased when the mission ends, a save-game as far away from mission completion as possible is the most ideal for bug reports. Save games are absolutely required, as under almost all normal circumstances a description alone will not be enough.
 
