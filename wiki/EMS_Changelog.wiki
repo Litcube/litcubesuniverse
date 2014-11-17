@@ -9,13 +9,20 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+----
+= Version 1.0.2EMS =
+=== Unreelsed ===
+  * (4) Fixed: Buy ship was not taking into account on board wares in its price
+  * (3) Fixed: A bought ship will now stop all previous commands.
+  * (2) Fixed: Buy ship missions will no longer be offered by hostile races
+  * (+) Updated: Buy ship menu now lists the wares included with the ship
 
 ----
 = Version 1.0.1EMS =
 === 17'th November, 2014 (REV 23.27.57) ===
-  * Fixed a crash that would occur when using RadeonPro
-  * Removed the EXE name requirement of EMS's dll
-  * Removed hooking for DirectInput completely, as its not needed at this time.
+  * (4) Fixed: Fixed a crash that would occur when using RadeonPro
+  * (-) Changed: Removed the EXE name requirement of EMS's dll
+  * (-) Changed: Removed hooking for DirectInput completely, as its not needed at this time.
 
 ----
 
