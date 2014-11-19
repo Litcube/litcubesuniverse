@@ -15,6 +15,7 @@
   * (4) Fixed: Buy ship was not taking into account on board wares in its price
   * (3) Fixed: A bought ship will now stop all previous commands.
   * (2) Fixed: Buy ship missions will no longer be offered by hostile races
+  * (1) Fixed: Drones no longer provide combat rewards
   * (+) Updated: Buy ship menu now lists the wares included with the ship
   * (-) Changed: Modified notoriety reward to be less punishing.
 ----
