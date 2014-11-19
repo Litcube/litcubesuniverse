@@ -11,7 +11,7 @@
 
 ----
 = Version 1.0.2EMS =
-=== Unreelsed ===
+=== 20'th November, 2014 (REV 23.27.61) ===
   * (4) Fixed: Buy ship was not taking into account on board wares in its price
   * (3) Fixed: A bought ship will now stop all previous commands.
   * (3) Fixed: Buy ship missions will no longer be offered by hostile races
