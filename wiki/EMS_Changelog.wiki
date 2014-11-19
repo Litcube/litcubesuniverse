@@ -17,7 +17,7 @@
   * (3) Fixed: Buy ship missions will no longer be offered by hostile races
   * (2) Fixed: added missing variable sets for defend.sector and defend.fromrace in sector defense missions that would sometimes cause an EMSML variable translation error.
   * (1) Fixed: Drones no longer provide combat rewards
-  * (+) Changed: Buy ship menu now lists the wares included with the ship
+  * (-) Changed: Buy ship menu now lists the wares included with the ship
   * (-) Changed: Modified notoriety reward to be less punishing.
 ----
 = Version 1.0.1EMS =
