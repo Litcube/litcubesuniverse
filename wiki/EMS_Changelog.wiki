@@ -10,12 +10,12 @@
   * 5 = Seriously Fucking Critical
 
 ----
-= Version 1.0.2AEMS =
+= Version 1.0.2A EMS =
 === 26'th November, 2014 (REV 23.27.62) ===
   * (5) Fixed: Error in race title command causing no rep to be granted for missions.
 
 ----
-= Version 1.0.2EMS =
+= Version 1.0.2 EMS =
 === 20'th November, 2014 (REV 23.27.61) ===
   * (4) Fixed: Buy ship was not taking into account on board wares in its price
   * (3) Fixed: A bought ship will now stop all previous commands.
@@ -25,7 +25,7 @@
   * (-) Changed: Buy ship menu now lists the wares included with the ship
   * (-) Changed: Modified notoriety reward to be less punishing.
 ----
-= Version 1.0.1EMS =
+= Version 1.0.1 EMS =
 === 17'th November, 2014 (REV 23.27.57) ===
   * (4) Fixed: Fixed a crash that would occur when using RadeonPro
   * (-) Changed: Removed the EXE name requirement of EMS's dll
@@ -33,6 +33,6 @@
 
 ----
 
-= Version 1.0.0EMS =
+= Version 1.0.0 EMS =
 === 15'th November, 2014 (REV 19.25.57) ===
   * Initial Release
