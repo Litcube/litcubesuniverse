@@ -8,11 +8,12 @@
   * 3 = Average
   * 4 = Critical
   * 5 = Seriously Fucking Critical
+  * 6 = Derp, Whats up Doc?
 
 ----
 = Version 1.0.2A EMS =
 === 26'th November, 2014 (REV 23.27.62) ===
-  * (5) Fixed: Error in race title command causing no rep to be granted for missions.
+  * (6) Fixed: Error in race title command causing no rep to be granted for missions.
 
 ----
 = Version 1.0.2 EMS =
