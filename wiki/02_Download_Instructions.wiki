@@ -71,9 +71,9 @@ Read and follow the [Installation installation guide] carefully.
 
 ----
 
-  * LU Rainmeter skin V1.3
+  * LU Rainmeter skin V1.4
 
-[http://litcube.xtimelines.net/download.php?File=LU_1.3.rmskin LU Rainmeter Skin]
+[http://litcube.xtimelines.net/download.php?File=LU_1.4.rmskin LU Rainmeter Skin]
 
 ----
 
