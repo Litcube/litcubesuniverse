@@ -18,6 +18,7 @@
   * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
 
   * (3) Fixed: When training all skills, fighting skill would not train correctly
+  * (3) Fixed: If other 3 marine skills were at 100, no option for fight training was available
 
 
 
