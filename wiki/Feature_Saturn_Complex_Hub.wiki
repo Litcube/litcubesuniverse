@@ -61,7 +61,7 @@ Source TL: This is the docked TL.
 
 *Blue stations (installation panel):* This pane is the interactive panel used to install stations from your TL into the Saturn Complex Hub. Selecting a row will remove the stations from your TL, and install them into the Saturn CH. Changing the "Operation" will reverse this process.
 
-*Purple mineral wares (installation panel):* Some of your stations require asteroids! Selecting this will bring up an asteroid selection screen. Selecting an asteroid at this point will "import" the asteroid (using built in mining drills, tractor beams, and transport devices - what do you think you paid for?). If only a fraction of the asteroid is required, the remainder will be left. Note once an asteroid is implemented, unlike the stations, they cannot be replaced. 
+*Purple mineral wares (installation panel):* Some of your stations require asteroids! Selecting this will bring up an asteroid selection screen. Selecting an asteroid at this point will "import" the asteroid (using built in mining drills, tractor beams, and transport devices - what do you think you paid for?). If only a fraction of the asteroid is required, the remainder will be left. Note once an asteroid is implemented, it can be placed back onto an asteroid as long as an asteroid of the same resource type exists within the same sector. 
 
 *Ware production panel:* Gives you an idea of what's going on inside your Saturn Complex Hub when it's churning out wares. Figures are listed as wares per hour. You'll note that crystal coverage is 99.58%, and apparently acceptable. That's intentional. 
 Extraneous Station Info: More info on stations required/installed within this hub. 
