@@ -21,6 +21,7 @@
   * (3) Fixed: If other 3 marine skills were at 100, no option for fight training was available
   * (3) Fixed: Marine skill display on property menu was out of order
   * (3) Fixed: Non-Commonwealth race sectors taken over by OCV were sending messages
+  * (3) Fixed: Ship Compendium now displays OTAS notoriety requirements correctly
   * (-) Upgraded: New reference object script constants for MSCI: NULL, PLAYERSHIP
 
 
