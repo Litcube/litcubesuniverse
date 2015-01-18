@@ -59,8 +59,8 @@ A Dummies Guide to Litcube's Universe(tm)
 
 Most every functionality improvement that you modded your X3:AP to include is already included in Litcube's Universe Vanilla (LUV), and more. 
   * CLS functionality: Station Agents / Dock Agents / Freighters / Couriers 
-*  CODEA : MLCC. 
-*  Smart UT's: already there 
+  * CODEA : MLCC. 
+  * Smart UT's: already there 
 
 and so on. It bears repeating: the mod you wish to add is probably already present in LUV in some fashion. 
 
@@ -68,11 +68,11 @@ As a Stark would say, Winter is coming. The OCV. To defeat them you will need fl
 
 The backbone of this ingame infrastructure looks like this: 
 
-*  huge SCH's feed HQ via HQ freighters, couriers, whatever 
-*  MLCC capital ship docks (Star docks) pull resources as needed from HQ with freighters 
-*  MLCC smaller ship dock or docks (McCallum) pull resources as needed from HQ with freighters 
-*  HQ sells excess with Dock Agents 
-*  other huge SCH's generating credits with their own Station Agents 
+  * huge SCH's feed HQ via HQ freighters, couriers, whatever 
+  * LCC capital ship docks (Star docks) pull resources as needed from HQ with freighters 
+  * MLCC smaller ship dock or docks (McCallum) pull resources as needed from HQ with freighters 
+  * HQ sells excess with Dock Agents 
+  * other huge SCH's generating credits with their own Station Agents 
 
 Because all ships and the Station Agent software are much more expensive in LUV than X3:AP, it makes absolutely no sense to do the typical X3AP early game strategy of individual stations. Even if you got the freighter for free, putting the software on it is $1M. It will take forever for an ore mine (for example) to recoup that. Traditional complexes are pointless as well, unless you just want to do it for fun. 
 
@@ -98,7 +98,7 @@ Aside from that, others have reported generating 100M/hour boarding ships. As an
 
 REP! REP! I now have the monies for a TL but no rep what do I do??" 
 
-First, you should have a small fleet of UT's working on that for you. Second, always look for the Hard and Very Hard passenger transport missions. These are rediculously easy rep and credit pinatas. Third, combat missions. Look for Hard and Very Hard missions in a sector that has a racial Task Force moving through it or is otherwise robust (has an Orbital Weapons Platform, for example). For these missions the NPC's will do most of the mission for you. You won't get many (or any) bonus credits, but you'll get the rep. Fourth: once you get the TL, station missions. Skip easy. Only Average/Hard/Very Hard are worth your time. 
+First, you should have a small fleet of UT's working on that for you. Second, always look for the Hard and Very Hard passenger transport missions. These are ridiculously easy rep and credit pinatas. Third, combat missions. Look for Hard and Very Hard missions in a sector that has a racial Task Force moving through it or is otherwise robust (has an Orbital Weapons Platform, for example). For these missions the NPC's will do most of the mission for you. You won't get many (or any) bonus credits, but you'll get the rep. Fourth: once you get the TL, station missions. Skip easy. Only Average/Hard/Very Hard are worth your time. 
 
 Edit: with this method at 5.5 days my racial reps are 7 across the board except Split at 8, Terran/ATF at 6, and Goner at 3. 
 
@@ -106,6 +106,6 @@ Edit: with this method at 5.5 days my racial reps are 7 across the board except 
 
 MLCC is what enables you to be the Admiral. Once docks and ships are consigned to it, you no longer manage them directly. Instead you set up rules. Which ships are eligible for responding to security complaints from UT's. Which ships are part of the War Fleet you call to you to lay down your wrath upon the OCV and cleanse them with flame. 
 
-Lord Litcube does an MLCC setup walkthrough with William Ferrell here: [url] https://www.youtube.com/watch?v=Qex7xwneWZA&t=3m32s[/urll] 
+Lord Litcube does an MLCC setup walkthrough with William Ferrell here: https://www.youtube.com/watch?v=Qex7xwneWZA&t=3m32s
 
 Now, go forth and build thine empire!
