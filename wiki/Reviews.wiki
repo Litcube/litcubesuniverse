@@ -5,7 +5,7 @@
 Some reviews written by others.  If I've put your review here, and you don't want it here, let me know.  Everything is as originally posted.
 
 ----
-=== Joubarbe ===
+===Joubarbe===
 
 When I first read DrBullwinkle saying that XRM was not a good start for a beginner, because of the fast pace and the overhaul balance,I was sceptic. I mean, there are a lot of cool stuff and great features in XRM, and I didn't see, considering all problems of the vanilla game, how this was not a good starter mod. 
 
@@ -42,3 +42,70 @@ The really exciting part is this is just a scratch in the surface of LU. There a
 On top of everything else LU is made to be very CPU friendly, actually more friendly then vanilla. When I played XRM my computer was barely able to play it (it adds a lot after all). With LU my computer plays it flawlessly. 
 
 I have links to the LU thread and the LU wiki in my sig. as well as a DiD I am currently writing in LU. Note: if you read the DiD know that I started out on the hardest setting when you literally start out with nothing.
+
+----
+===TrgtMobius===
+
+I discovered Litcube's Universe in October. I have slogged my way through the entire thread. There have been several questions like these recent ones that indicate some people Just Aren't Getting It. 
+
+A Dummies Guide to Litcube's Universe(tm) 
+
+#1: Read the fine wiki. Located here: https://code.google.com/p/litcubesuniverse/wiki/Index 
+
+#2: Puttest thou no other mods into thine Litcube installation. Not Mars, not Codea, not the Bonus pack, and especially not yon Plugin Manager, lest ye be mocked and possibly taunted a second time by forum members. All of those break Litcube, sometimes in ways that aren't immediately apparent. 
+
+#3: Think big. When I say big, I mean "big." As in vast. Gargantuan. Epic. Massive, even. LUV has Saturn Complex Hubs that contain 400 end product factories. For a reason ... 
+
+
+Most every functionality improvement that you modded your X3:AP to include is already included in Litcube's Universe Vanilla (LUV), and more. 
+* CLS functionality: Station Agents / Dock Agents / Freighters / Couriers 
+* CODEA : MLCC. 
+* Smart UT's: already there 
+
+and so on. It bears repeating: the mod you wish to add is probably already present in LUV in some fashion. 
+
+As a Stark would say, Winter is coming. The OCV. To defeat them you will need fleets. All ships are much more expensive in LUV, so fleets are expensive. The missiles they fire are expensive. So to properly engage the OCV, you need a massive infrastructure. You will need ongoing supplies of materials and credits to replace losses and consumables. 
+
+The backbone of this ingame infrastructure looks like this: 
+
+* huge SCH's feed HQ via HQ freighters, couriers, whatever 
+* MLCC capital ship docks (Star docks) pull resources as needed from HQ with freighters 
+* MLCC smaller ship dock or docks (McCallum) pull resources as needed from HQ with freighters 
+* HQ sells excess with Dock Agents 
+* other huge SCH's generating credits with their own Station Agents 
+
+Because all ships and the Station Agent software are much more expensive in LUV than X3:AP, it makes absolutely no sense to do the typical X3AP early game strategy of individual stations. Even if you got the freighter for free, putting the software on it is $1M. It will take forever for an ore mine (for example) to recoup that. Traditional complexes are pointless as well, unless you just want to do it for fun. 
+
+"So, if I'm not to build a station, what am I to do???" 
+
+A trade-based early game approach is to run 3-4 freighters manually, using the Best Buy / Best Sell software. This gives you a global search throughout all parts of the universe where you have property present. Build up some cash. When you find decent freighters for sale (>100m/s is best, but 75m/s is better than nothing) fix them up and turn them into UT's. Your primary goal is to generate enough cash to purchase a TL. Why? Station building missions. I like the Split Elephant because it's fast - 131 m/s. Fast means less time waiting on it. Less time waiting means more time building. All TL's in LUV have VAST storage capacities, so to me speed is the primary differentiator. I believe it took me ~20 hours to get the first Elephant. Station missions then made me the same amount again in an hour. 
+
+You need those early UT's. Don't go overboard and invest cash in store-bought freighters - save that cash for the TL, but you need them because they generate rep for you. Put at least one or two into Terran space - Venus and Mars are good. When they level up some, keep them as ST's with a range of 2, one in Mars, one in Venus. This by itself will generate the rep you need to unlock SCH's. 
+
+So when do you build something? When you can afford a SCH 005. What do you build? Guns, or shields. I prefer Mass Drivers for generating credits - IRE's will have a lower initial cost, but Mass Drivers will generate credits at about a 20% higher rate. Any gun or shield in general, for an SCH005, will generate between 800k - 1000k credits per hour. The startup costs, however, get much higher the bigger the gun or shield. 
+
+In case it isn't clear, your Station Agent will sell your weapons for you. 
+
+I'm making some money now, what do I do with it? 
+
+The answer, initially, is make more money. Keep plowing income back into things that generate recurring revenue. IE - UT's and SCH's. I built a couple of SCH005's, then saved until I could build SCH020. Made several of those, then revenue was high enough to save for SCH060. Built several of those, revenue was high enough to save for SCH120. Almost all of those are Mass Drivers - total I'm at about SCH 650 for them. Increased the UT fleet along the way while building stations. I plan on many more Mass Driver complexes to increase my base income. Winter is coming. 
+
+I don't like to trade, I like to fight! 
+
+Well then! You will certainly get all that you can handle. However, your galaxy may be doomed. You need to be Carnegie/Rockefeller/Patton/Nelson/Rickover all rolled into one mighty uber Admiral-Magnate. 
+
+Aside from that, others have reported generating 100M/hour boarding ships. As an early player, flying around in my single corvette looking for something to shoot my boarding pods full of half-drunk high school dropouts at, I had no success with this. Single engageable targets (for me) were exceedingly rare, and I didn't have the military might to clear out any groups of hostiles to whittle out the target. And my Marines were too poorly trained to succeed at 2/3 of the targets I did attempt. 
+
+REP! REP! I now have the monies for a TL but no rep what do I do??" 
+
+First, you should have a small fleet of UT's working on that for you. Second, always look for the Hard and Very Hard passenger transport missions. These are rediculously easy rep and credit pinatas. Third, combat missions. Look for Hard and Very Hard missions in a sector that has a racial Task Force moving through it or is otherwise robust (has an Orbital Weapons Platform, for example). For these missions the NPC's will do most of the mission for you. You won't get many (or any) bonus credits, but you'll get the rep. Fourth: once you get the TL, station missions. Skip easy. Only Average/Hard/Very Hard are worth your time. 
+
+Edit: with this method at 5.5 days my racial reps are 7 across the board except Split at 8, Terran/ATF at 6, and Goner at 3. 
+
+"MLCC? WTF is this? Why can't I manage the wares at my dock any more ???" 
+
+MLCC is what enables you to be the Admiral. Once docks and ships are consigned to it, you no longer manage them directly. Instead you set up rules. Which ships are eligible for responding to security complaints from UT's. Which ships are part of the War Fleet you call to you to lay down your wrath upon the OCV and cleanse them with flame. 
+
+Lord Litcube does an MLCC setup walkthrough with William Ferrell here: [url] https://www.youtube.com/watch?v=Qex7xwneWZA&t=3m32s[/urll] 
+
+Now, go forth and build thine empire!
