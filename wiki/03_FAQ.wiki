@@ -10,7 +10,7 @@
  
   Plugin Manager is not compatible.<br>
   Lucike's script library overwrites a few key LU references.<br>
-  Bonus Pack.<br>
+  Do not install the Bonus Pack.<br>
   Litcube does not support any install that is not LUV (Litcube's Universe Vanilla)<br>
 
 
