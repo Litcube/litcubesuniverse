@@ -29,7 +29,7 @@ Nov 11, 2014
 
 Read and follow the [Installation installation guide] carefully.
 
-[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.8.exe Litcube's Universe Patch V1.4.8]
+[http://litcube.xtimelines.net/download.php?File=LitcubesUniversePatchV1.4.7.exe Litcube's Universe Patch V1.4.7]
 
 *[Change_Log Change log]*
 
