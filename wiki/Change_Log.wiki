@@ -26,6 +26,7 @@
   * (3) Fixed: Upgrading multiple ships would incorrectly record spent money on a ship's trade report when buying tunings
   * (-) Changed: Player ships now auto-fuel energy cells from player owned stations even if the energy is a secondary resource
   * (-) Changed: 'Cmdwing action many calls this' spam should now be removed
+  * (-) Changed: Increased normal kill notoriety increases by 50%
   * (-) Upgraded: New reference object script constants for MSCI: NULL, PLAYERSHIP
 
 
