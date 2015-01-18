@@ -58,7 +58,7 @@ A Dummies Guide to Litcube's Universe(tm)
 
 
 Most every functionality improvement that you modded your X3:AP to include is already included in Litcube's Universe Vanilla (LUV), and more. 
-*  CLS functionality: Station Agents / Dock Agents / Freighters / Couriers 
+  * CLS functionality: Station Agents / Dock Agents / Freighters / Couriers 
 *  CODEA : MLCC. 
 *  Smart UT's: already there 
 
