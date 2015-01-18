@@ -23,6 +23,7 @@
   * (3) Fixed: Non-Commonwealth race sectors taken over by OCV were sending messages
   * (3) Fixed: Ship Compendium now displays OTAS notoriety requirements correctly
   * (3) Fixed: Freighters were not loading goods sometimes
+  * (3) Fixed: Upgrading multiple ships would incorrectly record spent money on a ship's trade report when buying tunings
   * (-) Changed:  Player ships now auto-fuel energy cells from player owned stations even if the energy is a secondary resource
   * (-) Upgraded: New reference object script constants for MSCI: NULL, PLAYERSHIP
 
