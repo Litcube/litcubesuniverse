@@ -11,7 +11,12 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+----
+= Version 1.4.9LU =
+=== January 18, 2015 ===
+  * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
 
+  * (4) Fixed: Packing error, accidentally included an export file
 ----
 = Version 1.4.8LU =
 === January 17, 2015 ===
@@ -28,8 +33,6 @@
   * (-) Changed: 'Cmdwing action many calls this' spam should now be removed
   * (-) Changed: Increased normal kill notoriety increases by double
   * (-) Upgraded: New reference object script constants for MSCI: NULL, PLAYERSHIP
-
-
 ----
 = Version 1.4.7LU =
 === November 14, 2014 ===
