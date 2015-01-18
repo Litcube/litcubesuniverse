@@ -22,6 +22,8 @@
   * (3) Fixed: Marine skill display on property menu was out of order
   * (3) Fixed: Non-Commonwealth race sectors taken over by OCV were sending messages
   * (3) Fixed: Ship Compendium now displays OTAS notoriety requirements correctly
+  * (3) Fixed: Freighters were not loading goods sometimes
+  * (-) Changed:  Player ships now auto-fuel energy cells from player owned stations even if the energy is a secondary resource
   * (-) Upgraded: New reference object script constants for MSCI: NULL, PLAYERSHIP
 
 
