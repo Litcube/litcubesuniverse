@@ -58,9 +58,9 @@ A Dummies Guide to Litcube's Universe(tm)
 
 
 Most every functionality improvement that you modded your X3:AP to include is already included in Litcube's Universe Vanilla (LUV), and more. 
-* CLS functionality: Station Agents / Dock Agents / Freighters / Couriers 
-* CODEA : MLCC. 
-* Smart UT's: already there 
+*  CLS functionality: Station Agents / Dock Agents / Freighters / Couriers 
+*  CODEA : MLCC. 
+*  Smart UT's: already there 
 
 and so on. It bears repeating: the mod you wish to add is probably already present in LUV in some fashion. 
 
@@ -68,11 +68,11 @@ As a Stark would say, Winter is coming. The OCV. To defeat them you will need fl
 
 The backbone of this ingame infrastructure looks like this: 
 
-* huge SCH's feed HQ via HQ freighters, couriers, whatever 
-* MLCC capital ship docks (Star docks) pull resources as needed from HQ with freighters 
-* MLCC smaller ship dock or docks (McCallum) pull resources as needed from HQ with freighters 
-* HQ sells excess with Dock Agents 
-* other huge SCH's generating credits with their own Station Agents 
+*  huge SCH's feed HQ via HQ freighters, couriers, whatever 
+*  MLCC capital ship docks (Star docks) pull resources as needed from HQ with freighters 
+*  MLCC smaller ship dock or docks (McCallum) pull resources as needed from HQ with freighters 
+*  HQ sells excess with Dock Agents 
+*  other huge SCH's generating credits with their own Station Agents 
 
 Because all ships and the Station Agent software are much more expensive in LUV than X3:AP, it makes absolutely no sense to do the typical X3AP early game strategy of individual stations. Even if you got the freighter for free, putting the software on it is $1M. It will take forever for an ore mine (for example) to recoup that. Traditional complexes are pointless as well, unless you just want to do it for fun. 
 
