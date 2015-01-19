@@ -13,7 +13,7 @@
 
 ----
 = Version 1.5.0LU =
-=== January 18, 2015 ===
+=== January 19, 2015 ===
   * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
 
   * (1) Fixed: Version display
