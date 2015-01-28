@@ -12,6 +12,13 @@
   * 5 = Seriously Fucking Critical
 
 ----
+= Version 1.5.1LU =
+=== Unreleased ===
+  * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
+
+  * (2) Fixed: Station Agents could try and buy more resources than the station could hold
+
+----
 = Version 1.5.0LU =
 === January 19, 2015 ===
   * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
