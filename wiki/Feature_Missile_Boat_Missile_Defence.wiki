@@ -2,11 +2,11 @@
 
 = Missile Boat Missile Defence =
 
-When an M8's missile turret is set to _Missiles Only_, it will monitor all ships (of the same race) within the mosquito missile's range, which is about 20 km.
+When an M8's missile turret is set to _Missiles Only_, it will monitor all ships (of the same race) within the chaff's range, which is about 20 km.
 
-If any missiles are targeting a monitored ship, the M8 will fire a mosquito at the incoming missile.  Mosquitoes are no ordinary missiles; they're lightning quick, and carry a very generous proximity fuse.  Any missile that comes within a few hundred meters of a mosquito is destroyed.
+If any missiles are targeting a monitored ship, the M8 will fire a chaff at the incoming missile.  Chaff are no ordinary missiles; they're lightning quick, and carry a very generous proximity fuse.  Any missile that comes within a few hundred meters of a chaff is destroyed.
 
-As an added benefit to the upgraded mosquito missile, when fired, they will target the nearest incoming missile, regardless of current target.
+As an added benefit to the upgraded chaff missile, when fired, they will target the nearest incoming missile, regardless of current target.
 
 
 
