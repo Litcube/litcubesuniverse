@@ -50,6 +50,7 @@
     * [Feature_Universal_Bailing Universal Bailing]
     * [Feature_Universe_Traders Universe Traders]
     * [Feature_Vanilla_AP_Bug_Fixes Vanilla AP Bug Fixes]
+  * [http://forum.egosoft.com/viewtopic.php?t=380168 Scripts and Mods Library]
   * Modders Resources
     * [Modders_Resource_RegisterEI Register EI]
     * [Modders_Resource_Script_Canon LU Script Canon]
