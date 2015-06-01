@@ -11,6 +11,13 @@
   * 4 = Critical
   * 5 = Seriously Fucking Critical
 
+
+----
+= Version 1.5.2LU =
+=== Unreleased ===
+  * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
+
+  * (2) Fixed: Small errors in jobs file
 ----
 = Version 1.5.1LU =
 === May 31, 2015 ===
