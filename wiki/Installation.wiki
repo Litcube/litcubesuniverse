@@ -6,7 +6,7 @@ Welcome to LU! This guide will assist you in making sure you install or patch pr
 
 [https://code.google.com/p/litcubesuniverse/wiki/03_FAQ?ts=1408552463&updated=03_FAQ#What_do_the_installers_delete? Some installers wipe data].
 
-You will be performing a, b, c, etc..  Choose one.
+You will be performing a, b, or c, etc..  Choose one.
 
 ----
 
