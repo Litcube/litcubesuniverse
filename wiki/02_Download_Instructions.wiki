@@ -58,7 +58,7 @@ Read and follow the [Installation installation guide] carefully.
 
 = Other Tools =
 
-  * Comprehensive editors for LU files.  Requires excel.  I'm running 360, but they may work in older versions.
+  * Comprehensive editors for LU files (includes weapon stats, for example).  Requires excel.  I'm running 360, but they may work in older versions.
   * Data accurate to LUV1.4.1
 
 [http://litcube.xtimelines.net/download.php?File=LUEditorsV1.3.1.zip LU Editors V1.3.1]
