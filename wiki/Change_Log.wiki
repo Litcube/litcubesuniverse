@@ -14,7 +14,7 @@
 
 ----
 = Version 1.5.2LU =
-=== Unreleased ===
+=== July 5th, 2015 ===
   * *Code base: [http://en.wikipedia.org/wiki/Tapir Tapir]*
 
   * (3) Fixed: Freighter debug spam
