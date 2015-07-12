@@ -109,3 +109,48 @@ MLCC is what enables you to be the Admiral. Once docks and ships are consigned t
 Lord Litcube does an MLCC setup walkthrough with William Ferrell here: https://www.youtube.com/watch?v=Qex7xwneWZA&t=3m32s
 
 Now, go forth and build thine empire!
+
+----
+
+==Myrmidon==
+
+TLDR summary: Wowza if you haven't played X3 for awhile. Just install (exactly) as per the wiki, play and discover. So many fixes/features that the veterans want are already in here. 
+
+Are you a fairly experienced X3 player or at least well familiar with X3 games up to the station building phase? Kind of "been there, done that" with mission based gaming in X3? Dreamed of going from a single fighter cockpit to universe-wide trading/observation/capturing scheme to building huge complexes of stations to planning and executing fleet actions (yes, I said *fleet* actions) against "enemy empires" who have their own agendas and don't just sit in sectors waiting for you to do something? Well this is exactly the mod for you. 
+
+Major elements: 
+
+1. Stable, tons of tasty new ships, weapons, and features (just look at the stuff in the wiki: https://code.google.com/p/litcubesuniverse/wiki/Index. It's the little things that mean a lot: the weapon groups hotkey is HUGE. The "ship compendium" feature is HUGE. Jump beacons are HUGE in many ways. Etc. etc.) 
+
+2. The mod author actively fixes reported issues (I reported one and the very next day it was included in a released patch). The people on the thread are very helpful as well. 
+
+3. There are now compelling reasons for needing big military industrial infrastructure capable of building, equipping, controlling, and continually re-arming an entire battle fleet. Really. Seriously. 
+
+4. No more "connecting stations to mines" and figuring out a game lagging solar system jigsaw puzzle nonsense. Or being limited to what you can build based on the number/type of mines that are in that sector, for that matter. Don't get me wrong...I had a blast towing mines and building stations via connectors in the original game and literally changing the solar system...and this is not something that should be missed. But Litcube's Universe has the "new hotness": an all-in-one multi-station complex (called the "SCH", read the wiki). 
+
+5. Forget wings of ships in the later stages. This mod has a beautiful mid/endgame tactical feature: A way to press a button or two to summon a wall of battle (some mean m2s) in one location. Then jump over to another location, and summon, say, a fast m7 group. Then, with the touch of a single button, have each ship execute a series of planned actions based on their specific ship class. Then, when the time is right, press another button to retreat the force...which then returns home and rearms. *And the fighters on each and every ship rearm themselves if you made sure to press G on the fighter and set the missile rearming number for that missile prior to saving a template for that type of fighter*. And even better: damaged fighters head to the headquarters and are replaced as part of the retreat command processing. How sick is that? 
+
+This is all included in a single feature: MLCC (read the wiki). It's not trivial and takes a bit of work to understand and implement. Nobody said being a 
+military-industrial CEO was easy. 
+
+Templated ship production and tactical control: config/build/home/rearm, and then summon a fleet (what class of ships show up is up to you), following a scripted target/range plan...and dismiss when the time is right....it is simply delicious. 
+
+I'm just glad the enemy doesn't use MLCC. It might be a bad day in space if they did. Please tell me they don't use MLCC. 
+
+6. A heightened sense of overall urgency...there is not just a "mission timer" for whatever mission you are playing...there are "grand threats that are planning actions of their own" that become more and more of a problem as time goes on. In fact the results of those "grand threats" are visible to your satellite network. 
+
+They affect entire sectors. 
+
+7. All of the classic X3 decision making is there, and then perhaps some of your own "mini-game making" that may help you reach your big picture goals: boy, look at all those asteroids in that pirate sector. You know, I might just want to scan them while playing keepaway in my Kestrel. There might be a reason in Litcube's Universe to do this... 
+
+This review is from the perspective of having finished X3TC original game hub missions vanilla, fairly well explored the excellent XRM mod but hadn't touched X3 for several years. I was looking for a fresh start. 
+
+This was exactly what I was looking for. 
+
+Firstly, I do NOT recommend poring over the mod thread before playing...just play it as X3 for yourself like I did. Then, when one of the new and complex features is giving you fits...head over the thread/wiki and get some help. Then, return to your universe and "learn by doing". 
+
+Expect a more even fight, tougher life in the fighter cockpit: I could not just mount up in my fighter and avoid enemy laser weapons and missiles with amazing strafe moves like in the vanilla game...in fact several times I had to go running to the nearest sector military unit for some help/distraction. Strafing has been reduced greatly, and energy cost for lasers has been increased. Litcube's Universe demands that the player pick their fights more carefully. However I have never needed/wanted to use missiles and you won't either...unless you like to. Learning the weapons, and perhaps having a "low energy long lasting" weapon set, and a "BFG salvo" weapon set available via the new hotkey feature is quite useful in this regard. 
+
+You can just play X3 as you like for quite some time...but do start spending time to learn about the new features. I won't spoil anything...the usefulness of many of the things in X3LU is best found by self-discovery. The evolving beauty of X3 gameplay is preserved: how dreams of each game phase moves to new dreams: first, I may wish I could survive/capture/claim a bigger ship...then this moves to: I may wish I could get some Universe Traders to add to my little salvage and claim outfit...then this moves to: sure could use 3 billion for that SCH 400 making whatever. Each phase renders the last phase entirely moot. By the end game I wasn't even amazed at what I used to think was a "really cool thing I wish I had/was capable of", and is now entirely trivial. 
+
+However patience is called for: X3 is already quite complicated and X3LU adds a bunch of new stuff that is indeed complicated to an additional degree. Among the many examples that stumped me for a bit: Why won't my carriers wouldn't respond to an MLCC "assist" command. Oh duh: I forgot to install the MLCC software on their home dock. Why won't that courier move that product?! The station is nearly 75% full. Oh, I chose the first command in the courier script as "fill". So the big TS must have just been sitting there waiting for a full load to move. 
